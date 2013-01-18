@@ -1,0 +1,12 @@
+/* Application styles could go here */
+#main {
+    font: 16px/24px Georgia, "Times New Roman", Times, serif;
+}
+
+.toc {
+    list-style: none;
+}
+
+.toc li {
+    margin-bottom: .75em;
+}

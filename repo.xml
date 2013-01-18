@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>A small application to read and search German laws and regulations.</description>
+    <author>Wolfgang Meier</author>
+    <website/>
+    <status>alpha</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>gesetze</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <deployed>2013-01-17T21:28:09.709+01:00</deployed>
+</meta>
