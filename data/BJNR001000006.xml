@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625152448" doknr="BJNR001000006">
+    <norm builddate="20120625152448" doknr="BJNR001000006">
+        <metadaten>
+            <jurabk>BTGO1980Anl1ABestBek 2006</jurabk>
+            <ausfertigung-datum manuell="ja">2005-12-30</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>2006, 10</zitstelle>
+            </fundstelle>
+            <langue>Bekanntmachung der Ausführungsbestimmungen zu den Verhaltensregeln für 
+Mitglieder des Deutschen Bundestages</langue>
+            <standangabe checked="ja">
+                <standtyp>Stand</standtyp>
+                <standkommentar>Zuletzt geändert durch Bek. v. 12.11.2010 I 1614</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten>
+                <Content>
+                    <P>
+                        <BR/>
+                        <pre xml:space="preserve">(+++ Textnachweis ab:  6. 1.2006 +++)<BR/>
+                            <BR/>
+                        </pre>
+                    </P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152448" doknr="BJNR001000006BJNE000101160">
+        <metadaten>
+            <jurabk>BTGO1980Anl1ABestBek 2006</jurabk>
+            <enbez>(XXXX)</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Anzeigen gemäß den Verhaltensregeln sind innerhalb einer Frist von drei Monaten nach Erwerb der Mitgliedschaft im Deutschen Bundestag dem Präsidenten einzureichen (§ 1 Abs. 6 der Verhaltensregeln).</LA>
+                                <LA Size="normal">Dabei sollen die entsprechenden Formblätter verwendet werden.</LA>
+                                <LA Size="normal">Alle Änderungen und Ergänzungen während der Wahlperiode sind innerhalb von drei Monaten nach ihrem Eintritt schriftlich mitzuteilen (§ 1 Abs. 6 der Verhaltensregeln).</LA>
+                                <LA Size="normal">Für die Mitteilung anzeigepflichtiger Einkünfte ist der späteste Zeitpunkt für den Beginn dieser Frist der Tag des Zuflusses der Einkünfte.</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Bei der Anzeige der vor der Mitgliedschaft ausgeübten Berufstätigkeit gemäß § 1 Abs. 1 Nr. 1 der Verhaltensregeln sind bei unselbstständigen Tätigkeiten Angaben über den Arbeitgeber (Name und Sitz) sowie über die Art der Tätigkeit zu machen, bei selbstständigen Tätigkeiten als Gewerbetreibender sind die Art des Gewerbes sowie Name und Sitz der Firma, bei freien Berufen und sonstigen selbstständigen Berufen die genaue Bezeichnung des Berufs sowie Ort oder Sitz der Berufsausübung mitzuteilen.</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Bei einer Anzeige vor der Mitgliedschaft ausgeübter Tätigkeiten gemäß § 1 Abs. 1 Nr. 2 und 3 sowie während der Mitgliedschaft ausgeübter Tätigkeiten gemäß § 1 Abs. 2 Nr. 1 bis 4 der Verhaltensregeln sind die Art der Tätigkeit sowie Name und Sitz des Vertragspartners, des Unternehmens oder der Organisation mitzuteilen.</LA>
+                                <LA Size="normal">Vertragspartner von Freiberuflern und Selbstständigen sind nur anzuzeigen, soweit die Brutto-Einkünfte aus einer oder mehreren Vertragsbeziehungen mit diesem Vertragspartner die in § 1 Abs. 3 Satz 1 der Verhaltensregeln genannten Beträge übersteigen.</LA>
+                                <LA Size="normal">Als Brutto-Einkünfte im Sinne von § 1 Abs. 3 Satz 2 der Verhaltensregeln gelten die Zuflüsse an Geld- und Sachleistungen.</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Übt ein Mitglied des Bundestages als Gesellschafter eine entgeltliche Tätigkeit gemäß § 1 Abs. 2 Nr. 1 der Verhaltensregeln auf Grund eines von der Gesellschaft mit einem Dritten geschlossenen Vertrages aus, so sind die Art der Tätigkeit, der Name und Sitz der Gesellschaft und der Vertragspartner mit Namen und Sitz anzuzeigen, wenn im Einzelfall das Mitglied des Bundestages bei der Vertragserfüllung persönlich mitwirkt.</LA>
+                                <LA Size="normal">Als Einkünfte im Sinne des § 1 Abs. 3 der Verhaltensregeln sind die ausgekehrten Anteile am Gesellschaftsgewinn anzuzeigen.</LA>
+                                <LA Size="normal">Nummer 3 Satz 2 dieser Ausführungsbestimmungen gilt entsprechend.</LA>
+                                <LA Size="normal">Die Verwaltung eigenen Vermögens ist keine Berufstätigkeit oder entgeltliche Tätigkeit im Sinne der Verhaltensregeln.</LA>
+                                <LA Size="normal">Parlamentarische Funktionen sind nicht anzeigepflichtig.</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Tätigkeiten gemäß § 1 Abs. 1 der Verhaltensregeln, die bei Erwerb der Mitgliedschaft im Deutschen Bundestag seit mindestens zwei Jahren nicht mehr ausgeübt werden, bleiben bei der Anzeigepflicht unberücksichtigt.</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Bei der Anzeige von Vereinbarungen über die Übertragung einer bestimmten Tätigkeit bzw. über die Zuwendung eines Vermögensvorteils gemäß § 1 Abs. 2 Nr. 5 der Verhaltensregeln ist der wesentliche Inhalt der Vereinbarung mitzuteilen.</LA>
+                            </DD>
+                            <DT>7.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Anzeigepflichtig gemäß § 1 Abs. 2 Nr. 6 der Verhaltensregeln ist nur die Beteiligung an einer Gesellschaft, deren Zweck darauf gerichtet ist, ein Unternehmen zu betreiben.</LA>
+                                <LA Size="normal">Ein Unternehmen in diesem Sinne ist eine auf Dauer angelegte organisatorische Einheit, in der mit Gewinnerzielungsabsicht Güter oder Dienstleistungen erstellt werden.</LA>
+                                <LA Size="normal">Eine Beteiligung an einer solchen Kapital- oder Personengesellschaft ist anzeigepflichtig, wenn dem Mitglied des Bundestages mehr als 25 Prozent der Stimmrechte zustehen.</LA>
+                            </DD>
+                            <DT>8.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Die Anzeige eines Mitgliedes des Bundestages, das ein gesetzliches Zeugnisverweigerungsrecht bzw. eine gesetzliche oder vertragliche Verschwiegenheitspflicht geltend machen kann, muss nicht die gemäß den Nummern 3 und 4 Satz 1 dieser Ausführungsbestimmungen erforderlichen Angaben über den Vertragspartner bzw. Auftraggeber enthalten.</LA>
+                                <LA Size="normal">Es genügen insoweit Angaben über die Art der Tätigkeit in dem einzelnen Vertrags- oder Mandatsverhältnis.</LA>
+                            </DD>
+                            <DT>9.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Die Anzeigepflicht für Rechtsanwälte gemäß § 2 der Verhaltensregeln entfällt, wenn die Vertretung nicht persönlich übernommen wird oder das Honorar den Betrag von 1&#160;000 Euro nicht übersteigt.</LA>
+                            </DD>
+                            <DT>10.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Mehrere Spenden desselben Spenders sind anzeigepflichtig, wenn sie im Jahr den Betrag von 5&#160;000 Euro übersteigen.</LA>
+                                <LA Size="normal">Eine Spende, die ein Mitglied des Bundestages als Parteispende entgegennimmt und gegen eine entsprechende Quittung an seine Partei weiterleitet, ist nicht anzeigepflichtig.</LA>
+                                <LA Size="normal">Die Rechenschaftspflicht der Partei bleibt in diesem Fall unberührt.</LA>
+                            </DD>
+                            <DT>11.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Einer Anzeige bei Gastgeschenken bedarf es nicht, wenn der materielle Wert des Gastgeschenkes 200 Euro nicht übersteigt.</LA>
+                                <LA Size="normal">Liegt der Antrag eines Mitgliedes des Bundestages vor, ein ausgehändigtes Gastgeschenk gegen Bezahlung des Wertes behalten zu wollen, stellt der Präsident den Wert fest; maßgeblich ist im Regelfall der Verkehrswert.</LA>
+                                <LA Size="normal">An die Bundeskasse zu entrichten ist der so ermittelte Gegenwert unter Abzug des Betrages von 200 Euro.</LA>
+                            </DD>
+                            <DT>12.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Die Unterlagen über Anzeigen gemäß den Verhaltensregeln, die ein Mitglied des Bundestages eingereicht hat, werden nach Ablauf von fünf Jahren nach dem Ausscheiden aus dem Deutschen Bundestag vernichtet, es sei denn, das ehemalige Mitglied hat um Überlassung der Unterlagen gebeten.</LA>
+                            </DD>
+                            <DT>13.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Die Anzeigen zu Beginn der 16. Wahlperiode erfolgen erst nach Erlass dieser Ausführungsbestimmungen; die Anzeigefrist gemäß § 1 Abs. 6 der Verhaltensregeln endet drei Monate nach dem Erlass.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152448" doknr="BJNR001000006BJNE000200000">
+        <metadaten>
+            <jurabk>BTGO1980Anl1ABestBek 2006</jurabk>
+            <enbez>Schlussformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Der Präsident des Deutschen Bundestages</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+</dokumente>

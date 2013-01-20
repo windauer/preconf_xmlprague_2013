@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625152928" doknr="BJNR000900006">
+    <norm builddate="20120625152928" doknr="BJNR000900006">
+        <metadaten>
+            <jurabk>BTGO1980Anl6Bek 2005</jurabk>
+            <ausfertigung-datum manuell="ja">2005-12-28</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>2006, 9</zitstelle>
+            </fundstelle>
+            <langue>Bekanntmachung über die Übernahme des Beschlusses des Deutschen 
+Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages und 
+der Grundsätze in Immunitätsangelegenheiten</langue>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten>
+                <Content>
+                    <P>
+                        <BR/>
+                        <pre xml:space="preserve">(+++ Textnachweis ab:  6. 1.2006 +++)<BR/>
+                            <BR/>
+                        </pre>
+                    </P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152928" doknr="BJNR000900006BJNE000100000">
+        <metadaten>
+            <jurabk>BTGO1980Anl6Bek 2005</jurabk>
+            <enbez>(XXXX)</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Der Beschluss des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages (Anlage 6 GO-BT), zuletzt geändert laut Bekanntmachung vom 15.&#160;Juli&#160;2002 (BGBl. I S.&#160;3012), ist mit der Geschäftsordnung in der 1. Sitzung des Deutschen Bundestages am 18.&#160;Oktober&#160;2005 für die 16. Wahlperiode übernommen worden.<BR/>Der Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung des Deutschen Bundestages hat am 15.&#160;Dezember 2005 gemäß §&#160;107&#160;Abs.&#160;2 der Geschäftsordnung des Deutschen Bundestages die Übernahme der Grundsätze in Immunitätsangelegenheiten und in Fällen der Genehmigung gemäß §&#160;50 Abs.&#160;3 StPO und §&#160;382 Abs.&#160;3 ZPO sowie bei Ermächtigungen gemäß §&#160;90b Abs.&#160;2, §&#160;194 Abs.&#160;4 StGB (ebenfalls Anlage 6 GO-BT), zuletzt geändert laut Bekanntmachung vom 15.&#160;Juli&#160;2002 (BGBl. I S.&#160;3012), für die 16. Wahlperiode beschlossen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152928" doknr="BJNR000900006BJNE000200000">
+        <metadaten>
+            <jurabk>BTGO1980Anl6Bek 2005</jurabk>
+            <enbez>Schlussformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Der Direktor beim Deutschen Bundestag</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+</dokumente>

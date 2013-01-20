@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120807043544" doknr="BJNR005070992">
+    <norm builddate="20120807043544" doknr="BJNR005070992">
+        <metadaten>
+            <jurabk>BKFAngAusbV</jurabk>
+            <ausfertigung-datum manuell="ja">1992-03-12</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1992, 507</zitstelle>
+            </fundstelle>
+            <langue>Verordnung über die Berufsausbildung zum Fachangestellten für
+Bürokommunikation/zur Fachangestellten für Bürokommunikation</langue>
+            <standangabe checked="ja">
+                <standtyp>Stand</standtyp>
+                <standkommentar>Geändert durch Art. 1 V v. 21.10.1999 I 2066</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <fussnoten>
+                <Content>
+                    <P>(+++ Textnachweis ab: 1.8.1992 +++)</P>
+                    <P>
+                        <BR/> Überschrift: Diese Rechtsveordnung ist eine Ausbildungsordnung im Sinne des § 25 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage zum Bundesanzeiger veröffentlicht.</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120807043544" doknr="BJNR005070992BJNE000100314">
+        <metadaten>
+            <jurabk>BKFAngAusbV</jurabk>
+            <enbez>Eingangsformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, verordnet der Bundesminister des Innern im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft:</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120807043544" doknr="BJNR005070992BJNE000200314">
+        <metadaten>
+            <jurabk>BKFAngAusbV</jurabk>
+            <enbez>§ 1</enbez>
+            <titel format="parat">Staatliche Anerkennung des Ausbildungsberufes</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Der Ausbildungsberuf Fachangestellter für Bürokommunikation/Fachangestellte für Bürokommunikation wird staatlich anerkannt. Er ist Ausbildungsberuf des öffentlichen Dienstes.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120807043544" doknr="BJNR005070992BJNE000300314">
+        <metadaten>
+            <jurabk>BKFAngAusbV</jurabk>
+            <enbez>§ 2</enbez>
+            <titel format="parat">Ausbildungsdauer</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die Ausbildung dauert drei Jahre.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120807043544" doknr="BJNR005070992BJNE000400314">
+        <metadaten>
+            <jurabk>BKFAngAusbV</jurabk>
+            <enbez>§ 3</enbez>
+            <titel format="parat">Ausbildungsberufsbild</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">der Ausbildungsbetrieb<DL Font="normal" Type="arabic">
+                                        <DT>1.1</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Stellung und Aufgaben des Ausbildungsbetriebes im Gesamtsystem der öffentlichen Verwaltung,</LA>
+                                        </DD>
+                                        <DT>1.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Berufsbildung,</LA>
+                                        </DD>
+                                        <DT>1.3</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Arbeitssicherheit, Umweltschutz und rationelle Ressourcenverwendung;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Verhältnis zwischen Verwaltung und Bürger, bürgerorientiertes Handeln;</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Verwaltungsorganisation und -betrieb<DL Font="normal" Type="arabic">
+                                        <DT>3.1</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Verwaltungshandeln,</LA>
+                                        </DD>
+                                        <DT>3.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Organisation und Funktionszusammenhänge;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Bürowirtschaft<DL Font="normal" Type="arabic">
+                                        <DT>4.1</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Organisation des Arbeitsplatzes,</LA>
+                                        </DD>
+                                        <DT>4.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Arbeits- und Organisationsmittel,</LA>
+                                        </DD>
+                                        <DT>4.3</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">bürowirtschaftliche Abläufe,</LA>
+                                        </DD>
+                                        <DT>4.4</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Materialbewirtschaftung, Bestell- und Vergabewesen,</LA>
+                                        </DD>
+                                        <DT>4.5</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Statistik;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Informationsverarbeitung<DL Font="normal" Type="arabic">
+                                        <DT>5.1</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Grundlagen der Informationsverarbeitung,</LA>
+                                        </DD>
+                                        <DT>5.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Bürokommunikation,</LA>
+                                        </DD>
+                                        <DT>5.3</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">schreibtechnische Qualifikationen,</LA>
+                                        </DD>
+                                        <DT>5.4</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Textformulierung und -gestaltung,</LA>
+                                        </DD>
+                                        <DT>5.5</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">automatisierte Textverarbeitung,</LA>
+                                        </DD>
+                                        <DT>5.6</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Datenschutz;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Assistenz- und Sekretariatsaufgaben<DL Font="normal" Type="arabic">
+                                        <DT>6.1</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Kommunikation und Kooperation im Büro und Bürokoordination,</LA>
+                                        </DD>
+                                        <DT>6.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Organisationsaufgaben;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>7.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Finanzwesen<DL Font="normal" Type="arabic">
+                                        <DT>7.1</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">öffentliches Finanzwesen,</LA>
+                                        </DD>
+                                        <DT>7.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Kassenwesen;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>8.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Personalwesen<DL Font="normal" Type="arabic">
+                                        <DT>8.1</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Grundzüge des Personalwesens,</LA>
+                                        </DD>
+                                        <DT>8.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Personalaufgaben;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>9.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Fachaufgaben einzelner Fachbereiche, Verwaltungsverfahren und Rechtsanwendung<DL Font="normal" Type="arabic">
+                                        <DT>9.1</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Organisation und Arbeitsabläufe,</LA>
+                                        </DD>
+                                        <DT>9.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Verwaltungsverfahren,</LA>
+                                        </DD>
+                                        <DT>9.3</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Rechtsanwendung.</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Bei der Vermittlung der Fertigkeiten und Kenntnisse nach Absatz 1 Nr. 9 sind unterschiedliche Fachaufgaben von zwei Fachbereichen der ausbildenden Stelle zugrunde zu legen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120807043544" doknr="BJNR005070992BJNE000500314">
+        <metadaten>
+            <jurabk>BKFAngAusbV</jurabk>
+            <enbez>§ 4</enbez>
+            <titel format="parat">Ausbildungsrahmenplan</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den Anlagen I und II enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.</P>
+                    <P>(2) Die in dieser Rechtsverordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nachzuweisen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120807043544" doknr="BJNR005070992BJNE000600314">
+        <metadaten>
+            <jurabk>BKFAngAusbV</jurabk>
+            <enbez>§ 5</enbez>
+            <titel format="parat">Durchführung der Berufsausbildung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Während der Berufsausbildung beim Ausbildenden soll der Auszubildende mit Vorgängen befaßt werden, die den im Ausbildungsrahmenplan bezeichneten Fertigkeiten und Kenntnissen entsprechend auszuwählen sind.</P>
+                    <P>(2) Zur Ergänzung und Vertiefung der Berufsausbildung sind die im Ausbildungsrahmenplan bezeichneten Fertigkeiten und Kenntnisse in einer dienstbegleitenden Unterweisung von 420 Stunden zu vermitteln. Dabei kommen insbesondere Fertigkeiten und Kenntnisse nach § 3 Abs. 1 Nr. 9 in Betracht; dem Auszubildenden sind Einsichten in Sinn, Zweck und Bedeutung der Rechts- und Verwaltungsvorschriften, mit denen er fallbezogen befaßt wird, zu vermitteln. Die dienstbegleitende Unterweisung ist inhaltlich mit dem schulischen Rahmenlehrplan abzustimmen und zeitlich unter Beachtung der Pflicht des Auszubildenden zum Besuch der Berufsschule zu organisieren.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120807043544" doknr="BJNR005070992BJNE000700314">
+        <metadaten>
+            <jurabk>BKFAngAusbV</jurabk>
+            <enbez>§ 6</enbez>
+            <titel format="parat">Ausbildungsplan</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120807043544" doknr="BJNR005070992BJNE000800314">
+        <metadaten>
+            <jurabk>BKFAngAusbV</jurabk>
+            <enbez>§ 7</enbez>
+            <titel format="parat">Berichtsheft</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120807043544" doknr="BJNR005070992BJNE000900314">
+        <metadaten>
+            <jurabk>BKFAngAusbV</jurabk>
+            <enbez>§ 8</enbez>
+            <titel format="parat">Zwischenprüfung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.</P>
+                    <P>(2) Die Zwischenprüfung erstreckt sich auf die in den Anlagen I und II für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.</P>
+                    <P>(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener Fälle oder Aufgaben in insgesamt höchstens 180 Minuten in folgenden Prüfungsfächern durchzuführen: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Bürowirtschaft,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Verwaltung,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Wirtschafts- und Sozialkunde.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die Prüfung in programmierter Form durchgeführt wird.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120807043544" doknr="BJNR005070992BJNE001001308">
+        <metadaten>
+            <jurabk>BKFAngAusbV</jurabk>
+            <enbez>§ 9</enbez>
+            <titel format="parat">Abschlußprüfung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage I aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.</P>
+                    <P>(2) Die Prüfung ist schriftlich in den Prüfungsfächern Bürowirtschaft, Verwaltung und Wirtschafts- und Sozialkunde und praktisch in den Prüfungsfächern Textverarbeitung, Assistenz- und Sekretariatsaufgaben sowie Bürgerorientiertes Verwaltungshandeln im Fachbereich durchzuführen.</P>
+                    <P>(3) In der schriftlichen Prüfung soll der Prüfling in den nachstehend genannten Prüfungsfächern je eine Arbeit anfertigen: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Prüfungsfach Bürowirtschaft:</LA>
+                                <LA Size="normal">In 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle aus folgenden Gebieten bearbeiten und dabei zeigen, daß er grundlegende Fertigkeiten und Kenntnisse dieser Gebiete erworben hat und Zusammenhänge versteht:<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Bürowirtschaft,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Bürokommunikation.</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Prüfungsfach Verwaltung:</LA>
+                                <LA Size="normal">In 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle aus den folgenden Gebieten bearbeiten und dabei zeigen, daß er grundlegende Fertigkeiten und Kenntnisse erworben hat und Zusammenhänge versteht:<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Finanzwesen,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Personalwesen.</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Prüfungsfach Wirtschafts- und Sozialkunde:</LA>
+                                <LA Size="normal">In 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle aus der Berufs- und Arbeitswelt bearbeiten und dabei zeigen, daß er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die Prüfung in programmierter Form durchgeführt wird.</P>
+                    <P>(5) In der praktischen Prüfung soll der Prüfling Aufgaben in den nachstehend genannten Prüfungsfächern bearbeiten: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Prüfungsfach Textverarbeitung:</LA>
+                                <LA Size="normal">In 55 Minuten soll der Prüfling je eine praxisbezogene Aufgabe zur Textformulierung und -gestaltung einschließlich der formgerechten Briefgestaltung bearbeiten und dabei zeigen, dass er grundlegende Fertigkeiten und Kenntnisse in diesem Gebiet erworben hat. Die Aufgabe zur Textformulierung und -gestaltung umfasst die Konzipierung eines Textes nach stichwortartigen Angaben und die Erstellung und Gestaltung mit Hilfe einer alphanummerischen Tastatur unter Berücksichtigung von automatisierter Textverarbeitung.</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Prüfungsfach Assistenz- und Sekretariatsaufgaben:</LA>
+                                <LA Size="normal">In 65 Minuten soll der Prüfling eine von zwei ihm zur Wahl gestellten praxisbezogenen Aufgaben aus dem Gebiet Assistenz- und Sekretariatsaufgaben mit Arbeits- und Organisationsmitteln bearbeiten und dabei zeigen, daß er grundlegende Fertigkeiten und Kenntnisse der DV-Anwendung erworben hat.</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Prüfungsfach Bürgerorientiertes Verwaltungshandeln im Fachbereich:</LA>
+                                <LA Size="normal">Der Prüfling soll eine Fachaufgabe aus einem der beiden Fachbereiche nach § 3 Abs. 2 bearbeiten. Er soll dabei zeigen, daß er Aufgaben im Rahmen des Verwaltungsverfahrens und der Rechtsanwendung praxisbezogen und bürgerorientiert erledigen kann. Die Aufgabe soll Ausgangspunkt für das folgende Prüfungsgespräch sein. Das Prüfungsgespräch einschließlich der Bearbeitungszeit für die Prüfungsaufgabe soll für den einzelnen Prüfling nicht länger als 60 Minuten dauern.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(6) Sind in der schriftlichen Prüfung die Prüfungsleistungen in zwei Prüfungsfächern mit mangelhaft und in dem weiteren Prüfungsfach mit mindestens ausreichend bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit mangelhaft bewerteten Prüfungsfächer die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Das Prüfungsfach ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für dieses Prüfungsfach sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis zwei zu eins zu gewichten.</P>
+                    <P>(7) Bei der Ermittlung des Gesamtergebnisses haben alle sechs Prüfungsfächer das gleiche Gewicht.</P>
+                    <P>(8) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in jeweils mindestens zwei der in Absatz 3 sowie in Absatz 5 genannten Prüfungsfächer mindestens ausreichende Leistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsfach mit ungenügend bewertet, ist die Prüfung nicht bestanden.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120807043544" doknr="BJNR005070992BJNE001100314">
+        <metadaten>
+            <jurabk>BKFAngAusbV</jurabk>
+            <enbez>§ 10</enbez>
+            <titel format="parat">Aufhebung von Vorschriften</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für die Lehrberufe, Anlernberufe und vergleichbar geregelten Ausbildungsberufe, die in dieser Verordnung geregelt sind, insbesondere für die Ausbildungsberufe Stenosekretär/Stenosekretärin und Büroassistent/Büroassistentin, sind vorbehaltlich des § 11 nicht mehr anzuwenden.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120807043544" doknr="BJNR005070992BJNE001201308">
+        <metadaten>
+            <jurabk>BKFAngAusbV</jurabk>
+            <enbez>§ 11</enbez>
+            <titel format="parat">Übergangsregelungen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren für die nach dem 30. Juni 1991 begonnenen Ausbildungsverhältnisse die Anwendung der Vorschriften dieser Verordnung.</P>
+                    <P>(2) Auf Berufsausbildungsverhältnisse, die am 1. November 1999 bestehen, sind bis zum 31. Dezember 1999 die bis zum 31. Oktober 1999 geltenden Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der vom 1. November 1999 an geltenden Vorschriften. Für Wiederholungs- oder Ergänzungsprüfungen nach diesem Termin sind diejenigen Vorschriften zugrunde zu legen, auf deren Basis die erste Prüfung vorgenommen worden ist.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120807043544" doknr="BJNR005070992BJNE001300314">
+        <metadaten>
+            <jurabk>BKFAngAusbV</jurabk>
+            <enbez>§ 12</enbez>
+            <titel format="parat">Inkrafttreten</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Diese Verordnung tritt am 1. August 1992 in Kraft.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120807043544" doknr="BJNR005070992BJNE001401308">
+        <metadaten>
+            <jurabk>BKFAngAusbV</jurabk>
+            <enbez>Anlage I</enbez>
+            <titel format="XML">(zu § 4)
+<BR/>
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Fachangestellten für Bürokommunikation/zur Fachangestellten
+für Bürokommunikation
+<BR/>
+- Sachliche Gliederung -</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <ABWFORMAT typ="A"/>
+                        <kommentar typ="Fundstelle">(Fundstelle: BGBl. I 1992, 510 - 515)</kommentar>
+                        <BR/>
+                        <BR/>
+                        <table frame="top">
+                            <tgroup cols="3" colsep="0" rowsep="0">
+                                <colspec colname="col1" colnum="1" colwidth="50"/>
+                                <colspec colname="col2" colnum="2" colwidth="150"/>
+                                <colspec colname="col3" colnum="3" colwidth="200"/>
+                                <tbody>
+                                    <row rowsep="1">
+                                        <entry>Lfd. Nr.</entry>
+                                        <entry align="center">Teil des Ausbildungsberufsbildes</entry>
+                                        <entry align="center">Zu vermittelnde Fertigkeiten und Kenntnisse</entry>
+                                    </row>
+                                    <row>
+                                        <entry>1.</entry>
+                                        <entry>Der Ausbildungsbetrieb (§ 3 Abs. 1 Nr. 1 )</entry>
+                                        <entry>&#160;</entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>1.1</entry>
+                                        <entry>Stellung und Aufgaben des Ausbildungsbetriebes im Gesamtsystem der öffentlichen Verwaltung (§ 3 Abs. 1 Nr. 1.1)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>staats- und verfassungsrechtliche Grundlagen in der Bundesrepublik Deutschland in ihren Bezügen zu den Aufgaben der ausbildenden Stelle darstellen</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Art und Rechtsform der ausbildenden Stelle beschreiben</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>Aufgaben der ausbildenden Verwaltung, ihre rechtlichen Grundlagen und ihre Bedeutung für Staat und Gesellschaft beschreiben</LA>
+                                                </DD>
+                                                <DT>d)</DT>
+                                                <DD>
+                                                    <LA>Aufgaben der für die ausbildende Stelle wichtigen Organisationen der Arbeitgeber und Arbeitnehmer darstellen</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>1.2</entry>
+                                        <entry>Berufsbildung (§ 3 Abs. 1 Nr. 1.2)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>rechtliche Vorschriften der Berufsbildung nennen</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Ausbildungsordnung mit dem Ausbildungsplan der ausbildenden Stelle vergleichen</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>Inhalte des Berufsausbildungsvertrages, insbesondere die Rechte und Pflichten des Ausbildenden und des Auszubildenden, erläutern</LA>
+                                                </DD>
+                                                <DT>d)</DT>
+                                                <DD>
+                                                    <LA>Bedeutung und Aufgaben der Jugend- und Auszubildendenvertretung im Rahmen der Berufsausbildung beschreiben</LA>
+                                                </DD>
+                                                <DT>e)</DT>
+                                                <DD>
+                                                    <LA>Notwendigkeit weiterer beruflicher Qualifizierung begründen</LA>
+                                                </DD>
+                                                <DT>f)</DT>
+                                                <DD>
+                                                    <LA>wichtige berufliche Fortbildungsmöglichkeiten und berufliche Aufstiegsmöglichkeiten beschreiben</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>1.3</entry>
+                                        <entry>Arbeitssicherheit, Umweltschutz und rationelle Ressourcenverwendung (§ 3 Abs. 1 Nr. 1.3)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Bedeutung von Arbeitssicherheit, Umweltschutz und rationeller Ressourcenverwendung an Beispielen der ausbildenden Stelle erklären</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>betriebliche Einrichtungen für den Arbeitsschutz, die Unfallverhütung und den Umweltschutz beschreiben</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>berufsspezifische Arbeitsschutz- und Unfallverhütungsvorschriften einhalten, geeignete Maßnahmen zur Verhütung von Unfällen im eigenen Arbeitsbereich ergreifen und sich bei Unfällen situationsgerecht verhalten</LA>
+                                                </DD>
+                                                <DT>d)</DT>
+                                                <DD>
+                                                    <LA>wichtige Vorschriften über Brandverhütung und Brandschutzeinrichtungen beachten</LA>
+                                                </DD>
+                                                <DT>e)</DT>
+                                                <DD>
+                                                    <LA>zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen</LA>
+                                                </DD>
+                                                <DT>f)</DT>
+                                                <DD>
+                                                    <LA>zur rationellen Energie- und Materialverwendung im beruflichen Einwirkungsbereich beitragen</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>2.</entry>
+                                        <entry>Verhältnis zwischen Verwaltung und Bürger, bürgerorientiertes Handeln (§ 3 Abs. 1 Nr. 2)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Situation und Interessen des Bürgers bei der Aufgabenerledigung angemessen berücksichtigen</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Dienstleistungs- und Eingriffsverwaltung in ihren unterschiedlichen Voraussetzungen und Anforderungen für das Verhältnis zwischen Verwaltung und Bürger beschreiben</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>Aufklärung, Beratung und Auskunft situationsgerecht und bürgerorientiert vornehmen</LA>
+                                                </DD>
+                                                <DT>d)</DT>
+                                                <DD>
+                                                    <LA>Inhalt und Form von Schriftsätzen und mündlichen Mitteilungen nach Informationsziel und Adressatenkreis für den Bürger transparent gestalten</LA>
+                                                </DD>
+                                                <DT>e)</DT>
+                                                <DD>
+                                                    <LA>Wirkungen des Verwaltungshandelns auf die Öffentlichkeit an Beispielen beschreiben</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>3.</entry>
+                                        <entry>Verwaltungsorganisation und -betrieb (§ 3 Abs. 1 Nr. 3)</entry>
+                                        <entry>&#160;</entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>3.1</entry>
+                                        <entry>Verwaltungshandeln (§ 3 Abs. 1 Nr. 3.1)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Ziele des Verwaltungshandelns erläutern; Grundsätze und Leitlinien anwenden</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Arten und Formen des Verwaltungshandelns beschreiben</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>Leistungen der ausbildenden Stelle darstellen</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>3.2</entry>
+                                        <entry>Organisation und Funktionszusammenhänge (§ 3 Abs. 1 Nr. 3.2)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Aufbau- und Ablauforganisation der ausbildenden Stelle erläutern</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Dienst- und Geschäftsordnung anwenden, Geschäftsverfahren beherrschen</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>Zentralisierung und Dezentralisierung sowie Delegieren von Aufgaben und Verantwortung an Beispielen der ausbildenden Stelle darstellen</LA>
+                                                </DD>
+                                                <DT>d)</DT>
+                                                <DD>
+                                                    <LA>Informationswege in der ausbildenden Stelle darstellen und das Zusammenwirken zwischen Funktionsbereichen beschreiben</LA>
+                                                </DD>
+                                                <DT>e)</DT>
+                                                <DD>
+                                                    <LA>Aufgaben, Anforderungen und Zusammenwirken typischer Büroarbeitsplätze darstellen</LA>
+                                                </DD>
+                                                <DT>f)</DT>
+                                                <DD>
+                                                    <LA>zur Verbesserung von Arbeitsabläufen im eigenen Arbeitsbereich beitragen</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row>
+                                        <entry>4.</entry>
+                                        <entry>Bürowirtschaft (§ 3 Abs. 1 Nr. 4)</entry>
+                                        <entry>&#160;</entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>4.1</entry>
+                                        <entry>Organisation des Arbeitsplatzes (§ 3 Abs. 1 Nr. 4.1)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Möglichkeiten der Arbeitsplatz- und Arbeitsraumgestaltung unter Berücksichtigung ergonomischer Grundsätze an Beispielen des Ausbildungsbetriebes erläutern</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>einschlägige Vorschriften für Büroarbeitsplätze beachten und den eigenen Arbeitsplatz sachgerecht gestalten</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>4.2</entry>
+                                        <entry>Arbeits- und Organisationsmittel (§ 3 Abs. 1 Nr. 4.2)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>betriebliche Arbeits- und Organisationsmittel fachgerecht handhaben sowie wirtschaftlich und umweltgerecht einsetzen</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>rechtzeitige Wartung und Instandsetzung von Büromaschinen und -geräten veranlassen</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>4.3</entry>
+                                        <entry>Bürowirtschaftliche Abläufe (§ 3 Abs. 1 Nr. 4.3)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Posteingang bearbeiten, Postverteilung durchführen und Postausgang kostenbewußt bearbeiten</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Registraturarbeiten sachgerecht durchführen, Aufbewahrungsfristen beachten</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>Dateien und Karteien führen und zur Erfüllung von Arbeitsaufgaben einsetzen</LA>
+                                                </DD>
+                                                <DT>d)</DT>
+                                                <DD>
+                                                    <LA>Termine planen, überwachen und erforderliche Maßnahmen einleiten</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>4.4</entry>
+                                        <entry>Materialbewirtschaftung, Bestell- und Vergabewesen (§ 3 Abs. 1 Nr. 4.4)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Grundsätze des Beschaffungswesens beschreiben</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Beschaffungswesen der ausbildenden Stelle darstellen</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>bei der Materialverwaltung und bei dem Vergabeverfahren mitwirken</LA>
+                                                </DD>
+                                                <DT>d)</DT>
+                                                <DD>
+                                                    <LA>bei der Beschaffung und Entsorgung von Materialien nach wirtschaftlichen und ökologischen Gesichtspunkten mitwirken</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>4.5</entry>
+                                        <entry>Statistik (§ 3 Abs. 1 Nr. 4.5)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Anwendungsmöglichkeiten von Statistiken in der ausbildenden Stelle beschreiben</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Daten für die Erstellung von Statistiken beschaffen, aufbereiten und in geeigneter Form darstellen</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>Statistiken auswerten und Ergebnisse aufbereiten</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>5.</entry>
+                                        <entry>Informationsverarbeitung (§ 3 Abs. 1 Nr. 5)</entry>
+                                        <entry>&#160;</entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>5.1</entry>
+                                        <entry>Grundlagen der Informationsverarbeitung (§ 3 Abs. 1 Nr. 5.1)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Gründe und Ziele für den Einsatz der Informations- und Kommunikationstechnik erläutern</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Auswirkungen von Informations- und Kommunikationstechniken auf Arbeitsorganisation, Arbeitsbedingungen und Arbeitsanforderungen an Beispielen der ausbildenden Stelle erklären</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>5.2</entry>
+                                        <entry>Bürokommunikation (§ 3 Abs. 1 Nr. 5.2)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Aufbau und Funktion eines Datenverarbeitungssystems der ausbildenden Stelle beschreiben</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>unterschiedliche Arbeitsaufgaben der ausbildenden Stelle mit Hilfe von Bürokommunikationstechniken lösen</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>Fachliteratur, Dokumentationen und andere Hilfsmittel nutzen</LA>
+                                                </DD>
+                                                <DT>d)</DT>
+                                                <DD>
+                                                    <LA>die Notwendigkeit der Pflege gespeicherter Informationen an Beispielen der ausbildenden Stelle darstellen</LA>
+                                                </DD>
+                                                <DT>e)</DT>
+                                                <DD>
+                                                    <LA>Daten sichern, Datensicherung begründen, unterschiedliche Verfahren aufzeigen</LA>
+                                                </DD>
+                                                <DT>f)</DT>
+                                                <DD>
+                                                    <LA>Schutzvorschriften und Regelungen für Bildschirmarbeitsplätze beachten</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>5.3</entry>
+                                        <entry>Schreibtechnische Qualifikationen (§ 3 Abs. 1 Nr. 5.3)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Textverarbeitungsgeräte systemgerecht handhaben</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Tastschreiben beherrschen</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>in der ausbildenden Stelle eingesetzte Aufnahme- und Wiedergabegeräte bedienen</LA>
+                                                </DD>
+                                                <DT>d)</DT>
+                                                <DD>
+                                                    <LA>(weggefallen)</LA>
+                                                </DD>
+                                                <DT>e)</DT>
+                                                <DD>
+                                                    <LA>(weggefallen)</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>5.4</entry>
+                                        <entry>Textformulierung und -gestaltung (§ 3 Abs. 1 Nr. 5.4)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Texte nach vorgegebenen Sachverhalten unter Nutzung von Nachschlagewerken erstellen</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Texte des Schriftverkehrs sachlich richtig und sprachlich einwandfrei formulieren und gliedern</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>Schriftstücke für unterschiedliche Anlässe entwerfen und gestalten</LA>
+                                                </DD>
+                                                <DT>d)</DT>
+                                                <DD>
+                                                    <LA>Schriftstücke nach Vorlage und unter Verwendung von Tonträgern normgerecht maschinenschriftlich anfertigen</LA>
+                                                </DD>
+                                                <DT>e)</DT>
+                                                <DD>
+                                                    <LA>Protokolle nach inhaltlichen Vorgaben aufnehmen und erstellen</LA>
+                                                </DD>
+                                                <DT>f)</DT>
+                                                <DD>
+                                                    <LA>Tabellen erstellen sowie bei der Gestaltung von Vordrucken mitwirken</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>5.5</entry>
+                                        <entry>Automatisierte Textverarbeitung (§ 3 Abs. 1 Nr. 5.5)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Texte eingeben, aufrufen und bearbeiten</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Texte speichern, verwalten, pflegen und sichern</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>Textbausteine und Serienbriefe erstellen</LA>
+                                                </DD>
+                                                <DT>d)</DT>
+                                                <DD>
+                                                    <LA>spezielle Funktionen des eingesetzten Textsystems anwenden</LA>
+                                                </DD>
+                                                <DT>e)</DT>
+                                                <DD>
+                                                    <LA>Texte mit Hilfe externer Dienste übermitteln</LA>
+                                                </DD>
+                                                <DT>f)</DT>
+                                                <DD>
+                                                    <LA>in der ausbildenden Stelle eingesetzte Textsysteme bei der Anwendung sachgerecht und wirtschaftlich nutzen, beurteilen und, soweit zweckmäßig, Verbesserungsvorschläge entwickeln</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>5.6</entry>
+                                        <entry>Datenschutz (§ 3 Abs. 1 Nr. 5.6)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Vorschriften des Datenschutzes einhalten</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>die Vorschriften zum Datenschutz und zur Datensicherheit bei der Erhebung und Behandlung von Daten anwenden</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row>
+                                        <entry>6.</entry>
+                                        <entry>Assistenz- und Sekretariatsaufgaben (§ 3 Abs. 1 Nr. 6)</entry>
+                                        <entry>&#160;</entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>6.1</entry>
+                                        <entry>Kommunikation und Kooperation im Büro und Bürokoordination (§ 3 Abs. 1 Nr. 6.1)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Anlässe und Partner mündlicher Kommunikation in der ausbildenden Stelle unterscheiden</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Kommunikationsregeln in verschiedenen beruflichen Situationen anwenden und zur Vermeidung von Kommunikationsstörungen beitragen</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>Aufgaben kooperativ lösen</LA>
+                                                </DD>
+                                                <DT>d)</DT>
+                                                <DD>
+                                                    <LA>Zusammenarbeit innerhalb der Abteilung und mit den einzelnen Funktionsbereichen erläutern</LA>
+                                                </DD>
+                                                <DT>e)</DT>
+                                                <DD>
+                                                    <LA>Telefonanlagen und Zusatzeinrichtungen handhaben</LA>
+                                                </DD>
+                                                <DT>f)</DT>
+                                                <DD>
+                                                    <LA>Telefongespräche vorbereiten, führen und die Ergebnisse aufbereiten und weiterleiten</LA>
+                                                </DD>
+                                                <DT>g)</DT>
+                                                <DD>
+                                                    <LA>Anfragen entgegennehmen, weiterleiten und Auskünfte erteilen</LA>
+                                                </DD>
+                                                <DT>h)</DT>
+                                                <DD>
+                                                    <LA>Termine unter Berücksichtigung von Vor- und Nachbearbeitungszeiten planen, koordinieren und überwachen; Terminkalender führen</LA>
+                                                </DD>
+                                                <DT>i)</DT>
+                                                <DD>
+                                                    <LA>Besucher empfangen, anmelden, informieren und betreuen</LA>
+                                                </DD>
+                                                <DT>k)</DT>
+                                                <DD>
+                                                    <LA>eingehende schriftliche Informationen, insbesondere Post, Berichte, Zeitungen, Zeitschriften, sichten, verteilen und bearbeiten</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>6.2</entry>
+                                        <entry>Organisationsaufgaben (§ 3 Abs. 1 Nr. 6.2)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Arbeitsabläufe organisieren</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Reiseunterlagen beschaffen und zusammenstellen</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>Verkehrsverbindungen ermitteln und Verkehrsmittel bedarfsgerecht auswählen</LA>
+                                                </DD>
+                                                <DT>d)</DT>
+                                                <DD>
+                                                    <LA>Reservierungen vornehmen</LA>
+                                                </DD>
+                                                <DT>e)</DT>
+                                                <DD>
+                                                    <LA>Einladungen für Sitzungen und Besprechungen erstellen und verteilen</LA>
+                                                </DD>
+                                                <DT>f)</DT>
+                                                <DD>
+                                                    <LA>Sitzungen und Besprechungen nach sachlichen und zeitlichen Vorgaben vor- und nachbereiten</LA>
+                                                </DD>
+                                                <DT>g)</DT>
+                                                <DD>
+                                                    <LA>Reisekosten abrechnen</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row>
+                                        <entry>7.</entry>
+                                        <entry>Finanzwesen (§ 3 Abs. 1 Nr. 7)</entry>
+                                        <entry>&#160;</entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>7.1</entry>
+                                        <entry>Öffentliches Finanzwesen (§ 3 Abs. 1 Nr. 7.1)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Zweck und Gliederung des Haushaltsplanes beschreiben</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Unterschiede zwischen staatlichem und kommunalem Haushaltsrecht nennen</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>Grundzüge der Aufstellung und des Zustandekommens des Haushalts in der ausbildenden Stelle beschreiben</LA>
+                                                </DD>
+                                                <DT>d)</DT>
+                                                <DD>
+                                                    <LA>Einnahme- und Ausgabearten des Haushaltsplanes der ausbildenden Stelle darstellen</LA>
+                                                </DD>
+                                                <DT>e)</DT>
+                                                <DD>
+                                                    <LA>Unterschiede zwischen den Abgabearten beschreiben</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>7.2</entry>
+                                        <entry>Kassenwesen (§ 3 Abs. 1 Nr. 7.2)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Arten und Merkmale der Kassenanordnungen aufzählen</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Rechnungen prüfen, Kassenanordnungen fertigen, Haushaltsüberwachungsliste führen</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>Belege für Zahlungsvorgänge erstellen und bei der Zusammenstellung der Buchungsbelege mitwirken</LA>
+                                                </DD>
+                                                <DT>d)</DT>
+                                                <DD>
+                                                    <LA>Kassenanordnungen auf ihre formale Richtigkeit und Vollständigkeit prüfen</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row>
+                                        <entry>8.</entry>
+                                        <entry>Personalwesen (§ 3 Abs. 1 Nr. 8)</entry>
+                                        <entry>&#160;</entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>8.1</entry>
+                                        <entry>Grundzüge des Personalwesens (§ 3 Abs. 1 Nr. 8.1)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Arbeits-, Ausbildungs- und Dienstverhältnisse hinsichtlich Rechtsgrundlagen, Art, Begründung und Beendigung unterscheiden</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Pflichten und Rechte von Auszubildenden, Arbeitern, Angestellten und Beamten erläutern</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>Grundzüge des Arbeits- und Tarifrechtes darstellen</LA>
+                                                </DD>
+                                                <DT>d)</DT>
+                                                <DD>
+                                                    <LA>Vorschriften der Arbeitnehmerschutzgesetze darstellen</LA>
+                                                </DD>
+                                                <DT>e)</DT>
+                                                <DD>
+                                                    <LA>Zweck und Ziel des Personalvertretungsgesetzes oder des Betriebsverfassungsgesetzes darstellen, Grundzüge des Wahlverfahrens, der Zusammensetzung und der Aufgaben der Personalvertretung sowie die Beteiligungsarten beschreiben</LA>
+                                                </DD>
+                                                <DT>f)</DT>
+                                                <DD>
+                                                    <LA>Grundzüge des Sozialversicherungs-, des Zusatzversorgungs- und des Kindergeldrechtes darstellen</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>8.2</entry>
+                                        <entry>Personalaufgaben (§ 3 Abs. 1 Nr. 8.2)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Arbeiten im Zusammenhang mit personellen Veränderungen durchführen, insbesondere Verträge und Schriftstücke fertigen, Berechnungen durchführen</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Vorgänge im Zusammenhang mit Arbeits- und Fehlzeiten, insbesondere Urlaubs-, Krank- und Unfallmeldungen bearbeiten</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>weitere mitarbeiterbezogene Unterlagen bearbeiten, Regeln für das Führen von Personalakten und Datenschutzbestimmungen im Personalwesen beachten</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>9.</entry>
+                                        <entry>Fachaufgaben einzelner Fachbereiche, Verwaltungsverfahren und Rechtsanwendung (§ 3 Abs. 1 Nr. 9)</entry>
+                                        <entry>&#160;</entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>9.1</entry>
+                                        <entry>Organisation und Arbeitsabläufe (§ 3 Abs. 1 Nr. 9.1)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Organisation und Zuständigkeiten des Fachbereiches darstellen</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Arbeitsabläufe im Fachbereich erläutern</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>9.2</entry>
+                                        <entry>Verwaltungsverfahren (§ 3 Abs. 1 Nr. 9.2)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Verwaltungsmaßnahmen dem nicht förmlichen oder einem besonderen Verwaltungsverfahren zuordnen</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Zustandekommen, Inhalt, Bekanntgabe, Rücknahme und Widerruf von Verwaltungsakten erklären</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>form- und fristgerechte Einlegung von Widersprüchen überprüfen</LA>
+                                                </DD>
+                                                <DT>d)</DT>
+                                                <DD>
+                                                    <LA>die förmliche Zustellung aufgrund besonderer Vorschriften oder behördlicher Anordnung veranlassen</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                    <row valign="top">
+                                        <entry>9.3</entry>
+                                        <entry>Rechtsanwendung (§ 3 Abs. 1 Nr. 9.3)</entry>
+                                        <entry>
+                                            <DL>
+                                                <DT>a)</DT>
+                                                <DD>
+                                                    <LA>Grundsatz der Verhältnismäßigkeit, bestimmte und unbestimmte Rechtsbegriffe erläutern, Verhältnis mehrerer Anspruchsgrundlagen zueinander bei der Rechtsanwendung beschreiben</LA>
+                                                </DD>
+                                                <DT>b)</DT>
+                                                <DD>
+                                                    <LA>Anliegen klären, auf sachgerechte Antragstellung hinwirken, Anträge annehmen und Sachverhalte ermitteln</LA>
+                                                </DD>
+                                                <DT>c)</DT>
+                                                <DD>
+                                                    <LA>Fristen und Termine berechnen, festsetzen und berücksichtigen</LA>
+                                                </DD>
+                                                <DT>d)</DT>
+                                                <DD>
+                                                    <LA>anhand praktischer Fälle die für einen Sachverhalt spezifischen Vorschriften anwenden und Auskünfte erteilen</LA>
+                                                </DD>
+                                            </DL>
+                                        </entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120807043544" doknr="BJNR005070992BJNE001500314">
+        <metadaten>
+            <jurabk>BKFAngAusbV</jurabk>
+            <enbez>Anlage II</enbez>
+            <titel format="XML">(zu § 4)
+<BR/>
+Ausbildungsrahmenplan für die Berufsausbildung zum Fachangestellten für
+Bürokommunikation/zur Fachangestellten für Bürokommunikation
+<BR/>
+- Zeitliche Gliederung -</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <ABWFORMAT typ="A"/>
+                        <kommentar typ="Fundstelle">(Fundstelle: BGBl. I 1992, 516 - 518)</kommentar>
+                        <BR/>
+                        <BR/>
+                        <B>A.</B>
+                        <BR/>Bei der Vermittlung der Ausbildungsinhalte und deren Fortführung nach Abschnitt B soll auf die Fertigkeiten und Kenntnisse der Berufsbildpositionen 1, 3, 7, 8 und 9 ein Zeitraum von etwa 18 Monaten entfallen. <BR/>Die Fertigkeiten und Kenntnisse zur Berufsbildposition 2 sind während der gesamten Ausbildungsdauer zu vermitteln. Ihre Vermittlung soll insbesondere in Zusammenhang mit den Berufsbildpositionen 3, 5, 6 und 9 erfolgen. <BR/>
+                        <B>B.</B>
+                        <DL Font="normal" Type="arabic">
+                            <DT/>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <DL Font="normal" Type="arabic">
+                                        <DT/>
+                                        <DD Font="normal">
+                                            <LA Size="normal">
+                                                <DL Font="normal" Type="arabic">
+                                                    <DT/>
+                                                    <DD Font="normal">
+                                                        <LA Size="normal">
+                                                            <DL Font="normal" Type="arabic">
+                                                                <DT/>
+                                                                <DD Font="normal">
+                                                                    <LA Size="normal">
+                                                                        <DL Font="normal" Type="arabic">
+                                                                            <DT/>
+                                                                            <DD Font="normal">
+                                                                                <LA Size="normal">
+                                                                                    <SP>1. Ausbildungsjahr</SP>
+                                                                                </LA>
+                                                                            </DD>
+                                                                        </DL>
+                                                                    </LA>
+                                                                </DD>
+                                                            </DL>
+                                                        </LA>
+                                                    </DD>
+                                                </DL>
+                                            </LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>1)</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">In einem Zeitraum von insgesamt drei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen<DL Font="normal" Type="arabic">
+                                        <DT>1.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Berufsbildung,</LA>
+                                        </DD>
+                                        <DT>3.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Organisation und Funktionszusammenhänge,</LA>
+                                        </DD>
+                                        <DT>6.1</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Kommunikation und Kooperation im Büro und Bürokoordination,</LA>
+                                        </DD>
+                                        <DT>8.1</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Grundzüge des Personalwesens,</LA>
+                                        </DD>
+                                        <DT>8.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Personalaufgaben</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                                <LA Size="normal">zu vermitteln.</LA>
+                            </DD>
+                            <DT>2)</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen<DL Font="normal" Type="arabic">
+                                        <DT>4.3</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">bürowirtschaftliche Abläufe,</LA>
+                                        </DD>
+                                        <DT>5.1</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Grundlagen der Informationsverarbeitung,</LA>
+                                        </DD>
+                                        <DT>5.3</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">schreibtechnische Qualifikationen,</LA>
+                                        </DD>
+                                        <DT>5.4</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Textformulierung und -gestaltung,</LA>
+                                        </DD>
+                                        <DT>6.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Organisationsaufgaben</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                                <LA Size="normal">zu vermitteln.</LA>
+                            </DD>
+                            <DT>3)</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">In einem Zeitraum von insgesamt vier bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen<DL Font="normal" Type="arabic">
+                                        <DT>1.1</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Stellung und Aufgaben des Ausbildungsbetriebes im Gesamtsystem der öffentlichen Verwaltung,</LA>
+                                        </DD>
+                                        <DT>1.3</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Arbeitssicherheit, Umweltschutz und rationelle Ressourcenverwendung,</LA>
+                                        </DD>
+                                        <DT>4.1</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Organisation des Arbeitsplatzes,</LA>
+                                        </DD>
+                                        <DT>4.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Arbeits- und Organisationsmittel,</LA>
+                                        </DD>
+                                        <DT>5.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Bürokommunikation,</LA>
+                                        </DD>
+                                        <DT>5.5</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">automatisierte Textverarbeitung,</LA>
+                                        </DD>
+                                        <DT>5.6</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Datenschutz</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                                <LA Size="normal">zu vermitteln.<DL Font="normal" Type="arabic">
+                                        <DT/>
+                                        <DD Font="normal">
+                                            <LA Size="normal">
+                                                <DL Font="normal" Type="arabic">
+                                                    <DT/>
+                                                    <DD Font="normal">
+                                                        <LA Size="normal">
+                                                            <DL Font="normal" Type="arabic">
+                                                                <DT/>
+                                                                <DD Font="normal">
+                                                                    <LA Size="normal">
+                                                                        <DL Font="normal" Type="arabic">
+                                                                            <DT/>
+                                                                            <DD Font="normal">
+                                                                                <LA Size="normal">
+                                                                                    <SP>2. Ausbildungsjahr</SP>
+                                                                                </LA>
+                                                                            </DD>
+                                                                        </DL>
+                                                                    </LA>
+                                                                </DD>
+                                                            </DL>
+                                                        </LA>
+                                                    </DD>
+                                                </DL>
+                                            </LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>1)</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen<DL Font="normal" Type="arabic">
+                                        <DT>4.4</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Materialbewirtschaftung, Bestell- und Vergabewesen,</LA>
+                                        </DD>
+                                        <DT>4.5</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Statistik,</LA>
+                                        </DD>
+                                        <DT>7.1</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">öffentliches Finanzwesen,</LA>
+                                        </DD>
+                                        <DT>7.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Kassenwesen</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                                <LA Size="normal">zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen<DL Font="normal" Type="arabic">
+                                        <DT>1.3</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Arbeitssicherheit, Umweltschutz und rationelle Ressourcenverwendung,</LA>
+                                        </DD>
+                                        <DT>5.5</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">automatisierte Textverarbeitung,</LA>
+                                        </DD>
+                                        <DT>5.6</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Datenschutz</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                                <LA Size="normal">fortzuführen.</LA>
+                            </DD>
+                            <DT>2)</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">In einem Zeitraum von insgesamt drei bis vier Monaten ist schwerpunktmäßig die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen<DL Font="normal" Type="arabic">
+                                        <DT>5.3</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">schreibtechnische Qualifikationen,</LA>
+                                        </DD>
+                                        <DT>8.1</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Grundzüge des Personalwesens,</LA>
+                                        </DD>
+                                        <DT>8.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Personalaufgaben</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                                <LA Size="normal">fortzuführen.</LA>
+                            </DD>
+                            <DT>3)</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">In einem Zeitraum von insgesamt vier bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen<DL Font="normal" Type="arabic">
+                                        <DT>3.1</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Verwaltungshandeln,</LA>
+                                        </DD>
+                                        <DT>9.</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Fachaufgaben einzelner Fachbereiche, Verwaltungsverfahren und Rechtsanwendung (für den ersten gewählten Fachbereich)</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                                <LA Size="normal">zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen<DL Font="normal" Type="arabic">
+                                        <DT>4.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Arbeits- und Organisationsmittel,</LA>
+                                        </DD>
+                                        <DT>4.3</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">bürowirtschaftliche Abläufe,</LA>
+                                        </DD>
+                                        <DT>5.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Bürokommunikation,</LA>
+                                        </DD>
+                                        <DT>5.4</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Textformulierung und -gestaltung</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                                <LA Size="normal">fortzuführen.<DL Font="normal" Type="arabic">
+                                        <DT/>
+                                        <DD Font="normal">
+                                            <LA Size="normal">
+                                                <DL Font="normal" Type="arabic">
+                                                    <DT/>
+                                                    <DD Font="normal">
+                                                        <LA Size="normal">
+                                                            <DL Font="normal" Type="arabic">
+                                                                <DT/>
+                                                                <DD Font="normal">
+                                                                    <LA Size="normal">
+                                                                        <DL Font="normal" Type="arabic">
+                                                                            <DT/>
+                                                                            <DD Font="normal">
+                                                                                <LA Size="normal">
+                                                                                    <SP>3. Ausbildungsjahr</SP>
+                                                                                </LA>
+                                                                            </DD>
+                                                                        </DL>
+                                                                    </LA>
+                                                                </DD>
+                                                            </DL>
+                                                        </LA>
+                                                    </DD>
+                                                </DL>
+                                            </LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>1)</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">In einem Zeitraum von insgesamt drei bis vier Monaten ist schwerpunktmäßig die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen<DL Font="normal" Type="arabic">
+                                        <DT>3.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Organisation und Funktionszusammenhänge,</LA>
+                                        </DD>
+                                        <DT>4.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Arbeits- und Organisationsmittel,</LA>
+                                        </DD>
+                                        <DT>4.3</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">bürowirtschaftliche Abläufe,</LA>
+                                        </DD>
+                                        <DT>4.5</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Statistik,</LA>
+                                        </DD>
+                                        <DT>5.4</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Textformulierung und -gestaltung,</LA>
+                                        </DD>
+                                        <DT>5.5</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">automatisierte Textverarbeitung,</LA>
+                                        </DD>
+                                        <DT>5.6</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Datenschutz</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                                <LA Size="normal">fortzuführen.</LA>
+                            </DD>
+                            <DT>2)</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">In einem Zeitraum von insgesamt drei bis fünf Monaten ist schwerpunktmäßig die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen<DL Font="normal" Type="arabic">
+                                        <DT>5.3</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">schreibtechnische Qualifikationen,</LA>
+                                        </DD>
+                                        <DT>6.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Organisationsaufgaben,</LA>
+                                        </DD>
+                                        <DT>7.1</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">öffentliches Finanzwesen,</LA>
+                                        </DD>
+                                        <DT>7.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Kassenwesen,</LA>
+                                        </DD>
+                                        <DT>8.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Personalaufgaben</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                                <LA Size="normal">fortzuführen.</LA>
+                            </DD>
+                            <DT>3)</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">In einem Zeitraum von insgesamt vier bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition<DL Font="normal" Type="arabic">
+                                        <DT>9.</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Fachaufgaben einzelner Fachbereiche, Verwaltungsverfahren und Rechtsanwendung (für den zweiten gewählten Fachbereich)</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                                <LA Size="normal">zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen<DL Font="normal" Type="arabic">
+                                        <DT>3.1</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Verwaltungshandeln,</LA>
+                                        </DD>
+                                        <DT>5.2</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Bürokommunikation</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                                <LA Size="normal">fortzuführen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+</dokumente>

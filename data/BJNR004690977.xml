@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625145746" doknr="BJNR004690977">
+    <norm builddate="20120625145746" doknr="BJNR004690977">
+        <metadaten>
+            <jurabk>BMVgBVersZustAnO</jurabk>
+            <ausfertigung-datum manuell="ja">1977-03-15</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1977, 469</zitstelle>
+            </fundstelle>
+            <langue>Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der
+beamtenrechtlichen Versorgung im Geschäftsbereich des Bundesministers der
+Verteidigung</langue>
+            <standangabe checked="ja">
+                <standtyp>Stand</standtyp>
+                <standkommentar>Geändert durch Nr. 1 AnO v. 3.4.1987 VMBl 167</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <fussnoten>
+                <Content>
+                    <P>(+++ Textnachweis Geltung ab: 14.5.1987 +++)</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625145746" doknr="BJNR004690977BJNE000100326">
+        <metadaten>
+            <jurabk>BMVgBVersZustAnO</jurabk>
+            <enbez>I.</enbez>
+            <titel format="parat">Festsetzungs- und Regelungsbehörden</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Auf Grund des § 49 Abs. 1 Satz 2 und Abs. 6 des Beamtenversorgungsgesetzes vom 24. August 1976 (BGBl. I S. 2485) übertrage ich die Befugnis, <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Versorgung der Beamten meines Geschäftsbereiches und ihrer Hinterbliebenen festzusetzen und zu regeln, die Person des Zahlungsempfängers zu bestimmen, Unterhaltsbeiträge zu bewilligen sowie die Zahlung der Versorgungsbezüge von der Bestellung eines Empfangsbevollmächtigten im Geltungsbereich des Beamtenversorgungsgesetzes abhängig zu machen, auf<DL Font="normal" Type="arabic">
+                                        <DT/>
+                                        <DD Font="normal">
+                                            <LA Size="normal">das Wehrbereichsgebührnisamt III in Düsseldorf für die Beamten, die beim Eintritt des Versorgungsfalles ihre Dienstbezüge von den Wehrbereichsgebührnisämtern I bis III erhalten haben,</LA>
+                                            <LA Size="normal">das Wehrbereichsgebührnisamt V in Stuttgart für die Beamten, die beim Eintritt des Versorgungsfalles ihre Dienstbezüge von den Wehrbereichsgebührnisämtern IV bis VI erhalten haben;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">über die Berücksichtigung von Vordienstzeiten als ruhegehaltfähige Dienstzeit nach dem Beamtenversorgungsgesetz vor Eintritt des Versorgungsfalles zu entscheiden, auf<DL Font="normal" Type="arabic">
+                                        <DT/>
+                                        <DD Font="normal">
+                                            <LA Size="normal">das Bundesamt für Wehrtechnik und Beschaffung</LA>
+                                            <LA Size="normal">das Bundeswehrverwaltungsamt</LA>
+                                            <LA Size="normal">das Evangelische Kirchenamt für die Bundeswehr</LA>
+                                            <LA Size="normal">das Katholische Militärbischofsamt</LA>
+                                            <LA Size="normal">das Bundessprachenamt</LA>
+                                            <LA Size="normal">die Wehrbereichsverwaltungen I bis VI</LA>
+                                            <LA Size="normal">die Universität der Bundeswehr Hamburg</LA>
+                                            <LA Size="normal">die Universität der Bundeswehr München</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                                <LA Size="normal">für die Beamten ihres Geschäftsbereiches.</LA>
+                                <LA Size="normal">Nach Eintritt des Versorgungsfalles geht die Befugnis auf die Wehrbereichsgebührnisämter III und V entsprechend ihrer örtlichen Zuständigkeit über. Änderungen der durch die in Absatz 1 Nr. 2 genannten Behörden getroffenen Entscheidungen können nur in deren Einvernehmen vorgenommen werden. Ist ein Einvernehmen nicht zu erzielen, so ist meine Entscheidung herbeizuführen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Die Versorgungsberechtigten nach Absatz 1 Nr. 1 können die Zuständigkeit des anderen Wehrbereichsgebührnisamtes beantragen, wenn sie ihren Wohnsitz in dessen Zuständigkeitsbereich verlegen. Dem Antrag ist stattzugeben, soweit der Festsetzungsbescheid unanfechtbar geworden ist. Bei mehreren gleichberechtigten Versorgungsberechtigten bedarf es übereinstimmender Anträge.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625145746" doknr="BJNR004690977BJNE000200326">
+        <metadaten>
+            <jurabk>BMVgBVersZustAnO</jurabk>
+            <enbez>II.</enbez>
+            <titel format="parat">Dienstunfallversorgung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Den in Abschnitt I Abs. 1 Nr. 2 aufgeführten Behörden übertrage ich für die Beamten ihres Geschäftsbereiches die Befugnis, <DL Font="normal" Type="arabic">
+                            <DT>-</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">nach § 45 Abs. 3 des Beamtenversorgungsgesetzes über die Anerkennung von Dienstunfällen, über die Frage, ob der Unfall vorsätzlich herbeigeführt worden ist, sowie über die Bewilligung von Unfallfürsorgeleistungen nach den §§ 32 bis 35 des Beamtenversorgungsgesetzes zu entscheiden,</LA>
+                            </DD>
+                            <DT>-</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">nach § 5 Abs. 3 Satz 4 erste Alternative des Beamtenversorgungsgesetzes festzustellen, ob ein Beamter vor der Amtsübertragung die höherwertigen Funktionen des ihm erst später übertragenen Amtes mindestens zwei Jahre lang tatsächlich wahrgenommen hat, soweit ihnen für diese Beamten das Ernennungsrecht übertragen worden ist,</LA>
+                            </DD>
+                            <DT>-</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">nach § 38 Abs. 5 Satz 2 des Beamtenversorgungsgesetzes zur Nachprüfung des Grades der Minderung der Erwerbsfähigkeit eine amtsärztliche Untersuchung anzuordnen,</LA>
+                            </DD>
+                            <DT>-</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">nach § 44 Abs. 2 Satz 1 des Beamtenversorgungsgesetzes die Unfallfürsorge zu versagen, wenn der Verletzte eine die Heilbehandlung betreffende Anordnung ohne gesetzlichen oder sonstigen wichtigen Grund nicht befolgt und dadurch die Dienst- oder Erwerbsfähigkeit ungünstig beeinflußt worden ist.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Ein Unfallausgleich nach § 35 des Beamtenversorgungsgesetzes ist nach Eintritt des Versorgungsfalles von den nach Abschnitt I Abs. 1 Nr. 1 zuständigen Wehrbereichsgebührnisämtern zusammen mit den Versorgungsbezügen zu zahlen; im übrigen verbleibt es bei der unter Abschnitt II Abs. 1 genannten Zuständigkeitsregelung.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625145746" doknr="BJNR004690977BJNE000300326">
+        <metadaten>
+            <jurabk>BMVgBVersZustAnO</jurabk>
+            <enbez>III.</enbez>
+            <titel format="parat">Übertragung von Zuständigkeiten in Sonderfällen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Den in Abschnitt I Abs. 1 Nr. 2 aufgeführten Behörden übertrage ich für ihren Geschäftsbereich die Befugnis, <DL Font="normal" Type="arabic">
+                            <DT>-</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">nach § 46 Abs. 2 Satz 2 letzter Halbsatz des Bundesbeamtengesetzes Beamte auf Probe in den Ruhestand zu versetzen,</LA>
+                            </DD>
+                            <DT>-</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">nach § 5 Abs. 4 Satz 1 des Beamtenversorgungsgesetzes festzustellen, ob ein Beamter die Obliegenheiten seines Amtes mindestens zwei Jahre lang tatsächlich wahrgenommen hat, soweit ihnen für diese Beamten das Ernennungsrecht übertragen worden ist.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Den Wehrbereichsgebührnisämtern III und V übertrage ich die Befugnis, im Rahmen der in Abschnitt I Abs. 1 Nr. 1 geregelten Zuständigkeiten <DL Font="normal" Type="arabic">
+                            <DT>-</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">nach § 29 Abs. 1 des Beamtenversorgungsgesetzes festzustellen, daß das Ableben des Ruhestandsbeamten oder sonstigen Versorgungsberechtigten mit Wahrscheinlichkeit anzunehmen ist,</LA>
+                            </DD>
+                            <DT>-</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">nach § 52 Abs. 2 Satz 3 des Beamtenversorgungsgesetzes von der Rückforderung von Versorgungsbezügen aus Billigkeitsgründen im Rahmen der von mir festgesetzten Höchstgrenzen abzusehen,</LA>
+                            </DD>
+                            <DT>-</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">nach § 62 Abs. 3 des Beamtenversorgungsgesetzes Versorgungsberechtigten die Versorgung ganz oder teilweise auf Zeit oder auf Dauer zu entziehen, wenn sie ihrer Anzeigepflicht schuldhaft nicht nachgekommen sind, sowie diese beim Vorliegen besonderer Verhältnisse ganz oder teilweise wieder zuzuerkennen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625145746" doknr="BJNR004690977BJNE000400326">
+        <metadaten>
+            <jurabk>BMVgBVersZustAnO</jurabk>
+            <enbez>IV.</enbez>
+            <titel format="parat">Vorbehaltsklausel</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Ich behalte mir vor, <DL Font="normal" Type="arabic">
+                            <DT>-</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">in Einzelfällen die nach den Abschnitten I bis III übertragenen Befugnisse selbst auszuüben,</LA>
+                            </DD>
+                            <DT>-</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Entscheidungen grundsätzlicher, über den Einzelfall hinausgehender Bedeutung</LA>
+                                <LA Size="normal">und</LA>
+                            </DD>
+                            <DT>-</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Entscheidungen nach § 31 Abs. 5 und § 43 des Beamtenversorgungsgesetzes</LA>
+                            </DD>
+                        </DL>zu treffen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625145746" doknr="BJNR004690977BJNE000500326">
+        <metadaten>
+            <jurabk>BMVgBVersZustAnO</jurabk>
+            <enbez>V.</enbez>
+            <titel format="parat">Übergangsvorschriften</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Diese Anordnung findet entsprechend auf Professoren und Hochschulassistenten Anwendung, die auf Grund von Privatdienstverträgen als Angestellte mit Anwartschaft auf Versorgung nach beamtenrechtlichen Vorschriften an den Hochschulen der Bundeswehr Hamburg und München tätig sind.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625145746" doknr="BJNR004690977BJNE000600326">
+        <metadaten>
+            <jurabk>BMVgBVersZustAnO</jurabk>
+            <enbez>VI.</enbez>
+            <titel format="parat">Schlußvorschriften</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Diese Anordnung ergeht im Einvernehmen mit dem Bundesminister des Innern. Sie tritt mit Wirkung vom 1. Januar 1977 in Kraft und ist mit Ausnahme von Abschnitt I Abs. 1 Nr. 2 nur auf die nach dem 31. Dezember 1976 eingetretenen Versorgungsfälle anzuwenden. Im übrigen gelten die Anordnungen vom 24. Juli 1970 (BGBl. I S. 1219) und vom 26. Januar 1974 (BGBl. I S. 121) weiter.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625145746" doknr="BJNR004690977BJNE000700326">
+        <metadaten>
+            <jurabk>BMVgBVersZustAnO</jurabk>
+            <enbez>Schlußformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <SP>der Bundesminister der Verteidigung</SP>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+</dokumente>

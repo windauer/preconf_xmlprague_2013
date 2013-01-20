@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20121113214535" doknr="BJNR620200012">
+    <norm builddate="20121113214535" doknr="BJNR620200012">
+        <metadaten>
+            <jurabk>AusbDienstLArbbV</jurabk>
+            <ausfertigung-datum manuell="ja">2012-07-17</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BAnz</periodikum>
+                <zitstelle>2012, AT 20.07.2012 V1</zitstelle>
+            </fundstelle>
+            <langue>Verordnung über zwingende Arbeitsbedingungen für Aus- und Weiterbildungsdienstleistungen nach dem Zweiten oder Dritten Buch Sozialgesetzbuch</langue>
+            <standangabe checked="ja">
+                <standtyp>Aufh</standtyp>
+                <standkommentar>Die V tritt gem. § 2 am 30.6.2013 außer Kraft</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <fussnoten>
+                <Content>
+                    <P>(+++ Textnachweis ab: 1.8.2012 +++)</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20121113214535" doknr="BJNR620200012BJNE000100000">
+        <metadaten>
+            <jurabk>AusbDienstLArbbV</jurabk>
+            <enbez>Eingangsformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Auf Grund des § 7 Absatz 1, 2, 4 und 5 Satz 1 und 2 des Arbeitnehmer-Entsendegesetzes vom 20. April 2009 (BGBl. I S. 799) verordnet das Bundesministerium für Arbeit und Soziales, nachdem es den in den Geltungsbereich der ­Verordnung fallenden Arbeitgebern, Arbeitnehmern und Arbeitnehmerinnen, den Parteien des Tarifvertrages nach § 1 Satz 1 dieser Verordnung sowie den Parteien von Tarifverträgen in der Branche mit zumindest teilweise demselben fachlichen Geltungsbereich Gelegenheit zur schriftlichen Stellungnahme gegeben hat:</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20121113214535" doknr="BJNR620200012BJNE000200000">
+        <metadaten>
+            <jurabk>AusbDienstLArbbV</jurabk>
+            <enbez>§ 1</enbez>
+            <titel format="XML">Zwingende Arbeitsbedingungen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die in der Anlage zu dieser Verordnung aufgeführten Rechtsnormen des Tarifvertrags zur Regelung des Mindestlohns für pädagogisches Personal vom 15. November 2011, abgeschlossen zwischen der Zweckgemeinschaft von Mitgliedsunternehmen des Bundesverbandes der Träger beruflicher Bildung (Bildungsverband) e.V., Französische Straße 8, 10117 Berlin, einerseits, sowie der Vereinten Dienstleistungsgewerkschaft – ver.di, Bundesverwaltung, Paula-Thiede-Ufer 10, 10179 Berlin, und der Gewerkschaft Erziehung und Wissenschaft (GEW) – Hauptvorstand, Reifenberger Straße 21, 60489 Frankfurt am Main, andererseits, finden auf alle unter seinen Geltungsbereich fallenden und nicht an ihn gebundenen Arbeitgeber sowie Arbeitnehmer und Arbeitnehmerinnen Anwendung, wenn der Betrieb oder die selbstständige Betriebsabteilung überwiegend Aus- und Weiterbildungsmaßnahmen nach dem Zweiten oder Dritten Buch Sozialgesetzbuch durchführt; ausgenommen sind Einrichtungen der beruflichen Rehabilitation im Sinne des § 35 Absatz 1 Satz 1 des Neunten Buches Sozialgesetzbuch. Die Rechtsnormen des Tarifvertrags gelten auch für Arbeitsverhältnisse zwischen einem Arbeitgeber mit Sitz im Ausland und seinen im Geltungsbereich der Verordnung beschäftigten Arbeitnehmern und Arbeitnehmerinnen. Wird ein Leiharbeitnehmer oder eine Leiharbeitnehmerin von einem Entleiher mit Tätigkeiten beschäftigt, die in den Geltungsbereich dieser Verordnung fallen, so hat der Verleiher ihm oder ihr nach § 8 Absatz 3 des Arbeitnehmer-Entsendegesetzes zumindest die nach dieser Verordnung vorgeschriebenen Arbeitsbedingungen zu gewähren.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20121113214535" doknr="BJNR620200012BJNE000300000">
+        <metadaten>
+            <jurabk>AusbDienstLArbbV</jurabk>
+            <enbez>§ 2</enbez>
+            <titel format="XML">Inkrafttreten, Außerkrafttreten</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Diese Verordnung tritt am 1. August 2012 in Kraft und am 30. Juni 2013 außer Kraft.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20121113214535" doknr="BJNR620200012BJNE000400000">
+        <metadaten>
+            <jurabk>AusbDienstLArbbV</jurabk>
+            <enbez>Anlage</enbez>
+            <titel format="XML">(zu § 1)<BR/>Rechtsnormen des Tarifvertrags zur Regelung des Mindestlohns für pädagogisches Personal vom 15. November 2011</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <noindex>
+                            <kommentar typ="Fundstelle">(Fundstelle: BAnz AT 20.07.2012 V1)</kommentar>
+                        </noindex>
+                    </P>
+                    <P>
+                        <noindex>(Text der Anlage siehe: TVMindestlohnPäda)</noindex>
+                    </P>
+                    <BR/>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+</dokumente>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625154200" doknr="BJNR007259967">
+    <norm builddate="20120625154200" doknr="BJNR007259967">
+        <metadaten>
+            <jurabk>BDRNOG</jurabk>
+            <ausfertigung-datum manuell="ja">1967-07-20</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1967, 725</zitstelle>
+            </fundstelle>
+            <langue>Gesetz zur Neuordnung des Bundesdisziplinarrechts</langue>
+            <standangabe checked="ja">
+                <standtyp>Stand</standtyp>
+                <standkommentar>Zuletzt geändert Art. 15 Abs. 33 G v. 5.2.2009 I 160</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <fussnoten>
+                <Content>
+                    <P>(+++ Textnachweis Geltung ab: 6.2.1974 +++)</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625154200" doknr="BJNR007259967BJNG000100319">
+        <metadaten>
+            <jurabk>BDRNOG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>010</gliederungskennzahl>
+                <gliederungsbez>Art I</gliederungsbez>
+                <gliederungstitel/>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625154200" doknr="BJNR007259967BJNG000200319">
+        <metadaten>
+            <jurabk>BDRNOG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>020</gliederungskennzahl>
+                <gliederungsbez>Art II</gliederungsbez>
+                <gliederungstitel/>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625154200" doknr="BJNR007259967BJNG000300319">
+        <metadaten>
+            <jurabk>BDRNOG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>Art III</gliederungsbez>
+                <gliederungstitel>Überleitungsvorschriften</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625154200" doknr="BJNR007259967BJNE000800319">
+        <metadaten>
+            <jurabk>BDRNOG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>Art III</gliederungsbez>
+            </gliederungseinheit>
+            <enbez>§ 1</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Mit Inkrafttreten dieses Gesetzes werden die Richter der Bundesdisziplinarkammern Richter des Bundesdisziplinargerichts und die Richter des Bundesdisziplinarhofs Richter des Bundesverwaltungsgerichts.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625154200" doknr="BJNR007259967BJNE000900319">
+        <metadaten>
+            <jurabk>BDRNOG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>Art III</gliederungsbez>
+            </gliederungseinheit>
+            <enbez>§ 2</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die Amtszeit der nach den bisherigen Vorschriften bestellten Beamtenbeisitzer endet mit dem auf das Inkrafttreten dieses Gesetzes folgenden 31. Dezember. Bis zu diesem Zeitpunkt gelten für die Heranziehung der Beamtenbeisitzer zu den einzelnen Sitzungen die bisherigen Vorschriften. Entsprechendes gilt, wenn während der in Satz 1 genannten Amtszeit die Bestellung neuer Beamtenbeisitzer für den Rest der Amtszeit erforderlich wird.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625154200" doknr="BJNR007259967BJNE001000319">
+        <metadaten>
+            <jurabk>BDRNOG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>Art III</gliederungsbez>
+            </gliederungseinheit>
+            <enbez>§ 3</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Innerhalb von zehn Jahren nach Inkrafttreten dieses Gesetzes ist der Beschluß des Präsidiums des Bundesverwaltungsgerichts über den Wechsel eines Richters von Disziplinarsenaten zu anderen Senaten, ausgenommen Wehrdienstsenaten, und umgekehrt nur wirksam, wenn ihm die Mehrheit der dem Präsidium angehörenden Mitglieder der beiden Senatsgruppen zugestimmt hat.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625154200" doknr="BJNR007259967BJNE001100319">
+        <metadaten>
+            <jurabk>BDRNOG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>Art III</gliederungsbez>
+            </gliederungseinheit>
+            <enbez>§ 4</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Der Richterrat und Präsidialrat beim Bundesdisziplinarhof fallen mit Inkrafttreten dieses Gesetzes fort.</P>
+                    <P>(2) Die Amtszeit des Richterrats und des Präsidialrats beim Bundesverwaltungsgericht endet mit Inkrafttreten dieses Gesetzes. Richterrat und Präsidialrat führen ihre Geschäfte bis zur Neuwahl des Richterrats oder Neubildung des Präsidialrats weiter.</P>
+                    <P>(3) Soll nach Inkrafttreten dieses Gesetzes ein Richter bei dem Bundesdisziplinargericht oder bei einem Truppendienstgericht oder bei dem Bundesverwaltungsgericht für eine Tätigkeit bei den Disziplinarsenaten oder den Wehrdienstsenaten ernannt werden, beginnt die Frist gemäß § 57 Abs. 2 des Deutschen Richtergesetzes erst mit der Neubildung des Präsidialrats beim Bundesverwaltungsgericht, spätestens einen Monat nach Inkrafttreten dieses Gesetzes.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625154200" doknr="BJNR007259967BJNE001200319">
+        <metadaten>
+            <jurabk>BDRNOG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>Art III</gliederungsbez>
+            </gliederungseinheit>
+            <enbez>§ 5</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Mit Inkrafttreten dieses Gesetzes gehen bei den Bundesdisziplinarkammern und beim Bundesdisziplinarhof anhängige Verfahren in der Lage, in der sie sich befinden, auf die zuständigen Gerichte über.</P>
+                    <P>(2) In Verfahren, in denen der Lauf einer Frist für ein Rechtsmittel oder einen Rechtsbehelf vor Inkrafttreten dieses Gesetzes begonnen hat, richtet sich die Frist nach den bisherigen Vorschriften.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625154200" doknr="BJNR007259967BJNE001300319">
+        <metadaten>
+            <jurabk>BDRNOG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>Art III</gliederungsbez>
+            </gliederungseinheit>
+            <enbez>§ 6</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Beamte, die vor Inkrafttreten dieses Gesetzes mit der Einstufung in eine niedrigere Dienstaltersstufe oder mit Versetzung in ein Amt derselben Laufbahn mit geringerem Endgrundgehalt bestraft worden sind, gelten als am Ersten des Monats, in dem das Urteil rechtskräftig geworden ist, in die Dienstaltersstufe zurückgetreten, in die sie zurückgestuft worden sind.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625154200" doknr="BJNR007259967BJNE001402310">
+        <metadaten>
+            <jurabk>BDRNOG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>Art III</gliederungsbez>
+                <gliederungstitel/>
+            </gliederungseinheit>
+            <enbez>§ 7</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Ist ein Beamter vor Inkrafttreten dieses Gesetzes mit Entfernung aus dem Dienst bestraft worden und ist ihm in dem Urteil oder in einem Beschluß ein Unterhaltsbeitrag auf Lebenszeit bewilligt worden, sind die §§ 64 und 96 der Bundesdisziplinarordnung in der nach Inkrafttreten dieses Gesetzes geltenden Fassung mit folgenden Maßgaben anzuwenden: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Hat der Verurteilte das 65. Lebensjahr vollendet oder ist er arbeits- oder berufsunfähig, darf ihm der Unterhaltsbeitrag nicht entzogen werden. Auf Antrag des Verurteilten ist der Unterhaltsbeitrag durch das Gericht angemessen zu erhöhen, falls er offensichtlich hinter dem Betrage zurückbleibt, den der Verurteilte als Rente erhalten würde, wenn er für die Zeiten nachversichert worden wäre, in denen er wegen der Beschäftigung im öffentlichen Dienst nach den Vorschriften des Sechsten Buches Sozialgesetzbuch in der gesetzlichen Rentenversicherung versicherungsfrei war oder der Versicherungspflicht nicht unterlag. Der Unterhaltsbeitrag darf das Ruhegehalt nicht übersteigen, das der Verurteilte in dem Zeitpunkt der Rechtskraft des Urteils erdient gehabt hätte. War der Unterhaltsbeitrag dem Verurteilten entzogen worden, ist er auf seinen Antrag nach den vorstehenden Vorschriften neu zu bewilligen. Anträge, die innerhalb einer Frist von sechs Monaten nach Inkrafttreten dieses Gesetzes gestellt werden, gelten als in diesem Zeitpunkt gestellt.</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Nach dem Tode des Verurteilten kann ein Antrag auf Bewilligung eines Unterhaltsbeitrages von den Hinterbliebenen gestellt werden. Nummer 1 Satz 2 bis 5 ist entsprechend anzuwenden. Im übrigen gelten die Vorschriften der §§ 53, 54, 61 und 62 des Beamtenversorgungsgesetzes sinngemäß; der Unterhaltsbeitrag gilt insoweit als Witwen- oder Waisengeld.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Auf Ruhestandsbeamte, die zur Aberkennung des Ruhegehalts verurteilt worden sind und nicht nachversichert werden, sowie auf ihre Hinterbliebenen ist Absatz 1 mit der Maßgabe anzuwenden, daß ein Unterhaltsbeitrag auch zu bewilligen ist, wenn dem Verurteilten durch Urteil oder Beschluß ein Unterhaltsbeitrag nicht bewilligt worden war.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625154200" doknr="BJNR007259967BJNE001500319">
+        <metadaten>
+            <jurabk>BDRNOG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>Art III</gliederungsbez>
+            </gliederungseinheit>
+            <enbez>§ 8</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die gegen einen Beamten verhängte Disziplinarmaßnahme der Einstufung in eine niedrigere Dienstaltersstufe oder der Versagung des Aufsteigens im Gehalt, die sich besoldungsrechtlich nicht mehr auswirkt, ist nach den Vorschriften der Bundesdisziplinarordnung zu tilgen, die für die Tilgung einer Gehaltskürzung gelten. Die Tilgung erstreckt sich nicht auf die Vorgänge, die der Festsetzung und dem Nachweis der Dienstbezüge dienen.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625154200" doknr="BJNR007259967BJNG000400319">
+        <metadaten>
+            <jurabk>BDRNOG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>040</gliederungskennzahl>
+                <gliederungsbez>Art IV</gliederungsbez>
+                <gliederungstitel/>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625154200" doknr="BJNR007259967BJNG000500319">
+        <metadaten>
+            <jurabk>BDRNOG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>050</gliederungskennzahl>
+                <gliederungsbez>Art V</gliederungsbez>
+                <gliederungstitel>Sonderregelung für Berlin</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Artikel II §§ 5 und 12 findet im Land Berlin keine Anwendung. Das gleiche gilt für Artikel II § 10 Nr. 1 Buchstabe c und Nr. 2 sowie für Artikel III § 3 und § 4 Abs. 3, soweit sich diese Vorschriften auf Wehrdienstsenate, Truppendienstgerichte, Richter eines Wehrdienstsenats, Richter der Truppendienstgerichte, Berufssoldaten oder Soldaten auf Zeit beziehen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625154200" doknr="BJNR007259967BJNG000600319">
+        <metadaten>
+            <jurabk>BDRNOG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>060</gliederungskennzahl>
+                <gliederungsbez>Art VI</gliederungsbez>
+                <gliederungstitel>Berlin-Klausel</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625154200" doknr="BJNR007259967BJNG000700319">
+        <metadaten>
+            <jurabk>BDRNOG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>070</gliederungskennzahl>
+                <gliederungsbez>Art VII</gliederungsbez>
+                <gliederungstitel>Inkrafttreten</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Dieses Gesetz tritt am 1. Oktober 1967 in Kraft. Artikel II § 13 tritt mit Wirkung vom 1. März 1957 in Kraft; Leistungen sind jedoch frühestens vom 1. Juli 1965 an zu gewähren.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+</dokumente>

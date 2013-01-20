@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625155220" doknr="BJNR005820969">
+    <norm builddate="20120625155220" doknr="BJNR005820969">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <amtabk>AFG</amtabk>
+            <ausfertigung-datum manuell="ja">1969-06-25</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1969, 582</zitstelle>
+            </fundstelle>
+            <langue>Arbeitsförderungsgesetz</langue>
+            <standangabe checked="ja">
+                <standtyp>Stand</standtyp>
+                <standkommentar>Zuletzt geändert durch Art. 8 G v. 16.12.1997 I 2970</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <fussnoten>
+                <Content>
+                    <P>(+++ Textnachweis Geltung ab: 1. 7.1983 +++)</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE004917308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>Inhaltsübersicht</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <table frame="none" pgwide="1" tocentry="%yes;">
+                            <tgroup align="left" char="" charoff="50" cols="4" colsep="0" rowsep="0">
+                                <colspec colname="col1" colnum="1" colwidth="5*"/>
+                                <colspec colname="col2" colnum="2" colwidth="15*"/>
+                                <colspec colname="col3" colnum="3" colwidth="80*"/>
+                                <colspec colname="col4" colnum="4" colwidth="20*"/>
+                                <tbody valign="top">
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">Erster Abschnitt:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Aufgaben (weggefallen)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="bottom">§§ 1 bis 3</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">Zweiter Abschnitt:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Beschäftigung und Arbeitsmarkt (weggefallen)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="bottom">§§ 4 bis 62d</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">
+                                            <I>Dritter Abschnitt:</I>
+                                        </entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Leistungen der Arbeitslosenversicherung zur Erhaltung und Schaffung von Arbeitsplätzen (weggefallen)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="bottom">§§ 63 bis 99</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">
+                                            <I> Vierter Abschnitt:</I>
+                                        </entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Leistungen bei Arbeitslosigkeit und bei Zahlungsunfähigkeit des Arbeitgebers (weggefallen)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="bottom">§§ 100 bis 141n</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">
+                                            <I>Fünfter Abschnitt:</I>
+                                        </entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gemeinsame Vorschriften für die Gewährung von Leistungen (weggefallen)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="bottom">§§ 142 bis 166c</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">Sechster Abschnitt:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Aufbringung der Mittel (weggefallen)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="bottom">§§ 167 bis 188</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">Siebenter Abschnitt:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Bundesanstalt für Arbeit</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="bottom">§§ 189 bis 224</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Erster Unterabschnitt:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Organisation (weggefallen)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="bottom">§§ 189 bis 214</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Zweiter Unterabschnitt:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Haushalt und Vermögen</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="bottom">§§ 215 bis 223</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Dritter Unterabschnitt:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Aufsicht (weggefallen)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="bottom">§ 224</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">Achter Abschnitt:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Straf- und Bußgeldvorschriften (weggefallen)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="bottom">§§ 225 bis 233b</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">
+                                            <I>Neunter Abschnitt:</I>
+                                        </entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Übergangs- und Schlußvorschriften</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="bottom">§§ 234 bis 251</entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNG000101308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>010</gliederungskennzahl>
+                <gliederungsbez>Erster Abschnitt</gliederungsbez>
+                <gliederungstitel>-</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE005101308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>(XXXX) §§ 1 bis 3</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNG000201308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>020</gliederungskennzahl>
+                <gliederungsbez>Zweiter Abschnitt</gliederungsbez>
+                <gliederungstitel>-</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE005408308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>(XXXX) §§ 4 bis 62d</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNG001501308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>Dritter Abschnitt</gliederungsbez>
+                <gliederungstitel>-</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE012106308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>(XXXX) §§ 63 bis 99</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNG002401308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>040</gliederungskennzahl>
+                <gliederungsbez>Vierter Abschnitt</gliederungsbez>
+                <gliederungstitel>-</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE015802308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>(XXXX) §§ 100 bis 141n</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNG002801308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>050</gliederungskennzahl>
+                <gliederungsbez>Fünfter Abschnitt</gliederungsbez>
+                <gliederungstitel>-</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE022003308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>(XXXX) §§ 142 bis 166c</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNG003601308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>060</gliederungskennzahl>
+                <gliederungsbez>Sechster Abschnitt</gliederungsbez>
+                <gliederungstitel>-</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE024702308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>(XXXX) §§ 167 bis 188</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNG004100314">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>070</gliederungskennzahl>
+                <gliederungsbez>Siebenter Abschnitt</gliederungsbez>
+                <gliederungstitel>Bundesanstalt für Arbeit</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNG004201308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>070010</gliederungskennzahl>
+                <gliederungsbez>Erster Unterabschnitt</gliederungsbez>
+                <gliederungstitel>-</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE027402308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>(XXXX) §§ 189 bis 214</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNG004300314">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>070020</gliederungskennzahl>
+                <gliederungsbez>Zweiter Unterabschnitt</gliederungsbez>
+                <gliederungstitel>Haushalt und Vermögen</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE030001308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>(XXXX) §§ 215 bis 220</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE030601308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>§ 221</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(weggefallen)</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE030701308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>(XXXX) §§ 222 u. 223</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNG004401308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>070030</gliederungskennzahl>
+                <gliederungsbez>Dritter Unterabschnitt</gliederungsbez>
+                <gliederungstitel>-</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE030904308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>§ 224</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(weggefallen)</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNG004501308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>080</gliederungskennzahl>
+                <gliederungsbez>Achter Abschnitt</gliederungsbez>
+                <gliederungstitel>-</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE031003308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>(XXXX) §§ 225 bis 233b</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNG004800314">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>090</gliederungskennzahl>
+                <gliederungsbez>Neunter Abschnitt</gliederungsbez>
+                <gliederungstitel>Übergangs- und Schlußvorschriften</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE032203308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>(XXXX) §§ 234 bis 243</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE042900308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>§ 242z</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die Vorschriften über die Aufbringung der Mittel für das Konkursausfallgeld sind auf die Unfallversicherungsträger, die für die nach § 125 Abs. 3, § 128 Abs. 4 und § 129 Abs. 3 des Siebten Buches Sozialgesetzbuch übernommenen Unternehmen zuständig sind, erstmals für die für das Jahr 1997 aufzubringenden Mittel anzuwenden.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE038202300">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>§ 244</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(weggefallen)</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE038202308">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>(XXXX) §§ 245 bis 251</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE033600314">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>Anlage</enbez>
+            <titel format="parat">zu § 44 Abs. 2</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE033700314">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>Anlage</enbez>
+            <titel format="parat">zu § 68 Abs. 4 und § 86 Abs. 1</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE033800314">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>Anlage</enbez>
+            <titel format="parat">zu § 112 Abs. 1</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155220" doknr="BJNR005820969BJNE033900314">
+        <metadaten>
+            <jurabk>AFG</jurabk>
+            <enbez>Anlage</enbez>
+            <titel format="parat">zu § 136 Abs. 2</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+</dokumente>

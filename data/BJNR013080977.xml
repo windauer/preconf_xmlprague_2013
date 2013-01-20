@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625145850" doknr="BJNR013080977">
+    <norm builddate="20120625145850" doknr="BJNR013080977">
+        <metadaten>
+            <jurabk>AWZustV 1977</jurabk>
+            <ausfertigung-datum manuell="ja">1977-07-18</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1977, 1308</zitstelle>
+            </fundstelle>
+            <langue>Verordnung zur Regelung von Zuständigkeiten im Außenwirtschaftsverkehr</langue>
+            <standangabe checked="ja">
+                <standtyp>Stand</standtyp>
+                <standkommentar>Zuletzt geändert durch Art. 3 G v. 27.7.2011 I 1595</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <fussnoten>
+                <Content>
+                    <P>
+                        <BR/>
+                        <pre xml:space="preserve">(+++ Textnachweis Geltung ab: 11.5.1983 +++)<BR/>
+                            <BR/>
+                        </pre>
+                    </P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625145850" doknr="BJNR013080977BJNE000100326">
+        <metadaten>
+            <jurabk>AWZustV 1977</jurabk>
+            <enbez>Eingangsformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Auf Grund des § 28 Abs. 3 des Außenwirtschaftsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 7400-1, veröffentlichten bereinigten Fassung, der zuletzt durch § 24 des Gesetzes vom 23. Juni 1976 (BGBl. I S. 1608, 2902) geändert worden ist, verordnet die Bundesregierung mit Zustimmung des Bundesrates:</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625145850" doknr="BJNR013080977BJNE000210310">
+        <metadaten>
+            <jurabk>AWZustV 1977</jurabk>
+            <enbez>§ 1</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) ist zuständig für die Erteilung von Verwaltungsakten und sonstige Amtshandlungen im Bereich des Waren- und Dienstleistungsverkehrs <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">auf Grund von Rechtsakten der Europäischen Gemeinschaften im Bereich des Außenwirtschaftsrechts,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">auf Grund von Rechtsverordnungen nach § 7 des Außenwirtschaftsgesetzes und</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">auf Grund von Rechtsverordnungen nach § 5 des Außenwirtschaftsgesetzes, soweit diese der Erfüllung von Verpflichtungen aus<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Beschlüssen des Sicherheitsrates der Vereinten Nationen nach Kapitel VII der Charta der Vereinten Nationen,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">gemeinsamen Standpunkten oder gemeinsamen Aktionen, die nach den Bestimmungen des Vertrages über die Europäische Union betreffend die gemeinsame Außen- und Sicherheitspolitik angenommen worden sind, oder</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Sofortmaßnahmen nach Artikel 228a des Vertrages zur Gründung der Europäischen Gemeinschaft</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">in den Bereichen der Warenausfuhr (Kapitel II der Außenwirtschaftsverordnung), der Wareneinfuhr (§ 10 Abs. 1 des Außenwirtschaftsgesetzes und Kapitel III der Außenwirtschaftsverordnung), wenn es sich um Waren der gewerblichen Wirtschaft handelt.</LA>
+                            </DD>
+                        </DL>dienen.</P>
+                    <P>(2) (weggefallen)</P>
+                    <P>(3) (weggefallen)</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625145850" doknr="BJNR013080977BJNE000305377">
+        <metadaten>
+            <jurabk>AWZustV 1977</jurabk>
+            <enbez>§ 2</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(weggefallen)</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625145850" doknr="BJNR013080977BJNE000501308">
+        <metadaten>
+            <jurabk>AWZustV 1977</jurabk>
+            <enbez>§ 3</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+</dokumente>

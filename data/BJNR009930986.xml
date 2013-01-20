@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625152827" doknr="BJNR009930986">
+    <norm builddate="20120625152827" doknr="BJNR009930986">
+        <metadaten>
+            <jurabk>BBesG§26Abs4Nr2VÄndV 2</jurabk>
+            <ausfertigung-datum manuell="ja">1986-07-03</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1986, 993</zitstelle>
+            </fundstelle>
+            <langue>Zweite Verordnung zur Änderung der Verordnung zu § 26 Abs. 4 Nr. 2 des
+Bundesbesoldungsgesetzes</langue>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten>
+                <Content>
+                    <P>(+++ Textnachweis ab: 12.7.1986 +++)</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152827" doknr="BJNR009930986BJNE000100308">
+        <metadaten>
+            <jurabk>BBesG§26Abs4Nr2VÄndV 2</jurabk>
+            <enbez>Eingangsformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Auf Grund des § 26 Abs. 4 Nr. 2 des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 13. November 1980 (BGBl. I S. 2081) verordnet die Bundesregierung mit Zustimmung des Bundesrates:</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152827" doknr="BJNR009930986BJNE000200308">
+        <metadaten>
+            <jurabk>BBesG§26Abs4Nr2VÄndV 2</jurabk>
+            <enbez>Art 1</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152827" doknr="BJNR009930986BJNE000300308">
+        <metadaten>
+            <jurabk>BBesG§26Abs4Nr2VÄndV 2</jurabk>
+            <enbez>Art 2</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die Zahl der Stellen, die sich für die einzelnen Fallgruppen des Artikels 1 Nr. 1 Buchstabe b und Nr. 2 am Tage des Inkrafttretens dieser Verordnung in der jeweils höchsten Besoldungsgruppe ergibt, darf bis zu einer Anpassung der in dieser Verordnung bestimmten Bewertungsmerkmale nicht überschritten werden.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152827" doknr="BJNR009930986BJNE000400308">
+        <metadaten>
+            <jurabk>BBesG§26Abs4Nr2VÄndV 2</jurabk>
+            <enbez>Art 3</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 82 des Bundesbesoldungsgesetzes auch im Land Berlin.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152827" doknr="BJNR009930986BJNE000500308">
+        <metadaten>
+            <jurabk>BBesG§26Abs4Nr2VÄndV 2</jurabk>
+            <enbez>Art 4</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+</dokumente>

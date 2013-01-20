@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625152212" doknr="BJNR004670977">
+    <norm builddate="20120625152212" doknr="BJNR004670977">
+        <metadaten>
+            <jurabk>AWLwZustV</jurabk>
+            <ausfertigung-datum manuell="ja">1977-03-17</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1977, 467</zitstelle>
+            </fundstelle>
+            <langue>Verordnung zur Regelung von Zuständigkeiten im Außenwirtschaftsverkehr
+mit Erzeugnissen der Ernährungs- und Landwirtschaft</langue>
+            <standangabe checked="ja">
+                <standtyp>Stand</standtyp>
+                <standkommentar>Zuletzt geändert durch Art. 27 G v. 2.8.1994 I 2018</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <fussnoten>
+                <Content>
+                    <P>(+++ Textnachweis Geltung ab: 1.10.1980 +++)</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152212" doknr="BJNR004670977BJNE000100326">
+        <metadaten>
+            <jurabk>AWLwZustV</jurabk>
+            <enbez>Eingangsformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Auf Grund des § 28 Abs. 2b des Außenwirtschaftsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 7400-1, veröffentlichten bereinigten Fassung, der zuletzt durch das Gesetz über die Neuorganisation der Marktordnungsstellen vom 23. Juni 1976 (BGBl. I S. 1608) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Wirtschaft verordnet:</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152212" doknr="BJNR004670977BJNE000201308">
+        <metadaten>
+            <jurabk>AWLwZustV</jurabk>
+            <enbez>§ 1</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Für den Waren- und Dienstleistungsverkehr nach den §§ 5, 6, 7 bis 16 des Außenwirtschaftsgesetzes mit anderen als den in § 28 Abs. 2a des Außenwirtschaftsgesetzes genannten Erzeugnissen der Ernährungs- und Landwirtschaft und mit Erzeugnissen, für die der Rat oder die Kommission der Europäischen Gemeinschaften in Ergänzung oder zur Sicherung der Regelungen einer gemeinsamen Marktorganisation Vorschriften erläßt, sind ausschließlich die Bundesanstalt für Landwirtschaft und Ernährung zuständig.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152212" doknr="BJNR004670977BJNE000300326">
+        <metadaten>
+            <jurabk>AWLwZustV</jurabk>
+            <enbez>§ 2</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152212" doknr="BJNR004670977BJNE000501308">
+        <metadaten>
+            <jurabk>AWLwZustV</jurabk>
+            <enbez>§ 3</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152212" doknr="BJNR004670977BJNE000600326">
+        <metadaten>
+            <jurabk>AWLwZustV</jurabk>
+            <enbez>Schlußformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <SP>Der Bundesminister für Ernährung, Landwirtschaft und Forsten</SP>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+</dokumente>

@@ -1,0 +1,2203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625155823" doknr="BJNR000200008">
+    <norm builddate="20120625155823" doknr="BJNR000200008">
+        <metadaten>
+            <jurabk>AutomErprobV</jurabk>
+            <ausfertigung-datum manuell="ja">2008-01-08</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>2008, 2</zitstelle>
+            </fundstelle>
+            <langue>Verordnung über die Entwicklung und Erprobung der Berufsausbildung in der Automatenwirtschaft <FnR ID="f770588_01_BJNR000200008"/>
+            </langue>
+            <standangabe checked="ja">
+                <standtyp>Aufh</standtyp>
+                <standkommentar>Die V tritt gem. § 14 am 31.7.2013 außer Kraft</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Footnotes>
+                    <Footnote FnZ="*" Group="column" ID="f770588_01_BJNR000200008" Pos="normal" Postfix=")">
+                        <noindex>Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 6 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden als Beilage zum Bundesanzeiger veröffentlicht.</noindex>
+                    </Footnote>
+                </Footnotes>
+            </text>
+            <fussnoten>
+                <Content>
+                    <P>
+                        <BR/>
+                        <pre xml:space="preserve">(+++ Textnachweis ab: 1.8.2008 +++)<BR/>
+                            <BR/>
+                        </pre>
+                    </P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155823" doknr="BJNR000200008BJNE000100000">
+        <metadaten>
+            <jurabk>AutomErprobV</jurabk>
+            <enbez>Eingangsformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Auf Grund des § 6 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), der durch Artikel 232 Nr. 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155823" doknr="BJNR000200008BJNE000200000">
+        <metadaten>
+            <jurabk>AutomErprobV</jurabk>
+            <enbez>§ 1</enbez>
+            <titel format="XML">Ausnahmeregelung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Abweichend von § 4 Abs. 3 des Berufsbildungsgesetzes dürfen Jugendliche unter 18 Jahren nach den folgenden Vorschriften ausgebildet werden.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155823" doknr="BJNR000200008BJNE000300000">
+        <metadaten>
+            <jurabk>AutomErprobV</jurabk>
+            <enbez>§ 2</enbez>
+            <titel format="XML">Zweck der Entwicklung und Erprobung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Während der Ausbildung nach § 1 sollen zur Vorbereitung einer Ausbildungsordnung nach § 4 Abs. 1 des Berufsbildungsgesetzes insbesondere Ausbildungsinhalte und Struktur des neuen Ausbildungsberufes Fachkraft für Automatenservice und des darauf aufbauenden Ausbildungsberufes Automatenfachmann/Automatenfachfrau auf die Möglichkeiten ihrer Vermittlung in den Ausbildungsbetrieben erprobt werden.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155823" doknr="BJNR000200008BJNE000400000">
+        <metadaten>
+            <jurabk>AutomErprobV</jurabk>
+            <enbez>§ 3</enbez>
+            <titel format="XML">Sachverständigenbeirat</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Aus Vertretern der beteiligten Bundesministerien, des Bundesinstituts für Berufsbildung, der Ständigen Konferenz der Kultusminister der Länder, des Deutschen Gewerkschaftsbundes und des Kuratoriums der Deutschen Wirtschaft für Berufsbildung ist ein Sachverständigenbeirat zur Beobachtung der Erprobung zu bilden. Dieser kann auch an der Vorbereitung einer Ausbildungsordnung nach § 4 Abs. 1 des Berufsbildungsgesetzes beteiligt werden.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155823" doknr="BJNR000200008BJNE000500000">
+        <metadaten>
+            <jurabk>AutomErprobV</jurabk>
+            <enbez>§ 4</enbez>
+            <titel format="XML">Dauer der Berufsausbildung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die Ausbildung dauert im Ausbildungsberuf Fachkraft für Automatenservice zwei Jahre und im Ausbildungsberuf Automatenfachmann/Automatenfachfrau drei Jahre.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155823" doknr="BJNR000200008BJNE000600000">
+        <metadaten>
+            <jurabk>AutomErprobV</jurabk>
+            <enbez>§ 5</enbez>
+            <titel format="XML">Ausbildungsrahmenplan, Ausbildungsberufsbild</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Gegenstand der Berufsausbildung für den Ausbildungsberuf Fachkraft für Automatenservice sind mindestens die im Ausbildungsrahmenplan (Anlage 1), für den Ausbildungsberuf Automatenfachmann/Automatenfachfrau die im Ausbildungsrahmenplan (Anlage 2) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.</P>
+                    <P>(2) Die Berufsausbildung zur Fachkraft für Automatenservice gliedert sich wie folgt (Ausbildungsberufsbild):<BR/>
+                        <SP>
+                            <BR/>Abschnitt A</SP>
+                        <BR/>
+                        <BR/> Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten: <DL Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA>Automatenservice,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA>Technische Kommunikation,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA>Warenbewirtschaftung,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA>Abrechnungen und Auswertungen von Automatenaufstellplätzen,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA>Verkaufsförderung,</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA>Rechtliche Rahmenbedingungen für die Automatenwirtschaft;</LA>
+                            </DD>
+                        </DL>
+                        <SP>
+                            <BR/>Abschnitt B</SP>
+                        <BR/>
+                        <BR/> Integrative Fertigkeiten, Kenntnisse und Fähigkeiten: <DL Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA>Berufsbildung, Arbeits- und Tarifrecht,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA>Aufbau und Organisation des Ausbildungsbetriebes,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA>Sicherheit und Gesundheitsschutz bei der Arbeit,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA>Umweltschutz,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA>Arbeitsorganisation, Kommunikation, Qualitätssicherung.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(3) Die Berufsausbildung zum Automatenfachmann/zur Automatenfachfrau gliedert sich wie folgt (Ausbildungsberufsbild):<BR/>
+                        <SP>
+                            <BR/>Abschnitt A</SP>
+                        <BR/>
+                        <BR/> Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten: <DL Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA>Automatenservice,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA>Technische Kommunikation,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA>Warenbewirtschaftung,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA>Abrechnungen und Auswertungen von Automatenaufstellplätzen,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA>Verkaufsförderung,</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA>Rechtliche Rahmenbedingungen für die Automatenwirtschaft;</LA>
+                            </DD>
+                        </DL>
+                        <SP>
+                            <BR/>Abschnitt B</SP>
+                        <BR/>
+                        <BR/> Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in einer der Wahlqualifikationen <DL Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA>Kaufmännische Geschäftsprozesse in der Automatenwirtschaft oder</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA>Installation und Inbetriebnahme von Automaten</LA>
+                            </DD>
+                        </DL>sowie zwei der folgenden Wahlqualifikationen: <DL Type="arabic">
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA>Marketing,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA>Personalwirtschaft,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA>Instandhaltung von Automaten,</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA>Informations- und Kommunikationstechnik für Automaten;</LA>
+                            </DD>
+                        </DL>
+                        <SP>
+                            <BR/>Abschnitt C</SP>
+                        <BR/>
+                        <BR/> Integrative Fertigkeiten, Kenntnisse und Fähigkeiten: <DL Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA>Berufsbildung, Arbeits- und Tarifrecht,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA>Aufbau und Organisation des Ausbildungsbetriebes,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA>Sicherheit und Gesundheitsschutz bei der Arbeit,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA>Umweltschutz,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA>Arbeitsorganisation, Kommunikation, Qualitätssicherung,</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA>Unternehmerisches Handeln.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155823" doknr="BJNR000200008BJNE000700000">
+        <metadaten>
+            <jurabk>AutomErprobV</jurabk>
+            <enbez>§ 6</enbez>
+            <titel format="XML">Durchführung der Berufsausbildung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 bis 11 nachzuweisen.</P>
+                    <P>(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.</P>
+                    <P>(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155823" doknr="BJNR000200008BJNE000800000">
+        <metadaten>
+            <jurabk>AutomErprobV</jurabk>
+            <enbez>§ 7</enbez>
+            <titel format="XML">Zwischenprüfung für den Ausbildungsberuf Fachkraft für Automatenservice</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zu Beginn des zweiten Ausbildungsjahres stattfinden.</P>
+                    <P>(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 1 für das erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.</P>
+                    <P>(3) Die Zwischenprüfung findet im Prüfungsbereich Servicearbeiten an Automaten statt.</P>
+                    <P>(4) Für den Prüfungsbereich Servicearbeiten an Automaten bestehen folgende Vorgaben: <DL Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA>Der Prüfling soll nachweisen, dass er Aufgabenstellungen aus den Gebieten Auslesen, Säubern, Entleeren, Auffüllen und Warten von Automaten lösen kann,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA>der Prüfling soll schriftliche Aufgaben anhand praxisbezogener Fälle bearbeiten,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA>die Prüfungszeit beträgt 90 Minuten.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155823" doknr="BJNR000200008BJNE000900000">
+        <metadaten>
+            <jurabk>AutomErprobV</jurabk>
+            <enbez>§ 8</enbez>
+            <titel format="XML">Abschlussprüfung für den Ausbildungsberuf Fachkraft für Automatenservice</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.</P>
+                    <P>(2) Die Abschlussprüfung besteht aus den Prüfungsbereichen: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Automatenbetreuung,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Automatenbewirtschaftung,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kundenkommunikation,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Wirtschafts- und Sozialkunde.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(3) Für den Prüfungsbereich Automatenbetreuung bestehen folgende Vorgaben: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Der Prüfling soll nachweisen, dass er <DL Font="normal" Type="alpha">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">den Automatenservice kundenorientiert planen, durchführen, kontrollieren und dokumentieren,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">die Funktionsfähigkeit von Automaten überprüfen und sicherstellen,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">technische Kommunikationsmittel anwenden,</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz sowie rechtliche Rahmenbedingungen berücksichtigen</LA>
+                                        </DD>
+                                    </DL>kann;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">hierfür sind aus folgenden Tätigkeiten zwei auszuwählen, wobei der betriebliche Ausbildungsschwerpunkt zugrunde zu legen ist: <DL Font="normal" Type="alpha">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Aufstellen und Anschließen betriebsfertiger Automaten,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Auslesen, Befüllen und Entleeren,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Warten und Reinigen von Automaten, einschließlich Austausch von Verschleißteilen,</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Fehlersuche und Beseitigung von Störungen;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">der Prüfling soll zwei Arbeitsproben durchführen;</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Prüfungszeit beträgt 90 Minuten.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(4) Für den Prüfungsbereich Automatenbewirtschaftung bestehen folgende Vorgaben: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Der Prüfling soll nachweisen, dass er <DL Font="normal" Type="alpha">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Automatenabrechnungen und Kassenabschlüsse durchführen,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Automateneinsatz unter wirtschaftlichen Kriterien bewerten und Optimierungsvorschläge entwickeln,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Maßnahmen zur Kundenbindung und zur Kundengewinnung umsetzen,</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">den Bedarf an Waren und Ersatzteilen ermitteln</LA>
+                                        </DD>
+                                    </DL>kann;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">der Prüfling soll schriftliche Aufgaben anhand praxisbezogener Fälle bearbeiten;</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Prüfungszeit beträgt 90 Minuten.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(5) Für den Prüfungsbereich Kundenkommunikation bestehen folgende Vorgaben: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Der Prüfling soll nachweisen, dass er <DL Font="normal" Type="alpha">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">die situationsgerechte Information und Beratung von Kunden darstellen,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Möglichkeiten der Konfliktlösung aufzeigen,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Reklamationen und Beschwerden bearbeiten</LA>
+                                        </DD>
+                                    </DL>kann;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">der Prüfling soll schriftliche Aufgaben anhand praxisbezogener Fälle bearbeiten;</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Prüfungszeit beträgt 60 Minuten.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">der Prüfling soll schriftliche Aufgaben bearbeiten;</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Prüfungszeit beträgt 60 Minuten.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(7) Die Prüfungsbereiche sind wie folgt zu gewichten: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Automatenbetreuung <Split Leader="0"/>50 Prozent,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Automatenbewirtschaftung <Split Leader="0"/>20 Prozent,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kundenkommunikation <Split Leader="0"/>20 Prozent,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Wirtschafts- und Sozialkunde <Split Leader="0"/>10 Prozent.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(8) Die Abschlussprüfung ist bestanden, wenn die Leistungen <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">im Gesamtergebnis mit mindestens „ausreichend“,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">im Prüfungsbereich Automatenbewirtschaftung mit mindestens „ausreichend“,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">in mindestens zwei der übrigen Prüfungsbereiche mit mindestens „ausreichend“ und</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">in keinem Prüfungsbereich mit „ungenügend“</LA>
+                            </DD>
+                        </DL>bewertet worden sind.</P>
+                    <P>(9) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als ausreichend bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2&#160;:&#160;1 zu gewichten.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155823" doknr="BJNR000200008BJNE001000000">
+        <metadaten>
+            <jurabk>AutomErprobV</jurabk>
+            <enbez>§ 9</enbez>
+            <titel format="XML">Abschlussprüfung für den Ausbildungsberuf Automatenfachmann/Automatenfachfrau</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Abschlussprüfung besteht aus den zeitlich auseinander fallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.</P>
+                    <P>(2) Bei der Ermittlung des Gesamtergebnisses werden Teil 1 der Abschlussprüfung mit 40 Prozent und Teil 2 der Abschlussprüfung mit 60 Prozent gewichtet.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155823" doknr="BJNR000200008BJNE001100000">
+        <metadaten>
+            <jurabk>AutomErprobV</jurabk>
+            <enbez>§ 10</enbez>
+            <titel format="XML">Teil 1 der Abschlussprüfung für den Ausbildungsberuf Automatenfachmann/Automatenfachfrau</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Teil 1 der Abschlussprüfung soll am Ende des zweiten Ausbildungsjahres stattfinden.</P>
+                    <P>(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 2 für die ersten zwei Ausbildungsjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.</P>
+                    <P>(3) Teil 1 der Abschlussprüfung besteht aus den Prüfungsbereichen: <DL Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA>Automatenbetreuung,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA>Automatenbewirtschaftung,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA>Kundenkommunikation.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(4) Für den Prüfungsbereich Automatenbetreuung bestehen folgende Vorgaben: <DL Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA>Der Prüfling soll nachweisen, dass er <DL Type="alpha">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA>den Automatenservice kundenorientiert planen, durchführen, kontrollieren und dokumentieren,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA>die Funktionsfähigkeit von Automaten überprüfen und sicherstellen,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA>technische Kommunikationsmittel anwenden,</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA>Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz sowie rechtliche Rahmenbedingungen berücksichtigen</LA>
+                                        </DD>
+                                    </DL>kann;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA>hierfür sind aus folgenden Tätigkeiten zwei auszuwählen, wobei der betriebliche Ausbildungsschwerpunkt zugrunde zu legen ist: <DL Type="alpha">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA>Aufstellen und Anschließen betriebsfertiger Automaten,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA>Auslesen, Befüllen und Entleeren,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA>Warten und Reinigen von Automaten, einschließlich Austausch von Verschleißteilen,</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA>Fehlersuche und Beseitigung von Störungen;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA>der Prüfling soll zwei Arbeitsproben durchführen;</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA>die Prüfungszeit beträgt insgesamt 90 Minuten.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(5) Für den Prüfungsbereich Automatenbewirtschaftung bestehen folgende Vorgaben: <DL Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA>Der Prüfling soll nachweisen, dass er <DL Type="alpha">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA>Automatenabrechnungen und Kassenabschlüsse durchführen,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA>Automateneinsatz unter wirtschaftlichen Kriterien bewerten und Optimierungsvorschläge entwickeln,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA>Maßnahmen zur Kundenbindung und zur Kundengewinnung umsetzen,</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA>den Bedarf an Waren und Ersatzteilen ermitteln</LA>
+                                        </DD>
+                                    </DL>kann;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA>der Prüfling soll schriftliche Aufgaben anhand praxisbezogener Fälle bearbeiten;</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA>die Prüfungszeit beträgt 90 Minuten.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(6) Für den Prüfungsbereich Kundenkommunikation bestehen folgende Vorgaben: <DL Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA>Der Prüfling soll nachweisen, dass er <DL Type="alpha">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA>die situationsgerechte Information und Beratung von Kunden darstellen,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA>Möglichkeiten der Konfliktlösung aufzeigen,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA>Reklamationen und Beschwerden bearbeiten</LA>
+                                        </DD>
+                                    </DL>kann;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA>der Prüfling soll schriftliche Aufgaben anhand praxisbezogener Fälle bearbeiten;</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA>die Prüfungszeit beträgt 60 Minuten.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155823" doknr="BJNR000200008BJNE001200000">
+        <metadaten>
+            <jurabk>AutomErprobV</jurabk>
+            <enbez>§ 11</enbez>
+            <titel format="XML">Teil 2 der Abschlussprüfung für den Ausbildungsberuf Automatenfachmann/Automatenfachfrau</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.</P>
+                    <P>(2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen: <DL Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA>Automatenwirtschaft,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA>Wirtschafts- und Sozialkunde.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(3) Für den Prüfungsbereich Automatenwirtschaft bestehen folgende Vorgaben: <DL Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA>Der Prüfling soll nachweisen, dass er <DL Type="alpha">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA>Arbeitsabläufe ziel- und kundenorientiert selbstständig planen,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA>Arbeitsaufträge bearbeiten und Lösungen entwickeln,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA>Arbeitsergebnisse qualitätsorientiert kontrollieren</LA>
+                                        </DD>
+                                    </DL>kann;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA>hierfür ist unter Berücksichtigung der im Ausbildungsvertrag festgelegten Wahlqualifikationen aus folgenden Gebieten auszuwählen: <DL Type="alpha">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA>Installieren und Reparieren von Automaten,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA>Bearbeiten von kaufmännischen Geschäftsvorgängen;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA>der Prüfling soll bis zu zwei Prüfungsprodukte erstellen und seine Arbeit mit branchenüblichen Unterlagen dokumentieren sowie eine schriftliche Arbeitsplanung durchführen;</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA>die Prüfungszeit beträgt insgesamt fünf Stunden.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(4) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben: <DL Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA>Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA>der Prüfling soll schriftliche Aufgaben bearbeiten;</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA>die Prüfungszeit beträgt 60 Minuten.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155823" doknr="BJNR000200008BJNE001300000">
+        <metadaten>
+            <jurabk>AutomErprobV</jurabk>
+            <enbez>§ 12</enbez>
+            <titel format="XML">Gewichtungs- und Bestehensregelung für den Ausbildungsberuf Automatenfachmann/Automatenfachfrau</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Prüfungsbereiche sind wie folgt zu gewichten: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Automatenbetreuung&#160;&#160;&#160;<Split Leader="0"/>20 Prozent,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Automatenbewirtschaftung&#160;&#160;&#160;<Split Leader="0"/>10 Prozent,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kundenkommunikation&#160;&#160;&#160;<Split Leader="0"/>10 Prozent,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Automatenwirtschaft&#160;&#160;&#160;<Split Leader="0"/>50 Prozent,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Wirtschafts- und Sozialkunde&#160;&#160;&#160;<Split Leader="0"/>10 Prozent.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">im Gesamtergebnis von Teil 1 und 2 der Abschlussprüfung mit mindestens „ausreichend“,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">im Prüfungsbereich Automatenwirtschaft von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“</LA>
+                            </DD>
+                        </DL>bewertet worden sind.</P>
+                    <P>(3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als ausreichend bewerteten Prüfungsbereiche in Teil 2 der Abschlussprüfung, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2&#160;:&#160;1 zu gewichten.</P>
+                    <P>(4) Ist die Prüfung nach Absatz 2 nicht bestanden, erfüllen jedoch die Ergebnisse von Teil 1 der Abschlussprüfung und das Ergebnis im Prüfungsbereich Wirtschafts- und Sozialkunde nach § 11 Abs. 4 die Anforderungen nach § 8, so hat der Prüfling den Abschluss Fachkraft für Automatenservice erreicht.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155823" doknr="BJNR000200008BJNE001400000">
+        <metadaten>
+            <jurabk>AutomErprobV</jurabk>
+            <enbez>§ 13</enbez>
+            <titel format="XML">Fortsetzung der Berufsausbildung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Nach erfolgreichem Abschluss der Berufsausbildung zur Fachkraft für Automatenservice kann die Berufsausbildung im Ausbildungsberuf Automatenfachmann/Automatenfachfrau nach den Vorschriften des dritten Ausbildungsjahres fortgesetzt werden.</P>
+                    <P>(2) Bei Fortsetzung der Berufsausbildung im dritten Ausbildungsjahr zum Automatenfachmann/zur Automatenfachfrau gelten die in der Abschlussprüfung im Ausbildungsberuf Fachkraft für Automatenservice erzielten Leistungen mit Ausnahmen der Leistungen im Prüfungsbereich Wirtschafts- und Sozialkunde als Teil 1 der Abschlussprüfung nach § 10.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155823" doknr="BJNR000200008BJNE001500000">
+        <metadaten>
+            <jurabk>AutomErprobV</jurabk>
+            <enbez>§ 14</enbez>
+            <titel format="XML">Inkrafttreten, Außerkrafttreten</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Diese Verordnung tritt am 1. August 2008 in Kraft und am 31. Juli 2013 außer Kraft.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155823" doknr="BJNR000200008BJNE001700000">
+        <metadaten>
+            <jurabk>AutomErprobV</jurabk>
+            <enbez>Anlage 1</enbez>
+            <titel format="XML">(zu § 5)<BR/>Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Automatenservice</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <kommentar typ="Fundstelle">(Fundstelle: BGBl. I 2008, 7 - 10)<BR/>
+                    </kommentar>
+                    <P>
+                        <B>Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten</B>
+                    </P>
+                    <table frame="all" pgwide="1" tabstyle="anlage1a" tocentry="%yes;">
+                        <tgroup align="left" char="" charoff="50" cols="5" colsep="1" rowsep="1">
+                            <colspec colname="col1" colnum="1" colwidth="0.8*"/>
+                            <colspec colname="col2" colnum="2" colwidth="3.40*"/>
+                            <colspec colname="col3" colnum="3" colwidth="5.60*"/>
+                            <colspec colname="col4" colnum="4" colwidth="1.20*"/>
+                            <colspec colname="col5" colnum="5" colwidth="1.20*"/>
+                            <thead valign="bottom">
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" valign="middle">Lfd.<BR/> Nr.</entry>
+                                    <entry VJ="1" align="center" colname="col2" colsep="1" morerows="1" valign="middle">Teil des<BR/> Ausbildungsberufsbildes</entry>
+                                    <entry VJ="1" align="center" colname="col3" colsep="1" morerows="1" valign="middle">Zu vermittelnde<BR/> Fertigkeiten, Kenntnisse und Fähigkeiten</entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" nameend="col5" namest="col4" valign="middle">Zeitliche Richtwerte<BR/> in Wochen<BR/> im Ausbildungsjahr</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" valign="middle">1</entry>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" valign="middle">2</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" valign="middle">1</entry>
+                                    <entry VJ="1" align="center" colname="col2" colsep="1" valign="middle">2</entry>
+                                    <entry VJ="1" align="center" colname="col3" colsep="1" valign="middle">3</entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" nameend="col5" namest="col4" valign="middle">4</entry>
+                                </row>
+                            </thead>
+                            <tbody valign="top">
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" valign="top">1</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" morerows="1" valign="top">Automatenservice<BR/> (§ 5 Abs. 2 Abschnitt A Nr. 1)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Automaten nach Aufbau, Funktion und Art ihrer Dienstleistung unterscheiden</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Zahlungssysteme unterscheiden, Zahlungsmittel übernehmen</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Waren übernehmen, auf Vollständigkeit, Vollzähligkeit und Unversehrtheit kontrollieren</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Füllstände prüfen, Automaten bedarfsgerecht befüllen und leeren</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Sicht- und Funktionskontrolle an Automaten durchführen</LA>
+                                            </DD>
+                                            <DT>f)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Handbücher und Bedienungshinweise nutzen</LA>
+                                            </DD>
+                                            <DT>g)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Reinigungs- und Wartungsarbeiten durchführen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" valign="middle">18</entry>
+                                    <entry VJ="1" align="left" colname="col5" colsep="1" valign="top"/>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>h)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Störungen, Qualitätsmängel und deren Ursachen erkennen, vor Ort beheben und dokumentieren</LA>
+                                            </DD>
+                                            <DT>i)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Maßnahmen zum Manipulationsschutz ergreifen</LA>
+                                            </DD>
+                                            <DT>j)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Explosionszeichnungen, Funktions-, Aufbau- und Anschlusspläne sowie Blockschaltbilder lesen und anwenden</LA>
+                                            </DD>
+                                            <DT>k)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Verschleißteile erneuern, mechanische Baugruppen und Bauteile austauschen</LA>
+                                            </DD>
+                                            <DT>l)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">betriebsfertige Automaten aufstellen und mit vorhandenen Anschlüssen verbinden</LA>
+                                            </DD>
+                                            <DT>m)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Maßnahmen zur Verkehrssicherheit am Aufstellplatz der Automaten ergreifen</LA>
+                                            </DD>
+                                            <DT>n)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Kunden die Funktion von Automaten erklären und sie in die Bedienung einweisen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" valign="middle">19</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" valign="top">2</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" morerows="1" valign="top">Technische Kommunikation<BR/> (§ 5 Abs. 2 Abschnitt A Nr. 2)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" rowsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Informationssysteme nutzen, Software einsetzen, Peripheriegeräte anschließen, Daten eingeben, sichern und pflegen</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Regelungen zum Datenschutz und zur Datensicherheit einhalten</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" valign="middle">3</entry>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" valign="top"/>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" rowsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">digitale und analoge Prüf- und Messdaten lesen und auswerten</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Protokolle und Berichte anfertigen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" valign="middle">4</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" valign="top">3</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" valign="top">Warenbewirtschaftung<BR/> (§ 5 Abs. 2 Abschnitt A Nr. 3)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">automatengerechte Produkte unterscheiden</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Bedarf an Waren und Ersatzteilen ermitteln und nach Verwendungszwecken zusammenstellen</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Warenbestände und Warenzustand prüfen, Ablauffristen berücksichtigen, Fehlbestände ergänzen</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Waren und Ersatzteile lagern, abrufen und rückführen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" valign="middle">14</entry>
+                                    <entry VJ="1" align="left" colname="col5" colsep="1" valign="top"/>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" valign="top">4</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" morerows="1" valign="top">Abrechnungen und Aus-<BR/> wertungen von Automatenaufstellplätzen<BR/> (§ 5 Abs. 2 Abschnitt A Nr. 4)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Kassenbestände auslesen und dokumentieren, Zahlungsmittel prüfen, Soll-Ist-Vergleich durchführen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" valign="middle">6</entry>
+                                    <entry VJ="1" align="left" colname="col5" colsep="1" valign="top"/>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Automatenabrechnungen und Kassenabschlüsse durchführen</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Geldbewegungen dokumentieren</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Statistiken und betriebliche Kennziffern auswerten</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Automateneinsätze bewerten, Nachkalkulationen durchführen, Schlussfolgerungen ableiten und Optimierungen vorschlagen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" valign="middle">12</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" valign="top">5</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" valign="top">Verkaufsförderung<BR/> (§ 5 Abs. 2 Abschnitt A Nr. 5)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Maßnahmen zur Kundenbindung und zur Kundengewinnung umsetzen</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">über Leistungsangebote informieren, Kundenwünsche ermitteln</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Verbesserungen des Leistungsangebotes vorschlagen</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Informations- und Beratungsgespräche führen</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Beschwerden und Reklamationen entgegennehmen und bearbeiten</LA>
+                                            </DD>
+                                            <DT>f)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Werbeaktionen umsetzen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" valign="middle">10</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" valign="top">6</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" morerows="1" valign="top">Rechtliche Rahmenbedingungen für die Automatenwirtschaft<BR/> (§ 5 Abs. 2 Abschnitt A Nr. 6)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Sicherheitsbestimmungen und Unfallverhütungsvorschriften umsetzen</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Einhaltung jugendschutzrechtlicher Bestimmungen kontrollieren</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Einhaltung hygienerechtlicher Bestimmungen kontrollieren</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">datenschutzrechtliche Bestimmungen beachten</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" valign="middle">5</entry>
+                                    <entry VJ="1" align="left" colname="col5" colsep="1" valign="top"/>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">gewerbe- und steuerrechtliche Vorschriften beachten</LA>
+                                            </DD>
+                                            <DT>f)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">bau-, straßen- und wegerechtliche Vorschriften bei der Automatenaufstellung einhalten</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" valign="middle">3</entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                    <P>
+                        <B>Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten</B>
+                    </P>
+                    <table frame="all" pgwide="1" tabstyle="anlage1b" tocentry="%yes;">
+                        <tgroup align="left" char="" charoff="50" cols="5" colsep="1" rowsep="1">
+                            <colspec colname="col1" colnum="1" colwidth="0.8*"/>
+                            <colspec colname="col2" colnum="2" colwidth="3.40*"/>
+                            <colspec colname="col3" colnum="3" colwidth="5.60*"/>
+                            <colspec colname="col4" colnum="4" colwidth="1.48*"/>
+                            <colspec colname="col5" colnum="5" colwidth="1.30*"/>
+                            <thead valign="bottom">
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" valign="middle">Lfd.<BR/> Nr.</entry>
+                                    <entry VJ="1" align="center" colname="col2" colsep="1" morerows="1" valign="middle">Teil des<BR/> Ausbildungsberufsbildes</entry>
+                                    <entry VJ="1" align="center" colname="col3" colsep="1" morerows="1" valign="middle">Zu vermittelnde<BR/> Fertigkeiten, Kenntnisse und Fähigkeiten</entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" nameend="col5" namest="col4" valign="middle">Zeitliche Richtwerte<BR/> in Wochen<BR/> im Ausbildungsjahr</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" valign="middle">1</entry>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" valign="middle">2</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" valign="middle">1</entry>
+                                    <entry VJ="1" align="center" colname="col2" colsep="1" valign="middle">2</entry>
+                                    <entry VJ="1" align="center" colname="col3" colsep="1" valign="middle">3</entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" nameend="col5" namest="col4" valign="middle">4</entry>
+                                </row>
+                            </thead>
+                            <tbody valign="top">
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" valign="top">1</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" valign="top">Berufsbildung, Arbeits-<BR/> und Tarifrecht<BR/> (§ 5 Abs. 2 Abschnitt B Nr. 1)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Möglichkeiten der beruflichen Fortbildung nennen</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">wesentliche Teile des Arbeitsvertrages nennen</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" morerows="3" nameend="col5" namest="col4" valign="middle">während<BR/> der gesamten<BR/> Ausbildungszeit<BR/> zu vermitteln</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" valign="top">2</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" valign="top">Aufbau und Organisation<BR/> des Ausbildungsbetriebes<BR/> (§ 5 Abs. 2 Abschnitt B Nr. 2)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Aufbau und Aufgaben des ausbildenden Betriebes erläutern</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" valign="top">3</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" valign="top">Sicherheit und Gesundheitsschutz bei der Arbeit<BR/> (§ 5 Abs. 2 Abschnitt B Nr. 3)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" valign="top">4</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" valign="top">Umweltschutz<BR/> (§ 5 Abs. 2 Abschnitt B Nr. 4)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" valign="top">5</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" morerows="1" valign="top">Arbeitsorganisation,<BR/> Kommunikation,<BR/> Qualitätssicherung<BR/> (§ 5 Abs. 2 Abschnitt B Nr. 5)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Aufgaben im Team planen und bearbeiten</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">betriebliche Prozessabläufe beurteilen und planen</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Termine planen und kontrollieren</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Arbeitsvorgänge im eigenen Arbeitsbereich analysieren und Maßnahmen zur Verbesserung einleiten</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Fehler und Qualitätsmängel feststellen und Maßnahmen zu ihrer Beseitigung einleiten</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" valign="middle">6</entry>
+                                    <entry VJ="1" align="left" colname="col5" colsep="1" valign="top"/>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>f)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Ursachen von Fehlern und Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren</LA>
+                                            </DD>
+                                            <DT>g)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Kommunikationstechniken anwenden</LA>
+                                            </DD>
+                                            <DT>h)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Standardsoftware anwenden, Daten eingeben, sichern und pflegen</LA>
+                                            </DD>
+                                            <DT>i)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">fremdsprachige Fachbegriffe anwenden</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" valign="middle">4</entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155823" doknr="BJNR000200008BJNE001800000">
+        <metadaten>
+            <jurabk>AutomErprobV</jurabk>
+            <enbez>Anlage 2</enbez>
+            <titel format="XML">(zu § 5)<BR/>Ausbildungsrahmenplan für die Berufsausbildung zum Automatenfachmann/zur Automatenfachfrau</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <kommentar typ="Fundstelle">(Fundstelle: BGBl. I 2008, 11 - 17)<BR/>
+                    </kommentar>
+                    <P>
+                        <B>Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten</B>
+                    </P>
+                    <table frame="all" pgwide="1" tabstyle="anlage2a" tocentry="%yes;">
+                        <tgroup align="left" char="" charoff="50" cols="6" colsep="1" rowsep="1">
+                            <colspec colname="col1" colnum="1" colwidth="0.8*"/>
+                            <colspec colname="col2" colnum="2" colwidth="3.40*"/>
+                            <colspec colname="col3" colnum="3" colwidth="5.60*"/>
+                            <colspec colname="col4" colnum="4" colwidth="0.9*"/>
+                            <colspec colname="col5" colnum="5" colwidth="0.9*"/>
+                            <colspec colname="col6" colnum="6" colwidth="0.9*"/>
+                            <thead valign="bottom">
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" valign="middle">Lfd.<BR/> Nr.</entry>
+                                    <entry VJ="1" align="center" colname="col2" colsep="1" morerows="1" valign="middle">Teil des<BR/> Ausbildungsberufsbildes</entry>
+                                    <entry VJ="1" align="center" colname="col3" colsep="1" morerows="1" valign="middle">Zu vermittelnde<BR/> Fertigkeiten, Kenntnisse und Fähigkeiten</entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" nameend="col6" namest="col4" valign="middle">Zeitliche Richtwerte<BR/> in Wochen<BR/> im Ausbildungsjahr</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" valign="middle">1</entry>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" valign="middle">2</entry>
+                                    <entry VJ="1" align="center" colname="col6" colsep="1" valign="middle">3</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" valign="middle">1</entry>
+                                    <entry VJ="1" align="center" colname="col2" colsep="1" valign="middle">2</entry>
+                                    <entry VJ="1" align="center" colname="col3" colsep="1" valign="middle">3</entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" nameend="col6" namest="col4" valign="middle">4</entry>
+                                </row>
+                            </thead>
+                            <tbody valign="top">
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" valign="top">1</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" morerows="1" valign="top">Automatenservice<BR/> (§ 5 Abs. 3 Abschnitt A Nr. 1)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Automaten nach Aufbau, Funktion und Art ihrer Dienstleistung unterscheiden</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Zahlungssysteme unterscheiden, Zahlungsmittel übernehmen</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Waren übernehmen, auf Vollständigkeit, Vollzähligkeit und Unversehrtheit kontrollieren</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Füllstände prüfen, Automaten bedarfsgerecht befüllen und leeren</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Sicht- und Funktionskontrolle an Automaten durchführen</LA>
+                                            </DD>
+                                            <DT>f)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Handbücher und Bedienungshinweise nutzen</LA>
+                                            </DD>
+                                            <DT>g)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Reinigungs- und Wartungsarbeiten durchführen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" valign="middle">18</entry>
+                                    <entry VJ="1" align="left" colname="col5" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="left" colname="col6" colsep="1" valign="top"/>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>h)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Störungen, Qualitätsmängel und deren Ursachen erkennen, vor Ort beheben und dokumentieren</LA>
+                                            </DD>
+                                            <DT>i)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Maßnahmen zum Manipulationsschutz ergreifen</LA>
+                                            </DD>
+                                            <DT>j)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Explosionszeichnungen, Funktions-, Aufbau- und Anschlusspläne sowie Blockschaltbilder lesen und anwenden</LA>
+                                            </DD>
+                                            <DT>k)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Verschleißteile erneuern, mechanische Baugruppen und Bauteile austauschen</LA>
+                                            </DD>
+                                            <DT>l)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">betriebsfertige Automaten aufstellen und mit vorhandenen Anschlüssen verbinden</LA>
+                                            </DD>
+                                            <DT>m)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Maßnahmen zur Verkehrssicherheit am Aufstellplatz der Automaten ergreifen</LA>
+                                            </DD>
+                                            <DT>n)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Kunden die Funktion von Automaten erklären und sie in die Bedienung einweisen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" valign="middle">19</entry>
+                                    <entry VJ="1" align="left" colname="col6" colsep="1" valign="top"/>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" valign="top">2</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" morerows="1" valign="top">Technische Kommunikation<BR/> (§ 5 Abs. 3 Abschnitt A Nr. 2)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Informationssysteme nutzen, Software einsetzen, Peripheriegeräte anschließen, Daten eingeben, sichern und pflegen</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Regelungen zum Datenschutz und zur Datensicherheit einhalten</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" valign="middle">3</entry>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="left" colname="col6" colsep="1" valign="top"/>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">digitale und analoge Prüf- und Messdaten lesen und auswerten</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Protokolle und Berichte anfertigen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" valign="middle">4</entry>
+                                    <entry VJ="1" align="left" colname="col6" colsep="1" valign="top"/>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" valign="top">3</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" valign="top">Warenbewirtschaftung<BR/> (§ 5 Abs. 3 Abschnitt A Nr. 3)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">automatengerechte Produkte unterscheiden</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Bedarf an Waren und Ersatzteilen ermitteln und nach Verwendungszwecken zusammenstellen</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Warenbestände und Warenzustand prüfen, Ablauffristen berücksichtigen, Fehlbestände ergänzen</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Waren und Ersatzteile lagern, abrufen und rückführen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" valign="middle">14</entry>
+                                    <entry VJ="1" align="left" colname="col5" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="left" colname="col6" colsep="1" valign="top"/>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" valign="top">4</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" morerows="1" valign="top">Abrechnungen und<BR/> Auswertungen von<BR/> Automatenaufstellplätzen<BR/> (§ 5 Abs. 3 Abschnitt A Nr. 4)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Kassenbestände auslesen und dokumentieren, Zahlungsmittel prüfen, Soll-Ist-Vergleich durchführen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" valign="middle">6</entry>
+                                    <entry VJ="1" align="left" colname="col5" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="left" colname="col6" colsep="1" valign="top"/>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Automatenabrechnungen und Kassenabschlüsse durchführen</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Geldbewegungen dokumentieren</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Statistiken und betriebliche Kennziffern auswerten</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Automateneinsätze bewerten, Nachkalkulationen durchführen, Schlussfolgerungen ableiten und Optimierungen vorschlagen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" valign="middle">12</entry>
+                                    <entry VJ="1" align="left" colname="col6" colsep="1" valign="top"/>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" valign="top">5</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" valign="top">Verkaufsförderung<BR/> (§ 5 Abs. 3 Abschnitt A Nr. 5)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Maßnahmen zur Kundenbindung und zur Kundengewinnung umsetzen</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">über Leistungsangebote informieren, Kundenwünsche ermitteln</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Verbesserungen des Leistungsangebotes vorschlagen</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Informations- und Beratungsgespräche führen</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Beschwerden und Reklamationen entgegennehmen und bearbeiten</LA>
+                                            </DD>
+                                            <DT>f)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Werbeaktionen umsetzen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" valign="middle">10</entry>
+                                    <entry VJ="1" align="left" colname="col6" colsep="1" valign="top"/>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" valign="top">6</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" morerows="1" valign="top">Rechtliche<BR/> Rahmenbedingungen für<BR/> die Automatenwirtschaft<BR/> (§ 5 Abs. 3 Abschnitt A Nr. 6)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Sicherheitsbestimmungen und Unfallverhütungsvorschriften umsetzen</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Einhaltung jugendschutzrechtlicher Bestimmungen kontrollieren</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Einhaltung hygienerechtlicher Bestimmungen kontrollieren</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">datenschutzrechtliche Bestimmungen beachten</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" valign="middle">5</entry>
+                                    <entry VJ="1" align="left" colname="col5" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="left" colname="col6" colsep="1" valign="top"/>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">gewerbe- und steuerrechtliche Vorschriften beachten</LA>
+                                            </DD>
+                                            <DT>f)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">bau-, straßen- und wegerechtliche Vorschriften bei der Automatenaufstellung einhalten</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" valign="middle">3</entry>
+                                    <entry VJ="1" align="left" colname="col6" colsep="1" valign="top"/>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                    <P>
+                        <DL Font="normal" Type="arabic">
+                            <DT>
+                                <B>Abschnitt B:</B>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <B>Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den<BR/> Wahlqualifikationen</B>
+                                </LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <table frame="all" pgwide="1" tabstyle="anlage2b" tocentry="%yes;">
+                        <tgroup align="left" char="" charoff="50" cols="6" colsep="1" rowsep="1">
+                            <colspec colname="col1" colnum="1" colwidth="0.8*"/>
+                            <colspec colname="col2" colnum="2" colwidth="3.40*"/>
+                            <colspec colname="col3" colnum="3" colwidth="5.60*"/>
+                            <colspec colname="col4" colnum="4" colwidth="0.9*"/>
+                            <colspec colname="col5" colnum="5" colwidth="0.9*"/>
+                            <colspec colname="col6" colnum="6" colwidth="0.9*"/>
+                            <thead valign="bottom">
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" valign="middle">Lfd.<BR/> Nr.</entry>
+                                    <entry VJ="1" align="center" colname="col2" colsep="1" morerows="1" valign="middle">Teil des<BR/> Ausbildungsberufsbildes</entry>
+                                    <entry VJ="1" align="center" colname="col3" colsep="1" morerows="1" valign="middle">Zu vermittelnde<BR/> Fertigkeiten, Kenntnisse und Fähigkeiten</entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" nameend="col6" namest="col4" valign="middle">Zeitliche Richtwerte<BR/> in Wochen<BR/> im Ausbildungsjahr</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" valign="middle">1</entry>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" valign="middle">2</entry>
+                                    <entry VJ="1" align="center" colname="col6" colsep="1" valign="middle">3</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" valign="middle">1</entry>
+                                    <entry VJ="1" align="center" colname="col2" colsep="1" valign="middle">2</entry>
+                                    <entry VJ="1" align="center" colname="col3" colsep="1" valign="middle">3</entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" nameend="col6" namest="col4" valign="middle">4</entry>
+                                </row>
+                            </thead>
+                            <tbody valign="top">
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" valign="top">1</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" valign="top">Kaufmännische<BR/> Geschäftsprozesse in<BR/> der Automatenwirtschaft<BR/> (§ 5 Abs. 3 Abschnitt B Nr. 1)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Preise kalkulieren und gestalten, Reparatur- und Serviceleistungen planen, anbieten und organisieren</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Standortkalkulationen erstellen, Standortinvestitionen planen</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Bonitätsprüfungen durchführen</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Finanzierungsarten auswählen, Finanzierungskosten ermitteln</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Verträge vorbereiten und allgemeine Geschäftsbedingungen anwenden</LA>
+                                            </DD>
+                                            <DT>f)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Rechnungen erstellen, Vorgänge des Zahlungsverkehrs und des Mahnwesens bearbeiten</LA>
+                                            </DD>
+                                            <DT>g)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Eingangsrechnungen bearbeiten</LA>
+                                            </DD>
+                                            <DT>h)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Geschäftsvorgänge buchen</LA>
+                                            </DD>
+                                            <DT>i)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Kosten und Erlöse ermitteln und analysieren, betriebliche Erfolgsrechnungen vorbereiten</LA>
+                                            </DD>
+                                            <DT>j)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Statistiken erstellen und auswerten, Daten für kaufmännische Planungs-, Steuerungs- und Kontrollaufgaben aufbereiten</LA>
+                                            </DD>
+                                            <DT>k)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">vorbereitende Arbeiten für Abschlüsse durchführen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="left" colname="col5" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col6" colsep="1" valign="middle">24</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" valign="top">2</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" valign="top">Installation und<BR/> Inbetriebnahme<BR/> von Automaten<BR/> (§ 5 Abs. 3 Abschnitt B Nr. 2)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Bauteile und Werkstoffe, insbesondere aus Kunststoff und Metall, manuell und maschinell bearbeiten</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">elektrische Betriebsmittel unter Beachtung ihrer mechanischen und elektrischen Sicherheit auswählen</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Automaten nachrüsten, demontieren und montieren, Funktionsfähigkeit herstellen, elektromagnetische Verträglichkeit beachten</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Schutz gegen direktes Berühren sicherstellen, mechanische und elektrische Sicherheitsvorrichtungen auf ihre Wirksamkeit prüfen</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Leitungen und deren Schutzeinrichtungen, insbesondere hinsichtlich Strombelastbarkeit beurteilen, Leitungen und Verlegesysteme auswählen und zurichten</LA>
+                                            </DD>
+                                            <DT>f)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Messverfahren und Messgeräte auswählen und handhaben</LA>
+                                            </DD>
+                                            <DT>g)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">elektrische und mechanische Größen messen, prüfen und bewerten</LA>
+                                            </DD>
+                                            <DT>h)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Steuerschaltungen aufbauen und ihre Funktion prüfen</LA>
+                                            </DD>
+                                            <DT>i)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Sensoren und Aktoren prüfen und einstellen</LA>
+                                            </DD>
+                                            <DT>j)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Baugruppen und Geräte mit unterschiedlichen Anschlusstechniken verbinden und konfigurieren</LA>
+                                            </DD>
+                                            <DT>k)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Versorgungsanschlüsse, insbesondere zur Energieversorgung, einrichten und prüfen</LA>
+                                            </DD>
+                                            <DT>l)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Schutz- und Potenzialausgleichsleiter prüfen und beurteilen</LA>
+                                            </DD>
+                                            <DT>m)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Isolationswiderstände messen und beurteilen</LA>
+                                            </DD>
+                                            <DT>n)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Schutzmaßnahmen gegen elektrischen Schlag ergreifen</LA>
+                                            </DD>
+                                            <DT>o)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Schutzarten von elektrischen Geräten hinsichtlich der Umgebungsbedingungen beurteilen</LA>
+                                            </DD>
+                                            <DT>p)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Automaten in Betrieb nehmen</LA>
+                                            </DD>
+                                            <DT>q)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Funktionsfähigkeit und Betriebsbereitschaft von Automaten sicherstellen und dokumentieren</LA>
+                                            </DD>
+                                            <DT>r)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Datenprotokolle interpretieren</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="left" colname="col5" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col6" colsep="1" valign="middle">24</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" valign="top">3</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" valign="top">Marketing<BR/> (§ 5 Abs. 3 Abschnitt B Nr. 3)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Standort- und Marktanalysen durchführen</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Automaten nach Standortgesichtspunkten auswählen</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Maßnahmen zur Kundengewinnung und Kundenbindung entwickeln und umsetzen</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Vertriebsstrategien entwickeln, Vertriebswege auswählen</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Werbemaßnahmen einschließlich Erfolgskontrollen durchführen</LA>
+                                            </DD>
+                                            <DT>f)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Presse- und Öffentlichkeitsarbeiten durchführen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="left" colname="col5" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col6" colsep="1" valign="middle">13</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" valign="top">4</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" valign="top">Personalwirtschaft<BR/> (§ 5 Abs. 3 Abschnitt B Nr. 4)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Personalplanung durchführen</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Instrumente der Personalbeschaffung und <NB>-auswahl</NB> anwenden</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Vorgänge der Personalverwaltung auch in Verbindung mit Beginn und Beendigung von Arbeitsverhältnissen unter Beachtung arbeits- und tarifrechtlicher Bestimmungen bearbeiten</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Personaleinsatz planen</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Personalentwicklungsmaßnahmen planen und umsetzen</LA>
+                                            </DD>
+                                            <DT>f)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Entgeltabrechnungen vorbereiten</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="left" colname="col5" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col6" colsep="1" valign="middle">13</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" valign="top">5</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" valign="top">Instandhaltung<BR/> von Automaten<BR/> (§ 5 Abs. 3 Abschnitt B Nr. 5)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">mechatronische Verschleißteile austauschen</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Baugruppen und -teile demontieren, instand setzen und montieren</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Schaltungsunterlagen von Baugruppen und Geräten lesen und anwenden</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">elektrische Pläne, Funktions-, Aufbau- und Anschlusspläne lesen und anwenden</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Bauteile austauschen und nacharbeiten</LA>
+                                            </DD>
+                                            <DT>f)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">systematische Fehlersuche durchführen</LA>
+                                            </DD>
+                                            <DT>g)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Störungsursachen feststellen und analysieren, Störungen beseitigen</LA>
+                                            </DD>
+                                            <DT>h)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Prüfarten, Prüfmittel und Prüfpläne auswählen und anwenden</LA>
+                                            </DD>
+                                            <DT>i)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Diagnose- und Wartungssysteme nutzen</LA>
+                                            </DD>
+                                            <DT>j)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">mechatronische Systeme in Betrieb nehmen</LA>
+                                            </DD>
+                                            <DT>k)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Funktionsprüfungen durchführen</LA>
+                                            </DD>
+                                            <DT>l)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Systemparameter bei der Inbetriebnahme ermitteln, mit vorgegebenen Werten vergleichen und einstellen</LA>
+                                            </DD>
+                                            <DT>m)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Instandhaltungsmaßnahmen dokumentieren</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="left" colname="col5" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col6" colsep="1" valign="middle">13</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" valign="top">6</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" valign="top">Informations- und<BR/> Kommunikationstechnik<BR/> für Automaten<BR/> (§ 5 Abs. 3 Abschnitt B Nr. 6)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Softwarekomponenten auswählen, installieren, testen und anpassen</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Versionswechsel von Software durchführen</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Betriebssysteme und Anwendungsprogramme installieren und konfigurieren</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">IT-Systeme in Netzwerke einbinden</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Datenübertragung und Netzwerke prüfen, Störungen beheben</LA>
+                                            </DD>
+                                            <DT>f)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Testprogramme einsetzen, Hardwarekomponenten auswählen, prüfen und austauschen</LA>
+                                            </DD>
+                                            <DT>g)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Kompatibilität von Hardwarekomponenten sowie Systemvoraussetzungen für Software prüfen</LA>
+                                            </DD>
+                                            <DT>h)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">digitale und analoge Prüf- und Messdaten ermitteln und auswerten</LA>
+                                            </DD>
+                                            <DT>i)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Hard- und Softwareänderungen dokumentieren</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="left" colname="col5" colsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col6" colsep="1" valign="middle">13</entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                    <P>
+                        <B>Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten</B>
+                    </P>
+                    <table frame="all" pgwide="1" tabstyle="anlage2c" tocentry="%yes;">
+                        <tgroup align="left" char="" charoff="50" cols="6" colsep="1" rowsep="1">
+                            <colspec colname="col1" colnum="1" colwidth="0.8*"/>
+                            <colspec colname="col2" colnum="2" colwidth="3.40*"/>
+                            <colspec colname="col3" colnum="3" colwidth="5.60*"/>
+                            <colspec colname="col4" colnum="4" colwidth="0.9*"/>
+                            <colspec colname="col5" colnum="5" colwidth="0.9*"/>
+                            <colspec colname="col6" colnum="6" colwidth="0.9*"/>
+                            <thead valign="bottom">
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" valign="middle">Lfd. Nr.</entry>
+                                    <entry VJ="1" align="center" colname="col2" colsep="1" morerows="1" valign="middle">Teil des<BR/> Ausbildungsberufsbildes</entry>
+                                    <entry VJ="1" align="center" colname="col3" colsep="1" morerows="1" valign="middle">Zu vermittelnde<BR/> Fertigkeiten, Kenntnisse und Fähigkeiten</entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" nameend="col6" namest="col4" valign="middle">Zeitliche Richtwerte<BR/> in Wochen<BR/> im Ausbildungsjahr</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" valign="middle">1</entry>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" valign="middle">2</entry>
+                                    <entry VJ="1" align="center" colname="col6" colsep="1" valign="middle">3</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" rowsep="1" valign="middle">1</entry>
+                                    <entry VJ="1" align="center" colname="col2" colsep="1" rowsep="1" valign="middle">2</entry>
+                                    <entry VJ="1" align="center" colname="col3" colsep="1" rowsep="1" valign="middle">3</entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" nameend="col6" namest="col4" rowsep="1" valign="middle">4</entry>
+                                </row>
+                            </thead>
+                            <tbody valign="top">
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" rowsep="1" valign="top">1</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" rowsep="1" valign="top">Berufsbildung,<BR/> Arbeits- und Tarifrecht<BR/> (§ 5 Abs. 3 Abschnitt C Nr. 1)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" rowsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Möglichkeiten der beruflichen Fortbildung nennen</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">wesentliche Teile des Arbeitsvertrages nennen</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" nameend="col6" namest="col4" rowsep="1" valign="middle"/>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" rowsep="1" valign="top">2</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" rowsep="1" valign="top">Aufbau und Organisation<BR/> des Ausbildungsbetriebes<BR/> (§ 5 Abs. 3 Abschnitt C Nr. 2)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" rowsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Aufbau und Aufgaben des ausbildenden Betriebes erläutern</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" morerows="2" nameend="col6" namest="col4" rowsep="1" valign="middle">während<BR/> der gesamten<BR/> Ausbildungszeit<BR/> zu vermitteln</entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" rowsep="1" valign="top">3</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" rowsep="1" valign="top">Sicherheit und<BR/> Gesundheitsschutz<BR/> bei der Arbeit<BR/> (§ 5 Abs. 3 Abschnitt C Nr. 3)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" rowsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" rowsep="1" valign="top">4</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" rowsep="1" valign="top">Umweltschutz<BR/> (§ 5 Abs. 3 Abschnitt C Nr. 4)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" rowsep="1" valign="top">Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden Entsorgung zuführen</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" rowsep="1" valign="top">5</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" morerows="1" rowsep="1" valign="top">Arbeitsorganisation,<BR/> Kommunikation,<BR/> Qualitätssicherung<BR/> (§ 5 Abs. 3 Abschnitt C Nr. 5)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" rowsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Aufgaben im Team planen und bearbeiten</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">betriebliche Prozessabläufe beurteilen und planen</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Termine planen und kontrollieren</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Arbeitsvorgänge im eigenen Arbeitsbereich analysieren und Maßnahmen zur Verbesserung einleiten</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Fehler und Qualitätsmängel feststellen und Maßnahmen zu ihrer Beseitigung einleiten</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="center" colname="col4" colsep="1" rowsep="1" valign="middle">6</entry>
+                                    <entry VJ="1" align="left" colname="col5" colsep="1" rowsep="1" valign="top"/>
+                                    <entry VJ="1" align="left" colname="col6" colsep="1" rowsep="1" valign="top"/>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" rowsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>f)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Ursachen von Fehlern und Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren</LA>
+                                            </DD>
+                                            <DT>g)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Kommunikationstechniken anwenden</LA>
+                                            </DD>
+                                            <DT>h)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Standardsoftware anwenden, Daten eingeben, sichern und pflegen</LA>
+                                            </DD>
+                                            <DT>i)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">fremdsprachige Fachbegriffe anwenden</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" rowsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col5" colsep="1" rowsep="1" valign="middle">4</entry>
+                                    <entry VJ="1" align="left" colname="col6" colsep="1" rowsep="1" valign="top"/>
+                                </row>
+                                <row>
+                                    <entry VJ="1" align="center" colname="col1" colsep="1" rowsep="1" valign="top">6</entry>
+                                    <entry VJ="1" align="left" colname="col2" colsep="1" rowsep="1" valign="top">Unternehmerisches Handeln<BR/> (§ 5 Abs. 3 Abschnitt C Nr. 6)</entry>
+                                    <entry VJ="1" align="left" colname="col3" colsep="1" rowsep="1" valign="top">
+                                        <DL Font="normal" Type="alpha">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Selbstständigkeit als Perspektive der Berufs- und Lebensplanung erläutern</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Voraussetzungen und Rahmenbedingungen, Chancen und Risiken unternehmerischen Handelns aufzeigen</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">rechtliche und finanzielle Bedingungen für die Gründung eines Unternehmens erläutern, Rechtsformen unterscheiden</LA>
+                                            </DD>
+                                        </DL>
+                                    </entry>
+                                    <entry VJ="1" align="left" colname="col4" colsep="1" rowsep="1" valign="top"/>
+                                    <entry VJ="1" align="left" colname="col5" colsep="1" rowsep="1" valign="top"/>
+                                    <entry VJ="1" align="center" colname="col6" colsep="1" rowsep="1" valign="middle">2</entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+</dokumente>

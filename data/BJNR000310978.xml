@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625153836" doknr="BJNR000310978">
+    <norm builddate="20120625153836" doknr="BJNR000310978">
+        <metadaten>
+            <jurabk>AMSachvGO</jurabk>
+            <ausfertigung-datum manuell="ja">1978-01-02</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1978, 31</zitstelle>
+            </fundstelle>
+            <langue>Geschäftsordnung der Ausschüsse für Standardzulassungen, Apothekenpflicht
+und Verschreibungspflicht (Anlage zur Verordnung zur Errichtung von
+Sachverständigen-Ausschüssen für Standardzulassungen, Apothekenpflicht und
+Verschreibungspflicht von Arzneimitteln)</langue>
+            <standangabe checked="ja">
+                <standtyp>Stand</standtyp>
+                <standkommentar>Zuletzt geändert durch Art. 352 Nr. 2 V v. 31.10.2006 I 2407</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <fussnoten>
+                <Content>
+                    <P>(+++ Textnachweis ab: 4.1.1978 +++) <BR/>(+++ Text der Verordnung siehe: AMSachvV +++)</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153836" doknr="BJNR000310978BJNE000100314">
+        <metadaten>
+            <jurabk>AMSachvGO</jurabk>
+            <enbez>§ 1</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Ausschüsse treten auf Einladung durch den Vorsitzenden zu Sitzungen zusammen. Die Tagesordnung soll den Mitgliedern und ihren Stellvertretern vier Wochen vor der Sitzung zugehen.</P>
+                    <P>(2) Die Sitzungen der Ausschüsse sind nicht öffentlich.</P>
+                    <P>(3) Der Vorsitzende eröffnet, leitet und schließt die Sitzungen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153836" doknr="BJNR000310978BJNE000202310">
+        <metadaten>
+            <jurabk>AMSachvGO</jurabk>
+            <enbez>§ 2</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Ausschüsse beschließen über Empfehlungen an das Bundesministerium durch Abstimmung mit der Mehrheit der abgegebenen Stimmen. Die Ausschüsse sind beschlußfähig, wenn alle Mitglieder geladen und mindestens die Hälfte der Mitglieder anwesend ist. Beschlüsse können in dringenden Fällen auch in schriftlicher Umfrage gefaßt werden. Soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind, tritt im Falle des Satzes 1 an die Stelle des Bundesministeriums das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz.</P>
+                    <P>(2) Stimmberechtigt sind die Mitglieder, im Falle der Verhinderung ihre Stellvertreter.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153836" doknr="BJNR000310978BJNE000301305">
+        <metadaten>
+            <jurabk>AMSachvGO</jurabk>
+            <enbez>§ 3</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Das Bundesinstitut für Arzneimittel und Medizinprodukte legt zu jeder Sachfrage in der Regel eine Stellungnahme als Grundlage für die medizinischen und pharmazeutischen Aspekte der Beschlußfassung vor.</P>
+                    <P>(2) Die Ausarbeitung nach Absatz 1 soll den Mitgliedern und ihren Stellvertretern zwei Wochen vor der Sitzung zugehen.</P>
+                    <P>(3) In dringenden Fällen können die Ausschüsse auch auf Grund einer erst zur Sitzung vorgelegten Ausarbeitung beschließen.</P>
+                    <P>(4) Im Falle einer schriftlichen Anhörung nach § 2 Abs. 1 Satz 3 wird ein Beschlußvorschlag mit Begründung zugeleitet.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153836" doknr="BJNR000310978BJNE000400314">
+        <metadaten>
+            <jurabk>AMSachvGO</jurabk>
+            <enbez>§ 4</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Der Vorsitzende kann mit Zustimmung der Ausschußmitglieder Sachverständige zu bestimmten Fragestellungen hinzuziehen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153836" doknr="BJNR000310978BJNE000500314">
+        <metadaten>
+            <jurabk>AMSachvGO</jurabk>
+            <enbez>§ 5</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Geschäftsstelle fertigt ein Ergebnisprotokoll über jede Sitzung und übersendet es an die Mitglieder und ihre Stellvertreter.</P>
+                    <P>(2) Im Falle einer schriftlichen Anhörung ist den Mitgliedern und ihren Stellvertretern das Ergebnis mitzuteilen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+</dokumente>

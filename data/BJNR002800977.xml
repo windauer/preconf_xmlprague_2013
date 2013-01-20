@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120808043317" doknr="BJNR002800977">
+    <norm builddate="20120808043317" doknr="BJNR002800977">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <amtabk>AtVfV</amtabk>
+            <ausfertigung-datum manuell="ja">1977-02-18</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1977, 280</zitstelle>
+            </fundstelle>
+            <kurzue>Atomrechtliche Verfahrensverordnung</kurzue>
+            <langue>Verordnung über das Verfahren bei der Genehmigung von Anlagen nach § 7
+des Atomgesetzes</langue>
+            <standangabe checked="ja">
+                <standtyp>Neuf</standtyp>
+                <standkommentar>Neugefasst durch Bek. v. 3.2.1995 I 180;</standkommentar>
+            </standangabe>
+            <standangabe checked="ja">
+                <standtyp>Stand</standtyp>
+                <standkommentar>zuletzt geändert durch Art. 4 G v. 9.12.2006 I 2819</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <fussnoten>
+                <Content>
+                    <P>
+                        <BR/>
+                        <pre xml:space="preserve">(+++ Textnachweis Geltung ab: 1.5.1982 +++)<BR/>
+                            <BR/>
+                        </pre>Die V wurde aufgrund des § 7 Abs. 4 Satz 3 u. Abs. 5, des § 7a Abs. 2 u. des § 54 d. Atomgesetzes idF d. Bek. v. 31.10.1976 I 3053 vom Bundesminister des Innern erlassen.</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE003002377">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>Inhaltsübersicht</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <table frame="none" pgwide="1" tocentry="%yes;">
+                            <tgroup align="left" char="" charoff="50" cols="4" colsep="0" rowsep="0">
+                                <colspec colname="col1" colnum="1" colwidth="15*"/>
+                                <colspec colname="col2" colnum="2" colwidth="5*"/>
+                                <colspec colname="col3" colnum="3" colwidth="10*"/>
+                                <colspec colname="col4" colnum="4" colwidth="35*"/>
+                                <tbody valign="top">
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Erster Abschnitt</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col2" valign="top">Anwendungsbereich, Antrag und Unterlagen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 1</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Anwendungsbereich</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 1a</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gegenstand der Umweltverträglichkeitsprüfung</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 1b</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Unterrichtung über voraussichtlich beizubringende Unterlagen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 2</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Form und Inhalt des Antrags</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 3</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Art und Umfang der Unterlagen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Zweiter Abschnitt</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col2" valign="top">Beteiligung Dritter und anderer Behörden</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 4</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Bekanntmachung des Vorhabens</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 5</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Inhalt der Bekanntmachung</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 6</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Auslegung von Antrag und Unterlagen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 7</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Einwendungen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 7a</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Verfahren bei grenzüberschreitenden Umweltauswirkungen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Dritter Abschnitt</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col2" valign="top">Erörterungstermin</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 8</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gegenstand und Zweck</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 9</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Besondere Einwendungen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 10</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Wegfall</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 11</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Verlegung</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 12</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Verlauf</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 13</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Niederschrift</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Vierter Abschnitt</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col2" valign="top">Genehmigung</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 14</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Sachprüfung</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 14a</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Zusammenfassende Darstellung; Bewertung</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 15</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Entscheidung</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 16</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Inhalt des Genehmigungsbescheides</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 17</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Zustellung durch öffentliche Bekanntmachung</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Fünfter Abschnitt</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col2" valign="top">Besondere Vorschriften</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 18</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Teilgenehmigung</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 19</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Vorbescheid</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 19a</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Raumordnungsverfahren und Genehmigungsverfahren</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 19b</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Genehmigungen nach § 7 Abs. 3 des Atomgesetzes</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col2" namest="col1" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col3" valign="top">Sechster Abschnitt</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col2" valign="top">Schlußvorschriften</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 20</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Übergangsvorschrift</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col3" namest="col1" valign="top">§ 21</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Inkrafttreten</entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNG000101308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>010</gliederungskennzahl>
+                <gliederungsbez>Erster Abschnitt</gliederungsbez>
+                <gliederungstitel>Anwendungsbereich, Antrag
+und Unterlagen</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE000801308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 1</enbez>
+            <titel format="parat">Anwendungsbereich</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Für die in § 7 Abs. 1 und 5 des Atomgesetzes genannten Anlagen ist das Verfahren bei der Erteilung einer Genehmigung, einer Teilgenehmigung oder eines Vorbescheides nach dieser Verordnung durchzuführen, soweit es nicht in § 7 Abs. 4 Satz 1 und 2, §§ 7a, 7b und 8 Abs. 2 Satz 2 des Atomgesetzes geregelt ist.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE003103377">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 1a</enbez>
+            <titel format="parat">Gegenstand der Umweltverträglichkeitsprüfung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die Umweltverträglichkeitsprüfung umfasst die Ermittlung, Beschreibung und Bewertung der für die Prüfung der Zulassungsvoraussetzungen bedeutsamen Auswirkungen eines UVP-pflichtigen Vorhabens auf Menschen, einschließlich der menschlichen Gesundheit, Tiere, Pflanzen und die biologische Vielfalt, Boden, Wasser, Luft, Klima und Landschaft, Kulturgüter und sonstige Sachgüter, sowie die Wechselwirkung zwischen den vorgenannten Schutzgütern.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE003203377">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 1b</enbez>
+            <titel format="parat">Unterrichtung über voraussichtlich beizubringende Unterlagen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Sofern der Träger eines UVP-pflichtigen Vorhabens die Genehmigungsbehörde vor Beginn des Genehmigungsverfahrens darum ersucht oder sofern die Genehmigungsbehörde es nach Beginn des Genehmigungsverfahrens für erforderlich hält, unterrichtet diese ihn entsprechend dem Planungsstand des Vorhabens und auf der Grundlage geeigneter Angaben zum Vorhaben frühzeitig über Art und Umfang der voraussichtlich nach den §§ 2 und 3 beizubringenden Unterlagen. Vor der Unterrichtung gibt die Genehmigungsbehörde dem Träger des Vorhabens sowie den nach § 7 Abs. 4 Satz 1 des Atomgesetzes zu beteiligenden Behörden Gelegenheit zu einer Besprechung über Art und Umfang der Unterlagen. Die Besprechung soll sich auch auf Gegenstand, Umfang und Methoden der Umweltverträglichkeitsprüfung sowie sonstige für die Durchführung der Umweltverträglichkeitsprüfung erhebliche Fragen erstrecken. Sachverständige und Dritte können hinzugezogen werden. Verfügen die Genehmigungsbehörde oder die zu beteiligenden Behörden über Informationen, die für die Beibringung der in § 3 genannten Unterlagen zweckdienlich sind, sollen sie diese Informationen dem Träger des Vorhabens zur Verfügung stellen, soweit nicht Rechte Dritter entgegenstehen.</P>
+                    <P>(2) Bedarf ein UVP-pflichtiges Vorhaben der Zulassung durch mehrere Behörden, obliegen der atomrechtlichen Genehmigungsbehörde die in Absatz 1 und § 14a Abs. 1 beschriebenen Aufgaben nur, wenn sie auf Grund des § 14 Abs. 1 Satz 1 des Gesetzes über die Umweltverträglichkeitsprüfung als federführende Behörde bestimmt ist. Sie hat diese Aufgaben im Zusammenwirken zumindest mit den anderen Zulassungsbehörden und der Naturschutzbehörde wahrzunehmen, deren Aufgabenbereich durch das Vorhaben berührt wird. Im übrigen bleibt die Befugnis der Länder unberührt, der federführenden Behörde auf Grund des § 14 Abs. 1 Satz 2 des Gesetzes über die Umweltverträglichkeitsprüfung weitere Zuständigkeiten zu übertragen.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE000901308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 2</enbez>
+            <titel format="parat">Form und Inhalt des Antrags</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Der Antrag ist bei der Genehmigungsbehörde schriftlich zu stellen.</P>
+                    <P>(2) Der Antrag muß enthalten <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Angabe des Namens und des Wohnsitzes oder des Sitzes des Antragstellers,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Angabe, ob eine Genehmigung oder ein Vorbescheid beantragt wird,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Angabe des Standortes und Angaben über Art und Umfang der Anlage.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE001004377">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 3</enbez>
+            <titel format="parat">Art und Umfang der Unterlagen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Dem Antrag sind die Unterlagen beizufügen, die zur Prüfung der Zulassungsvoraussetzungen erforderlich sind, insbesondere <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">ein Sicherheitsbericht, der im Hinblick auf die kerntechnische Sicherheit und den Strahlenschutz die für die Entscheidung über den Antrag erheblichen Auswirkungen des Vorhabens darlegt und Dritten insbesondere die Beurteilung ermöglicht, ob sie durch die mit der Anlage und ihrem Betrieb verbundenen Auswirkungen in ihren Rechten verletzt werden können. Hierzu muß der Sicherheitsbericht, soweit dies für die Beurteilung der Zulässigkeit des Vorhabens erforderlich ist, enthalten:</LA>
+                            </DD>
+                            <DT>a)</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">eine Beschreibung der Anlage und ihres Betriebes unter Beifügung von Lageplänen und Übersichtszeichnungen;</LA>
+                            </DD>
+                            <DT>b)</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">eine Darstellung und Erläuterung der Konzeption (grundlegende Auslegungsmerkmale), der sicherheitstechnischen Auslegungsgrundsätze und der Funktion der Anlage einschließlich ihrer Betriebs- und Sicherheitssysteme;</LA>
+                            </DD>
+                            <DT>c)</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">eine Darlegung der zur Erfüllung des § 7 Abs. 2 Nr. 3 und § 7 Abs. 2a des Atomgesetzes vorgesehenen Vorsorgemaßnahmen, einschließlich einer Erläuterung der zum Ausschluß oder zur Begrenzung von Auswirkungen auslegungsüberschreitender Ereignisabläufe vorgesehenen Maßnahmen und deren Aufgaben;</LA>
+                            </DD>
+                            <DT>d)</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">eine Beschreibung der Umwelt und ihrer Bestandteile;</LA>
+                            </DD>
+                            <DT>e)</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Angaben über die mit der Anlage und ihrem Betrieb verbundene Direktstrahlung und Abgabe radioaktiver Stoffe, einschließlich der Freisetzungen aus der Anlage bei Störfällen im Sinne der §§ 49 und 50 der Strahlenschutzverordnung (Auslegungsstörfälle);</LA>
+                            </DD>
+                            <DT>f)</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">eine Beschreibung der Auswirkungen der unter Buchstabe e dargestellten Direktstrahlung und Abgabe radioaktiver Stoffe auf die in § 1a dargelegten Schutzgüter, einschließlich der Wechselwirkungen mit sonstigen Stoffen;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">ergänzende Pläne, Zeichnungen und Beschreibungen der Anlage und ihrer Teile;</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Angaben über Maßnahmen, die zum Schutz der Anlage und ihres Betriebs gegen Störmaßnahmen und sonstige Einwirkungen Dritter nach § 7 Abs. 2 Nr. 5 des Atomgesetzes vorgesehen sind;</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Angaben, die es ermöglichen, die Zuverlässigkeit und Fachkunde der für die Errichtung der Anlage und für die Leitung und Beaufsichtigung ihres Betriebes verantwortlichen Personen zu prüfen;</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Angaben, die es ermöglichen, die Gewährleistung der nach § 7 Abs. 2 Nr. 2 des Atomgesetzes notwendigen Kenntnisse der bei dem Betrieb der Anlage sonst tätigen Personen festzustellen;</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">eine Aufstellung, die alle für die Sicherheit der Anlage und ihres Betriebes bedeutsamen Angaben, die für die Beherrschung von Stör- und Schadensfällen vorgesehenen Maßnahmen sowie einen Rahmenplan für die vorgesehenen Prüfungen an sicherheitstechnisch bedeutsamen Teilen der Anlage (Sicherheitsspezifikationen) enthält;</LA>
+                            </DD>
+                            <DT>7.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Vorschläge über die Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen;</LA>
+                            </DD>
+                            <DT>8.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">eine Beschreibung der anfallenden radioaktiven Reststoffe sowie Angaben über vorgesehene Maßnahmen<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">zur Vermeidung des Anfalls von radioaktiven Reststoffen;</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">zur schadlosen Verwertung anfallender radioaktiver Reststoffe und ausgebauter oder abgebauter radioaktiver Anlagenteile entsprechend den in § 1 Nr. 2 bis 4 des Atomgesetzes bezeichneten Zwecken;</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">zur geordneten Beseitigung radioaktiver Reststoffe oder abgebauter radioaktiver Anlagenteile als radioaktive Abfälle, einschließlich ihrer vorgesehenen Behandlung, sowie zum voraussichtlichen Verbleib radioaktiver Abfälle bis zur Endlagerung;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>9.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Angaben über sonstige Umweltauswirkungen des Vorhabens, die zur Prüfung nach § 7 Abs. 2 Nr. 6 des Atomgesetzes für die im Einzelfall in der Genehmigungsentscheidung eingeschlossenen Zulassungsentscheidungen oder für von der Genehmigungsbehörde zu treffende Entscheidungen nach Vorschriften über Naturschutz und Landschaftspflege erforderlich sind; die Anforderungen an den Inhalt der Angaben bestimmen sich nach den für die genannten Entscheidungen jeweils maßgeblichen Rechtsvorschriften.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Bei UVP-pflichtigen Vorhaben sind dem Antrag folgende Unterlagen zusätzlich beizufügen: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">eine Übersicht über die wichtigsten, vom Antragsteller geprüften technischen Verfahrensalternativen, einschließlich der Angabe der wesentlichen Auswahlgründe, soweit diese Angaben für die Beurteilung der Zulässigkeit des Vorhabens nach § 7 des Atomgesetzes bedeutsam sein können;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Hinweise auf Schwierigkeiten, die bei der Zusammenstellung der Angaben für die Prüfung nach § 1a aufgetreten sind, insbesondere soweit diese Schwierigkeiten auf fehlenden Kenntnissen und Prüfmethoden oder auf technischen Lücken beruhen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(3) Die Angaben nach Absatz 1 Nr. 3 sind getrennt vorzulegen. Enthalten die übrigen in Absatz 1 oder 2 genannten Unterlagen ein Geschäfts- oder Betriebsgeheimnis, so sind sie entsprechend zu kennzeichnen und ebenfalls getrennt vorzulegen. Ihr Inhalt muß in den nach § 6 auszulegenden Unterlagen, soweit es ohne Preisgabe des Geheimnisses geschehen kann, so ausführlich dargestellt sein, daß es Dritten möglich ist, zu beurteilen, ob und in welchem Umfang sie von den Auswirkungen der Anlage betroffen werden können.</P>
+                    <P>(4) Der Antragsteller hat der Genehmigungsbehörde außer den Unterlagen nach den Absätzen 1, 2 und 3 Satz 3 eine allgemein verständliche, für die Auslegung geeignete Kurzbeschreibung der Anlage und der voraussichtlichen Auswirkungen auf die Allgemeinheit und die Nachbarschaft vorzulegen. Bei UVP-pflichtigen Vorhaben erstreckt sich die Kurzbeschreibung auch auf alle Angaben nach Absatz 1 Nr. 1, 8 und 9 sowie Absatz 2 Nr. 1. Er hat ferner ein Verzeichnis der dem Antrag beigefügten Unterlagen vorzulegen, in dem die Unterlagen, die Geschäfts- oder Betriebsgeheimnisse enthalten, besonders gekennzeichnet sind.</P>
+                    <P>(5) Reichen die Unterlagen für die Prüfung nicht aus, so hat sie der Antragsteller auf Verlangen der Genehmigungsbehörde innerhalb einer angemessenen Frist zu ergänzen.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNG000202308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>020</gliederungskennzahl>
+                <gliederungsbez>Zweiter Abschnitt</gliederungsbez>
+                <gliederungstitel>Beteiligung Dritter und anderer Behörden</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE001104377">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 4</enbez>
+            <titel format="parat">Bekanntmachung des Vorhabens</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Sind die zur Auslegung (§ 6) erforderlichen Unterlagen vollständig, so hat die Genehmigungsbehörde das Vorhaben in ihrem amtlichen Veröffentlichungsblatt und außerdem in örtlichen Tageszeitungen, die im Bereich des Standortes der Anlage verbreitet sind, öffentlich bekanntzumachen. Eine zusätzliche Bekanntmachung und Auslegung ist, auch in den Fällen der §§ 18 und 19, nur nach Maßgabe der Absätze 2 und 3 erforderlich. Auf die Bekanntmachung ist im Bundesanzeiger hinzuweisen.</P>
+                    <P>(2) Wird das Vorhaben während des Genehmigungsverfahrens wesentlich geändert, so darf die Genehmigungsbehörde von einer zusätzlichen Bekanntmachung und Auslegung absehen, wenn im Sicherheitsbericht keine zusätzlichen oder anderen Umstände darzulegen wären, die nachteilige Auswirkungen für Dritte besorgen lassen. Dies ist insbesondere dann der Fall, wenn erkennbar ist, daß nachteilige Auswirkungen für Dritte durch die zur Vorsorge gegen Schäden getroffenen oder vom Träger des Vorhabens vorgesehenen Maßnahmen ausgeschlossen werden oder die sicherheitstechnischen Nachteile der Änderung im Verhältnis zu den sicherheitstechnischen Vorteilen gering sind. Eine zusätzliche Bekanntmachung und Auslegung (§ 6) ist erforderlich bei <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Änderungen, die eine Erhöhung der für den bestimmungsgemäßen Betrieb je Jahr vorgesehenen Aktivitätsabgaben und eine Erhöhung der Immissionen um mehr als 5 vom Hundert auf mehr als 75 vom Hundert der Dosisgrenzwerte des § 47 Abs. 1 der Strahlenschutzverordnung zur Folge haben können,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Änderung der Konzeption der Anlage oder der räumlichen Anordnung von Bauwerken, sofern die Änderungen im Rahmen der Beherrschung von Auslegungsstörfällen zu einer sicherheitstechnisch bedeutsamen Erhöhung der ursprünglich angenommenen Beanspruchung von Anlageteilen führen können; bei der Beurteilung der sicherheitstechnischen Bedeutung ist Satz 2 entsprechend anzuwenden,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Änderungen an Sicherheitssystemen, die besorgen lassen, daß die Zuverlässigkeit der von ihnen zu erfüllenden Sicherheitsfunktionen bei der Beherrschung von Auslegungsstörfällen nicht unwesentlich gemindert wird,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Erhöhung der thermischen Leistung oder des maximalen Spaltproduktinventars um mehr als 10 vom Hundert der sich aus dem vorgesehenen Vollastbetrieb ergebenden Werte oder</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Erhöhung der vorgesehenen Lagerkapazität für bestrahlte Brennelemente um mehr als 10 vom Hundert.</LA>
+                            </DD>
+                        </DL>Ist eine zusätzliche Bekanntmachung und Auslegung erforderlich, werden die Einwendungsmöglichkeit und die Erörterung auf die vorgesehenen Änderungen beschränkt; hierauf ist in der Bekanntmachung hinzuweisen.</P>
+                    <P>(3) Wird das Vorhaben während eines Genehmigungsverfahrens, in dem eine Prüfung nach § 1a durchzuführen ist, geändert, ist ein Absehen von einer zusätzlichen Bekanntmachung und Auslegung nur zulässig, wenn bei der Änderung keine zusätzlichen oder anderen erheblichen Auswirkungen auf in § 1a genannte Schutzgüter zu besorgen sind. Absatz 2 Satz 4 gilt entsprechend.</P>
+                    <P>(4) Wird eine Genehmigung zur wesentlichen Veränderung einer Anlage oder ihres Betriebes im Sinne von § 7 Abs. 1 des Atomgesetzes oder eine Genehmigung nach § 7 Abs. 3 des Atomgesetzes beantragt, kann die Genehmigungsbehörde von der Bekanntmachung und Auslegung unter den in Absatz 2 genannten Voraussetzungen absehen. Ein Absehen von der Bekanntmachung und Auslegung ist nicht zulässig, wenn nach dem Gesetz über die Umweltverträglichkeitsprüfung die Verpflichtung zur Durchführung einer Umweltverträglichkeitsprüfung besteht. Absatz 2 Satz 4 gilt entsprechend.</P>
+                    <P>(5) Von der Bekanntmachung und der Auslegung kann ferner abgesehen werden, wenn der Antrag eine Anlage zur Spaltung von Kernbrennstoffen betrifft, deren Höchstleistung ein Kilowatt thermische Dauerleistung nicht überschreitet oder die dem Antrieb von Schiffen dient oder dienen soll.</P>
+                    <P>(6) (weggefallen)</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE001203377">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 5</enbez>
+            <titel format="parat">Inhalt der Bekanntmachung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Bekanntmachung muß die in § 2 Abs. 2 vorgeschriebenen Angaben enthalten. Im übrigen ist <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">darauf hinzuweisen, wo und wann der Antrag und die in § 6 Abs. 1 und 2 bezeichneten Unterlagen zur Einsicht ausgelegt sind; der erste und der letzte Tag der Auslegungsfrist sind anzugeben,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">dazu aufzufordern, etwaige Einwendungen bei einer in der Bekanntmachung zu bezeichnenden Stelle innerhalb der Auslegungsfrist (§ 6 Abs. 1) vorzubringen; dabei ist auf die Rechtsfolgen nach § 7 Abs. 1 Satz 2 hinzuweisen,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">ein Erörterungstermin zu bestimmen oder darauf hinzuweisen, daß ein Erörterungstermin stattfinden und der Termin in der gleichen Weise wie das Vorhaben bekanntgemacht werden wird,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">darauf hinzuweisen, daß die Einwendungen in dem Termin auch bei Ausbleiben des Antragstellers oder von Personen, die Einwendungen erhoben haben, erörtert werden,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">darauf hinzuweisen, daß die Zustellung der Entscheidung über die Einwendungen durch die öffentliche Bekanntmachung (§ 15 Abs. 3 Satz 2) ersetzt wird, wenn außer an den Antragsteller mehr als 300 Zustellungen vorzunehmen sind.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Zwischen der Bekanntmachung des Vorhabens und dem Beginn der Auslegungsfrist soll eine Woche liegen; maßgebend ist dabei der voraussichtliche Tag der Ausgabe des Veröffentlichungsblattes oder der Tageszeitung, die zuletzt erscheint.</P>
+                    <P>(3) Zwischen dem Ende der Auslegungsfrist und dem Erörterungstermin soll mindestens ein Monat liegen.</P>
+                    <P>(4) Betrifft der Antrag ein UVP-pflichtiges Vorhaben, muss die Bekanntmachung zusätzlich einen Hinweis auf die UVP-Pflicht des Vorhabens, auf die Art einer möglichen Entscheidung zum Abschluss des Genehmigungsverfahrens und erforderlichenfalls auf die Durchführung einer grenzüberschreitenden Beteiligung nach § 7a sowie die Angabe, welche Unterlagen nach § 3 vorgelegt wurden, enthalten. Ferner ist die Behörde, bei der weitere Informationen über das Vorhaben erhältlich sein werden und der Fragen übermittelt werden können, anzugeben.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE001303377">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 6</enbez>
+            <titel format="parat">Auslegung von Antrag und Unterlagen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Während einer Frist von zwei Monaten sind bei der Genehmigungsbehörde und einer geeigneten Stelle in der Nähe des Standorts des Vorhabens zur Einsicht während der Dienststunden auszulegen <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">der Antrag,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">der Sicherheitsbericht nach § 3 Abs. 1 Nr. 1,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Kurzbeschreibung nach § 3 Abs. 4.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Betrifft der Antrag ein UVP-pflichtiges Vorhaben, sind zusätzlich die Unterlagen nach § 3 Abs. 1 Nr. 8 und 9 und Abs. 2 sowie die entscheidungserheblichen Berichte und Empfehlungen betreffend das Vorhaben, die der Genehmigungsbehörde zum Zeitpunkt des Beginns des Beteiligungsverfahrens vorgelegen haben, auszulegen. Weitere Informationen, die für die Entscheidung über die Zulässigkeit des Vorhabens von Bedeutung sein können und die der zuständigen Behörde erst nach Beginn des Beteiligungsverfahrens vorliegen, sind der Öffentlichkeit nach den Bestimmungen des Bundes und der Länder über den Zugang zu Umweltinformationen zugänglich zu machen.</P>
+                    <P>(3) Auf Verlangen eines Dritten ist diesem eine Abschrift oder Vervielfältigung der Kurzbeschreibung zu überlassen.</P>
+                    <P>(4) Die Genehmigungsbehörde gewährt während der Dauer des Zulassungsverfahrens Akteneinsicht nach pflichtgemäßem Ermessen; § 29 Abs. 1 Satz 3, Abs. 2 und 3 des Verwaltungsverfahrensgesetzes findet entsprechende Anwendung. Sonstige Rechte auf den Zugang zu Informationen in anderen Rechtsvorschriften bleiben unberührt.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE001402308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 7</enbez>
+            <titel format="parat">Einwendungen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Einwendungen können während der Auslegungsfrist schriftlich oder zur Niederschrift bei der Genehmigungsbehörde oder der in der Bekanntmachung nach § 5 Abs. 1 Satz 2 Nr. 2 bezeichneten Stelle erhoben werden. Mit Ablauf der Auslegungsfrist werden alle Einwendungen ausgeschlossen, die nicht auf besonderen privatrechtlichen Titeln beruhen.</P>
+                    <P>(2) Der Inhalt der Einwendungen ist dem Antragsteller bekanntzugeben. Den nach § 7 Abs. 4 Satz 1 des Atomgesetzes beteiligten Behörden ist der Inhalt der Einwendungen bekanntzugeben, die ihren Zuständigkeitsbereich berühren.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE003303377">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 7a</enbez>
+            <titel format="parat">Verfahren bei grenzüberschreitenden Umweltauswirkungen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Wenn ein UVP-pflichtiges Vorhaben erhebliche nach § 3 Abs. 1 Nr. 1 oder 9 zu beschreibende Auswirkungen auf in § 1a genannte Schutzgüter in einem anderen Staat haben kann oder ein anderer Staat, der möglicherweise von den Auswirkungen erheblich berührt wird, darum ersucht, so werden die von dem anderen Staat benannten Behörden im Hinblick auf die Prüfung nach § 1a zum gleichen Zeitpunkt und im gleichen Umfang wie die nach § 7 Abs. 4 Satz 1 des Atomgesetzes zu beteiligenden Behörden über das Vorhaben unterrichtet; dabei ist der zuständigen Behörde des anderen Staates eine angemessene Frist für die Mitteilung einzuräumen, ob eine Beteiligung an dem Verfahren gewünscht wird. Wenn der andere Staat die zu beteiligenden Behörden nicht benannt hat, ist die oberste für Umweltangelegenheiten zuständige Behörde des anderen Staates zu unterrichten. Die Genehmigungsbehörde hat darauf hinzuwirken, dass das Vorhaben in dem Staat auf geeignete Weise bekannt gemacht wird, dabei angegeben wird, bei welcher Behörde Einwendungen erhoben werden können, und dabei darauf hingewiesen wird, dass mit Ablauf der Einwendungsfrist alle Einwendungen ausgeschlossen sind, die nicht auf besonderen privatrechtlichen Titeln beruhen. Rechtsvorschriften zur Geheimhaltung, insbesondere zum Schutz von Geschäfts- und Betriebsgeheimnissen, bleiben unberührt; entgegenstehende Rechte Dritter sind zu beachten. Ebenfalls unberührt bleiben die Vorschriften des Bundesdatenschutzgesetzes und der Landesdatenschutzgesetze zur Datenübermittlung an Stellen außerhalb des Geltungsbereichs des Grundgesetzes. Die Genehmigungsbehörde gibt den zu beteiligenden Behörden des anderen Staates auf der Grundlage der übersandten Unterlagen nach den §§ 2 und 3 Gelegenheit, innerhalb angemessener Frist vor der Entscheidung über den Antrag ihre Stellungnahmen abzugeben; die dort ansässige Öffentlichkeit ist im Hinblick auf ihre weitere Beteiligung am Genehmigungsverfahren der inländischen Öffentlichkeit gleichgestellt.</P>
+                    <P>(2) Die Genehmigungsbehörde kann verlangen, dass ihr der Antragsteller eine Übersetzung der Kurzbeschreibung nach § 3 Abs. 4 sowie, soweit erforderlich, weiterer für die grenzüberschreitende Beteiligung bedeutsamer Angaben zum Vorhaben, insbesondere zu grenzüberschreitenden Umweltauswirkungen, zur Verfügung stellt, sofern im Verhältnis zu dem anderen Staat die Voraussetzungen der Grundsätze von Gegenseitigkeit und Gleichwertigkeit erfüllt sind.</P>
+                    <P>(3) Soweit erforderlich oder soweit der andere Staat darum ersucht, führen die zuständigen obersten Bundes- und Landesbehörden innerhalb eines vereinbarten, angemessenen Zeitrahmens mit dem anderen Staat Konsultationen insbesondere über die grenzüberschreitenden Umweltauswirkungen des Vorhabens und über die Maßnahmen zu deren Vermeidung oder Verminderung durch.</P>
+                    <P>(4) Die Genehmigungsbehörde übermittelt den beteiligten Behörden des anderen Staates die Entscheidung über den Antrag einschließlich der Begründung und einer Rechtsbehelfsbelehrung. Sofern die Voraussetzungen der Grundsätze von Gegenseitigkeit und Gleichwertigkeit erfüllt sind, kann sie eine Übersetzung des Genehmigungsbescheids beifügen. Die Genehmigungsbehörde hat darauf hinzuwirken, dass die Entscheidung über den Antrag der beteiligten Öffentlichkeit in dem anderen Staat auf geeignete Weise bekannt und der Inhalt der Entscheidung mit Begründung und einer Rechtsbehelfsbelehrung zugänglich gemacht wird.</P>
+                    <P>(5) Weiter gehende Regelungen zur Umsetzung völkerrechtlicher Verpflichtungen von Bund und Ländern bleiben unberührt.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNG000301308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>Dritter Abschnitt</gliederungsbez>
+                <gliederungstitel>Erörterungstermin</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE001502308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 8</enbez>
+            <titel format="parat">Gegenstand und Zweck</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Genehmigungsbehörde hat die rechtzeitig erhobenen Einwendungen mit dem Antragsteller und denjenigen, die Einwendungen erhoben haben, mündlich zu erörtern. Rechtzeitig erhoben sind Einwendungen, die innerhalb der Auslegungsfrist bei den in der Bekanntmachung nach § 5 Abs. 1 Satz 2 Nr. 2 bezeichneten Stellen eingegangen sind.</P>
+                    <P>(2) Der Erörterungstermin dient dazu, die rechtzeitig erhobenen Einwendungen zu erörtern, soweit dies für die Prüfung der Zulassungsvoraussetzungen von Bedeutung sein kann. Er soll denjenigen, die Einwendungen erhoben haben, Gelegenheit geben, ihre Einwendungen zu erläutern.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE001601308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 9</enbez>
+            <titel format="parat">Besondere Einwendungen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen, sind im Erörterungstermin nicht zu behandeln; sie sind durch schriftlichen Bescheid auf den Rechtsweg vor den ordentlichen Gerichten zu verweisen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE001701308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 10</enbez>
+            <titel format="parat">Wegfall</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Ein Erörterungstermin findet nicht statt, wenn <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Einwendungen gegen das Vorhaben nicht oder nicht rechtzeitig erhoben worden sind,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die rechtzeitig erhobenen Einwendungen zurückgenommen worden sind oder</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">ausschließlich Einwendungen erhoben worden sind, die auf besonderen privatrechtlichen Titeln beruhen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Der Antragsteller ist vom Wegfall des Termins zu unterrichten.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE001801308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 11</enbez>
+            <titel format="parat">Verlegung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Genehmigungsbehörde kann den bekanntgemachten Erörterungstermin verlegen, wenn dies im Hinblick auf dessen zweckgerechte Durchführung erforderlich ist. Ort und Zeit des neuen Erörterungstermins sind zum frühestmöglichen Zeitpunkt zu bestimmen.</P>
+                    <P>(2) Der Antragsteller und diejenigen, die rechtzeitig Einwendungen erhoben haben, sind von der Verlegung des Erörterungstermins zu benachrichtigen. Sie können in entsprechender Anwendung des § 4 Abs. 1 durch öffentliche Bekanntmachung benachrichtigt werden.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE001901308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 12</enbez>
+            <titel format="parat">Verlauf</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Der Erörterungstermin ist nicht öffentlich. Der den Erörterungstermin leitende Vertreter der Genehmigungsbehörde (Verhandlungsleiter) entscheidet darüber, wer außer dem Antragsteller und denjenigen, die rechtzeitig Einwendungen erhoben haben, an dem Termin teilnimmt.</P>
+                    <P>(2) Der Verhandlungsleiter kann bestimmen, daß Einwendungen zusammengefaßt erörtert werden. In diesem Fall hat er die Reihenfolge der Erörterung bekanntzugeben. Er kann für einen bestimmten Zeitraum das Recht zur Teilnahme an dem Erörterungstermin auf die Personen beschränken, deren Einwendungen zusammengefaßt erörtert werden sollen.</P>
+                    <P>(3) Der Verhandlungsleiter erteilt das Wort und kann es demjenigen entziehen, der eine von ihm festgesetzte Redezeit für die einzelnen Wortmeldungen überschreitet oder Ausführungen macht, die nicht den Gegenstand des Erörterungstermins betreffen oder nicht in sachlichem Zusammenhang mit der zu behandelnden Einwendung stehen.</P>
+                    <P>(4) Der Verhandlungsleiter ist für die Ordnung verantwortlich. Er kann Personen, die seine Anordnungen nicht befolgen, entfernen lassen. Der Erörterungstermin kann ohne diese Personen fortgesetzt werden.</P>
+                    <P>(5) Der Verhandlungsleiter beendet den Erörterungstermin, wenn dessen Zweck erreicht ist. Er kann den Erörterungstermin ferner für beendet erklären, wenn auch nach einer Vertagung, der Erörterungstermin aus dem Kreis der Teilnehmer erneut so gestört wird, daß seine ordnungsmäßige Durchführung nicht mehr gewährleistet ist. Personen, deren Einwendungen noch nicht oder noch nicht abschließend erörtert wurden, können innerhalb eines Monats nach Aufhebung des Termins ihre Einwendungen gegenüber der Genehmigungsbehörde schriftlich erläutern; hierauf sollen die Anwesenden bei Aufhebung des Termins hingewiesen werden.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE002001308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 13</enbez>
+            <titel format="parat">Niederschrift</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Über den Erörterungstermin ist eine Niederschrift zu fertigen. Die Niederschrift muß Angaben enthalten über <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">den Ort und den Tag der Erörterung,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">den Namen des Verhandlungsleiters,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">den Gegenstand des Genehmigungsverfahrens,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">den Verlauf und die Ergebnisse des Erörterungstermins.</LA>
+                            </DD>
+                        </DL>Die Niederschrift ist von dem Verhandlungsleiter und, soweit ein Schriftführer hinzugezogen worden ist, auch von diesem zu unterzeichnen. Der Aufnahme in die Verhandlungsniederschrift steht die Aufnahme in eine Schrift gleich, die ihr als Anlage beigefügt und als solche bezeichnet ist; auf die Anlage ist in der Verhandlungsniederschrift hinzuweisen. Die Genehmigungsbehörde kann den Erörterungstermin zum Zwecke der Anfertigung der Niederschrift auf Tonträger aufzeichnen. Die Tonaufzeichnungen sind nach Eintritt der Unanfechtbarkeit der Entscheidung über den Genehmigungsantrag zu löschen; liegen im Falle eines Vorbescheidsverfahrens die Voraussetzungen des § 7a Abs. 1 Satz 2 des Atomgesetzes vor, hat die Löschung nach Eintritt der Unwirksamkeit zu erfolgen.</P>
+                    <P>(2) Dem Antragsteller ist eine Abschrift der Niederschrift zu überlassen. Auf Anforderung ist auch demjenigen, der rechtzeitig Einwendungen erhoben hat, eine Abschrift zu überlassen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNG000401308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>040</gliederungskennzahl>
+                <gliederungsbez>Vierter Abschnitt</gliederungsbez>
+                <gliederungstitel>Genehmigung</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE002101308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 14</enbez>
+            <titel format="parat">Sachprüfung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die Prüfung durch die Genehmigungsbehörde erstreckt sich außer auf die Genehmigungsvoraussetzungen des § 7 Abs. 2 des Atomgesetzes auch auf die Beachtung der übrigen das Vorhaben betreffenden öffentlich-rechtlichen Vorschriften.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE003402377">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 14a</enbez>
+            <titel format="parat">Zusammenfassende Darstellung, Bewertung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Bei UVP-pflichtigen Vorhaben erarbeitet die Genehmigungsbehörde auf der Grundlage der Unterlagen nach § 3, der behördlichen Stellungnahmen nach § 7 Abs. 4 Satz 1 des Atomgesetzes und nach § 7a, der Ergebnisse eigener Ermittlungen sowie der Äußerungen und Einwendungen Dritter eine zusammenfassende Darstellung der für die Entscheidung über den Genehmigungsantrag bedeutsamen Auswirkungen des Vorhabens auf in § 1a genannte Schutzgüter einschließlich der Wechselwirkungen. Die zusammenfassende Darstellung kann in der Begründung der Entscheidung über die Zulässigkeit des Vorhabens erfolgen. Bedarf das Vorhaben der Zulassung durch mehrere Behörden, gilt § 1b Abs. 2.</P>
+                    <P>(2) Die Genehmigungsbehörde bewertet die Auswirkungen des Vorhabens auf in § 1a genannte Schutzgüter auf der Grundlage der zusammenfassenden Darstellung nach den für ihre Entscheidung maßgeblichen Rechts- und Verwaltungsvorschriften. Bedarf das Vorhaben der Zulassung durch mehrere Behörden, wirkt die Genehmigungsbehörde an der Gesamtbewertung durch alle Zulassungsbehörden nach § 14 Abs. 2 des Gesetzes über die Umweltverträglichkeitsprüfung mit. Ist die atomrechtliche Genehmigungsbehörde federführende Behörde, so hat sie das Zusammenwirken aller Zulassungsbehörden sicherzustellen. die Genehmigungsbehörde hat die vorgenommene Bewertung oder Gesamtbewertung bei der Entscheidung über den Antrag nach Maßgabe der hierfür geltenden Rechtsvorschriften zu berücksichtigen.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE002202377">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 15</enbez>
+            <titel format="parat">Entscheidung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Behörde entscheidet unter Würdigung des Gesamtergebnisses des Verfahrens.</P>
+                    <P>(2) Der Antrag ist abzulehnen, sobald die Prüfung ergibt, daß die Genehmigungsvoraussetzungen nicht vorliegen und ihre Erfüllung nicht durch Nebenbestimmungen sichergestellt werden kann. Er kann abgelehnt werden, wenn der Antragsteller einer Aufforderung, die Unterlagen zu ergänzen, innerhalb einer ihm gesetzten angemessenen Frist nicht nachgekommen ist.</P>
+                    <P>(3) Die Entscheidung ist schriftlich zu erlassen, schriftlich zu begründen, mit einer Rechtsbehelfsbelehrung zu versehen und dem Antragsteller und den Personen, die Einwendungen erhoben haben, zuzustellen. Außerdem ist die Entscheidung nach § 17 öffentlich bekanntzumachen. Ist die Entscheidung an mehr als 300 Personen, die Einwendungen erhoben haben, zuzustellen, so werden diese Zustellungen durch die öffentliche Bekanntmachung ersetzt.</P>
+                    <P>(4) Wird das Verfahren auf andere Weise abgeschlossen, so sind der Antragsteller und die Personen, die Einwendungen erhoben haben, hiervon zu benachrichtigen; sind mehr als 300 Personen zu benachrichtigen, so kann die Benachrichtigung nach § 4 Abs. 1 erfolgen.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE002302377">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 16</enbez>
+            <titel format="parat">Inhalt des Genehmigungsbescheides</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Der Genehmigungsbescheid muß enthalten <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Angabe des Namens und des Wohnsitzes oder des Sitzes des Antragstellers,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Angabe, daß eine Genehmigung oder eine Teilgenehmigung erteilt wird, und die Angabe der Rechtsgrundlage,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die genaue Bezeichnung des Gegenstandes der Genehmigung einschließlich des Standortes der Anlage,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Nebenbestimmungen zur Genehmigung,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Begründung, aus der die wesentlichen tatsächlichen und rechtlichen Gründe, die die Behörde auch im Hinblick auf die Beachtung von § 4 zu ihrer Entscheidung bewogen haben, und die Behandlung der Einwendungen hervorgehen sollen; die Begründung enthält auch eine Beschreibung der wichtigsten Maßnahmen, mit denen erhebliche nachteilige Auswirkungen vermieden oder vermindert werden.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Der Genehmigungsbescheid soll enthalten <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">den Hinweis, daß der Genehmigungsbescheid unbeschadet der Entscheidungen anderer Behörden ergeht, die für das Gesamtvorhaben auf Grund anderer öffentlich-rechtlicher Vorschriften erforderlich sind, und</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Rechtsbehelfsbelehrung.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE002401308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 17</enbez>
+            <titel format="parat">Zustellung durch öffentliche Bekanntmachung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die öffentliche Bekanntmachung wird dadurch bewirkt, daß der verfügende Teil des Bescheides und die Rechtsbehelfsbelehrung in der in § 4 Abs. 1 vorgesehenen Weise bekanntgemacht werden; auf Auflagen ist hinzuweisen.</P>
+                    <P>(2) Eine Ausfertigung des gesamten Bescheides ist bei der Genehmigungsbehörde und bei der in § 6 Abs. 1 genannten sonstigen Stelle vom Tage nach der Bekanntmachung an zwei Wochen zur Einsicht auszulegen. Maßgebend für die Festsetzung des Beginns der Frist ist der voraussichtliche Tag der Ausgabe des Veröffentlichungsblattes oder der Tageszeitung, die zuletzt erscheint. In der öffentlichen Bekanntmachung ist anzugeben, wo und wann der Bescheid und seine Begründung eingesehen und nach Absatz 3 angefordert werden können. Mit dem Ende der Auslegungsfrist gilt der Bescheid auch gegenüber Dritten, die keine Einwendungen erhoben haben, als zugestellt; darauf ist in der Bekanntmachung hinzuweisen.</P>
+                    <P>(3) Nach der öffentlichen Bekanntmachung können der Bescheid und seine Begründung bis zum Ablauf der Rechtsbehelfsfrist von den Personen, die Einwendungen erhoben haben, schriftlich angefordert werden.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNG000502308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>050</gliederungskennzahl>
+                <gliederungsbez>Fünfter Abschnitt</gliederungsbez>
+                <gliederungstitel>Besondere Vorschriften</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE002503377">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 18</enbez>
+            <titel format="parat">Teilgenehmigung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Auf Antrag kann eine Teilgenehmigung erteilt werden, wenn eine vorläufige Prüfung ergibt, daß die Genehmigungsvoraussetzungen im Hinblick auf die Errichtung und den Betrieb der gesamten Anlage vorliegen werden, und ein berechtigtes Interesse an der Erteilung einer Teilgenehmigung besteht.</P>
+                    <P>(2) Ist ein Antrag im Sinne des Absatzes 1 gestellt, so kann die Genehmigungsbehörde zulassen, daß in den Unterlagen endgültige Angaben nur hinsichtlich des Gegenstandes der Teilgenehmigung gemacht werden. Zusätzlich sind Angaben zu machen, die bei einer vorläufigen Prüfung ein ausreichendes Urteil darüber ermöglichen, ob die Genehmigungsvoraussetzungen im Hinblick auf die Errichtung und den Betrieb der gesamten Anlage vorliegen werden.</P>
+                    <P>(3) Betrifft der Antrag im Sinne des Absatzes 1 ein UVP-pflichtiges Vorhaben, erstreckt sich im Verfahren zur Erteilung einer Teilgenehmigung die Prüfung nach § 1a im Rahmen der vorläufigen Prüfung im Sinne des Absatzes 1 auf die erkennbaren Auswirkungen des gesamten Vorhabens auf in § 1a genannte Schutzgüter und abschließend auf die Auswirkungen, deren Ermittlung, Beschreibung und Bewertung Voraussetzung für Feststellungen oder Gestattungen ist, die Gegenstand dieser Teilgenehmigung sind. Ist für ein UVP-pflichtiges Vorhaben über eine weitere Teilgenehmigung zu entscheiden, ist die Anwendung der besonderen Vorschriften für UVP-pflichtige Vorhaben auf zusätzliche oder andere erhebliche Auswirkungen auf in § 1a genannte Schutzgüter zu beschränken. Die Unterrichtung über voraussichtlich beizubringende Unterlagen nach § 1b beschränkt sich auf den zu erwartenden Umfang der Prüfung nach § 1a; Absatz 2 gilt auch für die dem Antrag nach § 3 Abs. 2 zusätzlich beizufügenden Unterlagen.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE002602308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 19</enbez>
+            <titel format="parat">Vorbescheid</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Der Antrag auf Erteilung eines Vorbescheides ist schriftlich bei der Genehmigungsbehörde des Landes zu stellen, in dem das Vorhaben ausgeführt werden soll.</P>
+                    <P>(2) Bei nicht standortbezogenen Anträgen hat die Genehmigungsbehörde das Vorhaben in ihrem amtlichen Verkündungsblatt, im Bundesanzeiger sowie in geeigneten Tageszeitungen bekanntzumachen.</P>
+                    <P>(3) Der Vorbescheid muß enthalten <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Angabe des Namens und des Wohnsitzes oder Sitzes des Antragstellers,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Angabe, daß ein Vorbescheid erteilt wird, und die Angabe der Rechtsgrundlage,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die genaue Bezeichnung des Gegenstandes des Vorbescheides,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Voraussetzungen und Vorbehalte, unter denen der Vorbescheid erteilt wird,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Begründung, aus der die wesentlichen tatsächlichen und rechtlichen Gründe, die die Behörde zu ihrer Entscheidung bewogen haben, und die Behandlung der erhobenen Einwendungen hervorgehen sollen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(4) Der Vorbescheid soll enthalten <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">den Hinweis auf § 7a Abs. 1 Satz 2 des Atomgesetzes,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">den Hinweis, daß der Vorbescheid nicht zur Errichtung der Anlage oder von Teilen der Anlage berechtigt,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">den Hinweis, daß der Vorbescheid unbeschadet der behördlichen Entscheidungen ergeht, die für das Gesamtvorhaben auf Grund anderer öffentlich-rechtlicher Vorschriften erforderlich sind, und</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Rechtsbehelfsbelehrung.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(5) § 18 Abs. 2 und 3 gilt entsprechend.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE003501308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 19a</enbez>
+            <titel format="parat">Raumordnungsverfahren und Genehmigungsverfahren</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Genehmigungsbehörde hat die im Raumordnungsverfahren oder einem anderen raumordnerischen Verfahren (raumordnerisches Verfahren) nach § 16 Abs. 1 des Gesetzes über die Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Auswirkungen eines UVP-pflichtigen Vorhabens auf die Umwelt nach Maßgabe des § 14a Abs. 2 bei der Entscheidung über den Antrag zu berücksichtigen.</P>
+                    <P>(2) Genehmigungsverfahren soll hinsichtlich der im raumordnerischen Verfahren ermittelten und beschriebenen Auswirkungen auf in § 1a Abs. 2 genannte Schutzgüter von den Anforderungen des § 7 Abs. 4 Satz 1 des Atomgesetzes sowie der §§ 1b, 3, 7a und 14a Abs. 1 insoweit abgesehen werden, als diese Verfahrensschritte bereits im raumordnerischen Verfahren erfolgt sind.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE003600377">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 19b</enbez>
+            <titel format="parat">Genehmigungen nach § 7 Abs. 3 des Atomgesetzes</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Unterlagen, die einem erstmaligen Antrag auf Erteilung einer Genehmigung nach § 7 Abs. 3 des Atomgesetzes beizufügen sind, müssen auch Angaben zu den insgesamt geplanten Maßnahmen zur Stilllegung, zum sicheren Einschluss oder zum Abbau der Anlage oder von Anlagenteilen enthalten, die insbesondere die Beurteilung ermöglichen, ob die beantragten Maßnahmen weitere Maßnahmen nicht erschweren oder verhindern und ob eine sinnvolle Reihenfolge der Abbaumaßnahmen vorgesehen ist. In den Unterlagen ist darzulegen, wie die geplanten Maßnahmen verfahrensmäßig umgesetzt werden sollen und welche Auswirkungen die Maßnahmen nach dem jeweiligen Planungsstand voraussichtlich auf in § 1a genannte Schutzgüter haben werden.</P>
+                    <P>(2) Wird für eine ortsfeste Anlage zur Spaltung von Kernbrennstoffen, deren Höchstleistung ein Kilowatt thermische Dauerleistung überschreitet, erstmals eine Genehmigung nach § 7 Abs. 3 des Atomgesetzes beantragt, kann abweichend von § 4 Abs. 4 von einer Bekanntmachung und Auslegung des Vorhabens nicht abgesehen werden. Wäre nach § 4 Abs. 4 eine Beteiligung Dritter nicht erforderlich, kann die Genehmigungsbehörde davon absehen, Einwendungen mündlich zu erörtern; hat die Genehmigungsbehörde entschieden, dass ein Erörterungstermin nicht stattfindet oder hat sie sich die Entscheidung noch vorbehalten, ist in der Bekanntmachung des Vorhabens abweichend von § 5 Abs. 1 Nr. 3 hierauf hinzuweisen.</P>
+                    <P>(3) In den Fällen des Absatzes 2 erstreckt sich die Umweltverträglichkeitsprüfung auf die insgesamt geplanten Maßnahmen zur Stilllegung, zum sicheren Einschluss oder zum Abbau der Anlage oder von Anlagenteilen. Zu diesem Zweck sind nach § 6 auch die Angaben nach Absatz 1 auszulegen.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNG000601308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>060</gliederungskennzahl>
+                <gliederungsbez>Sechster Abschnitt</gliederungsbez>
+                <gliederungstitel>Schlußvorschriften</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE002703377">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 20</enbez>
+            <titel format="parat">Übergangsvorschrift</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Verfahren, die vor dem Inkrafttreten einer Änderung dieser Verordnung begonnen worden sind, sind nach den Vorschriften der geänderten Verordnung zu Ende zu führen. Eine Wiederholung von Verfahrensabschnitten ist nicht erforderlich.</P>
+                    <P>(2) Abweichend von Absatz 1 sind Genehmigungsverfahren für Vorhaben, auf die das Gesetz über die Umweltverträglichkeitsprüfung in der am 3. August 2001 in Kraft getretenen Fassung keine Anwendung findet, nach den bis zum vorgenannten Datum geltenden Vorschriften zu Ende zu führen.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120808043317" doknr="BJNR002800977BJNE002902308">
+        <metadaten>
+            <jurabk>AtVfV</jurabk>
+            <enbez>§ 21</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(Inkrafttreten)</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+</dokumente>

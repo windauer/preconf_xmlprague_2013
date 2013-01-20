@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625152928" doknr="BJNR006940957">
+    <norm builddate="20120625152928" doknr="BJNR006940957">
+        <metadaten>
+            <jurabk>BevStatG</jurabk>
+            <amtabk>BevStatG</amtabk>
+            <ausfertigung-datum manuell="ja">1957-07-04</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1957, 694</zitstelle>
+            </fundstelle>
+            <kurzue>Bevölkerungsstatistikgesetz</kurzue>
+            <langue>Gesetz über die Statistik der Bevölkerungsbewegung und die Fortschreibung des Bevölkerungsstandes</langue>
+            <standangabe checked="ja">
+                <standtyp>Neuf</standtyp>
+                <standkommentar>Neugefasst durch Bek. v. 14.3.1980 I 308;</standkommentar>
+            </standangabe>
+            <standangabe checked="ja">
+                <standtyp>Stand</standtyp>
+                <standkommentar>zuletzt geändert durch Art. 1 G v. 18.7.2008 I 1290</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <fussnoten>
+                <Content>
+                    <P>
+                        <BR/>
+                        <pre xml:space="preserve">(+++ Textnachweis Geltung ab: 23.8.1980 +++)<BR/>
+                            <BR/>
+                        </pre>Kurzüberschrift u. Abkürzung: Eingef. durch Art. 2 Nr. 1 G v. 30.10.2007 I 2526 mWv 1.1.2008</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152928" doknr="BJNR006940957BJNE000100304">
+        <metadaten>
+            <jurabk>BevStatG</jurabk>
+            <enbez>§ 1</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Um die Veränderungen in Zahl und Zusammensetzung der Bevölkerung und ihre Ursachen im Geltungsbereich dieses Gesetzes festzustellen, wird eine Bundesstatistik durchgeführt. Sie umfaßt <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Statistik der natürlichen Bevölkerungsbewegung einschließlich der Todesursachenstatistik,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Statistik der rechtskräftigen Urteile in Ehesachen,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Wanderungsstatistik und</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Fortschreibung des Bevölkerungsstandes.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152928" doknr="BJNR006940957BJNE000900310">
+        <metadaten>
+            <jurabk>BevStatG</jurabk>
+            <enbez>§ 2</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Für die Statistik der natürlichen Bevölkerungsbewegung werden bei Eheschließungen, Geburten und Sterbefällen mit Zählkarten laufend folgende Tatbestände erfaßt: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Bei Eheschließungen:<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Tag der Eheschließung,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Wohngemeinde, Alter, bisheriger Familienstand und Kinder der Ehegatten,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">rechtliche Zugehörigkeit oder Nichtzugehörigkeit zu einer Kirche, Religionsgesellschaft oder Weltanschauungsgemeinschaft und Staatsangehörigkeit;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">bei Lebend- und Totgeburten:<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Geburtstag, Geschlecht, Körpergewicht, Körperlänge, Angabe über Ehelichkeit oder Nichtehelichkeit des Kindes,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Wohngemeinde und Alter der Eltern,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Erwerbstätigkeit der Mutter, rechtliche Zugehörigkeit oder Nichtzugehörigkeit zu einer Kirche, Religionsgesellschaft oder Weltanschauungsgemeinschaft und Staatsangehörigkeit,</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Mehrlingsgeburt,</LA>
+                                        </DD>
+                                        <DT>e)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">bei ehelichen Kindern: Tag der Eheschließung der Eltern, Geburtenfolge sowie Geburtsdatum des vorangegangenen Kindes,</LA>
+                                        </DD>
+                                        <DT>f)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Geburtstag des vorangegangenen Kindes der Mutter und Geburtenfolge in Bezug auf die Kinder der Mutter;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">bei Sterbefällen:<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Sterbetag, Geschlecht, Alter, Familienstand - bei Kindern Angabe über Ehelichkeit oder Nichtehelichkeit - und Wohngemeinde,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Erwerbstätigkeit, rechtliche Zugehörigkeit oder Nichtzugehörigkeit zu einer Kirche, Religionsgesellschaft oder Weltanschauungsgemeinschaft und Staatsangehörigkeit,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">bei Verheirateten: Alter des überlebenden Ehegatten,</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Todesursache, bei Sterbefällen innerhalb der ersten vierundzwanzig Lebensstunden auch Lebensdauer.</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Die Zählkarten werden von den Standesämtern und in den Fällen der §§ 20 und 30 des Personenstandsgesetzes von den dort genannten Stellen ausgefüllt. In den Ländern, in denen ein Leichenschauschein (Totenschein) eingeführt ist, der die in Absatz 1 Nr. 3 Buchstabe d genannten Tatbestände enthält, brauchen diese Tatbestände nicht in die Zählkarten aufgenommen zu werden. Der Leichenschauschein (Totenschein) tritt insoweit an die Stelle der Zählkarte.</P>
+                    <P>(3) Soweit die Angaben, die zum Ausfüllen der Zählkarten nötig sind, nicht aus den Eintragungen in die Personenstandsregister oder aus anderen vorgelegten Unterlagen hervorgehen, sind die Anzeigenden oder die Eheschließenden, für die Angabe der Todesursache die nach Landesrecht für die Leichenschau zuständigen Ärzte oder sonstigen Personen auskunftspflichtig. Für die Angabe von Körpergewicht, Körperlänge bei der Geburt sind in den Fällen, in denen sie hinzugezogen wurden, der Arzt oder die Hebamme, in den übrigen Fällen die Anzeigenden auskunftspflichtig.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152928" doknr="BJNR006940957BJNE000301310">
+        <metadaten>
+            <jurabk>BevStatG</jurabk>
+            <enbez>§ 3</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Für die Statistik der rechtskräftigen Urteile in Ehesachen werden bei gerichtlichen Entscheidungen über Ehescheidungs-, -aufhebungs- oder -nichtigkeitsklagen mit Zählkarten laufend folgende Tatbestände erfaßt: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kläger und Widerkläger,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Inhalt der Entscheidung (Nichtigkeitserklärung, Aufhebung, Scheidung, Klageabweisung, Schuldausspruch, zugrunde gelegte gesetzliche Bestimmungen),</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Alter der Ehegatten, Ehedauer und Kinderzahl,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Staatsangehörigkeit der Ehegatten.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Die Zählkarten werden von den Urkundsbeamten der Geschäftsstelle des Gerichts erster Instanz nach Rechtskraft des Urteils auf Grund der Gerichtsakten ausgefüllt.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152928" doknr="BJNR006940957BJNE000402310">
+        <metadaten>
+            <jurabk>BevStatG</jurabk>
+            <enbez>§ 4</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Für die Wanderungsstatistik werden bei der An- und Abmeldung die Zu- und Fortzüge (Wohnungswechsel) sowie Änderungen des Wohnungsstatus mit folgenden Tatbeständen laufend erfaßt: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Tag des Bezugs der neuen oder des Auszugs aus der alten Wohnung, alte und neue Wohngemeinde, Haupt- und Nebenwohnsitz,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Geschlecht, Alter und Familienstand,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">rechtliche Zugehörigkeit oder Nichtzugehörigkeit zu einer Religionsgesellschaft und Staatsangehörigkeit,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Geburtsort und Geburtsstaat,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">bei Zuzug aus dem Ausland: Datum des dem Zuzug vorangegangenen Fortzugs vom Inland ins Ausland.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152928" doknr="BJNR006940957BJNE000500304">
+        <metadaten>
+            <jurabk>BevStatG</jurabk>
+            <enbez>§ 5</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Bei der Fortschreibung des Bevölkerungsstandes sind auf der Grundlage der jeweils letzten allgemeinen Zählung der Bevölkerung nach den Ergebnissen der Statistik der natürlichen Bevölkerungsbewegung und der Wanderungsstatistik die Bevölkerung insgesamt sowie die deutsche Bevölkerung nach Geschlecht, Alter und Familienstand festzustellen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152928" doknr="BJNR006940957BJNE000601320">
+        <metadaten>
+            <jurabk>BevStatG</jurabk>
+            <enbez>§ 6</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Zählkarten für Eheschließungen, Geburten und Sterbefälle (§ 2 Abs. 1) und für rechtskräftige Urteile in Ehesachen (§ 3 Abs. 1) sowie die Leichenschauscheine (§ 2 Abs. 2) und eine Ausfertigung der Meldescheine (§ 4) sind mindestens monatlich an das Statistische Landesamt zu übersenden. Die Leichenschauscheine sind über das Gesundheitsamt zu leiten. Soweit möglich, sind die Daten auf automatisiert verarbeitbaren Datenträgern oder durch Datenübertragung zu übermitteln.</P>
+                    <P>(2) Einzelangaben in statistischen Ergebnissen über die nach § 2 Abs. 1 Nr. 1 Buchstabe c, Nr. 2 Buchstabe c, Nr. 3 Buchstabe b und § 4 Nr. 3 erfaßte Zugehörigkeit oder Nichtzugehörigkeit zu einer Religionsgemeinschaft dürfen in der Gliederung nach dem Jahr der Eheschließung, der Geburt, des Sterbefalls und des Wohnungswechsels von den Statistischen Ämtern des Bundes und der Länder veröffentlicht werden.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152928" doknr="BJNR006940957BJNE000701310">
+        <metadaten>
+            <jurabk>BevStatG</jurabk>
+            <enbez>§ 7</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(weggefallen)</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152928" doknr="BJNR006940957BJNE000800304">
+        <metadaten>
+            <jurabk>BevStatG</jurabk>
+            <enbez>§ 8</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Inkrafttreten</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+</dokumente>

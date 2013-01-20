@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625150654" doknr="BJNR003540934">
+    <norm builddate="20120625150654" doknr="BJNR003540934">
+        <metadaten>
+            <jurabk>BergMSdlgG 2</jurabk>
+            <ausfertigung-datum manuell="ja">1934-05-02</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>RGBl I</periodikum>
+                <zitstelle>1934, 354</zitstelle>
+            </fundstelle>
+            <langue>Zweites Gesetz über Bergmannssiedlungen</langue>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten>
+                <Content>
+                    <P>(+++ Textnachweis Geltung ab:  1. 1.1964 +++)</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150654" doknr="BJNR003540934BJNE000100309">
+        <metadaten>
+            <jurabk>BergMSdlgG 2</jurabk>
+            <enbez>Eingangsformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit verkündet wird:</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150654" doknr="BJNR003540934BJNE000200309">
+        <metadaten>
+            <jurabk>BergMSdlgG 2</jurabk>
+            <enbez>Art I</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150654" doknr="BJNR003540934BJNE000300309">
+        <metadaten>
+            <jurabk>BergMSdlgG 2</jurabk>
+            <enbez>Art II</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>1. Die Geschäftsanteile der Gesellschafter an den im Artikel I Nr. 2 unter a bis g aufgeführten Treuhandstellen gehen auf das Reich über; ... . Ein Entschädigungsanspruch besteht nicht. Das Nähere, insbesondere den Zeitpunkt des Übergangs, bestimmt der <I>Reichsarbeitsminister</I> im Einvernehmen mit dem <I>Reichswirtschaftsminister.</I>
+                    </P>
+                    <P>2.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+</dokumente>
