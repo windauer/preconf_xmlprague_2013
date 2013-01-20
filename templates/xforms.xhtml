@@ -1,22 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xf="http://www.w3.org/2002/xforms">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xf="http://www.w3.org/2002/xforms">
     <head>
         <link rel="stylesheet" type="text/css" href="resources/css/exist.css"/>
         <title>General XForms Form</title>
+        <style type="text/css">
+            tr {
+                padding-top:10px;
+            }
+            td {
+                padding-right:10px;
+            }
+            thead td {
+                font-weight:bold;
+                font-size:12pt;
+            }
+        </style>
     </head>
     <body id="body">
         <div style="display:none;">
             <xf:model>
                 <xf:instance xmlns="" id="i-search">
                     <data>
-                        <startdate/>
-                        <enddate/>
+                        <startdate>2010-01-10</startdate>
+                        <enddate>2012-01-01</enddate>
+                        <sortAscending>true</sortAscending>
+                        <term/>
                     </data>
                 </xf:instance>
                 <xf:bind nodeset="instance('i-search')">
                     <xf:bind nodeset="startdate" type="date"/>
                     <xf:bind nodeset="enddate" type="date"/>
+                    <xf:bind nodeset="sortAscending" type="boolean"/>
                 </xf:bind>
+                <xf:submission id="s-search" ref="instance('i-search')" method="post" replace="embedHTML" targetid="searchResultMount" resource="modules/search.xql" validate="false">
+                    <!--xf:resource value="'../modules/search.xql'"/-->
+                    <xf:action ev:event="xforms-submit-error">
+                        <xf:message>Submission 'List Params' failed</xf:message>
+                    </xf:action>
+                </xf:submission>
             </xf:model>
         </div>
         <div id="grey-top">
@@ -58,7 +79,7 @@
                 </li>
             </ul>
             <div id="copyright">
-                <p>Copyright eXist-db Project 2012</p>
+                <p>Copyright eXist-db / betterFORM Project 2012</p>
             </div><!--/copyright-->
         </div><!--/footer-->
     </body>

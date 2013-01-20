@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div xmlns:xf="http://www.w3.org/2002/xforms" class="templates:surround?with=templates/xforms.xhtml&amp;at=main">
     <h1 class="config:app-title">Generated page</h1>
-    <div class="config:searchform">Generated XForms</div>
+    <!-- <div class="config:searchform">Generated XForms</div> -->
     <xf:group appearance="full">
-        <xf:label>Choosen Search Params:</xf:label>
-        <xf:output ref="startdate">
-            <xf:label>Start:</xf:label>
-        </xf:output>
+        <h2>Search Params:</h2>
+        <xf:input ref="startdate">
+            <xf:label>Start</xf:label>
+        </xf:input>
+        <xf:input ref="enddate">
+            <xf:label>End</xf:label>
+        </xf:input>
+        <xf:input ref="sortAscending">
+            <xf:label>Ascending</xf:label>
+        </xf:input>
+        <xf:input ref="term">
+            <xf:label>Search Term</xf:label>
+        </xf:input>
+        <xf:trigger>
+            <xf:label>Search</xf:label>
+            <xf:send submission="s-search"/>
+        </xf:trigger>
     </xf:group>
-    
-    <!-- <table class="table app:list-all">
-        <tr class="templates:each?from=documents&to=document">
-            <td class="app:abbrev"/>
-            <td class="app:title"/>
-            <td class="app:date"/> 
-        </tr>
-    </table>
-    -->
+    <xf:group appearance="full">
+        <div id="searchResultMount"/>
+    </xf:group>
 </div>

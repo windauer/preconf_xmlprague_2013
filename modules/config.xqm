@@ -65,19 +65,6 @@ declare function config:expath-descriptor() as element(expath:package) {
 declare %templates:wrap function config:app-title($node as node(), $model as map(*)) as text() {
     $config:expath-descriptor/expath:title/text()
 };
-declare %templates:wrap function config:searchform($node as node(), $model as map(*)) as node() {
-    <xf:group appearance="full">
-        <xf:label>Configure Search Params:</xf:label>
-        <xf:input ref="startdate">
-            <xf:label>Start:</xf:label>
-        </xf:input>
-        <xf:input ref="enddate">
-            <xf:label>End:</xf:label>
-        </xf:input>
-    </xf:group>
-
-
-};
 
 declare function config:app-meta($node as node(), $model as map(*)) as element()* {
     <meta xmlns="http://www.w3.org/1999/xhtml" name="description" content="{$config:repo-descriptor/repo:description/text()}"/>,
