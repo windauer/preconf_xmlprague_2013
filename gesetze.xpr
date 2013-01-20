@@ -10,19 +10,45 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>resources/xsl/toc.xsl</String>
+                                    <String>resources/xsl/content.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>tocHGB to File</String>
-                                        <String>tocBGB to File</String>
-                                        <String>tocGG to File</String>
+                                        <String>BGB (content)</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
                                         <String>XML</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>resources/xsl/toc.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>BGB (generate TOC)</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
                                         <String>XML</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>resources/xsl/inline.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>BGB (inline &amp; generate UUIDS)</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
                                         <String>XML</String>
                                     </list>
                                 </field>
@@ -37,7 +63,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>tocBGB to File</String>
+                                    <String>BGB (inline &amp; generate UUIDS)</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -55,7 +81,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${currentFileURL}</String>
+                                    <String>file:/Users/windauer/dev/association/gesetz/resources/xsl/inline.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>file:/Users/windauer/dev/association/gesetz/data/BJNR001950896.xml</String>
@@ -76,7 +102,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>/Users/windauer/dev/association/gesetz/data/transformed/bgb.xml</File>
+                                    <File>/Users/windauer/dev/association/gesetz/data/transformed/BGG-inlined.xml</File>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
@@ -120,7 +146,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>tocGG to File</String>
+                                    <String>BGB (generate TOC)</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -138,10 +164,10 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${currentFileURL}</String>
+                                    <String>file:/Users/windauer/dev/association/gesetz/resources/xsl/toc.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
-                                    <String>file:/Users/windauer/dev/association/gesetz/data/BJNR000010949.xml</String>
+                                    <String>file:/Users/windauer/dev/association/gesetz/data/transformed/BGG-inlined.xml</String>
                                 </field>
                                 <field name="defaultScenario">
                                     <Boolean>false</Boolean>
@@ -159,7 +185,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>/Users/windauer/dev/association/gesetz/data/transformed/gg.xml</File>
+                                    <File>/Users/windauer/dev/association/gesetz/data/transformed/BGG-toc.xml</File>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
@@ -203,7 +229,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>tocHGB to File</String>
+                                    <String>HGB (inline &amp; generate UUIDS)</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -221,7 +247,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${currentFileURL}</String>
+                                    <String>file:/Users/windauer/dev/association/gesetz/resources/xsl/inline.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>file:/Users/windauer/dev/association/gesetz/data/BJNR002190897.xml</String>
@@ -242,7 +268,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>/Users/windauer/dev/association/gesetz/data/transformed/hgb.xml</File>
+                                    <File>/Users/windauer/dev/association/gesetz/data/transformed/HGB-inlined.xml</File>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
@@ -286,7 +312,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>tocBGB to Console</String>
+                                    <String>HGB (generate TOC)</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -304,10 +330,10 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${currentFileURL}</String>
+                                    <String>file:/Users/windauer/dev/association/gesetz/resources/xsl/toc.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
-                                    <String>file:/Users/windauer/dev/association/gesetz/data/BJNR001950896.xml</String>
+                                    <String>file:/Users/windauer/dev/association/gesetz/data/transformed/HGB-inlined.xml</String>
                                 </field>
                                 <field name="defaultScenario">
                                     <Boolean>false</Boolean>
@@ -325,7 +351,90 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
+                                    <File>/Users/windauer/dev/association/gesetz/data/transformed/HGB-toc.xml</File>
+                                </field>
+                                <field name="openOtherLocationInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="locationToOpenInBrowserURL">
                                     <null/>
+                                </field>
+                                <field name="openInEditor">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInHTMLPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInXMLPane">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="showInSVGPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInResultSetPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="useXSLTInput">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="xsltParams">
+                                    <list/>
+                                </field>
+                                <field name="cascadingStylesheets">
+                                    <String-array/>
+                                </field>
+                                <field name="xslTransformer">
+                                    <String>Saxon-PE</String>
+                                </field>
+                                <field name="extensionURLs">
+                                    <String-array/>
+                                </field>
+                            </scenario>
+                            <scenario>
+                                <field name="advancedOptionsMap">
+                                    <null/>
+                                </field>
+                                <field name="name">
+                                    <String>BGB (content)</String>
+                                </field>
+                                <field name="baseURL">
+                                    <String></String>
+                                </field>
+                                <field name="footerURL">
+                                    <String></String>
+                                </field>
+                                <field name="fOPMethod">
+                                    <String>pdf</String>
+                                </field>
+                                <field name="fOProcessorName">
+                                    <String>Apache FOP</String>
+                                </field>
+                                <field name="headerURL">
+                                    <String></String>
+                                </field>
+                                <field name="inputXSLURL">
+                                    <String>file:/Users/windauer/dev/association/gesetz/resources/xsl/content.xsl</String>
+                                </field>
+                                <field name="inputXMLURL">
+                                    <String>file:/Users/windauer/dev/association/gesetz/data/transformed/BGG-inlined.xml</String>
+                                </field>
+                                <field name="defaultScenario">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="isFOPPerforming">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="type">
+                                    <String>XML</String>
+                                </field>
+                                <field name="saveAs">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="openInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="outputFile">
+                                    <File>/Users/windauer/dev/association/gesetz/data/transformed/BGG-content.xml</File>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
@@ -365,6 +474,10 @@
                                 </field>
                             </scenario>
                         </scenario-array>
+                    </entry>
+                    <entry>
+                        <String>validation.scenarios</String>
+                        <validationScenario-array/>
                     </entry>
                 </map>
             </serialized>
