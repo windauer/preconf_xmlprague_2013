@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="3.0">
-    <xsl:output indent="yes" encoding="UTF-8"  />
+    <xsl:output indent="yes" encoding="UTF-8"/>
     <xsl:strip-space elements="*"/>
-
-
     <xsl:template match="norm">
         <norm uuid="{@uuid}">
             <xsl:attribute name="level">
@@ -22,14 +20,9 @@
             <xsl:if test="exists(metadaten/titel)">
                 <xsl:attribute name="title" select="normalize-space(metadaten/titel)"/>
             </xsl:if>
-            
-            
-            
-            
             <xsl:apply-templates/>
         </norm>
     </xsl:template>
-    
     <xsl:template match="*|@*|text()">
         <xsl:apply-templates/>
     </xsl:template>

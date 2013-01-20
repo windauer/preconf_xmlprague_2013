@@ -1,33 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    version="3.0">
-    <xsl:output indent="yes" encoding="UTF-8"  />
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="3.0">
+    <xsl:output indent="yes" encoding="UTF-8"/>
     <xsl:strip-space elements="*"/>
-    
+
     <xsl:template match="/">
-            <xsl:apply-templates select="norm"/>        
+        <xsl:apply-templates select="norm"/>
     </xsl:template>
-    
+
     <xsl:template match="norm">
         <xsl:copy>
             <xsl:apply-templates select="@*"/>
             <xsl:apply-templates select="metadaten|textdaten" mode="text"/>
-            <xsl:apply-templates select="norm"/> 
-        </xsl:copy>            
+            <xsl:apply-templates select="norm"/>
+        </xsl:copy>
     </xsl:template>
                
     <!-- LIST -->
-    <xsl:template match="DL" mode="text" priority="5"> 
-        <list>        
+    <xsl:template match="DL" mode="text" priority="5">
+        <list>
             <xsl:apply-templates mode="text"/>
-        </list>        
+        </list>
     </xsl:template>
     
     <!-- BRING DT / DD / LA in shape -->
-    <xsl:template match="DT" mode="text" priority="5">         
-        <item id="{normalize-space(.)}">    
+    <xsl:template match="DT" mode="text" priority="5">
+        <item id="{normalize-space(.)}">
             <xsl:apply-templates select="./following-sibling::DD[1]/LA" mode="text"/>
-        </item>        
+        </item>
     </xsl:template>    
     
     <!-- IGNORE -->
@@ -36,39 +35,35 @@
     <xsl:template match="Content" mode="text" priority="5">
         <xsl:apply-templates mode="text"/>
     </xsl:template>
-    
     <xsl:template match="LA" mode="text" priority="5">
         <xsl:apply-templates mode="text"/>
-    </xsl:template>         
-    
-   
+    </xsl:template>
     <xsl:template match="*" mode="text">
         <xsl:copy>
             <xsl:apply-templates select="@*|*|text()|comment()" mode="text"/>
         </xsl:copy>
     </xsl:template>
-    
-    
     <xsl:template match="@*" mode="#all">
         <xsl:copy>
             <xsl:value-of select="normalize-space(.)"/>
         </xsl:copy>
     </xsl:template>
-    
     <xsl:template match="text()" mode="#all">
         <xsl:choose>
             <xsl:when test="exists(./preceding-sibling::BR) and not(exists(./following-sibling::BR))">
-                <line><xsl:copy-of select="normalize-space(.)"/></line>
+                <line>
+                    <xsl:copy-of select="normalize-space(.)"/>
+                </line>
             </xsl:when>
             <xsl:when test="exists(not(./preceding-sibling::BR)) and exists(./following-sibling::BR)">
-                <line><xsl:copy-of select="normalize-space(.)"/></line>
-            </xsl:when>            
+                <line>
+                    <xsl:copy-of select="normalize-space(.)"/>
+                </line>
+            </xsl:when>
             <xsl:otherwise>
-                <xsl:copy-of select="normalize-space(.)"/>        
+                <xsl:copy-of select="normalize-space(.)"/>
             </xsl:otherwise>
         </xsl:choose>
-        
-        
     </xsl:template>
     <xsl:template match="BR" mode="text"/>
     <!-- 

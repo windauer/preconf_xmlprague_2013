@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xf="http://www.w3.org/2002/xforms">
+    <head>
+        <link rel="stylesheet" type="text/css" href="resources/css/exist.css"/>
+        <title>General XForms Form</title>
+    </head>
+    <body id="body">
+        <div style="display:none;">
+            <xf:model>
+                <xf:instance xmlns="" id="i-search">
+                    <data>
+                        <startdate/>
+                        <enddate/>
+                    </data>
+                </xf:instance>
+                <xf:bind nodeset="instance('i-search')">
+                    <xf:bind nodeset="startdate" type="date"/>
+                    <xf:bind nodeset="enddate" type="date"/>
+                </xf:bind>
+            </xf:model>
+        </div>
+        <div id="grey-top">
+            <div id="grey-bot">
+                <div id="container">
+                    <div id="header">
+                        <a href="" id="logo">eXistDB</a>
+                    </div><!--/header-->
+                    <div id="navigation">
+                        <ul id="nav" class="dropdown dropdown-horizontal">
+                            <li class="dir" id="about">
+                                <span>Home</span>
+                                <ul>
+                                    <li>
+                                        <a href="">Home</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="container" id="main">
+                        <div class="row" id="container-body">
+                            <!-- Page content will be injected into the div below -->
+                            <div class="span8" id="content"/>
+    						<!-- Right hand column: 4 wide -->
+                            <div class="span4">
+                                <h2>Application Info</h2>
+                                <div class="config:app-info"/>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="footer">
+            <ul>
+                <li>
+                    <a href="">Homepage</a>
+                </li>
+            </ul>
+            <div id="copyright">
+                <p>Copyright eXist-db Project 2012</p>
+            </div><!--/copyright-->
+        </div><!--/footer-->
+    </body>
+</html>
