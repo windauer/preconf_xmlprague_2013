@@ -10,5 +10,5 @@
     <target>gesetze</target>
     <prepare>pre-install.xql</prepare>
     <finish/>
-    <deployed>2013-01-17T21:28:09.709+01:00</deployed>
+    <deployed>2013-01-20T17:08:06.702+01:00</deployed>
 </meta>

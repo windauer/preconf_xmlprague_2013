@@ -8,6 +8,8 @@ module namespace config="http://exist-db.org/xquery/apps/config";
 
 declare namespace templates="http://exist-db.org/xquery/templates";
 
+declare namespace xf="http://www.w3.org/2002/xforms";
+
 declare namespace repo="http://exist-db.org/xquery/repo";
 declare namespace expath="http://expath.org/ns/pkg";
 
@@ -62,6 +64,19 @@ declare function config:expath-descriptor() as element(expath:package) {
 
 declare %templates:wrap function config:app-title($node as node(), $model as map(*)) as text() {
     $config:expath-descriptor/expath:title/text()
+};
+declare %templates:wrap function config:searchform($node as node(), $model as map(*)) as node() {
+    <xf:group appearance="full">
+        <xf:label>Configure Search Params:</xf:label>
+        <xf:input ref="startdate">
+            <xf:label>Start:</xf:label>
+        </xf:input>
+        <xf:input ref="enddate">
+            <xf:label>End:</xf:label>
+        </xf:input>
+    </xf:group>
+
+
 };
 
 declare function config:app-meta($node as node(), $model as map(*)) as element()* {
