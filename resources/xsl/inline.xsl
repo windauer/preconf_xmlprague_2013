@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:bf="http://www.betterform.de/xsl/fn" xmlns:uuid="java:java.util.UUID" version="3.0" exclude-result-prefixes="bf uuid">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:bf="http://www.betterform.de/xsl/fn" version="3.0">
     <xsl:output indent="yes" encoding="UTF-8"/>
     <xsl:strip-space elements="*"/>
     
@@ -9,12 +9,22 @@
     -->
     <xsl:template match="/">
         <xsl:variable name="rootNorm" select="//norm[1]"/>
-        <norm uuid="{uuid:randomUUID()}" level="0">
+        <norm level="0">
             <!-- COPPY CURRENT NORM -->
             <xsl:apply-templates select="$rootNorm" mode="copyNormData"/>
-            
-            <!-- "STEP DEEPER" -->
-            <xsl:apply-templates/>
+            <xsl:choose>
+                <xsl:when test="//norm[.//gliederungskennzahl]">
+                    <xsl:variable name="firstSect" select="$rootNorm/following-sibling::norm[.//gliederungskennzahl][1]"/>
+                    <xsl:apply-templates select="$firstSect" mode="paragraphs"/>
+                    <xsl:apply-templates select="subsequence($firstSect/preceding-sibling::norm, 2)" mode="paragraphs"/>
+                    
+                    <!-- "STEP DEEPER" -->
+                    <xsl:apply-templates/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:apply-templates select="subsequence(//norm, 2)" mode="copy-norms"/>
+                </xsl:otherwise>
+            </xsl:choose>
         </norm>
     </xsl:template>
     <xsl:template match="norm[string-length(.//gliederungskennzahl)=3]">
@@ -23,7 +33,7 @@
         <xsl:variable name="level1Title" select="normalize-space(.//gliederungstitel)"/>
         
         <!-- <level1 gliederungskennzahl="{$level1Key}" gliederungsbez="{$level1Identifier}" gliederungstitel="{$level1Title}" doknr="{@doknr}" uuid="{uuid:randomUUID()}"> -->
-        <norm uuid="{uuid:randomUUID()}" level="1">
+        <norm level="1">
             <!-- COPPY CURRENT NORM -->
             <xsl:apply-templates select="." mode="copyNormData"/>
             
@@ -45,7 +55,7 @@
         <xsl:variable name="level2Title" select="normalize-space(.//gliederungstitel)"/>
         <xsl:choose>
             <xsl:when test="starts-with($level2Key, $level1Key)">
-                <norm uuid="{uuid:randomUUID()}" level="2">
+                <norm level="2">
                     <!-- COPPY CURRENT NORM -->
                     <xsl:apply-templates select="." mode="copyNormData"/>
                     
@@ -69,7 +79,7 @@
         <xsl:variable name="level3Title" select="normalize-space(.//gliederungstitel)"/>
         <xsl:choose>
             <xsl:when test="starts-with($level3Key, $level2Key)">
-                <norm uuid="{uuid:randomUUID()}" level="3">
+                <norm level="3">
                     <!-- COPPY CURRENT NORM -->
                     <xsl:apply-templates select="." mode="copyNormData"/>
                     
@@ -93,7 +103,7 @@
         <xsl:variable name="level4Title" select="normalize-space(.//gliederungstitel)"/>
         <xsl:choose>
             <xsl:when test="starts-with($level4Key, $level3Key)">
-                <norm uuid="{uuid:randomUUID()}" level="4">
+                <norm level="4">
                     <!-- COPPY CURRENT NORM -->
                     <xsl:apply-templates select="." mode="copyNormData"/>
                     
@@ -117,7 +127,7 @@
         <xsl:variable name="level5Title" select="normalize-space(.//gliederungstitel)"/>
         <xsl:choose>
             <xsl:when test="starts-with($level5Key, $level4Key)">
-                <norm uuid="{uuid:randomUUID()}" level="5">
+                <norm level="5">
                     <!-- COPPY CURRENT NORM -->
                     <xsl:apply-templates select="." mode="copyNormData"/>
 
@@ -141,7 +151,7 @@
         <xsl:variable name="level6Title" select="normalize-space(.//gliederungstitel)"/>
         <xsl:choose>
             <xsl:when test="starts-with($level6Key, $level5Key)">
-                <norm uuid="{uuid:randomUUID()}" level="6">
+                <norm level="6">
                     <!-- COPPY CURRENT NORM -->
                     <xsl:apply-templates select="." mode="copyNormData"/>
                     
@@ -165,7 +175,7 @@
         <xsl:variable name="level7Title" select="normalize-space(.//gliederungstitel)"/>
         <xsl:choose>
             <xsl:when test="starts-with($level7Key, $level6Key)">
-                <norm uuid="{uuid:randomUUID()}" level="7">
+                <norm level="7">
                     <!-- COPPY CURRENT NORM -->
                     <xsl:apply-templates select="." mode="copyNormData"/>
                     
@@ -185,7 +195,7 @@
         <xsl:variable name="prevGliederung" select="preceding-sibling::norm[exists(.//gliederungskennzahl)][1]"/>
         <xsl:choose>
             <xsl:when test="$prevGliederung//gliederungskennzahl = $gliederungskennzahl and not(exists(.//gliederungskennzahl))">
-                <norm uuid="{uuid:randomUUID()}">
+                <norm>
                     <xsl:copy-of select="@*"/>
                     <xsl:copy-of select="*"/>
                 </norm>
@@ -197,6 +207,9 @@
     <xsl:template match="norm" mode="copyNormData">
         <xsl:copy-of select="@*"/>
         <xsl:copy-of select="*"/>
+    </xsl:template>
+    <xsl:template match="norm" mode="copy-norms">
+        <xsl:copy-of select="."/>
     </xsl:template>
     <xsl:template match="text()" mode="#all" priority="10">
         <xsl:value-of select="normalize-space(.)"/>
