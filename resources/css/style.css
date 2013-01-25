@@ -35,3 +35,12 @@ nav h5 {
     margin: 0;
     font-weight: normal;
 }
+
+.results table {
+    font-size: 92%;
+}
+
+.results .title {
+    padding: 2em 0 1em 0;
+    font-weight: bold;
+}

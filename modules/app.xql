@@ -8,6 +8,9 @@ import module namespace config="http://exist-db.org/xquery/apps/config" at "conf
 
 import module namespace templates="http://exist-db.org/xquery/templates" ;
 
+import module namespace kwic="http://exist-db.org/xquery/kwic"
+    at "resource:org/exist/xquery/lib/kwic.xql";
+    
 declare %templates:wrap function app:list-all($node as node(), $model as map(*)) {
     map {
         "documents" := 
@@ -54,10 +57,14 @@ declare %templates:wrap function app:contents($node as node(), $model as map(*))
         </li>
 };
 
-declare %templates:wrap function app:load-norm($node as node(), $model as map(*), $docId as xs:string, $id as xs:string) {
+declare %templates:wrap function app:load-norm($node as node(), $model as map(*), $docId as xs:string, $id as xs:string,
+    $query as xs:string?) {
     let $doc := collection($config:data-root)//id($docId)
-    let $norm := $doc/id($id)
-    let $log := util:log("DEBUG", "Norm: " || $norm)
+    let $norm := 
+        if ($query) then
+            $doc/id($id)[ft:query(., $query)]
+        else
+            $doc/id($id)
     return
     map {
         "norm" := $norm,
@@ -66,7 +73,7 @@ declare %templates:wrap function app:load-norm($node as node(), $model as map(*)
 };
 
 declare function app:norm-content($node as node(), $model as map(*)) {
-    app:process($model("norm")/*)
+    app:process(util:expand($model("norm")/*))
 };
 
 declare %private function app:process($nodes as node()*) {
@@ -77,6 +84,8 @@ declare %private function app:process($nodes as node()*) {
                 <h2>{app:process($node/node())}</h2>
             case element(tei:p) return
                 <p>{app:process($node/node())}</p>
+            case element(exist:match) return
+                <mark>{$node/node()}</mark>
             case element() return
                 for $child in $node/node() return app:process($child)
             default return
@@ -105,4 +114,36 @@ declare function app:previous-page($node as node(), $model as map(*)) {
             ()
 };
 
+declare 
+    %templates:wrap
+function app:search($node as node(), $model as map(*), $query as xs:string?) {
+    if ($query) then
+        let $result := collection($config:data-root)//tei:div[ft:query(., $query)][not(tei:div)]
+        return
+            map {
+                "result" := $result,
+                "query" := $query
+            }
+    else
+        ()
+};
 
+
+declare
+    %templates:wrap
+function app:search-result($node as node(), $model as map(*)) {
+    for $result in $model("result")
+    group by $docId := $result/ancestor::tei:TEI/@xml:id
+    return (
+        <tr>
+            <td colspan="3" class="title">
+            {$result/ancestor::tei:TEI/tei:teiHeader//tei:titleStmt/tei:title[not(@type)]/text()}
+            </td>
+        </tr>,
+        for $item in $result
+        let $config :=
+            <config width="40" table="yes" link="norm.html?docId={$docId}&amp;id={$item/@xml:id}&amp;query={$model('query')}"/>
+        return
+            kwic:summarize($item, $config, ())
+    )
+};
