@@ -16,7 +16,7 @@ nav.bottom {
     border-top: 2px solid #CCC;
 }
 
-nav ul {
+nav > ul {
     list-style: none;
     margin: 0;
 }
@@ -29,11 +29,17 @@ nav li.next {
     float: right;
 }
 
-nav h5 {
+nav ul ul {
     text-align: center;
     padding: 0;
+    margin: 0 2em;
+    list-style: none;
+}
+
+.toc {
+    list-style: none;
     margin: 0;
-    font-weight: normal;
+    padding: 0;
 }
 
 .results table {

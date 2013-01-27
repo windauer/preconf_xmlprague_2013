@@ -65,7 +65,7 @@
     <xsl:template match="P">
         <xsl:if test=".//text()">
             <xsl:choose>
-                <xsl:when test="list|text">
+                <xsl:when test="OL|UL|DL|text">
                     <xsl:for-each select="node()">
                         <xsl:choose>
                             <xsl:when test=". instance of text()">
@@ -86,6 +86,31 @@
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:if>
+    </xsl:template>
+    <xsl:template match="OL">
+        <list type="ordered">
+            <xsl:apply-templates/>
+        </list>
+    </xsl:template>
+    <xsl:template match="UL">
+        <list>
+            <xsl:apply-templates/>
+        </list>
+    </xsl:template>
+    <xsl:template match="DL">
+        <list type="gloss">
+            <xsl:apply-templates select="DT|DD"/>
+        </list>
+    </xsl:template>
+    <xsl:template match="DT">
+        <label>
+            <xsl:apply-templates/>
+        </label>
+    </xsl:template>
+    <xsl:template match="LI|DD">
+        <item>
+            <xsl:apply-templates/>
+        </item>
     </xsl:template>
     <xsl:template match="list">
         <list>

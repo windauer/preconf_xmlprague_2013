@@ -84,12 +84,42 @@ declare %private function app:process($nodes as node()*) {
                 <h2>{app:process($node/node())}</h2>
             case element(tei:p) return
                 <p>{app:process($node/node())}</p>
+            case element(tei:list) return
+                switch ($node/@type)
+                    case "ordered" return
+                        <ol>{app:process($node/node())}</ol>
+                    case "gloss" return
+                        <dl>{app:process($node/node())}</dl>
+                    default return
+                        <ul>{app:process($node/node())}</ul>
+            case element(tei:item) return
+                if ($node/parent::tei:list[@type = "gloss"]) then
+                    <dd>{app:process($node/node())}</dd>
+                else
+                    <li>
+                    {
+                        app:process($node/node())
+                    }
+                    </li>
+            case element(tei:label) return
+                <dt>{app:process($node/node())}</dt>
             case element(exist:match) return
                 <mark>{$node/node()}</mark>
             case element() return
                 for $child in $node/node() return app:process($child)
             default return
                 $node
+};
+
+declare %templates:wrap function app:hierarchy($node as node(), $model as map(*)) {
+    <li>
+        <a href="toc.html?id={$model('document')/@xml:id}">
+        {$model("document")/tei:teiHeader//tei:titleStmt/tei:title[not(@type)]/text()}
+        </a>
+    </li>,
+    for $div in $model("norm")/ancestor::tei:div[tei:head]
+    return
+        <li>{$div/tei:head[not(@type)]/text(), ": ", $div/tei:head[@type = "subtitle"]/text()}</li>
 };
 
 declare function app:next-page($node as node(), $model as map(*)) {

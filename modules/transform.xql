@@ -11,7 +11,7 @@ declare variable $local:OUTPUT_COL := xmldb:create-collection($config:data-root,
 for $doc in collection($config:data-root)/dokumente
 let $name := util:document-name($doc)
 let $processed := transform:transform($doc, $local:XSL_PREPROCESS, ())
-let $processed := transform:transform($processed, $local:XSL_PREPROCESS2, ())
+(:let $processed := transform:transform($processed, $local:XSL_PREPROCESS2, ()):)
 let $tei := transform:transform($processed, $local:XSL_TEI, ())
 return
     xmldb:store($local:OUTPUT_COL, $name, $tei, "text/xml")
