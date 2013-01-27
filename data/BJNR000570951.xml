@@ -1,5 +1,57 @@
-<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
-<dokumente builddate="20120625151715" doknr="BJNR000570951"><norm builddate="20120625151715" doknr="BJNR000570951"><metadaten><jurabk>PersStdGÄndG</jurabk><ausfertigung-datum manuell="ja">1951-01-15</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1951, 57</zitstelle></fundstelle><langue>Gesetz zur Änderung und Ergänzung des Personenstandsgesetzes</langue></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten><Content><P>Überschrift: Im Saarland eingeführt durch § 1 Nr. 9 V v. 26.8.1957 I 1255; über Geltung in Berlin vgl. Art. V G v. 18.5.1957 211-3 u. GVBl. Berlin 1951 S. 1162 sowie 1957 S. 558 <BR/> <BR/>(+++ Textnachweis Geltung ab:  1. 1.1964 +++)</P></Content></fussnoten></textdaten></norm>
-<norm builddate="20120625151715" doknr="BJNR000570951BJNE000100312"><metadaten><jurabk>PersStdGÄndG</jurabk><enbez>(XXXX) Art 1 und Art 2</enbez><titel format="XML">(weggefallen)</titel></metadaten><textdaten><text format="XML"><Content><P>-</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625151715" doknr="BJNR000570951BJNE000200312"><metadaten><jurabk>PersStdGÄndG</jurabk><enbez>Art 3</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Die Zweite Hessische Verordnung zur Durchführung des Personenstandsgesetzes vom 3. November 1937 (Reichsgesetzbl. I S. 1146) vom 1. September 1949 (Gesetz- und Verordnungsblatt für das Land Hessen S. 123) wird aufgehoben.</P><P>(2) Die auf Grund der aufgehobenen Verordnung erfolgten Eintragungen in das Sterbebuch des Sonderstandesamts in Arolsen haben die gleichen Wirkungen, wie wenn sie auf Grund des Artikels 1 Nr. 3 dieses Gesetzes vorgenommen wären.</P></Content> </text><fussnoten/></textdaten></norm>
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625151715" doknr="BJNR000570951">
+    <norm builddate="20120625151715" doknr="BJNR000570951">
+        <metadaten>
+            <jurabk>PersStdGÄndG</jurabk>
+            <ausfertigung-datum manuell="ja">1951-01-15</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1951, 57</zitstelle>
+            </fundstelle>
+            <langue>Gesetz zur Änderung und Ergänzung des Personenstandsgesetzes</langue>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten>
+                <Content>
+                    <P>Überschrift: Im Saarland eingeführt durch § 1 Nr. 9 V v. 26.8.1957 I 1255; über Geltung in Berlin vgl. Art. V G v. 18.5.1957 211-3 u. GVBl. Berlin 1951 S. 1162 sowie 1957 S. 558 <BR/>
+                        <BR/>(+++ Textnachweis Geltung ab:  1. 1.1964 +++)</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151715" doknr="BJNR000570951BJNE000100312">
+        <metadaten>
+            <jurabk>PersStdGÄndG</jurabk>
+            <enbez>(XXXX) Art 1 und Art 2</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151715" doknr="BJNR000570951BJNE000200312">
+        <metadaten>
+            <jurabk>PersStdGÄndG</jurabk>
+            <enbez>Art 3</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Zweite Hessische Verordnung zur Durchführung des Personenstandsgesetzes vom 3. November 1937 (Reichsgesetzbl. I S. 1146) vom 1. September 1949 (Gesetz- und Verordnungsblatt für das Land Hessen S. 123) wird aufgehoben.</P>
+                    <P>(2) Die auf Grund der aufgehobenen Verordnung erfolgten Eintragungen in das Sterbebuch des Sonderstandesamts in Arolsen haben die gleichen Wirkungen, wie wenn sie auf Grund des Artikels 1 Nr. 3 dieses Gesetzes vorgenommen wären.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
 </dokumente>

@@ -1,34 +1,910 @@
-<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
-<dokumente builddate="20120625152959" doknr="BJNR003570940"><norm builddate="20120625152959" doknr="BJNR003570940"><metadaten><jurabk>JVKostO</jurabk><amtabk>JVKostO</amtabk><ausfertigung-datum manuell="ja">1940-02-14</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>RGBl I</periodikum><zitstelle>1940, 357</zitstelle></fundstelle><kurzue>Justizverwaltungskostenordnung</kurzue><langue>Gesetz über Kosten im Bereich der Justizverwaltung</langue><standangabe checked="ja"><standtyp>Stand</standtyp><standkommentar>Zuletzt geändert durch Art. 2 Abs. 36 G v. 22.12.2011 I 3044</standkommentar></standangabe></metadaten><textdaten><fussnoten><Content><P><BR/> <pre xml:space="preserve">(+++ Textnachweis Geltung ab:  1. 1.1976 +++)<BR/>(+++ Maßgaben aufgrund EinigVtr vgl. JVKostO Anhang EV +++)<BR/>(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:<BR/>     Umsetzung der<BR/>       EGRL 123/2006        (CELEX Nr: 32006L0123) vgl. Art. 15 Nr. 2 u. 4 <BR/>                             G v. 22.8.2010 I 2248 +++)<BR/><BR/></pre>Überschrift: IdF d. Art. 8 Nr. 1 G v. 10.12.2001 I 3422 mwV 15.12.2001 <BR/>Diese Verordnung ist gem. § 16 in der ursprünglichen Fassung am 1.4.1940 in Kraft getreten</P></Content></fussnoten></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE000300322"><metadaten><jurabk>JVKostO</jurabk><enbez>Eingangsformel</enbez></metadaten><textdaten><text format="XML"><Content><P>Auf Grund des Artikels 5 des Ersten Rechtspflegeüberleitungsgesetzes vom 16. Februar 1934 (Reichsgesetzbl. I S. 91) wird folgendes verordnet:</P></Content></text></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNG000100322"><metadaten><jurabk>JVKostO</jurabk><gliederungseinheit><gliederungskennzahl>010</gliederungskennzahl><gliederungsbez>Art I</gliederungsbez><gliederungstitel>Allgemeine Vorschriften</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE000408160"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 1</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Soweit nichts anderes bestimmt ist, werden <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">in Justizverwaltungsangelegenheiten,</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">im Rechtshilfeverkehr mit dem Ausland in strafrechtlichen Angelegenheiten nach dem Gesetz über die internationale Rechtshilfe in Strafsachen und</LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">in der Zusammenarbeit mit dem Internationalen Strafgerichtshof nach dem IStGH-Gesetz</LA></DD></DL>von den Justizbehörden des Bundes und in Angelegenheiten nach den Nummern 203, 204 und den Abschnitten 3, 4 und 7 des Gebührenverzeichnisses von den Justizbehörden der Länder Kosten (Gebühren und Auslagen) nach diesem Gesetz erhoben. § 7b gilt für die Justizbehörden der Länder.</P><P>(2) § 4 Abs. 8, § 5 Abs. 2 bis 4, § 6 Abs. 3 und § 13 sind auch dann anzuwenden, wenn von Justizbehörden der Länder Kosten in den in Absatz 1 Satz 1 Nr. 1 bis 3 genannten Angelegenheiten erhoben werden.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE000500322"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 2</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Die Gebühren bestimmen sich nach dem anliegenden Gebührenverzeichnis.</P><P>(2) Bei Rahmengebühren setzt die Behörde, die die gebührenpflichtige Amtshandlung vornimmt, die Höhe der Gebühr fest. Sie hat dabei insbesondere die Bedeutung der Angelegenheit für die Beteiligten, die mit der Vornahme der Amtshandlung verbundene Mühewaltung und die wirtschaftlichen Verhältnisse des Kostenschuldners zu berücksichtigen.</P></Content> </text></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE000600322"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 3</enbez></metadaten><textdaten><text format="XML"><Content><P>Bei der Ablehnung oder Zurücknahme eines Antrags auf Vornahme einer gebührenpflichtigen Amtshandlung kann die Behörde dem Antragsteller eine Gebühr bis zur Hälfte der für die Vornahme der Amtshandlung bestimmten Gebühr - bei Rahmengebühren jedoch nicht weniger als den Mindestbetrag - auferlegen. Das gleiche gilt, wenn die Ablehnung von der übergeordneten Behörde bestätigt wird.</P></Content></text></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE000709301"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 4</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Für Ausfertigungen, Ablichtungen oder Ausdrucke, die auf besonderen Antrag erteilt, angefertigt oder per Telefax übermittelt werden, wird eine Dokumentenpauschale erhoben.</P><P>(2) § 136 Abs. 2 der Kostenordnung ist anzuwenden.</P><P>(3) Für einfache Ablichtungen und Ausdrucke gerichtlicher Entscheidungen, die zur Veröffentlichung in Entscheidungssammlungen oder Fachzeitschriften beantragt werden, beträgt die Dokumentenpauschale höchstens 2,50 Euro je Entscheidung.</P><P>(4) Für die Überlassung von elektronisch gespeicherten Dateien anstelle der in den Absätzen 1 und 3 genannten Ausfertigungen, Ablichtungen und Ausdrucke beträgt die Dokumentenpauschale je Datei 2,50 Euro.</P><P>(5) Bei der Übermittlung elektronisch gespeicherter Daten auf Datenträgern wird daneben eine Datenträgerpauschale erhoben. Sie beträgt <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">bei einer Speicherkapazität des Datenträgers von bis zu 2,0 Megabytes 2,50 Euro,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">bei einer Speicherkapazität von bis zu 500,0 Megabytes 25 Euro,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">bei einer höheren Speicherkapazität 50 Euro.</LA></DD> </DL> </P><P>(6) Die Behörde kann vom Ansatz der Dokumenten- und Datenträgerpauschale ganz oder teilweise absehen, wenn gerichtliche Entscheidungen für Zwecke verlangt werden, deren Verfolgung überwiegend im öffentlichen Interesse liegt, oder wenn Ablichtungen oder Ausdrucke amtlicher Bekanntmachungen anderen Tageszeitungen als den amtlichen Bekanntmachungsblättern auf Antrag zum unentgeltlichen Abdruck überlassen werden.</P><P>(7) Keine Kosten werden erhoben, wenn Daten im Internet zur nicht gewerblichen Nutzung bereitgestellt werden.</P><P>(8) Im Rechtshilfeverkehr mit dem Ausland in strafrechtlichen Angelegenheiten und in der Zusammenarbeit mit dem Internationalen Strafgerichtshof wird eine Dokumentenpauschale nicht erhoben.</P></Content>      </text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE000815160"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 5</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Für die Erhebung sonstiger Auslagen gilt § 137 Abs. 1 Nr. 1 bis 6, 9 bis 11 und 13 bis 15 der Kostenordnung entsprechend. Die Auslagen sind auch dann zu erheben, wenn eine Gebühr für die Amtshandlung nicht zum Ansatz kommt.</P><P>(2) Im Rechtshilfeverkehr mit dem Ausland in strafrechtlichen Angelegenheiten und in der Zusammenarbeit mit dem Internationalen Strafgerichtshof werden abweichend von Absatz 1 die Auslagen erhoben, die in den Nummern 9002 bis 9010, 9012 bis 9015 des Kostenverzeichnisses zum Gerichtskostengesetz bezeichnet sind. Auslagen, die durch eine für begründet befundene Beschwerde entstanden sind, werden nicht erhoben, soweit das Beschwerdeverfahren gebührenfrei ist.</P><P>(3) Für den Vollzug der Haft nach dem Gesetz über die internationale Rechtshilfe in Strafsachen oder nach dem IStGH-Gesetz werden Kosten erhoben. Maßgebend ist die Höhe des Haftkostenbeitrags, der nach Landesrecht von einem Gefangenen zu erheben ist.</P><P>(4) In den nach Absatz 2 Satz 1 und Absatz 3 bezeichneten Angelegenheiten werden Kosten nicht erhoben, <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">wenn nach § 75 des Gesetzes über die internationale Rechtshilfe in Strafsachen oder nach § 71 des IStGH-Gesetzes darauf verzichtet worden ist oder</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">soweit Rahmenbeschlüsse des Rates der Europäischen Union oder völkerrechtliche Übereinkommen einen gegenseitigen Verzicht auf Kostenerstattung vorsehen.</LA></DD></DL>Die §§ 57a und 87n Absatz 6 des Gesetzes über die internationale Rechtshilfe in Strafsachen bleiben unberührt.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE000907140"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 6</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Zur Zahlung der Gebühren und Auslagen, soweit nichts anderes bestimmt ist, ist verpflichtet: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">derjenige, der die Amtshandlung veranlaßt oder zu dessen Gunsten sie vorgenommen wird;</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">derjenige, der die Kosten durch eine vor der Behörde abgegebene oder ihr mitgeteilte Erklärung übernommen hat;</LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">derjenige, der nach den Vorschriften des bürgerlichen Rechts für die Kostenschuld eines anderen kraft Gesetzes haftet;</LA></DD><DT>4.</DT><DD Font="normal"><LA Size="normal">derjenige, dem durch eine Entscheidung der Justizbehörde die Kosten auferlegt sind.</LA></DD></DL>Die Jahresgebühr für die Führung des Unternehmensregisters schuldet jedes Unternehmen, das seine Rechnungslegungsunterlagen im Bundesanzeiger bekannt zu machen hat, und jedes Unternehmen, das in dem betreffenden Kalenderjahr nach § 8b Abs. 2 Nr. 9 und 10, Abs. 3 Satz 1 Nr. 2 des Handelsgesetzbuchs selbst oder durch einen von ihm beauftragten Dritten Daten an das Unternehmensregister übermittelt hat.</P><P>(2) Mehrere Kostenschuldner haften als Gesamtschuldner.</P><P>(3) Im Rechtshilfeverkehr mit dem Ausland in strafrechtlichen Angelegenheiten und in der Zusammenarbeit mit dem Internationalen Strafgerichtshof haftet der Verfolgte oder Verurteilte nicht nach Absatz 1 Satz 1 Nummer 1. Die §§ 57a und 87n Absatz 6 des Gesetzes über die internationale Rechtshilfe in Strafsachen bleiben unberührt.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE001003310"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 7</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Die Gebühren werden, soweit nichts anderes bestimmt ist, mit der Beendigung der gebührenpflichtigen Amtshandlung, Auslagen sofort nach ihrer Entstehung fällig. Wenn eine Kostenentscheidung der Justizbehörde ergeht, werden entstandene Kosten mit deren Erlass, später entstehende Kosten sofort fällig.</P><P>(2) Die Behörde kann die Zahlung eines Kostenvorschusses verlangen. Sie kann die Vornahme der Amtshandlung von der Zahlung oder Sicherstellung des Vorschusses abhängig machen.</P><P>(3) Bescheinigungen, Ausfertigungen, Ablichtungen und Ausdrucke sowie zurückzugebende Urkunden, die aus Anlaß der Amtshandlung eingereicht sind, können zurückbehalten werden, bis die in der Angelegenheit erwachsenen Kosten bezahlt sind.</P></Content>  </text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE002801301"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 7a</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Für die Übermittlung gerichtlicher Entscheidungen in Form elektronisch auf Datenträgern gespeicherter Daten kann anstelle der zu erhebenden Auslagen durch öffentlich-rechtlichen Vertrag eine andere Art der Gegenleistung vereinbart werden, deren Wert den ansonsten zu erhebenden Auslagen entspricht.</P><P>(2) Werden neben der Übermittlung gerichtlicher Entscheidungen zusätzliche Leistungen beantragt, insbesondere eine Auswahl der Entscheidungen nach besonderen Kriterien, und entsteht hierdurch ein nicht unerheblicher Aufwand, so ist eine Gegenleistung durch öffentlich-rechtlichen Vertrag zu vereinbaren, die zur Deckung der anfallenden Aufwendungen ausreicht.</P><P>(3) Werden Entscheidungen für Zwecke verlangt, deren Verfolgung überwiegend im öffentlichen Interesse liegt, so kann auch eine niedrigere Gegenleistung vereinbart oder auf eine Gegenleistung verzichtet werden.</P></Content>  </text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE002903160"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 7b</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Zur Zahlung der in Abschnitt 4 des Gebührenverzeichnisses bestimmten Gebühren ist derjenige verpflichtet, der den Abruf tätigt. Erfolgt der Abruf unter einer Kennung, die auf Grund der Anmeldung zum Abrufverfahren vergeben worden ist, ist Schuldner der Kosten derjenige, der sich zum Abrufverfahren angemeldet hat.</P><P>(2) Zur Zahlung der Gebühren nach den Nummern 701 und 702 des Gebührenverzeichnisses ist derjenige verpflichtet, unter dessen Kennung, die auf Grund der Anmeldung zum Abrufverfahren vergeben worden ist, der Abruf erfolgt ist.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE003001301"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 7c</enbez></metadaten><textdaten><text format="XML"><Content><P>Erfordert die Erteilung einer Auskunft für wissenschaftliche Forschungsvorhaben aus den vom Bundesamt für Justiz geführten Registern einen erheblichen Aufwand, ist eine Gegenleistung zu vereinbaren, welche die notwendigen Aufwendungen deckt. § 12 ist entsprechend anzuwenden.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE001101160"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 8</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Von der Zahlung der Gebühren sind befreit der Bund und die Länder sowie die nach den Haushaltsplänen des Bundes und der Länder für Rechnung des Bundes oder eines Landes verwalteten öffentlichen Anstalten und Kassen.</P><P>(2) Von der Zahlung der Gebühren sind auch ausländische Behörden im Geltungsbereich der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt (ABl. L 376 vom 27.12.2006, S. 36) befreit, wenn sie auf der Grundlage des Kapitels VI der Richtlinie Auskunft aus den im vierten oder siebten Abschnitt des Gebührenverzeichnisses bezeichneten Registern oder Grundbüchern erhalten und wenn vergleichbaren inländischen Behörden für diese Auskunft Gebührenfreiheit zustände.</P><P>(3) Die sonstigen Vorschriften, durch die eine sachliche oder persönliche Kostenfreiheit gewährt wird, bleiben unberührt.</P><P>(4) Die Gebührenfreiheit entbindet, soweit nichts anderes bestimmt ist, nicht von der Verpflichtung zur Zahlung der Auslagen.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE001204308"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 9</enbez></metadaten><textdaten><text format="XML"><Content><P>Weder Gebühren noch Auslagen - ausgenommen Schreibauslagen nach § 4 - werden erhoben <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">für Amtshandlungen, die durch Anzeigen, Anträge und Beschwerden in Angelegenheiten der Strafverfolgung oder Strafvollstreckung, der Anordnung oder der Vollstreckung von Maßregeln der Besserung und Sicherung oder der Verfolgung einer Ordnungswidrigkeit oder der Vollstreckung einer gerichtlichen Bußgeldentscheidung veranlaßt werden;</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">in Gnadensachen;</LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">in Angelegenheiten nach dem Bundeszentralregistergesetz, ausgenommen für die Erteilung von Führungszeugnissen (Nummern 803 und 804 des Gebührenverzeichnisses);</LA></DD><DT>4.</DT><DD Font="normal"><LA Size="normal">in Gewerbezentralregisterangelegenheiten, ausgenommen für die Erteilung von Auskünften nach § 150 der Gewerbeordnung;</LA></DD><DT>5.</DT><DD Font="normal"><LA Size="normal">im Verfahren über Anträge nach dem Gesetz über die Entschädigung für Strafverfolgungsmaßnahmen sowie über Anträge auf Entschädigung für sonstige Nachteile, die jemandem ohne sein Verschulden aus einem Straf- oder Bußgeldverfahren erwachsen sind;</LA></DD><DT>6.</DT><DD Font="normal"><LA Size="normal">für die Tätigkeit der Staatsanwaltschaft im Aufgebotsverfahren.</LA></DD></DL></P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE001403301"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 10</enbez></metadaten><textdaten><text format="XML"><Content><P>(aufgehoben)</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE001500322"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 11</enbez></metadaten><textdaten><text format="XML"><Content><P>Gebühren und Auslagen, die bei richtiger Behandlung der Sache nicht entstanden wären, werden nicht erhoben.</P></Content></text></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE001600322"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 12</enbez></metadaten><textdaten><text format="XML"><Content><P>Die Behörde kann ausnahmsweise, wenn dies mit Rücksicht auf die wirtschaftlichen Verhältnisse des Zahlungspflichtigen oder sonst aus Billigkeitsgründen geboten erscheint, die Gebühren unter die Sätze des Gebührenverzeichnisses ermäßigen oder von der Erhebung der Kosten absehen.</P></Content></text></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE001704310"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 13</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Über Einwendungen gegen die Festsetzung und den Ansatz der Kosten oder gegen Maßnahmen gemäß § 7 Abs. 2, 3 entscheidet das Amtsgericht, in dessen Bezirk die Behörde ihren Sitz hat. Die §§ 1a und 14 Abs. 3 bis 10 der Kostenordnung gelten entsprechend.</P><P>(2) Auf gerichtliche Entscheidungen ist § 157a der Kostenordnung entsprechend anzuwenden.</P></Content> </text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE001801301"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 14</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Für die Verjährung der Kostenforderungen und der Ansprüche auf Rückzahlung zuviel gezahlter Kosten gilt § 17 der Kostenordnung entsprechend.</P><P>(2) Ansprüche auf Zahlung und Rückerstattung von Kosten werden nicht verzinst.</P></Content> </text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE001900322"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 15</enbez></metadaten><textdaten><text format="XML"><Content><P>-</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNG000200322"><metadaten><jurabk>JVKostO</jurabk><gliederungseinheit><gliederungskennzahl>020</gliederungskennzahl><gliederungsbez>Art II</gliederungsbez><gliederungstitel>Schlußbestimmungen
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625152959" doknr="BJNR003570940">
+    <norm builddate="20120625152959" doknr="BJNR003570940">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <amtabk>JVKostO</amtabk>
+            <ausfertigung-datum manuell="ja">1940-02-14</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>RGBl I</periodikum>
+                <zitstelle>1940, 357</zitstelle>
+            </fundstelle>
+            <kurzue>Justizverwaltungskostenordnung</kurzue>
+            <langue>Gesetz über Kosten im Bereich der Justizverwaltung</langue>
+            <standangabe checked="ja">
+                <standtyp>Stand</standtyp>
+                <standkommentar>Zuletzt geändert durch Art. 2 Abs. 36 G v. 22.12.2011 I 3044</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <fussnoten>
+                <Content>
+                    <P>
+                        <BR/>
+                        <pre xml:space="preserve">(+++ Textnachweis Geltung ab:  1. 1.1976 +++)<BR/>(+++ Maßgaben aufgrund EinigVtr vgl. JVKostO Anhang EV +++)<BR/>(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:<BR/>     Umsetzung der<BR/>       EGRL 123/2006        (CELEX Nr: 32006L0123) vgl. Art. 15 Nr. 2 u. 4 <BR/>                             G v. 22.8.2010 I 2248 +++)<BR/>
+                            <BR/>
+                        </pre>Überschrift: IdF d. Art. 8 Nr. 1 G v. 10.12.2001 I 3422 mwV 15.12.2001 <BR/>Diese Verordnung ist gem. § 16 in der ursprünglichen Fassung am 1.4.1940 in Kraft getreten</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE000300322">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>Eingangsformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Auf Grund des Artikels 5 des Ersten Rechtspflegeüberleitungsgesetzes vom 16. Februar 1934 (Reichsgesetzbl. I S. 91) wird folgendes verordnet:</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNG000100322">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>010</gliederungskennzahl>
+                <gliederungsbez>Art I</gliederungsbez>
+                <gliederungstitel>Allgemeine Vorschriften</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE000408160">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 1</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Soweit nichts anderes bestimmt ist, werden <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">in Justizverwaltungsangelegenheiten,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">im Rechtshilfeverkehr mit dem Ausland in strafrechtlichen Angelegenheiten nach dem Gesetz über die internationale Rechtshilfe in Strafsachen und</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">in der Zusammenarbeit mit dem Internationalen Strafgerichtshof nach dem IStGH-Gesetz</LA>
+                            </DD>
+                        </DL>von den Justizbehörden des Bundes und in Angelegenheiten nach den Nummern 203, 204 und den Abschnitten 3, 4 und 7 des Gebührenverzeichnisses von den Justizbehörden der Länder Kosten (Gebühren und Auslagen) nach diesem Gesetz erhoben. § 7b gilt für die Justizbehörden der Länder.</P>
+                    <P>(2) § 4 Abs. 8, § 5 Abs. 2 bis 4, § 6 Abs. 3 und § 13 sind auch dann anzuwenden, wenn von Justizbehörden der Länder Kosten in den in Absatz 1 Satz 1 Nr. 1 bis 3 genannten Angelegenheiten erhoben werden.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE000500322">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 2</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Gebühren bestimmen sich nach dem anliegenden Gebührenverzeichnis.</P>
+                    <P>(2) Bei Rahmengebühren setzt die Behörde, die die gebührenpflichtige Amtshandlung vornimmt, die Höhe der Gebühr fest. Sie hat dabei insbesondere die Bedeutung der Angelegenheit für die Beteiligten, die mit der Vornahme der Amtshandlung verbundene Mühewaltung und die wirtschaftlichen Verhältnisse des Kostenschuldners zu berücksichtigen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE000600322">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 3</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Bei der Ablehnung oder Zurücknahme eines Antrags auf Vornahme einer gebührenpflichtigen Amtshandlung kann die Behörde dem Antragsteller eine Gebühr bis zur Hälfte der für die Vornahme der Amtshandlung bestimmten Gebühr - bei Rahmengebühren jedoch nicht weniger als den Mindestbetrag - auferlegen. Das gleiche gilt, wenn die Ablehnung von der übergeordneten Behörde bestätigt wird.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE000709301">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 4</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Für Ausfertigungen, Ablichtungen oder Ausdrucke, die auf besonderen Antrag erteilt, angefertigt oder per Telefax übermittelt werden, wird eine Dokumentenpauschale erhoben.</P>
+                    <P>(2) § 136 Abs. 2 der Kostenordnung ist anzuwenden.</P>
+                    <P>(3) Für einfache Ablichtungen und Ausdrucke gerichtlicher Entscheidungen, die zur Veröffentlichung in Entscheidungssammlungen oder Fachzeitschriften beantragt werden, beträgt die Dokumentenpauschale höchstens 2,50 Euro je Entscheidung.</P>
+                    <P>(4) Für die Überlassung von elektronisch gespeicherten Dateien anstelle der in den Absätzen 1 und 3 genannten Ausfertigungen, Ablichtungen und Ausdrucke beträgt die Dokumentenpauschale je Datei 2,50 Euro.</P>
+                    <P>(5) Bei der Übermittlung elektronisch gespeicherter Daten auf Datenträgern wird daneben eine Datenträgerpauschale erhoben. Sie beträgt <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">bei einer Speicherkapazität des Datenträgers von bis zu 2,0 Megabytes 2,50 Euro,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">bei einer Speicherkapazität von bis zu 500,0 Megabytes 25 Euro,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">bei einer höheren Speicherkapazität 50 Euro.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(6) Die Behörde kann vom Ansatz der Dokumenten- und Datenträgerpauschale ganz oder teilweise absehen, wenn gerichtliche Entscheidungen für Zwecke verlangt werden, deren Verfolgung überwiegend im öffentlichen Interesse liegt, oder wenn Ablichtungen oder Ausdrucke amtlicher Bekanntmachungen anderen Tageszeitungen als den amtlichen Bekanntmachungsblättern auf Antrag zum unentgeltlichen Abdruck überlassen werden.</P>
+                    <P>(7) Keine Kosten werden erhoben, wenn Daten im Internet zur nicht gewerblichen Nutzung bereitgestellt werden.</P>
+                    <P>(8) Im Rechtshilfeverkehr mit dem Ausland in strafrechtlichen Angelegenheiten und in der Zusammenarbeit mit dem Internationalen Strafgerichtshof wird eine Dokumentenpauschale nicht erhoben.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE000815160">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 5</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Für die Erhebung sonstiger Auslagen gilt § 137 Abs. 1 Nr. 1 bis 6, 9 bis 11 und 13 bis 15 der Kostenordnung entsprechend. Die Auslagen sind auch dann zu erheben, wenn eine Gebühr für die Amtshandlung nicht zum Ansatz kommt.</P>
+                    <P>(2) Im Rechtshilfeverkehr mit dem Ausland in strafrechtlichen Angelegenheiten und in der Zusammenarbeit mit dem Internationalen Strafgerichtshof werden abweichend von Absatz 1 die Auslagen erhoben, die in den Nummern 9002 bis 9010, 9012 bis 9015 des Kostenverzeichnisses zum Gerichtskostengesetz bezeichnet sind. Auslagen, die durch eine für begründet befundene Beschwerde entstanden sind, werden nicht erhoben, soweit das Beschwerdeverfahren gebührenfrei ist.</P>
+                    <P>(3) Für den Vollzug der Haft nach dem Gesetz über die internationale Rechtshilfe in Strafsachen oder nach dem IStGH-Gesetz werden Kosten erhoben. Maßgebend ist die Höhe des Haftkostenbeitrags, der nach Landesrecht von einem Gefangenen zu erheben ist.</P>
+                    <P>(4) In den nach Absatz 2 Satz 1 und Absatz 3 bezeichneten Angelegenheiten werden Kosten nicht erhoben, <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">wenn nach § 75 des Gesetzes über die internationale Rechtshilfe in Strafsachen oder nach § 71 des IStGH-Gesetzes darauf verzichtet worden ist oder</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">soweit Rahmenbeschlüsse des Rates der Europäischen Union oder völkerrechtliche Übereinkommen einen gegenseitigen Verzicht auf Kostenerstattung vorsehen.</LA>
+                            </DD>
+                        </DL>Die §§ 57a und 87n Absatz 6 des Gesetzes über die internationale Rechtshilfe in Strafsachen bleiben unberührt.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE000907140">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 6</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Zur Zahlung der Gebühren und Auslagen, soweit nichts anderes bestimmt ist, ist verpflichtet: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">derjenige, der die Amtshandlung veranlaßt oder zu dessen Gunsten sie vorgenommen wird;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">derjenige, der die Kosten durch eine vor der Behörde abgegebene oder ihr mitgeteilte Erklärung übernommen hat;</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">derjenige, der nach den Vorschriften des bürgerlichen Rechts für die Kostenschuld eines anderen kraft Gesetzes haftet;</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">derjenige, dem durch eine Entscheidung der Justizbehörde die Kosten auferlegt sind.</LA>
+                            </DD>
+                        </DL>Die Jahresgebühr für die Führung des Unternehmensregisters schuldet jedes Unternehmen, das seine Rechnungslegungsunterlagen im Bundesanzeiger bekannt zu machen hat, und jedes Unternehmen, das in dem betreffenden Kalenderjahr nach § 8b Abs. 2 Nr. 9 und 10, Abs. 3 Satz 1 Nr. 2 des Handelsgesetzbuchs selbst oder durch einen von ihm beauftragten Dritten Daten an das Unternehmensregister übermittelt hat.</P>
+                    <P>(2) Mehrere Kostenschuldner haften als Gesamtschuldner.</P>
+                    <P>(3) Im Rechtshilfeverkehr mit dem Ausland in strafrechtlichen Angelegenheiten und in der Zusammenarbeit mit dem Internationalen Strafgerichtshof haftet der Verfolgte oder Verurteilte nicht nach Absatz 1 Satz 1 Nummer 1. Die §§ 57a und 87n Absatz 6 des Gesetzes über die internationale Rechtshilfe in Strafsachen bleiben unberührt.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE001003310">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 7</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Gebühren werden, soweit nichts anderes bestimmt ist, mit der Beendigung der gebührenpflichtigen Amtshandlung, Auslagen sofort nach ihrer Entstehung fällig. Wenn eine Kostenentscheidung der Justizbehörde ergeht, werden entstandene Kosten mit deren Erlass, später entstehende Kosten sofort fällig.</P>
+                    <P>(2) Die Behörde kann die Zahlung eines Kostenvorschusses verlangen. Sie kann die Vornahme der Amtshandlung von der Zahlung oder Sicherstellung des Vorschusses abhängig machen.</P>
+                    <P>(3) Bescheinigungen, Ausfertigungen, Ablichtungen und Ausdrucke sowie zurückzugebende Urkunden, die aus Anlaß der Amtshandlung eingereicht sind, können zurückbehalten werden, bis die in der Angelegenheit erwachsenen Kosten bezahlt sind.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE002801301">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 7a</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Für die Übermittlung gerichtlicher Entscheidungen in Form elektronisch auf Datenträgern gespeicherter Daten kann anstelle der zu erhebenden Auslagen durch öffentlich-rechtlichen Vertrag eine andere Art der Gegenleistung vereinbart werden, deren Wert den ansonsten zu erhebenden Auslagen entspricht.</P>
+                    <P>(2) Werden neben der Übermittlung gerichtlicher Entscheidungen zusätzliche Leistungen beantragt, insbesondere eine Auswahl der Entscheidungen nach besonderen Kriterien, und entsteht hierdurch ein nicht unerheblicher Aufwand, so ist eine Gegenleistung durch öffentlich-rechtlichen Vertrag zu vereinbaren, die zur Deckung der anfallenden Aufwendungen ausreicht.</P>
+                    <P>(3) Werden Entscheidungen für Zwecke verlangt, deren Verfolgung überwiegend im öffentlichen Interesse liegt, so kann auch eine niedrigere Gegenleistung vereinbart oder auf eine Gegenleistung verzichtet werden.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE002903160">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 7b</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Zur Zahlung der in Abschnitt 4 des Gebührenverzeichnisses bestimmten Gebühren ist derjenige verpflichtet, der den Abruf tätigt. Erfolgt der Abruf unter einer Kennung, die auf Grund der Anmeldung zum Abrufverfahren vergeben worden ist, ist Schuldner der Kosten derjenige, der sich zum Abrufverfahren angemeldet hat.</P>
+                    <P>(2) Zur Zahlung der Gebühren nach den Nummern 701 und 702 des Gebührenverzeichnisses ist derjenige verpflichtet, unter dessen Kennung, die auf Grund der Anmeldung zum Abrufverfahren vergeben worden ist, der Abruf erfolgt ist.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE003001301">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 7c</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Erfordert die Erteilung einer Auskunft für wissenschaftliche Forschungsvorhaben aus den vom Bundesamt für Justiz geführten Registern einen erheblichen Aufwand, ist eine Gegenleistung zu vereinbaren, welche die notwendigen Aufwendungen deckt. § 12 ist entsprechend anzuwenden.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE001101160">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 8</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Von der Zahlung der Gebühren sind befreit der Bund und die Länder sowie die nach den Haushaltsplänen des Bundes und der Länder für Rechnung des Bundes oder eines Landes verwalteten öffentlichen Anstalten und Kassen.</P>
+                    <P>(2) Von der Zahlung der Gebühren sind auch ausländische Behörden im Geltungsbereich der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt (ABl. L 376 vom 27.12.2006, S. 36) befreit, wenn sie auf der Grundlage des Kapitels VI der Richtlinie Auskunft aus den im vierten oder siebten Abschnitt des Gebührenverzeichnisses bezeichneten Registern oder Grundbüchern erhalten und wenn vergleichbaren inländischen Behörden für diese Auskunft Gebührenfreiheit zustände.</P>
+                    <P>(3) Die sonstigen Vorschriften, durch die eine sachliche oder persönliche Kostenfreiheit gewährt wird, bleiben unberührt.</P>
+                    <P>(4) Die Gebührenfreiheit entbindet, soweit nichts anderes bestimmt ist, nicht von der Verpflichtung zur Zahlung der Auslagen.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE001204308">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 9</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Weder Gebühren noch Auslagen - ausgenommen Schreibauslagen nach § 4 - werden erhoben <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">für Amtshandlungen, die durch Anzeigen, Anträge und Beschwerden in Angelegenheiten der Strafverfolgung oder Strafvollstreckung, der Anordnung oder der Vollstreckung von Maßregeln der Besserung und Sicherung oder der Verfolgung einer Ordnungswidrigkeit oder der Vollstreckung einer gerichtlichen Bußgeldentscheidung veranlaßt werden;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">in Gnadensachen;</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">in Angelegenheiten nach dem Bundeszentralregistergesetz, ausgenommen für die Erteilung von Führungszeugnissen (Nummern 803 und 804 des Gebührenverzeichnisses);</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">in Gewerbezentralregisterangelegenheiten, ausgenommen für die Erteilung von Auskünften nach § 150 der Gewerbeordnung;</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">im Verfahren über Anträge nach dem Gesetz über die Entschädigung für Strafverfolgungsmaßnahmen sowie über Anträge auf Entschädigung für sonstige Nachteile, die jemandem ohne sein Verschulden aus einem Straf- oder Bußgeldverfahren erwachsen sind;</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">für die Tätigkeit der Staatsanwaltschaft im Aufgebotsverfahren.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE001403301">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 10</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(aufgehoben)</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE001500322">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 11</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Gebühren und Auslagen, die bei richtiger Behandlung der Sache nicht entstanden wären, werden nicht erhoben.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE001600322">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 12</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die Behörde kann ausnahmsweise, wenn dies mit Rücksicht auf die wirtschaftlichen Verhältnisse des Zahlungspflichtigen oder sonst aus Billigkeitsgründen geboten erscheint, die Gebühren unter die Sätze des Gebührenverzeichnisses ermäßigen oder von der Erhebung der Kosten absehen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE001704310">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 13</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Über Einwendungen gegen die Festsetzung und den Ansatz der Kosten oder gegen Maßnahmen gemäß § 7 Abs. 2, 3 entscheidet das Amtsgericht, in dessen Bezirk die Behörde ihren Sitz hat. Die §§ 1a und 14 Abs. 3 bis 10 der Kostenordnung gelten entsprechend.</P>
+                    <P>(2) Auf gerichtliche Entscheidungen ist § 157a der Kostenordnung entsprechend anzuwenden.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE001801301">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 14</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Für die Verjährung der Kostenforderungen und der Ansprüche auf Rückzahlung zuviel gezahlter Kosten gilt § 17 der Kostenordnung entsprechend.</P>
+                    <P>(2) Ansprüche auf Zahlung und Rückerstattung von Kosten werden nicht verzinst.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE001900322">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 15</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNG000200322">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>020</gliederungskennzahl>
+                <gliederungsbez>Art II</gliederungsbez>
+                <gliederungstitel>Schlußbestimmungen
 <BR/>
-Außerkrafttreten landesrechtlicher Vorschriften</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE002002160"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 16</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Für Kosten, die vor dem Inkrafttreten einer Gesetzesänderung fällig geworden sind, gilt das bisherige Recht. Dies gilt auch, wenn Vorschriften geändert werden, auf die die Justizverwaltungskostenordnung verweist.</P><P>(2) Abweichend von Absatz 1 werden die Gebühren für Abrufe von Daten in Grundbuchangelegenheiten, in Angelegenheiten der Schiffsregister, des Schiffsbauregisters und des Registers für Pfandrechte an Luftfahrzeugen vor dem 1. Oktober 2009 nach den bis zu diesem Zeitpunkt geltenden Vorschriften erhoben.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE003100301"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 17</enbez></metadaten><textdaten><text format="XML"><Content><P>Für die Beschwerde finden die vor dem 1. Juli 2004 geltenden Vorschriften weiter Anwendung, wenn die anzufechtende Entscheidung vor dem 1. Juli 2004 der Geschäftsstelle übermittelt worden ist.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE002201160"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 18</enbez></metadaten><textdaten><text format="XML"><Content><P>Bis zum Erlass landesrechtlicher Vorschriften über die Höhe des Haftkostenbeitrags, der von einem Gefangenen zu erheben ist, ist § 5 Absatz 3 Satz 2 in der bis zum 27. Dezember 2010 geltenden Fassung anzuwenden.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE002300322"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 19</enbez></metadaten><textdaten><text format="XML"><Content><P>In Kraft bleiben die landesrechtlichen Vorschriften über die Gebühren für Schiedsmänner, Friedensrichter, Ortsgerichte, Schätzungsämter und ähnliche Stellen im Bereich der Justizverwaltung.</P></Content></text></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE002400322"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 20</enbez></metadaten><textdaten><text format="XML"><Content><P>-</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152959" doknr="BJNR003570940BJNE002500322"><metadaten><jurabk>JVKostO</jurabk><enbez>§ 21</enbez></metadaten><textdaten><text format="XML"><Content><P>(1)</P><P>(2) Soweit die Justizbehörden in Auslandsnachlaßsachen noch zur Aushändigung von Wertgegenständen zuständig sind, bleiben die landesrechtlichen Gebührenvorschriften in Kraft.</P></Content> </text><fussnoten/></textdaten></norm>
-<norm builddate="20120625153000" doknr="BJNR003570940BJNE002600322"><metadaten><jurabk>JVKostO</jurabk><enbez>Schlußformel</enbez></metadaten><textdaten><text format="XML"><Content><P><SP>Der Reichsminister der Justiz</SP></P></Content></text></textdaten></norm>
-<norm builddate="20120625153000" doknr="BJNR003570940BJNE002726140"><metadaten><jurabk>JVKostO</jurabk><enbez>Anlage</enbez><titel format="XML">(zu § 2 Abs. 1) <BR/>Gebührenverzeichnis</titel></metadaten><textdaten><text format="XML"><Content><P><ABWFORMAT typ="A"/><noindex><kommentar typ="Fundstelle">(Fundstelle: BGBl. I 2001, 3426 - 3427;<BR/>bezgl. der einzelnen Änderungen vgl. Fußnote)</kommentar></noindex><BR/><BR/><table frame="all" pgwide="1" tocentry="%yes;"><tgroup align="left" char="" charoff="50" cols="4" rowsep="0"><colspec colname="col1" colnum="1" colsep="1" colwidth="11.75*"/><colspec colname="col2" colnum="2" colwidth="4.52*"/><colspec colname="col3" colnum="3" colsep="1" colwidth="53.89*"/><colspec colname="col4" colnum="4" colwidth="29.85*"/><thead valign="bottom"><row rowsep="1"><entry VJ="1" align="center" colsep="1" valign="middle">Nr.</entry><entry VJ="1" align="center" colsep="1" nameend="col3" namest="col2" valign="top">Gebührentatbestand</entry><entry VJ="1" align="center" colsep="0" valign="top">Gebührenbetrag</entry></row></thead><tbody valign="top"><row><entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top"><BR/><B>1. Beglaubigungen</B></entry></row><row><entry VJ="1" align="center" colsep="1" rowsep="0" valign="top">100</entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Beglaubigung von amtlichen Unterschriften für den Auslandsverkehr auf Urkunden, die keine rechtsgeschäftliche Erklärung enthalten, z. B. Patentschriften, Handelsregisterauszüge, Ernennungsurkunden<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" rowsep="0" valign="bottom">13,00 EUR  </entry></row><row><entry VJ="1" align="left" colsep="1" valign="top"/><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">   Die Gebühr wird nur einmal erhoben, auch wenn eine weitere Beglaubigung durch die übergeordnete Justizbehörde erforderlich ist.</entry><entry VJ="1" align="left" colsep="0" valign="top"/></row><row><entry VJ="1" align="center" colsep="1" morerows="1" rowsep="0" valign="top">101</entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Beglaubigung von amtlichen Unterschriften für den Auslandsverkehr auf sonstigen Urkunden<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" rowsep="0" valign="middle">in Höhe der Gebühr nach § 45 Abs. 1 der Kostenordnung  </entry></row><row><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">   Die Gebühr wird nur einmal erhoben, auch wenn eine weitere Beglaubigung durch die übergeordnete Justizbehörde erforderlich ist.</entry><entry VJ="1" align="left" colsep="0" valign="top"/></row><row><entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" rowsep="0" valign="top">102</entry><entry VJ="1" align="justify" colsep="1" morerows="1" nameend="col3" namest="col2" rowsep="0" valign="top">Beglaubigung  von  Ablichtungen,  Ausdrucken, Auszügen  und  Dateien<Split Leader="1"/>  Die Gebühr wird nur erhoben, wenn die Beglaubigung beantragt ist; dies gilt nicht für Ausdrucke aus dem Unternehmensregister und für an deren Stelle tretende Dateien. Wird die Ablichtung oder der Ausdruck von der Behörde selbst hergestellt, so kommt die Dokumentenpauschale (§ 4) hinzu. Die Behörde kann vom Ansatz absehen, wenn die Beglaubigung für Zwecke verlangt wird, deren Verfolgung überwiegend im öffentlichen Interesse liegt.</entry><entry VJ="1" align="center" colsep="0" morerows="1" rowsep="0" valign="middle">0,50 EUR für jede angefangene Seite, mindestens 5,00 EUR</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top"/></row><row><entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top"><BR/><B>2. Sonstige Justizverwaltungsangelegenheiten mit Auslandsbezug</B></entry></row><row><entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">   (1) Gebühren nach den Nummern 200 bis 202 werden nur in Zivilsachen und in Angelegenheiten der freiwilligen Gerichtsbarkeit erhoben. Die Gebühren nach den Nummern 201 und 202 werden auch dann erhoben, wenn die Zustellung oder Rechtshilfehandlung wegen unbekannten Aufenthalts des Empfängers oder sonst Beteiligten oder aus ähnlichen Gründen nicht ausgeführt werden kann. In den Fällen der Nummern 201 und 202 werden Gebühren und Auslagen nicht erhoben, wenn die Gegenseitigkeit verbürgt ist. Die Bestimmungen der Staatsverträge bleiben unberührt.</entry></row><row><entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">   (2) Gebühren nach den Nummern 205 bis 207 werden auch erhoben, wenn die Bundeszentralstelle entsprechende Tätigkeiten aufgrund einer Rechtsverordnung nach § 2a Abs. 4 Satz 2 AdVermiG wahrnimmt.</entry></row><row><entry VJ="1" align="center" colsep="1" valign="top">200</entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Prüfung von Rechtshilfeersuchen nach dem Ausland<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">10,00 bis 50,00 EUR</entry></row><row><entry VJ="1" align="center" colsep="1" valign="top">201</entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Erledigung von Zustellungsanträgen in ausländischen Rechtsangelegenheiten<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">10,00 bis 20,00 EUR</entry></row><row><entry VJ="1" align="center" colsep="1" valign="top">202</entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Erledigung von Rechtshilfeersuchen in ausländischen Rechtsangelegenheiten<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">10,00 bis 250,00 EUR</entry></row><row><entry VJ="1" align="center" colsep="1" valign="top">203</entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Befreiung von der Beibringung des Ehefähigkeitszeugnisses (§ 1309 BGB)<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">10,00 bis 300,00 EUR</entry></row><row><entry VJ="1" align="center">204</entry><entry VJ="1" colsep="1" nameend="col3" namest="col2">Feststellung der Landesjustizverwaltung, dass die Voraussetzungen für die Anerkennung einer ausländischen Entscheidung vorliegen oder nicht vorliegen (§ 107 FamFG)<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">10,00 bis 300,00 EUR</entry></row><row><entry VJ="1" align="center"/><entry VJ="1" colsep="1" nameend="col3" namest="col2">Die Gebühr wird auch erhoben, wenn die Entscheidung der Landesjustizverwaltung von dem Oberlandesgericht oder in der Rechtsbeschwerdeinstanz aufgehoben wird und das Gericht in der Sache selbst entscheidet. Die Landesjustizverwaltung entscheidet in diesem Fall über die Höhe der Gebühr erneut. Sie ist in diesem Fall so zu bemessen, als hätte die Landesjustizverwaltung die Feststellung selbst getroffen.</entry><entry VJ="1" align="center" colsep="0" valign="bottom"/></row><row><entry VJ="1" align="center" colsep="1" valign="top">205</entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Mitwirkung der Bundeszentralstelle für Auslandsadoption (§ 1 Abs. 1 AdÜbAG, § 2a Abs. 4 Satz 1 AdVermiG) bei Übermittlungen an die zentrale Behörde des Heimatstaates (§ 4 Abs. 6 AdÜbAG, § 2a Abs. 4 Satz 2 AdVermiG)<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">10,00 bis 150,00 EUR</entry></row><row><entry VJ="1" align="center" colsep="1" valign="top"> </entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top"> Die Gebühr wird in einem Adoptionsvermittlungsverfahren nur einmal erhoben.</entry><entry VJ="1" align="center" colsep="0" valign="top"> </entry></row><row><entry VJ="1" align="center" colsep="1" valign="top">206</entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Bestätigung nach § 9 AdÜbAG<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">40,00 bis 100,00 EUR</entry></row><row><entry VJ="1" align="center" colsep="1" valign="top">207</entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Bescheinigungen nach § 7 Abs. 4 AdVermiG<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">40,00 bis 100,00 EUR</entry></row><row><entry VJ="1" align="center">208</entry><entry VJ="1" colsep="1" nameend="col3" namest="col2">Unterstützungsleistungen der Zentralen Behörde nach Kapitel V des Haager Übereinkommens vom 13. Januar 2000 über den internationalen Schutz von Erwachsenen und nach dem Erwachsenenschutzübereinkommens-Ausführungsgesetz <Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">10,00 bis 300,00 EUR</entry></row><row><entry VJ="1" align="center">209</entry><entry VJ="1" colsep="1" nameend="col3" namest="col2">Unterstützungsleistungen des Bundesamts für Justiz als Zentrale Behörde nach dem Haager Kinderschutzübereinkommen gegenüber Trägern der elterlichen Verantwortung<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom"><BR/><BR/><BR/> 10,00 bis<BR/> 300,00 EUR</entry></row><row><entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top"><BR/><B>3. Registrierung nach dem Rechtsdienstleistungsgesetz</B></entry></row><row><entry VJ="1" align="center" colsep="1" valign="top">300</entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Registrierung nach dem<BR/> RDG<Split Leader="1"/><BR/><BR/>Bei Registrierung einer juristischen Person oder einer Gesellschaft ohne Rechtspersönlichkeit wird mit der Gebühr auch die Eintragung einer qualifizierten Person in das Rechtsdienstleistungsregister abgegolten.</entry><entry VJ="1" align="center" colname="col4" colsep="0" valign="top"><BR/>150,00 EUR</entry></row><row><entry VJ="1" align="center" colsep="1" valign="top">301</entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Eintragung einer qualifizierten Person in das Rechtsdienstleistungsregister, wenn die Eintragung nicht durch die Gebühr 300 abgegolten ist:<BR/> je Person <Split Leader="1"/></entry><entry VJ="1" align="center" colname="col4" colsep="0" valign="bottom"><BR/>150,00 EUR</entry></row><row><entry VJ="1" align="center" colsep="1" valign="top">302</entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Widerruf oder Rücknahme der Registrierung <Split Leader="1"/></entry><entry VJ="1" align="center" colname="col4" colsep="0" valign="top">75,00 EUR</entry></row><row><entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" rowsep="0" valign="top"><BR/><B>4. Abruf von Daten in Handels-, Partnerschafts-, Genossenschafts- und Vereinsregisterangelegenheiten</B></entry></row><row><entry VJ="1" align="justify" colsep="0" nameend="col4" namest="col1" rowsep="0" valign="top"> (1) Dieser Abschnitt gilt für den Abruf von Daten und Dokumenten aus dem vom Registergericht geführten Datenbestand. Für den Abruf von Daten in der Geschäftsstelle des Registergerichts bleibt § 90 KostO unberührt.</entry></row><row><entry VJ="1" align="justify" colsep="0" nameend="col4" namest="col1" rowsep="0" valign="top"> (2) Neben den Gebühren werden keine Auslagen erhoben.</entry></row><row><entry VJ="1" align="justify" colsep="0" nameend="col4" namest="col1" rowsep="0" valign="top"> (3) Die Gebühren für den Abruf werden am 15. Tag des auf den Abruf folgenden Monats fällig, sofern sie nicht über ein elektronisches Bezahlsystem sofort beglichen werden.</entry></row><row><entry VJ="1" align="justify" colsep="0" nameend="col4" namest="col1" rowsep="0" valign="top"> (4) Von den in § 380 Absatz 1 FamFG genannten Stellen werden Gebühren nach diesem Abschnitt nicht erhoben, wenn die Abrufe zum Zwecke der Erstattung eines vom Gericht geforderten Gutachtens erforderlich sind.</entry></row><row><entry VJ="1" align="center" colname="col1" colsep="1" rowsep="0" valign="top">400</entry><entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Abruf von Daten aus dem Register:<BR/> je Registerblatt<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">4,50 EUR</entry></row><row><entry VJ="1" align="center" colname="col1" colsep="1" rowsep="0" valign="top">401</entry><entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Abruf von Dokumenten, die zum Register eingereicht wurden:<BR/> für jede abgerufene Datei<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">1,50 EUR</entry></row><row><entry VJ="1" align="justify" colsep="0" nameend="col4" namest="col1" rowsep="0" valign="top"><BR/><B>5. Unternehmensregister</B> </entry></row><row><entry VJ="1" align="justify" colsep="0" nameend="col4" namest="col1" valign="top"> Mit der Jahresgebühr nach den Nummern 500 bis 502 wird der gesamte Aufwand zur Führung des Unternehmensregisters entgolten. Sie umfasst jedoch nicht den Aufwand für die Erteilung von Ausdrucken oder Ablichtungen, die Überlassung von elektronisch gespeicherten Dokumenten und die Beglaubigung von Ablichtungen, Ausdrucken, Auszügen und Dateien. Die Jahresgebühr wird jeweils am 31. Dezember des abgelaufenen Kalenderjahres fällig.</entry></row><row><entry VJ="1" align="center" colname="col1" colsep="1" rowsep="0" valign="top">500</entry><entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Jahresgebühr für die Führung des Unternehmensregisters für jedes Kalenderjahr, wenn das Unternehmen bei der Offenlegung der Rechnungslegungsunterlagen die Erleichterungen nach § 326 HGB in Anspruch nehmen kann<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">3,00 EUR</entry></row><row><entry VJ="1" align="left" colname="col1" colsep="1" rowsep="0" valign="top"/><entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top"> (1) Die Gebühr entsteht für jedes Kalenderjahr, für das ein Unternehmen die Rechnungslegungsunterlagen im Bundesanzeiger bekannt zu machen hat. Dies gilt auch, wenn die bekannt zu machenden Unterlagen nur einen Teil des Kalenderjahres umfassen.</entry><entry VJ="1" align="left" colsep="0" valign="top"/></row><row><entry VJ="1" align="left" colname="col1" colsep="1" rowsep="0" valign="top"/><entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top"> (2) Die Gebühr wird nicht erhoben, wenn für das Kalenderjahr eine Gebühr nach Nummer 502 entstanden ist.</entry><entry VJ="1" align="left" colsep="0" valign="top"/></row><row><entry VJ="1" align="center" colname="col1" colsep="1" rowsep="0" valign="top">501</entry><entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Das Unternehmen kann die Erleichterungen nach § 326 HGB nicht in Anspruch nehmen:<BR/> Die Gebühr 500 beträgt<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">6,00 EUR</entry></row><row><entry VJ="1" align="center" colname="col1" colsep="1" rowsep="0" valign="top">502</entry><entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Jahresgebühr für die Führung des Unternehmensregisters für jedes Kalenderjahr, in dem das Unternehmen nach § 8b Abs. 2 Nr. 9 und 10, Abs. 3 Satz 1 Nr. 2 HGB selbst oder durch einen von ihm beauftragten Dritten Daten an das Unternehmensregister übermittelt hat<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">30,00 EUR</entry></row><row><entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" rowsep="0" valign="top">503</entry><entry VJ="1" align="justify" colsep="1" morerows="1" nameend="col3" namest="col2" rowsep="0" valign="top">Übertragung von Unterlagen der Rechnungslegung, die in Papierform zum Register eingereicht wurden, in ein elektronisches Dokument (§ 8b Abs. 4 Satz 2, § 9 Abs. 2 HGB und Artikel 61 Abs. 3 EGHGB):</entry><entry VJ="1" align="center" colsep="0" morerows="1" rowsep="0" valign="top"/></row><row><entry VJ="1" align="left" colsep="0" valign="top"/></row><row><entry VJ="1" align="left" colsep="1" valign="top"/><entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" valign="top">für jede angefangene Seite<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="top">3,00 EUR<BR/> – mindestens<BR/> 30,00 EUR</entry></row><row><entry VJ="1" align="left" colname="col1" colsep="1" rowsep="0" valign="top"/><entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top"> Die Gebühr wird für die Dokumente eines jeden Unternehmens gesondert erhoben. Mit der Gebühr wird auch die einmalige elektronische Übermittlung der Dokumente an den Antragsteller abgegolten.</entry><entry VJ="1" align="left" colsep="0" valign="top"/></row><row><entry VJ="1" align="justify" colname="col1" colsep="0" nameend="col3" namest="col1" rowsep="0" valign="top"><BR/><B>6. Ordnungsgeldverfahren des Bundesamts für Justiz</B></entry><entry VJ="1" align="left" colsep="0" valign="top"/></row><row><entry VJ="1" align="justify" colsep="0" nameend="col4" namest="col1" valign="top"> Wird ein Ordnungsgeldverfahren gegen mehrere Personen durchgeführt, werden die Gebühren von jeder Person gesondert erhoben.</entry></row><row><entry VJ="1" align="center" colname="col1" colsep="1" rowsep="0" valign="top">600</entry><entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Durchführung eines Ordnungsgeldverfahrens nach § 335 HGB<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">50,00 EUR</entry></row><row><entry VJ="1" align="center" colname="col1" colsep="1" valign="top">601</entry><entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Festsetzung  eines  zweiten  und  eines  jeden  weiteren  Ordnungsgelds  jeweils<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">50,00 EUR</entry></row><row><entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top"><BR/><table frame="none" pgwide="1" tabstyle="tabelle" tocentry="%yes;"><tgroup align="left" char="" charoff="50" cols="3"><colspec colname="col1" colwidth="1.58*"/><colspec colname="col2" colwidth="8.46*"/><colspec colname="col3" colwidth="4.18*"/><tbody valign="top"><row><entry VJ="1" nameend="col3" namest="col1" rowsep="0"><B>7. Einrichtung und Nutzung des automatisierten Abrufverfahrens in Grundbuchangelegenheiten, in Angelegenheiten der Schiffsregister, des Schiffsbauregisters und des Registers für Pfandrechte an Luftfahrzeugen</B></entry></row><row><entry VJ="1" align="justify" nameend="col3" namest="col1" rowsep="0"> (1) Dieser Abschnitt gilt für den Abruf von Daten und Dokumenten aus dem vom Grundbuchamt oder dem Registergericht geführten Datenbestand. Für den Abruf von Daten in der Geschäftsstelle des Grundbuchamts oder des Registergerichts bleiben die §§ 74 und 90 KostO, auch i. V. m. § 102 Abs. 1 des Gesetzes über Rechte an Luftfahrzeugen, unberührt. Der Abruf von Daten aus den Verzeichnissen (§ 12a Abs. 1 GBO, § 31 Abs. 1, § 55 Satz 2 SchRegDV, §§ 10 und 11 Abs. 3 Satz 2 LuftRegV) und der Abruf des Zeitpunkts der letzten Änderung des Grundbuchs oder Registers ist gebührenfrei.<BR/>  (2) Neben den Gebühren werden keine Auslagen erhoben.</entry></row><row><entry VJ="1" align="center" colsep="1" rowsep="0">700</entry><entry VJ="1" align="justify" colsep="1" rowsep="0">Einrichtung für einen Empfänger, der am eingeschränkten Abrufverfahren teilnimmt (§ 133 Abs. 4 Satz 3 GBO, auch i. V. m. § 69 Abs. 1 Satz 2 SchRegDV)<Split Leader="1"/><BR/>  Mit der Gebühr für die erstmalige Einrichtung in einem Land sind auch weitere Einrichtungen in anderen Ländern abgegolten.</entry><entry VJ="1" align="center" colsep="0" rowsep="0"><BR/> 50,00 EUR</entry></row><row><entry VJ="1" align="center" colsep="1" rowsep="0">701</entry><entry VJ="1" align="justify" colsep="1" rowsep="0">Abruf von Daten aus dem Grundbuch oder Register:<BR/>für jeden Abruf aus einem Grundbuch- oder Registerblatt <Split Leader="1"/><BR/>  Die Gebühren werden am 15. Tag des auf den Abruf folgenden Monats fällig, sofern sie nicht über ein elektronisches Bezahlsystem sofort beglichen werden.</entry><entry VJ="1" align="center" colsep="0" rowsep="0"><BR/>  8,00 EUR</entry></row><row><entry VJ="1" align="center" colsep="1" rowsep="0">702</entry><entry VJ="1" align="justify" colsep="1" rowsep="0">Abruf von Dokumenten, die zu den Grund- oder Registerakten genommen wurden:<BR/> für jedes abgerufene Dokument <Split Leader="1"/><BR/>  Die Anmerkung zu Nummer 701 gilt entsprechend.</entry><entry VJ="1" align="center" colsep="0" rowsep="0"><BR/>   1,50 EUR.</entry></row></tbody></tgroup></table><BR/><B>8. Bescheinigungen, Zeugnisse und Auskünfte</B></entry></row><row><entry VJ="1" align="center" colsep="1" valign="top">800</entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Bescheinigungen und schriftliche Auskünfte aus Akten und Büchern<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">10,00 EUR</entry></row><row><entry VJ="1" align="center" colsep="1" valign="top">801</entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Bescheinigungen über die Beurkundungsbefugnis eines Justizbeamten, die zum Gebrauch einer Urkunde im Ausland verlangt werden<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">10,00 EUR</entry></row><row><entry VJ="1" align="center" colsep="1" valign="top"> </entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">   Die Gebühr wird nicht erhoben, wenn eine Beglaubigungsgebühr nach Nummer 100 oder Nummer 101 zum Ansatz kommt.</entry><entry VJ="1" align="center" colsep="0" valign="top"> </entry></row><row><entry VJ="1" align="center" colsep="1" valign="top">802</entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Zeugnisse über das im Bund oder in den Ländern geltende Recht<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">10,00 bis 250,00 EUR</entry></row><row><entry VJ="1" align="center" colname="col1">803</entry><entry VJ="1" nameend="col3" namest="col2">Führungszeugnis nach § 30 oder § 30a BZRG<Split Leader="1"/></entry><entry VJ="1" align="center" colname="col4" colsep="0" valign="bottom">13,00 EUR</entry></row><row><entry VJ="1" align="center" colsep="1" valign="top">804</entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Führungszeugnis nach § 30b BZRG<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">17,00 EUR</entry></row><row><entry VJ="1" align="center" colsep="1" valign="top">805</entry><entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Auskunft nach § 150 der Gewerbeordnung<Split Leader="1"/></entry><entry VJ="1" align="center" colsep="0" valign="bottom">13,00 EUR</entry></row></tbody></tgroup></table></P></Content></text><fussnoten/></textdaten></norm>
+Außerkrafttreten landesrechtlicher Vorschriften</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE002002160">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 16</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Für Kosten, die vor dem Inkrafttreten einer Gesetzesänderung fällig geworden sind, gilt das bisherige Recht. Dies gilt auch, wenn Vorschriften geändert werden, auf die die Justizverwaltungskostenordnung verweist.</P>
+                    <P>(2) Abweichend von Absatz 1 werden die Gebühren für Abrufe von Daten in Grundbuchangelegenheiten, in Angelegenheiten der Schiffsregister, des Schiffsbauregisters und des Registers für Pfandrechte an Luftfahrzeugen vor dem 1. Oktober 2009 nach den bis zu diesem Zeitpunkt geltenden Vorschriften erhoben.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE003100301">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 17</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Für die Beschwerde finden die vor dem 1. Juli 2004 geltenden Vorschriften weiter Anwendung, wenn die anzufechtende Entscheidung vor dem 1. Juli 2004 der Geschäftsstelle übermittelt worden ist.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE002201160">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 18</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Bis zum Erlass landesrechtlicher Vorschriften über die Höhe des Haftkostenbeitrags, der von einem Gefangenen zu erheben ist, ist § 5 Absatz 3 Satz 2 in der bis zum 27. Dezember 2010 geltenden Fassung anzuwenden.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE002300322">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 19</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>In Kraft bleiben die landesrechtlichen Vorschriften über die Gebühren für Schiedsmänner, Friedensrichter, Ortsgerichte, Schätzungsämter und ähnliche Stellen im Bereich der Justizverwaltung.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE002400322">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 20</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152959" doknr="BJNR003570940BJNE002500322">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>§ 21</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1)</P>
+                    <P>(2) Soweit die Justizbehörden in Auslandsnachlaßsachen noch zur Aushändigung von Wertgegenständen zuständig sind, bleiben die landesrechtlichen Gebührenvorschriften in Kraft.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153000" doknr="BJNR003570940BJNE002600322">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>Schlußformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <SP>Der Reichsminister der Justiz</SP>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153000" doknr="BJNR003570940BJNE002726140">
+        <metadaten>
+            <jurabk>JVKostO</jurabk>
+            <enbez>Anlage</enbez>
+            <titel format="XML">(zu § 2 Abs. 1) <BR/>Gebührenverzeichnis</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <ABWFORMAT typ="A"/>
+                        <noindex>
+                            <kommentar typ="Fundstelle">(Fundstelle: BGBl. I 2001, 3426 - 3427;<BR/>bezgl. der einzelnen Änderungen vgl. Fußnote)</kommentar>
+                        </noindex>
+                        <BR/>
+                        <BR/>
+                        <table frame="all" pgwide="1" tocentry="%yes;">
+                            <tgroup align="left" char="" charoff="50" cols="4" rowsep="0">
+                                <colspec colname="col1" colnum="1" colsep="1" colwidth="11.75*"/>
+                                <colspec colname="col2" colnum="2" colwidth="4.52*"/>
+                                <colspec colname="col3" colnum="3" colsep="1" colwidth="53.89*"/>
+                                <colspec colname="col4" colnum="4" colwidth="29.85*"/>
+                                <thead valign="bottom">
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="center" colsep="1" valign="middle">Nr.</entry>
+                                        <entry VJ="1" align="center" colsep="1" nameend="col3" namest="col2" valign="top">Gebührentatbestand</entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="top">Gebührenbetrag</entry>
+                                    </row>
+                                </thead>
+                                <tbody valign="top">
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">
+                                            <BR/>
+                                            <B>1. Beglaubigungen</B>
+                                        </entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" rowsep="0" valign="top">100</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Beglaubigung von amtlichen Unterschriften für den Auslandsverkehr auf Urkunden, die keine rechtsgeschäftliche Erklärung enthalten, z. B. Patentschriften, Handelsregisterauszüge, Ernennungsurkunden<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" rowsep="0" valign="bottom">13,00 EUR &#160;</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="1" valign="top"/>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">&#160;&#160;&#160;Die Gebühr wird nur einmal erhoben, auch wenn eine weitere Beglaubigung durch die übergeordnete Justizbehörde erforderlich ist.</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top"/>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" morerows="1" rowsep="0" valign="top">101</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Beglaubigung von amtlichen Unterschriften für den Auslandsverkehr auf sonstigen Urkunden<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" rowsep="0" valign="middle">in Höhe der Gebühr nach § 45 Abs. 1 der Kostenordnung &#160;</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">&#160;&#160;&#160;Die Gebühr wird nur einmal erhoben, auch wenn eine weitere Beglaubigung durch die übergeordnete Justizbehörde erforderlich ist.</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top"/>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" rowsep="0" valign="top">102</entry>
+                                        <entry VJ="1" align="justify" colsep="1" morerows="1" nameend="col3" namest="col2" rowsep="0" valign="top">Beglaubigung &#160;von &#160;Ablichtungen, &#160;Ausdrucken, Auszügen&#160;&#160;und &#160;Dateien<Split Leader="1"/> &#160;Die Gebühr wird nur erhoben, wenn die Beglaubigung beantragt ist; dies gilt nicht für Ausdrucke aus dem Unternehmensregister und für an deren Stelle tretende Dateien. Wird die Ablichtung oder der Ausdruck von der Behörde selbst hergestellt, so kommt die Dokumentenpauschale (§ 4) hinzu. Die Behörde kann vom Ansatz absehen, wenn die Beglaubigung für Zwecke verlangt wird, deren Verfolgung überwiegend im öffentlichen Interesse liegt.</entry>
+                                        <entry VJ="1" align="center" colsep="0" morerows="1" rowsep="0" valign="middle">0,50 EUR für jede angefangene Seite, mindestens 5,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top"/>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">
+                                            <BR/>
+                                            <B>2. Sonstige Justizverwaltungsangelegenheiten mit Auslandsbezug</B>
+                                        </entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">&#160;&#160;&#160;(1) Gebühren nach den Nummern 200 bis 202 werden nur in Zivilsachen und in Angelegenheiten der freiwilligen Gerichtsbarkeit erhoben. Die Gebühren nach den Nummern 201 und 202 werden auch dann erhoben, wenn die Zustellung oder Rechtshilfehandlung wegen unbekannten Aufenthalts des Empfängers oder sonst Beteiligten oder aus ähnlichen Gründen nicht ausgeführt werden kann. In den Fällen der Nummern 201 und 202 werden Gebühren und Auslagen nicht erhoben, wenn die Gegenseitigkeit verbürgt ist. Die Bestimmungen der Staatsverträge bleiben unberührt.</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">&#160;&#160;&#160;(2) Gebühren nach den Nummern 205 bis 207 werden auch erhoben, wenn die Bundeszentralstelle entsprechende Tätigkeiten aufgrund einer Rechtsverordnung nach § 2a Abs. 4 Satz 2 AdVermiG wahrnimmt.</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" valign="top">200</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Prüfung von Rechtshilfeersuchen nach dem Ausland<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">10,00 bis 50,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" valign="top">201</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Erledigung von Zustellungsanträgen in ausländischen Rechtsangelegenheiten<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">10,00 bis 20,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" valign="top">202</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Erledigung von Rechtshilfeersuchen in ausländischen Rechtsangelegenheiten<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">10,00 bis 250,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" valign="top">203</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Befreiung von der Beibringung des Ehefähigkeitszeugnisses (§ 1309 BGB)<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">10,00 bis 300,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center">204</entry>
+                                        <entry VJ="1" colsep="1" nameend="col3" namest="col2">Feststellung der Landesjustizverwaltung, dass die Voraussetzungen für die Anerkennung einer ausländischen Entscheidung vorliegen oder nicht vorliegen (§ 107 FamFG)<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">10,00 bis 300,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center"/>
+                                        <entry VJ="1" colsep="1" nameend="col3" namest="col2">Die Gebühr wird auch erhoben, wenn die Entscheidung der Landesjustizverwaltung von dem Oberlandesgericht oder in der Rechtsbeschwerdeinstanz aufgehoben wird und das Gericht in der Sache selbst entscheidet. Die Landesjustizverwaltung entscheidet in diesem Fall über die Höhe der Gebühr erneut. Sie ist in diesem Fall so zu bemessen, als hätte die Landesjustizverwaltung die Feststellung selbst getroffen.</entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom"/>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" valign="top">205</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Mitwirkung der Bundeszentralstelle für Auslandsadoption (§ 1 Abs. 1 AdÜbAG, § 2a Abs. 4 Satz 1 AdVermiG) bei Übermittlungen an die zentrale Behörde des Heimatstaates (§ 4 Abs. 6 AdÜbAG, § 2a Abs. 4 Satz 2 AdVermiG)<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">10,00 bis 150,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">&#160;Die Gebühr wird in einem Adoptionsvermittlungsverfahren nur einmal erhoben.</entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="top">&#160;</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" valign="top">206</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Bestätigung nach § 9 AdÜbAG<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">40,00 bis 100,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" valign="top">207</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Bescheinigungen nach § 7 Abs. 4 AdVermiG<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">40,00 bis 100,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center">208</entry>
+                                        <entry VJ="1" colsep="1" nameend="col3" namest="col2">Unterstützungsleistungen der Zentralen Behörde nach Kapitel V des Haager Übereinkommens vom 13. Januar 2000 über den internationalen Schutz von Erwachsenen und nach dem Erwachsenenschutzübereinkommens-Ausführungsgesetz <Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">10,00 bis 300,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center">209</entry>
+                                        <entry VJ="1" colsep="1" nameend="col3" namest="col2">Unterstützungsleistungen des Bundesamts für Justiz als Zentrale Behörde nach dem Haager Kinderschutzübereinkommen gegenüber Trägern der elterlichen Verantwortung<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">
+                                            <BR/>
+                                            <BR/>
+                                            <BR/> 10,00 bis<BR/> 300,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">
+                                            <BR/>
+                                            <B>3. Registrierung nach dem Rechtsdienstleistungsgesetz</B>
+                                        </entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" valign="top">300</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Registrierung nach dem<BR/> RDG<Split Leader="1"/>
+                                            <BR/>
+                                            <BR/>Bei Registrierung einer juristischen Person oder einer Gesellschaft ohne Rechtspersönlichkeit wird mit der Gebühr auch die Eintragung einer qualifizierten Person in das Rechtsdienstleistungsregister abgegolten.</entry>
+                                        <entry VJ="1" align="center" colname="col4" colsep="0" valign="top">
+                                            <BR/>150,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" valign="top">301</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Eintragung einer qualifizierten Person in das Rechtsdienstleistungsregister, wenn die Eintragung nicht durch die Gebühr 300 abgegolten ist:<BR/> je Person <Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colname="col4" colsep="0" valign="bottom">
+                                            <BR/>150,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" valign="top">302</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Widerruf oder Rücknahme der Registrierung <Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colname="col4" colsep="0" valign="top">75,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" rowsep="0" valign="top">
+                                            <BR/>
+                                            <B>4. Abruf von Daten in Handels-, Partnerschafts-, Genossenschafts- und Vereinsregisterangelegenheiten</B>
+                                        </entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="justify" colsep="0" nameend="col4" namest="col1" rowsep="0" valign="top">&#160;(1)&#160;Dieser Abschnitt gilt für den Abruf von Daten und Dokumenten aus dem vom Registergericht geführten Datenbestand. Für den Abruf von Daten in der Geschäftsstelle des Registergerichts bleibt § 90 KostO unberührt.</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="justify" colsep="0" nameend="col4" namest="col1" rowsep="0" valign="top">&#160;(2)&#160;Neben den Gebühren werden keine Auslagen erhoben.</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="justify" colsep="0" nameend="col4" namest="col1" rowsep="0" valign="top">&#160;(3)&#160;Die Gebühren für den Abruf werden am 15. Tag des auf den Abruf folgenden Monats fällig, sofern sie nicht über ein elektronisches Bezahlsystem sofort beglichen werden.</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="justify" colsep="0" nameend="col4" namest="col1" rowsep="0" valign="top">&#160;(4)&#160;Von den in § 380 Absatz 1 FamFG genannten Stellen werden Gebühren nach diesem Abschnitt nicht erhoben, wenn die Abrufe zum Zwecke der Erstattung eines vom Gericht geforderten Gutachtens erforderlich sind.</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colname="col1" colsep="1" rowsep="0" valign="top">400</entry>
+                                        <entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Abruf von Daten aus dem Register:<BR/> je Registerblatt<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">4,50 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colname="col1" colsep="1" rowsep="0" valign="top">401</entry>
+                                        <entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Abruf von Dokumenten, die zum Register eingereicht wurden:<BR/> für jede abgerufene Datei<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">1,50 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="justify" colsep="0" nameend="col4" namest="col1" rowsep="0" valign="top">
+                                            <BR/>
+                                            <B>5. Unternehmensregister</B>&#160;</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="justify" colsep="0" nameend="col4" namest="col1" valign="top">&#160;Mit der Jahresgebühr nach den Nummern 500 bis 502 wird der gesamte Aufwand zur Führung des Unternehmensregisters entgolten. Sie umfasst jedoch nicht den Aufwand für die Erteilung von Ausdrucken oder Ablichtungen, die Überlassung von elektronisch gespeicherten Dokumenten und die Beglaubigung von Ablichtungen, Ausdrucken, Auszügen und Dateien. Die Jahresgebühr wird jeweils am 31. Dezember des abgelaufenen Kalenderjahres fällig.</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colname="col1" colsep="1" rowsep="0" valign="top">500</entry>
+                                        <entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Jahresgebühr für die Führung des Unternehmensregisters für jedes Kalenderjahr, wenn das Unternehmen bei der Offenlegung der Rechnungslegungsunterlagen die Erleichterungen nach § 326 HGB in Anspruch nehmen kann<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">3,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colname="col1" colsep="1" rowsep="0" valign="top"/>
+                                        <entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">&#160;(1)&#160;Die Gebühr entsteht für jedes Kalenderjahr, für das ein Unternehmen die Rechnungslegungsunterlagen im Bundesanzeiger bekannt zu machen hat. Dies gilt auch, wenn die bekannt zu machenden Unterlagen nur einen Teil des Kalenderjahres umfassen.</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top"/>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colname="col1" colsep="1" rowsep="0" valign="top"/>
+                                        <entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">&#160;(2)&#160;Die Gebühr wird nicht erhoben, wenn für das Kalenderjahr eine Gebühr nach Nummer 502 entstanden ist.</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top"/>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colname="col1" colsep="1" rowsep="0" valign="top">501</entry>
+                                        <entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Das Unternehmen kann die Erleichterungen nach § 326 HGB nicht in Anspruch nehmen:<BR/> Die Gebühr 500 beträgt<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">6,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colname="col1" colsep="1" rowsep="0" valign="top">502</entry>
+                                        <entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Jahresgebühr für die Führung des Unternehmensregisters für jedes Kalenderjahr, in dem das Unternehmen nach § 8b Abs. 2 Nr. 9 und 10, Abs. 3 Satz 1 Nr. 2 HGB selbst oder durch einen von ihm beauftragten Dritten Daten an das Unternehmensregister übermittelt hat<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">30,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colname="col1" colsep="1" morerows="1" rowsep="0" valign="top">503</entry>
+                                        <entry VJ="1" align="justify" colsep="1" morerows="1" nameend="col3" namest="col2" rowsep="0" valign="top">Übertragung von Unterlagen der Rechnungslegung, die in Papierform zum Register eingereicht wurden, in ein elektronisches Dokument (§ 8b Abs. 4 Satz 2, § 9 Abs. 2 HGB und Artikel 61 Abs. 3 EGHGB):</entry>
+                                        <entry VJ="1" align="center" colsep="0" morerows="1" rowsep="0" valign="top"/>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top"/>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="1" valign="top"/>
+                                        <entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" valign="top">für jede angefangene Seite<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="top">3,00 EUR<BR/> – mindestens<BR/> 30,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colname="col1" colsep="1" rowsep="0" valign="top"/>
+                                        <entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">&#160;Die Gebühr wird für die Dokumente eines jeden Unternehmens gesondert erhoben. Mit der Gebühr wird auch die einmalige elektronische Übermittlung der Dokumente an den Antragsteller abgegolten.</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top"/>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="justify" colname="col1" colsep="0" nameend="col3" namest="col1" rowsep="0" valign="top">
+                                            <BR/>
+                                            <B>6. Ordnungsgeldverfahren des Bundesamts für Justiz</B>
+                                        </entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top"/>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="justify" colsep="0" nameend="col4" namest="col1" valign="top">&#160;Wird ein Ordnungsgeldverfahren gegen mehrere Personen durchgeführt, werden die Gebühren von jeder Person gesondert erhoben.</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colname="col1" colsep="1" rowsep="0" valign="top">600</entry>
+                                        <entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Durchführung eines Ordnungsgeldverfahrens nach § 335 HGB<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">50,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colname="col1" colsep="1" valign="top">601</entry>
+                                        <entry VJ="1" align="justify" colsep="1" nameend="col3" namest="col2" rowsep="0" valign="top">Festsetzung &#160;eines &#160;zweiten &#160;und &#160;eines &#160;jeden &#160;weiteren &#160;Ordnungsgelds&#160; jeweils<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">50,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col4" namest="col1" valign="top">
+                                            <BR/>
+                                            <table frame="none" pgwide="1" tabstyle="tabelle" tocentry="%yes;">
+                                                <tgroup align="left" char="" charoff="50" cols="3">
+                                                    <colspec colname="col1" colwidth="1.58*"/>
+                                                    <colspec colname="col2" colwidth="8.46*"/>
+                                                    <colspec colname="col3" colwidth="4.18*"/>
+                                                    <tbody valign="top">
+                                                        <row>
+                                                            <entry VJ="1" nameend="col3" namest="col1" rowsep="0">
+                                                                <B>7. Einrichtung und Nutzung des automatisierten Abrufverfahrens in Grundbuchangelegenheiten, in Angelegenheiten der Schiffsregister, des Schiffsbauregisters und des Registers für Pfandrechte an Luftfahrzeugen</B>
+                                                            </entry>
+                                                        </row>
+                                                        <row>
+                                                            <entry VJ="1" align="justify" nameend="col3" namest="col1" rowsep="0">&#160;(1) Dieser Abschnitt gilt für den Abruf von Daten und Dokumenten aus dem vom Grundbuchamt oder dem Registergericht geführten Datenbestand. Für den Abruf von Daten in der Geschäftsstelle des Grundbuchamts oder des Registergerichts bleiben die §§ 74 und 90 KostO, auch i. V. m. § 102 Abs. 1 des Gesetzes über Rechte an Luftfahrzeugen, unberührt. Der Abruf von Daten aus den Verzeichnissen (§ 12a Abs. 1 GBO, § 31 Abs. 1, § 55 Satz 2 SchRegDV, §§ 10 und 11 Abs. 3 Satz 2 LuftRegV) und der Abruf des Zeitpunkts der letzten Änderung des Grundbuchs oder Registers ist gebührenfrei.<BR/> &#160;(2) Neben den Gebühren werden keine Auslagen erhoben.</entry>
+                                                        </row>
+                                                        <row>
+                                                            <entry VJ="1" align="center" colsep="1" rowsep="0">700</entry>
+                                                            <entry VJ="1" align="justify" colsep="1" rowsep="0">Einrichtung für einen Empfänger, der am eingeschränkten Abrufverfahren teilnimmt (§ 133 Abs. 4 Satz 3 GBO, auch i. V. m. § 69 Abs. 1 Satz 2 SchRegDV)<Split Leader="1"/>
+                                                                <BR/> &#160;Mit der Gebühr für die erstmalige Einrichtung in einem Land sind auch weitere Einrichtungen in anderen Ländern abgegolten.</entry>
+                                                            <entry VJ="1" align="center" colsep="0" rowsep="0">
+                                                                <BR/> 50,00 EUR</entry>
+                                                        </row>
+                                                        <row>
+                                                            <entry VJ="1" align="center" colsep="1" rowsep="0">701</entry>
+                                                            <entry VJ="1" align="justify" colsep="1" rowsep="0">Abruf von Daten aus dem Grundbuch oder Register:<BR/>für jeden Abruf aus einem Grundbuch- oder Registerblatt <Split Leader="1"/>
+                                                                <BR/> &#160;Die Gebühren werden am 15. Tag des auf den Abruf folgenden Monats fällig, sofern sie nicht über ein elektronisches Bezahlsystem sofort beglichen werden.</entry>
+                                                            <entry VJ="1" align="center" colsep="0" rowsep="0">
+                                                                <BR/> &#160;8,00 EUR</entry>
+                                                        </row>
+                                                        <row>
+                                                            <entry VJ="1" align="center" colsep="1" rowsep="0">702</entry>
+                                                            <entry VJ="1" align="justify" colsep="1" rowsep="0">Abruf von Dokumenten, die zu den Grund- oder Registerakten genommen wurden:<BR/> für jedes abgerufene Dokument <Split Leader="1"/>
+                                                                <BR/> &#160;Die Anmerkung zu Nummer 701 gilt entsprechend.</entry>
+                                                            <entry VJ="1" align="center" colsep="0" rowsep="0">
+                                                                <BR/> &#160;&#160;1,50 EUR.</entry>
+                                                        </row>
+                                                    </tbody>
+                                                </tgroup>
+                                            </table>
+                                            <BR/>
+                                            <B>8. Bescheinigungen, Zeugnisse und Auskünfte</B>
+                                        </entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" valign="top">800</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Bescheinigungen und schriftliche Auskünfte aus Akten und Büchern<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">10,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" valign="top">801</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Bescheinigungen über die Beurkundungsbefugnis eines Justizbeamten, die zum Gebrauch einer Urkunde im Ausland verlangt werden<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">10,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">&#160;&#160;&#160;Die Gebühr wird nicht erhoben, wenn eine Beglaubigungsgebühr nach Nummer 100 oder Nummer 101 zum Ansatz kommt.</entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="top">&#160;</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" valign="top">802</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Zeugnisse über das im Bund oder in den Ländern geltende Recht<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">10,00 bis 250,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colname="col1">803</entry>
+                                        <entry VJ="1" nameend="col3" namest="col2">Führungszeugnis nach § 30 oder § 30a BZRG<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colname="col4" colsep="0" valign="bottom">13,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" valign="top">804</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Führungszeugnis nach § 30b BZRG<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">17,00 EUR</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="center" colsep="1" valign="top">805</entry>
+                                        <entry VJ="1" align="left" colsep="1" nameend="col3" namest="col2" valign="top">Auskunft nach § 150 der Gewerbeordnung<Split Leader="1"/>
+                                        </entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="bottom">13,00 EUR</entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
 </dokumente>

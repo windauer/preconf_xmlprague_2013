@@ -1,48 +1,942 @@
-<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
-<dokumente builddate="20120625153933" doknr="BJNR008380981"><norm builddate="20120625153933" doknr="BJNR008380981"><metadaten><jurabk>GerbAusbV</jurabk><amtabk>GerbAusbV</amtabk><ausfertigung-datum manuell="ja">1981-08-13</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1981, 838</zitstelle></fundstelle><kurzue>Gerber-Ausbildungsverordnung</kurzue><langue>Verordnung über die Berufsausbildung zum Gerber/zur Gerberin</langue></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten><Content><P>(+++ Textnachweis ab:                              1. 8.1982 +++) <BR/>(+++ Maßgaben aufgrund des EinigVtr vgl. GerbAusbV Anhang EV +++)</P></Content></fussnoten></textdaten></norm>
-<norm builddate="20120625153933" doknr="BJNR008380981BJNE000100301"><metadaten><jurabk>GerbAusbV</jurabk><enbez>Eingangsformel</enbez></metadaten><textdaten><text format="XML"><Content><P>Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, und des § 25 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch § 25 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:</P></Content></text></textdaten></norm>
-<norm builddate="20120625153933" doknr="BJNR008380981BJNE000200301"><metadaten><jurabk>GerbAusbV</jurabk><enbez>§ 1</enbez><titel format="parat">Staatliche Anerkennung des Ausbildungsberufs</titel></metadaten><textdaten><text format="XML"><Content><P>Der Ausbildungsberuf Gerber/Gerberin wird staatlich anerkannt.</P></Content></text></textdaten></norm>
-<norm builddate="20120625153933" doknr="BJNR008380981BJNE000300301"><metadaten><jurabk>GerbAusbV</jurabk><enbez>§ 2</enbez><titel format="parat">Anwendungsbereich</titel></metadaten><textdaten><text format="XML"><Content><P>Die nachstehenden Vorschriften gelten auch für den Ausbildungsberuf Gerber/Gerberin nach der Handwerksordnung.</P></Content></text></textdaten></norm>
-<norm builddate="20120625153933" doknr="BJNR008380981BJNE000400301"><metadaten><jurabk>GerbAusbV</jurabk><enbez>§ 3</enbez><titel format="parat">Ausbildungsdauer</titel></metadaten><textdaten><text format="XML"><Content><P>Die Ausbildung dauert drei Jahre.</P></Content></text></textdaten></norm>
-<norm builddate="20120625153933" doknr="BJNR008380981BJNE000500301"><metadaten><jurabk>GerbAusbV</jurabk><enbez>§ 4</enbez><titel format="parat">Ausbildungsberufsbild</titel></metadaten><textdaten><text format="XML"><Content><P>Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Arbeitsschutz, Unfallverhütung, Umweltschutz und rationelle Energieverwendung;</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Kenntnisse des Ausbildungsbetriebs;</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Pflegen und Instandhalten der Arbeitsgeräte, Maschinen und Werkzeuge, Einrichten der Arbeitsgeräte und Maschinen;</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Vorbereiten der Rohware;</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">Arbeiten in der Wasserwerkstatt, Herstellen der Blößen;</LA></DD> <DT>6.</DT><DD Font="normal"><LA Size="normal">Gerben;</LA></DD> <DT>7.</DT><DD Font="normal"><LA Size="normal">Färben;</LA></DD> <DT>8.</DT><DD Font="normal"><LA Size="normal">Zurichten;</LA></DD> <DT>9.</DT><DD Font="normal"><LA Size="normal">Durchführen von Qualitätskontrollen;</LA></DD> <DT>10.</DT><DD Font="normal"><LA Size="normal">Sortieren und Einlagern fertiger Leder sowie Herrichten zum Versand.</LA></DD> </DL></P></Content></text></textdaten></norm>
-<norm builddate="20120625153933" doknr="BJNR008380981BJNE000600301"><metadaten><jurabk>GerbAusbV</jurabk><enbez>§ 5</enbez><titel format="parat">Ausbildungsrahmenplan</titel></metadaten><textdaten><text format="XML"><Content><P>Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.</P></Content></text></textdaten></norm>
-<norm builddate="20120625153933" doknr="BJNR008380981BJNE000700301"><metadaten><jurabk>GerbAusbV</jurabk><enbez>§ 6</enbez><titel format="parat">Ausbildungsplan</titel></metadaten><textdaten><text format="XML"><Content><P>Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.</P></Content></text></textdaten></norm>
-<norm builddate="20120625153933" doknr="BJNR008380981BJNE000800301"><metadaten><jurabk>GerbAusbV</jurabk><enbez>§ 7</enbez><titel format="parat">Berichtsheft</titel></metadaten><textdaten><text format="XML"><Content><P>Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.</P></Content></text></textdaten></norm>
-<norm builddate="20120625153933" doknr="BJNR008380981BJNE000900301"><metadaten><jurabk>GerbAusbV</jurabk><enbez>§ 8</enbez><titel format="parat">Zwischenprüfung</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahrs stattfinden.</P><P>(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage zu § 5 für das erste Ausbildungsjahr und die unter Nummer 5 Buchstabe c bis k sowie Nummer 8 Buchstabe d bis f für das zweite Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse und auf die Fertigkeiten und Kenntnisse, die nach der Anlage zu § 5 während der gesamten Ausbildungszeit zu vermitteln sind und mit den vorstehend bezeichneten Fertigkeiten und Kenntnissen zusammenhängen, sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.</P><P>(3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens drei Stunden vier Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Crouponieren von Rohhäuten oder Blößen;</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Ausstoßen, Nageln und Spannen von Leder;</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Anfeuchten von Leder;</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Krispeln oder Bügeln von Leder.</LA></DD> </DL> </P><P>(4) Zum Nachweis der Kenntnisse soll der Prüfling in insgesamt höchstens 120 Minuten Aufgaben aus folgenden Gebieten schriftlich lösen: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Häute- und Fellschäden;</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Aufteilung der Flächen von Häuten und Fellen;</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Sortierung, Konservierung und Lagerung von Häuten und Fellen;</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Arbeitsschutz und Unfallverhütung;</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">Anwenden der Grundrechenarten auf einfache fachspezifische Aufgaben.</LA></DD> </DL>Die schriftlichen Aufgaben sollen auch praxisbezogene Fälle berücksichtigen.</P><P>(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.</P></Content>   </text></textdaten></norm>
-<norm builddate="20120625153933" doknr="BJNR008380981BJNE001000301"><metadaten><jurabk>GerbAusbV</jurabk><enbez>§ 9</enbez><titel format="parat">Abschlußprüfung und Gesellenprüfung</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Abschlußprüfung und die Gesellenprüfung erstrecken sich auf die in der Anlage zu § 5 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.</P><P>(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens sechs Stunden sechs Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Beurteilen der Beschaffenheit von Rohware und Feststellen von Fehlern;</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Crouponieren und Entfleischen von Rohwaren oder Blößen;</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Ansetzen von Pickel oder Gerbflotten;</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Abwelken und Falzen von Leder;</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">Ausrecken und Spannen oder Ausstoßen von Leder zur Trocknung;</LA></DD> <DT>6.</DT><DD Font="normal"><LA Size="normal">Stollen oder Schleifen von Leder;</LA></DD> <DT>7.</DT><DD Font="normal"><LA Size="normal">Spritzen oder Plüschen von Leder;</LA></DD> <DT>8.</DT><DD Font="normal"><LA Size="normal">Walzen oder Bügeln von Leder;</LA></DD> <DT>9.</DT><DD Font="normal"><LA Size="normal">Messen von Leder;</LA></DD> <DT>10.</DT><DD Font="normal"><LA Size="normal">Beurteilen von Eigenschaften verschiedener Leder und Feststellen von Fehlern.</LA></DD> </DL> </P><P>(3) Zum Nachweis der Kenntnisse soll der Prüfling in den Prüfungsfächern Technologie, Technische Mathematik sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. Es kommen Fragen und Aufgaben insbesondere aus folgenden Gebieten in Betracht: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">im Prüfungsfach Technologie:<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Aufbau und Eigenschaften von Häuten und Fellen,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">Verfahren zur Konservierung von Rohwaren,</LA></DD> <DT>c)</DT><DD Font="normal"><LA Size="normal">Aufgaben der Wasserwerkstatt,</LA></DD> <DT>d)</DT><DD Font="normal"><LA Size="normal">Gerbverfahren,</LA></DD> <DT>e)</DT><DD Font="normal"><LA Size="normal">Nachgerben, Färben und Fetten,</LA></DD> <DT>f)</DT><DD Font="normal"><LA Size="normal">Verfahren zur Trocknung von Leder,</LA></DD> <DT>g)</DT><DD Font="normal"><LA Size="normal">Zurichten,</LA></DD> <DT>h)</DT><DD Font="normal"><LA Size="normal">Arten von Leder und Möglichkeiten ihrer Verwendung,</LA></DD> <DT>i)</DT><DD Font="normal"><LA Size="normal">Arbeitsschutz, Unfallverhütung, Umweltschutz und rationelle Energieverwendung;</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">im Prüfungsfach Technische Mathematik:</LA><LA Size="normal">Flächen- und Raumberechnungen sowie Berechnungen des Materialbedarfs und der Materialkosten;</LA></DD>  <DT>3.</DT><DD Font="normal"><LA Size="normal">im Prüfungsfach Wirtschafts- und Sozialkunde:</LA><LA Size="normal">Wirtschafts- und Sozialkunde.</LA></DD>  </DL>Die Fragen und Aufgaben sollen auch praxisbezogene Fälle berücksichtigen.</P><P>(4) Für die schriftliche Kenntnisprüfung ist von folgenden zeitlichen Höchstwerten auszugehen: <BR/><table frame="none" tocentry="%yes;">
-	<tgroup align="left" char="" charoff="50" cols="3" colsep="0" rowsep="0">
-		<colspec colname="col1" colnum="1" colwidth="10*"/>
-		<colspec colname="col2" colnum="2" colwidth="50*"/>
-		<colspec colname="col3" colnum="3" colwidth="20*"/>
-		<tbody valign="top">
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">1.</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">im Prüfungsfach Technologie</entry>
-				<entry VJ="1" align="right" colsep="0" valign="bottom">120 Minuten,</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">2.</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">im Prüfungsfach Technische Mathematik</entry>
-				<entry VJ="1" align="right" colsep="0" valign="bottom">90 Minuten,</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">3.</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">im Prüfungsfach Wirtschafts- und Sozialkunde</entry>
-				<entry VJ="1" align="right" colsep="0" valign="bottom">60 Minuten.</entry>
-			</row>
-		</tbody>
-	</tgroup>
-</table> </P><P>(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.</P><P>(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht.</P><P>(7) Innerhalb der Kenntnisprüfung hat das Prüfungsfach Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.</P><P>(8) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.</P></Content>      </text></textdaten></norm>
-<norm builddate="20120625153933" doknr="BJNR008380981BJNE001100301"><metadaten><jurabk>GerbAusbV</jurabk><enbez>§ 10</enbez></metadaten><textdaten><text format="XML"><Content><P>-</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625153933" doknr="BJNR008380981BJNE001200301"><metadaten><jurabk>GerbAusbV</jurabk><enbez>§ 11</enbez><titel format="parat">Berlin-Klausel</titel></metadaten><textdaten><text format="XML"><Content><P>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 112 des Berufsbildungsgesetzes und § 128 der Handwerksordnung auch im Land Berlin.</P></Content></text></textdaten></norm>
-<norm builddate="20120625153933" doknr="BJNR008380981BJNE001300301"><metadaten><jurabk>GerbAusbV</jurabk><enbez>§ 12</enbez><titel format="parat">Inkrafttreten</titel></metadaten><textdaten><text format="XML"><Content><P>Diese Verordnung tritt am 1. August 1982 in Kraft.</P></Content></text></textdaten></norm>
-<norm builddate="20120625153933" doknr="BJNR008380981BJNE001400301"><metadaten><jurabk>GerbAusbV</jurabk><enbez>Schlußformel</enbez></metadaten><textdaten><text format="XML"><Content><P><SP>Der Bundesminister für Wirtschaft</SP></P></Content></text></textdaten></norm>
-<norm builddate="20120625153933" doknr="BJNR008380981BJNE001500301"><metadaten><jurabk>GerbAusbV</jurabk><enbez>Anlage</enbez><titel format="XML">(zu § 5)
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625153933" doknr="BJNR008380981">
+    <norm builddate="20120625153933" doknr="BJNR008380981">
+        <metadaten>
+            <jurabk>GerbAusbV</jurabk>
+            <amtabk>GerbAusbV</amtabk>
+            <ausfertigung-datum manuell="ja">1981-08-13</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1981, 838</zitstelle>
+            </fundstelle>
+            <kurzue>Gerber-Ausbildungsverordnung</kurzue>
+            <langue>Verordnung über die Berufsausbildung zum Gerber/zur Gerberin</langue>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten>
+                <Content>
+                    <P>(+++ Textnachweis ab:                              1. 8.1982 +++) <BR/>(+++ Maßgaben aufgrund des EinigVtr vgl. GerbAusbV Anhang EV +++)</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153933" doknr="BJNR008380981BJNE000100301">
+        <metadaten>
+            <jurabk>GerbAusbV</jurabk>
+            <enbez>Eingangsformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, und des § 25 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch § 25 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153933" doknr="BJNR008380981BJNE000200301">
+        <metadaten>
+            <jurabk>GerbAusbV</jurabk>
+            <enbez>§ 1</enbez>
+            <titel format="parat">Staatliche Anerkennung des Ausbildungsberufs</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Der Ausbildungsberuf Gerber/Gerberin wird staatlich anerkannt.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153933" doknr="BJNR008380981BJNE000300301">
+        <metadaten>
+            <jurabk>GerbAusbV</jurabk>
+            <enbez>§ 2</enbez>
+            <titel format="parat">Anwendungsbereich</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die nachstehenden Vorschriften gelten auch für den Ausbildungsberuf Gerber/Gerberin nach der Handwerksordnung.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153933" doknr="BJNR008380981BJNE000400301">
+        <metadaten>
+            <jurabk>GerbAusbV</jurabk>
+            <enbez>§ 3</enbez>
+            <titel format="parat">Ausbildungsdauer</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die Ausbildung dauert drei Jahre.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153933" doknr="BJNR008380981BJNE000500301">
+        <metadaten>
+            <jurabk>GerbAusbV</jurabk>
+            <enbez>§ 4</enbez>
+            <titel format="parat">Ausbildungsberufsbild</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Arbeitsschutz, Unfallverhütung, Umweltschutz und rationelle Energieverwendung;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse des Ausbildungsbetriebs;</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Pflegen und Instandhalten der Arbeitsgeräte, Maschinen und Werkzeuge, Einrichten der Arbeitsgeräte und Maschinen;</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Vorbereiten der Rohware;</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Arbeiten in der Wasserwerkstatt, Herstellen der Blößen;</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Gerben;</LA>
+                            </DD>
+                            <DT>7.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Färben;</LA>
+                            </DD>
+                            <DT>8.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Zurichten;</LA>
+                            </DD>
+                            <DT>9.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Durchführen von Qualitätskontrollen;</LA>
+                            </DD>
+                            <DT>10.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Sortieren und Einlagern fertiger Leder sowie Herrichten zum Versand.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153933" doknr="BJNR008380981BJNE000600301">
+        <metadaten>
+            <jurabk>GerbAusbV</jurabk>
+            <enbez>§ 5</enbez>
+            <titel format="parat">Ausbildungsrahmenplan</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153933" doknr="BJNR008380981BJNE000700301">
+        <metadaten>
+            <jurabk>GerbAusbV</jurabk>
+            <enbez>§ 6</enbez>
+            <titel format="parat">Ausbildungsplan</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153933" doknr="BJNR008380981BJNE000800301">
+        <metadaten>
+            <jurabk>GerbAusbV</jurabk>
+            <enbez>§ 7</enbez>
+            <titel format="parat">Berichtsheft</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153933" doknr="BJNR008380981BJNE000900301">
+        <metadaten>
+            <jurabk>GerbAusbV</jurabk>
+            <enbez>§ 8</enbez>
+            <titel format="parat">Zwischenprüfung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahrs stattfinden.</P>
+                    <P>(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage zu § 5 für das erste Ausbildungsjahr und die unter Nummer 5 Buchstabe c bis k sowie Nummer 8 Buchstabe d bis f für das zweite Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse und auf die Fertigkeiten und Kenntnisse, die nach der Anlage zu § 5 während der gesamten Ausbildungszeit zu vermitteln sind und mit den vorstehend bezeichneten Fertigkeiten und Kenntnissen zusammenhängen, sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.</P>
+                    <P>(3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens drei Stunden vier Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Crouponieren von Rohhäuten oder Blößen;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Ausstoßen, Nageln und Spannen von Leder;</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Anfeuchten von Leder;</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Krispeln oder Bügeln von Leder.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(4) Zum Nachweis der Kenntnisse soll der Prüfling in insgesamt höchstens 120 Minuten Aufgaben aus folgenden Gebieten schriftlich lösen: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Häute- und Fellschäden;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Aufteilung der Flächen von Häuten und Fellen;</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Sortierung, Konservierung und Lagerung von Häuten und Fellen;</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Arbeitsschutz und Unfallverhütung;</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Anwenden der Grundrechenarten auf einfache fachspezifische Aufgaben.</LA>
+                            </DD>
+                        </DL>Die schriftlichen Aufgaben sollen auch praxisbezogene Fälle berücksichtigen.</P>
+                    <P>(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153933" doknr="BJNR008380981BJNE001000301">
+        <metadaten>
+            <jurabk>GerbAusbV</jurabk>
+            <enbez>§ 9</enbez>
+            <titel format="parat">Abschlußprüfung und Gesellenprüfung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Abschlußprüfung und die Gesellenprüfung erstrecken sich auf die in der Anlage zu § 5 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.</P>
+                    <P>(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens sechs Stunden sechs Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Beurteilen der Beschaffenheit von Rohware und Feststellen von Fehlern;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Crouponieren und Entfleischen von Rohwaren oder Blößen;</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Ansetzen von Pickel oder Gerbflotten;</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Abwelken und Falzen von Leder;</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Ausrecken und Spannen oder Ausstoßen von Leder zur Trocknung;</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Stollen oder Schleifen von Leder;</LA>
+                            </DD>
+                            <DT>7.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Spritzen oder Plüschen von Leder;</LA>
+                            </DD>
+                            <DT>8.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Walzen oder Bügeln von Leder;</LA>
+                            </DD>
+                            <DT>9.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Messen von Leder;</LA>
+                            </DD>
+                            <DT>10.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Beurteilen von Eigenschaften verschiedener Leder und Feststellen von Fehlern.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(3) Zum Nachweis der Kenntnisse soll der Prüfling in den Prüfungsfächern Technologie, Technische Mathematik sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. Es kommen Fragen und Aufgaben insbesondere aus folgenden Gebieten in Betracht: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">im Prüfungsfach Technologie:<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Aufbau und Eigenschaften von Häuten und Fellen,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Verfahren zur Konservierung von Rohwaren,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Aufgaben der Wasserwerkstatt,</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Gerbverfahren,</LA>
+                                        </DD>
+                                        <DT>e)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Nachgerben, Färben und Fetten,</LA>
+                                        </DD>
+                                        <DT>f)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Verfahren zur Trocknung von Leder,</LA>
+                                        </DD>
+                                        <DT>g)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Zurichten,</LA>
+                                        </DD>
+                                        <DT>h)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Arten von Leder und Möglichkeiten ihrer Verwendung,</LA>
+                                        </DD>
+                                        <DT>i)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Arbeitsschutz, Unfallverhütung, Umweltschutz und rationelle Energieverwendung;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">im Prüfungsfach Technische Mathematik:</LA>
+                                <LA Size="normal">Flächen- und Raumberechnungen sowie Berechnungen des Materialbedarfs und der Materialkosten;</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">im Prüfungsfach Wirtschafts- und Sozialkunde:</LA>
+                                <LA Size="normal">Wirtschafts- und Sozialkunde.</LA>
+                            </DD>
+                        </DL>Die Fragen und Aufgaben sollen auch praxisbezogene Fälle berücksichtigen.</P>
+                    <P>(4) Für die schriftliche Kenntnisprüfung ist von folgenden zeitlichen Höchstwerten auszugehen: <BR/>
+                        <table frame="none" tocentry="%yes;">
+                            <tgroup align="left" char="" charoff="50" cols="3" colsep="0" rowsep="0">
+                                <colspec colname="col1" colnum="1" colwidth="10*"/>
+                                <colspec colname="col2" colnum="2" colwidth="50*"/>
+                                <colspec colname="col3" colnum="3" colwidth="20*"/>
+                                <tbody valign="top">
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">1.</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">im Prüfungsfach Technologie</entry>
+                                        <entry VJ="1" align="right" colsep="0" valign="bottom">120 Minuten,</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">2.</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">im Prüfungsfach Technische Mathematik</entry>
+                                        <entry VJ="1" align="right" colsep="0" valign="bottom">90 Minuten,</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">3.</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">im Prüfungsfach Wirtschafts- und Sozialkunde</entry>
+                                        <entry VJ="1" align="right" colsep="0" valign="bottom">60 Minuten.</entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                    </P>
+                    <P>(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.</P>
+                    <P>(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht.</P>
+                    <P>(7) Innerhalb der Kenntnisprüfung hat das Prüfungsfach Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.</P>
+                    <P>(8) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153933" doknr="BJNR008380981BJNE001100301">
+        <metadaten>
+            <jurabk>GerbAusbV</jurabk>
+            <enbez>§ 10</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153933" doknr="BJNR008380981BJNE001200301">
+        <metadaten>
+            <jurabk>GerbAusbV</jurabk>
+            <enbez>§ 11</enbez>
+            <titel format="parat">Berlin-Klausel</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 112 des Berufsbildungsgesetzes und § 128 der Handwerksordnung auch im Land Berlin.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153933" doknr="BJNR008380981BJNE001300301">
+        <metadaten>
+            <jurabk>GerbAusbV</jurabk>
+            <enbez>§ 12</enbez>
+            <titel format="parat">Inkrafttreten</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Diese Verordnung tritt am 1. August 1982 in Kraft.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153933" doknr="BJNR008380981BJNE001400301">
+        <metadaten>
+            <jurabk>GerbAusbV</jurabk>
+            <enbez>Schlußformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <SP>Der Bundesminister für Wirtschaft</SP>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153933" doknr="BJNR008380981BJNE001500301">
+        <metadaten>
+            <jurabk>GerbAusbV</jurabk>
+            <enbez>Anlage</enbez>
+            <titel format="XML">(zu § 5)
 <BR/>
-Ausbildungsrahmenplan für die Berufsausbildung zum Gerber/zur Gerberin</titel></metadaten><textdaten><text format="XML"><Content><P><ABWFORMAT typ="A"/><kommentar typ="Fundstelle">(Fundstelle: BGBl. I 1981, 841 - 844)</kommentar><BR/><table frame="topbot" tocentry="%yes;"><tgroup align="left" char="" charoff="50" cols="7" rowsep="0"><colspec colname="col1" colnum="1" colsep="1" colwidth="5*"/><colspec colname="col2" colnum="2" colsep="1" colwidth="30*"/><colspec colname="col3" colnum="3" colsep="0" colwidth="5*"/><colspec colname="col4" colnum="4" colsep="1" colwidth="40*"/><colspec colname="col5" colnum="5" colsep="1" colwidth="10*"/><colspec colname="col6" colnum="6" colsep="1" colwidth="10*"/><colspec colname="col7" colnum="7" colsep="0" colwidth="10*"/><thead valign="bottom"><row rowsep="1"><entry VJ="1" align="left" colsep="0" morerows="1" valign="middle">Lfd. Nr.</entry><entry VJ="1" align="left" colsep="0" morerows="1" valign="middle">Teil des Ausbildungs-berufsbilds</entry><entry VJ="1" align="left" colsep="1" morerows="1" nameend="col4" namest="col3" valign="middle">zu vermittelnde Fertigkeiten und Kenntnisse</entry><entry VJ="1" align="left" colsep="0" nameend="col7" namest="col5" valign="middle">zeitliche Richtwerte in Monaten im Ausbildungsjahr</entry></row><row rowsep="1"><entry VJ="1" align="center" colsep="0" valign="top">1</entry><entry VJ="1" align="center" colsep="0" valign="top">2</entry><entry VJ="1" align="center" colsep="0" valign="top">3</entry></row><row rowsep="1"><entry VJ="1" align="center" colsep="0" valign="top">1</entry><entry VJ="1" align="center" colsep="0" valign="top">2</entry><entry VJ="1" align="center" colsep="1" nameend="col4" namest="col3" valign="top">3</entry><entry VJ="1" align="center" colsep="0" nameend="col7" namest="col5" valign="top">4</entry></row></thead><tbody valign="top"><row rowsep="1"><entry VJ="1" align="right" colsep="0" morerows="7" valign="top">1</entry><entry VJ="1" align="left" colsep="0" morerows="7" valign="top">Arbeitsschutz, Unfallverhütung, Umweltschutz und rationelle Energieverwendung (§ 4 Nr. 1)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">a)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">einschlägige Arbeitsschutzvorschriften in Gesetzen und Verordnungen nennen</entry><entry VJ="1" align="left" colsep="0" morerows="17" nameend="col7" namest="col5" valign="middle">während der gesamten Ausbildung zu vermitteln</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">b)</entry><entry VJ="1" align="left" colsep="0" valign="top">einschlägige Vorschriften der Träger der gesetzlichen Unfallversicherung, insbesondere Unfallverhütungs-vorschriften, Richtlinien und Merkblätter, nennen und beachten</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">c)</entry><entry VJ="1" align="left" colsep="0" valign="top">Gefahren im Umgang mit elektrischem Strom und mit Chemikalien erläutern</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">d)</entry><entry VJ="1" align="left" colsep="0" valign="top">Gefahrenstellen an Maschinen nennen, Schutzeinrichtungen aufzeigen und ihre Wirksamkeit erhalten</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">e)</entry><entry VJ="1" align="left" colsep="0" valign="top">Notwendigkeit der Arbeitshygiene erläutern, funktionsgerechte Arbeitskleidung tragen</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">f)</entry><entry VJ="1" align="left" colsep="0" valign="top">Verhalten nach Unfällen darstellen und Maßnahmen zur Ersten Hilfe einleiten</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">g)</entry><entry VJ="1" align="left" colsep="0" valign="top">arbeitsplatzbezogene Ursachen der Umweltbelästigung, -Verschmutzung und -Vergiftung sowie Möglichkeiten zu ihrer Vermeidung, insbesondere beim Umgang mit gefährlichen Arbeits-Stoffen, nennen und beachten</entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" valign="top">h)</entry><entry VJ="1" align="left" colsep="0" valign="top">die im Ausbildungsbetrieb verwendeten Energiearten nennen und Möglichkeiten rationeller Energieverwendung im beruflichen Einwirkungs- und Beobachtungsbereich anführen</entry></row><row rowsep="1"><entry VJ="1" align="right" colsep="0" morerows="5" valign="top">2</entry><entry VJ="1" align="left" colsep="0" morerows="5" valign="top">Kenntnisse des Ausbildungsbetriebs (§ 4 Nr. 2)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">a)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">räumliche Aufteilung des Ausbildungsbetriebs beschreiben</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">b)</entry><entry VJ="1" align="left" colsep="0" valign="top">Arbeitszeit- und Pausenregelung nennen</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">c)</entry><entry VJ="1" align="left" colsep="0" valign="top">Fertigungsablauf beschreiben, Aufgabe der Fabrikationsabteilungen erläutern</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">d)</entry><entry VJ="1" align="left" colsep="0" valign="top">Lohnformen, Lohnabrechnung und Vergütung für Auszubildende erörtern</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">e)</entry><entry VJ="1" align="left" colsep="0" valign="top">Unterlagen für Lohnberechnung und Methoden für die Lohnfindung nennen</entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" valign="top">f)</entry><entry VJ="1" align="left" colsep="0" valign="top">Aufgaben von Betriebsleitung, Betriebsrat und Jugendvertretung sowie Rechte und Pflichten von Mitarbeitern und Auszubildenden erläutern</entry></row><row rowsep="1"><entry VJ="1" align="right" colsep="0" morerows="3" valign="top">3</entry><entry VJ="1" align="left" colsep="0" morerows="3" valign="top">Pflegen und Instandhalten der Arbeitsgeräte, Maschinen und Werkzeuge, Einrichten der Arbeitsgeräte und Maschinen (§ 4 Nr. 3)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">a)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">Ordnung und Sauberkeit am Arbeitsplatz halten und ihre Bedeutung begründen</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">b)</entry><entry VJ="1" align="left" colsep="0" valign="top">Arbeitsgeräte, Maschinen und Werkzeuge pflegen und instandhalten, insbesondere einfache Verschleißteile und Werkzeuge auswechseln</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">c)</entry><entry VJ="1" align="left" colsep="0" valign="top">Funktionsfähigkeit der Werkzeuge und Maschinen nach Betriebsanleitung erhalten, Störungen feststellen und melden</entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" valign="top">d)</entry><entry VJ="1" align="left" colsep="0" valign="top">Arbeitsgeräte und Maschinen nach Betriebsanleitung und -anweisung einrichten</entry></row><row rowsep="1"><entry VJ="1" align="right" colsep="0" morerows="4" valign="top">4</entry><entry VJ="1" align="left" colsep="0" morerows="4" valign="top">Vorbereiten der Rohware (§ 4 Nr. 4)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">a)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">Rohhäute und -felle konservieren, wichtige Konservierungsverfahren erläutern</entry><entry VJ="1" align="center" colsep="0" morerows="6" valign="middle">3</entry><entry VJ="1" align="left" colsep="0" morerows="6" valign="top"> </entry><entry VJ="1" align="left" colsep="0" morerows="6" valign="top"> </entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">b)</entry><entry VJ="1" align="left" colsep="0" valign="top">Aufteilung der Flächen bei Häuten und Fellen erläutern</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">c)</entry><entry VJ="1" align="left" colsep="0" valign="top">Fehler in Rohhäuten und -fellen nennen und ihre Folgen für die Weiterverarbeitung erläutern</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">d)</entry><entry VJ="1" align="left" colsep="0" valign="top">beim Zusammenstellen von Partien mitwirken, Partien auszeichnen, Gewicht der Partien feststellen</entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" valign="top">e)</entry><entry VJ="1" align="left" colsep="0" valign="top">Unterschiede zwischen den einzelnen Rohhaut- und Rohfellarten feststellen</entry></row><row rowsep="1"><entry VJ="1" align="right" colsep="0" morerows="11" valign="top">5</entry><entry VJ="1" align="left" colsep="0" morerows="11" valign="top">Arbeiten in der Wasserwerkstatt, Herstellen der Blößen (§ 4 Nr. 5)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">a)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">Partie weichen, Arbeitsverfahren erläutern</entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" valign="top">b)</entry><entry VJ="1" align="left" colsep="0" valign="top">Partie äschern, Arbeitsverfahren erläutern</entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">c)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">Arbeitsweise der Entfleischmaschine erklären</entry><entry VJ="1" align="left" colsep="0" morerows="7" valign="top"> </entry><entry VJ="1" align="center" colsep="0" morerows="7" valign="middle">2</entry><entry VJ="1" align="left" colsep="0" morerows="7" valign="top"> </entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">d)</entry><entry VJ="1" align="left" colsep="0" valign="top">Arbeitsweise der Spaltmaschine sowie Zweck des Spaltens erläutern</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">e)</entry><entry VJ="1" align="left" colsep="0" valign="top">Unterschiede zwischen Narben- und Spaltleder aufzeigen</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">f)</entry><entry VJ="1" align="left" colsep="0" valign="top">Häute crouponieren und Spalte beschneiden</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">g)</entry><entry VJ="1" align="left" colsep="0" valign="top">Blößengewicht feststellen, Blößen eingeben</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">h)</entry><entry VJ="1" align="left" colsep="0" valign="top">Entkälkungs- und Beizverfahren sowie ihre Anwendungsbereiche erläutern</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">i)</entry><entry VJ="1" align="left" colsep="0" valign="top">Entkälkung und Beize vorbereiten, Wirkungsweise der zugegebenen Chemikalien erläutern</entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" valign="top">k)</entry><entry VJ="1" align="left" colsep="0" valign="top">Entkälkungs- und Beizprozesse überwachen</entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">l)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">Häute entfleischen</entry><entry VJ="1" align="left" colsep="0" morerows="1" valign="top"> </entry><entry VJ="1" align="left" colsep="0" morerows="1" valign="top"> </entry><entry VJ="1" align="center" colsep="0" morerows="1" valign="middle">1</entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" valign="top">m)</entry><entry VJ="1" align="left" colsep="0" valign="top">Häute spalten</entry></row><row rowsep="1"><entry VJ="1" align="right" colsep="0" morerows="6" valign="top">6</entry><entry VJ="1" align="left" colsep="0" morerows="6" valign="top">Gerben (§ 4 Nr. 6)</entry><entry VJ="1" align="left" colsep="0" valign="top">a)</entry><entry VJ="1" align="left" colsep="0" valign="top">Pickel oder Vorgerbung für die unterschiedlichen Gerbverfahren erläutern und durchführen</entry><entry VJ="1" align="center" colsep="0" valign="top">2</entry><entry VJ="1" align="left" colsep="0" valign="top"> </entry><entry VJ="1" align="left" colsep="0" valign="top"> </entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">b)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">unterschiedliche Gerb-verfahren, insbesondere vegetabile und synthetisch -mineralische sowie Fett-und Kombinationsgerbung, erläutern und durchführen</entry><entry VJ="1" align="left" colsep="0" morerows="5" valign="top"> </entry><entry VJ="1" align="center" colsep="0" morerows="5" valign="middle">3</entry><entry VJ="1" align="center" colsep="0" morerows="5" valign="middle">3</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">c)</entry><entry VJ="1" align="left" colsep="0" valign="top">Gerbprozesse überwachen</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">d)</entry><entry VJ="1" align="left" colsep="0" valign="top">Leder abwelken und nach Verwendungszweck sortieren</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">e)</entry><entry VJ="1" align="left" colsep="0" valign="top">Leder spalten</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">f)</entry><entry VJ="1" align="left" colsep="0" valign="top">Leder falzen, Falzgewicht feststellen</entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" valign="top">g)</entry><entry VJ="1" align="left" colsep="0" valign="top">Unterschiede zwischen Rohhäuten und -fellen, Pickelware, Wet-blue und Crust erläutern</entry></row><row rowsep="1"><entry VJ="1" align="right" colsep="0" morerows="3" valign="top">7</entry><entry VJ="1" align="left" colsep="0" morerows="3" valign="top">Färben (§ 4 Nr. 7)</entry><entry VJ="1" align="left" colsep="0" valign="top">a)</entry><entry VJ="1" align="left" colsep="0" valign="top">Neutralisierungsmittel nennen und ihren Einfluß auf den Ledercharakter beschreiben, Leder unterschiedlicher Art neutralisieren</entry><entry VJ="1" align="center" colsep="0" valign="top">2</entry><entry VJ="1" align="left" colsep="0" valign="top"> </entry><entry VJ="1" align="left" colsep="0" valign="top"> </entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">b)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">unterschiedliche Nach-gerbverfahren und die daraus resultierenden Ledereigenschaften erläutern, Nachgerb-verfahren durchführen</entry><entry VJ="1" align="left" colsep="0" morerows="2" valign="top"> </entry><entry VJ="1" align="center" colsep="0" morerows="2" valign="middle">2</entry><entry VJ="1" align="center" colsep="0" morerows="2" valign="middle">3</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">c)</entry><entry VJ="1" align="left" colsep="0" valign="top">Farbstoffgruppen und Färbereihilfsmittel erläutern, Leder nach unterschiedlichen Verfahren färben</entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" valign="top">d)</entry><entry VJ="1" align="left" colsep="0" valign="top">Wirkungsweise von Fettungs- und Hilfsmitteln erläutern, Leder fetten</entry></row><row rowsep="1"><entry VJ="1" align="right" colsep="0" morerows="7" valign="top">8</entry><entry VJ="1" align="left" colsep="0" morerows="7" valign="top">Zurichten (§ 4 Nr. 8)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">a)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">Leder abwelken, ausrecken und ausstoßen</entry><entry VJ="1" align="center" colsep="0" morerows="2" valign="middle">4</entry><entry VJ="1" align="left" colsep="0" morerows="2" valign="top"> </entry><entry VJ="1" align="left" colsep="0" morerows="2" valign="top"> </entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">b)</entry><entry VJ="1" align="left" colsep="0" valign="top">unterschiedliche Trocknungsverfahren beschreiben und ihre Vor- und Nachteile erläutern, Leder trocknen</entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" valign="top">c)</entry><entry VJ="1" align="left" colsep="0" valign="top">Leder anfeuchten, stollen, millen, walken, spannen, schleifen und entstauben</entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">d)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">Arbeitsweise verschiedenartiger Bügelmaschinen beschreiben und spezifische Einsatzzwecke erläutern, Bügelmaschinen bedienen</entry><entry VJ="1" align="left" colsep="0" morerows="2" valign="top"> </entry><entry VJ="1" align="center" colsep="0" morerows="2" valign="middle">4</entry><entry VJ="1" align="left" colsep="0" morerows="2" valign="top"> </entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">e)</entry><entry VJ="1" align="left" colsep="0" valign="top">Narben pressen</entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" valign="top">f)</entry><entry VJ="1" align="left" colsep="0" valign="top">Leder glanzstoßen, polieren, krispeln und walzen</entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">g)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">Farbstofflösungen, Grundierungen, Deckfarben und Appreturen nach Rezeptur ansetzen und auf vorgegebenen Farbton einstellen</entry><entry VJ="1" align="left" colsep="0" morerows="1" valign="top"> </entry><entry VJ="1" align="left" colsep="0" morerows="1" valign="top"> </entry><entry VJ="1" align="center" colsep="0" morerows="1" valign="middle">4</entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" valign="top">h)</entry><entry VJ="1" align="left" colsep="0" valign="top">Auftragsverfahren erläutern, Farbstoff-lösungen, Grundierungen, Deckfarben und Appreturen von Hand und mit Maschine auftragen</entry></row><row rowsep="1"><entry VJ="1" align="right" colsep="0" morerows="3" valign="top">9</entry><entry VJ="1" align="left" colsep="0" morerows="3" valign="top">Durchführen von Qualitätskontrollen (§ 4 Nr. 9)</entry><entry VJ="1" align="left" colsep="0" valign="top">a)</entry><entry VJ="1" align="left" colsep="0" valign="top">bei der Qualitätskontrolle fertiger Leder mitwirken</entry><entry VJ="1" align="center" colsep="0" valign="top">1</entry><entry VJ="1" align="left" colsep="0" valign="top"> </entry><entry VJ="1" align="left" colsep="0" valign="top"> </entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">b)</entry><entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">Fehler und ihre Ursachen sowie Qualitätsminderungen feststellen und beschreiben</entry><entry VJ="1" align="left" colsep="0" morerows="2" valign="top"> </entry><entry VJ="1" align="center" colsep="0" morerows="2" valign="middle">1</entry><entry VJ="1" align="left" colsep="0" morerows="2" valign="top"> </entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">c)</entry><entry VJ="1" align="left" colsep="0" valign="top">fertige Leder messen und auszeichnen</entry></row><row rowsep="1"><entry VJ="1" align="left" colsep="0" valign="top">d)</entry><entry VJ="1" align="left" colsep="0" valign="top">Qualität des Leders unter Beachtung seiner unterschiedlichen Verwendung erläutern</entry></row><row><entry VJ="1" align="right" colsep="0" morerows="2" valign="top">10</entry><entry VJ="1" align="left" colsep="0" morerows="2" valign="top">Sortieren und Einlagern fertiger Leder sowie Herrichten zum Versand (§ 4 Nr. 10)</entry><entry VJ="1" align="left" colsep="0" valign="top">a)</entry><entry VJ="1" align="left" colsep="0" valign="top">fertige Leder sortieren</entry><entry VJ="1" align="left" colsep="0" morerows="2" valign="top"> </entry><entry VJ="1" align="left" colsep="0" morerows="2" valign="top"> </entry><entry VJ="1" align="center" colsep="0" morerows="2" valign="middle">1</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">b)</entry><entry VJ="1" align="left" colsep="0" valign="top">fertige Leder einlagern</entry></row><row><entry VJ="1" align="left" colsep="0" valign="top">c)</entry><entry VJ="1" align="left" colsep="0" valign="top">Leder zum Versand herrichten</entry></row></tbody></tgroup></table></P></Content></text></textdaten></norm>
-<norm builddate="20120625153933" doknr="BJNR008380981BJNE888800308"><metadaten><jurabk>GerbAusbV</jurabk><enbez>Anhang EV</enbez><titel format="XML">Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
+Ausbildungsrahmenplan für die Berufsausbildung zum Gerber/zur Gerberin</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <ABWFORMAT typ="A"/>
+                        <kommentar typ="Fundstelle">(Fundstelle: BGBl. I 1981, 841 - 844)</kommentar>
+                        <BR/>
+                        <table frame="topbot" tocentry="%yes;">
+                            <tgroup align="left" char="" charoff="50" cols="7" rowsep="0">
+                                <colspec colname="col1" colnum="1" colsep="1" colwidth="5*"/>
+                                <colspec colname="col2" colnum="2" colsep="1" colwidth="30*"/>
+                                <colspec colname="col3" colnum="3" colsep="0" colwidth="5*"/>
+                                <colspec colname="col4" colnum="4" colsep="1" colwidth="40*"/>
+                                <colspec colname="col5" colnum="5" colsep="1" colwidth="10*"/>
+                                <colspec colname="col6" colnum="6" colsep="1" colwidth="10*"/>
+                                <colspec colname="col7" colnum="7" colsep="0" colwidth="10*"/>
+                                <thead valign="bottom">
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" morerows="1" valign="middle">Lfd. Nr.</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="1" valign="middle">Teil des Ausbildungs-berufsbilds</entry>
+                                        <entry VJ="1" align="left" colsep="1" morerows="1" nameend="col4" namest="col3" valign="middle">zu vermittelnde Fertigkeiten und Kenntnisse</entry>
+                                        <entry VJ="1" align="left" colsep="0" nameend="col7" namest="col5" valign="middle">zeitliche Richtwerte in Monaten im Ausbildungsjahr</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="center" colsep="0" valign="top">1</entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="top">2</entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="top">3</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="center" colsep="0" valign="top">1</entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="top">2</entry>
+                                        <entry VJ="1" align="center" colsep="1" nameend="col4" namest="col3" valign="top">3</entry>
+                                        <entry VJ="1" align="center" colsep="0" nameend="col7" namest="col5" valign="top">4</entry>
+                                    </row>
+                                </thead>
+                                <tbody valign="top">
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="right" colsep="0" morerows="7" valign="top">1</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="7" valign="top">Arbeitsschutz, Unfallverhütung, Umweltschutz und rationelle Energieverwendung (§ 4 Nr. 1)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">a)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">einschlägige Arbeitsschutzvorschriften in Gesetzen und Verordnungen nennen</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="17" nameend="col7" namest="col5" valign="middle">während der gesamten Ausbildung zu vermitteln</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">einschlägige Vorschriften der Träger der gesetzlichen Unfallversicherung, insbesondere Unfallverhütungs-vorschriften, Richtlinien und Merkblätter, nennen und beachten</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gefahren im Umgang mit elektrischem Strom und mit Chemikalien erläutern</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gefahrenstellen an Maschinen nennen, Schutzeinrichtungen aufzeigen und ihre Wirksamkeit erhalten</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Notwendigkeit der Arbeitshygiene erläutern, funktionsgerechte Arbeitskleidung tragen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">f)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Verhalten nach Unfällen darstellen und Maßnahmen zur Ersten Hilfe einleiten</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">g)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">arbeitsplatzbezogene Ursachen der Umweltbelästigung, -Verschmutzung und -Vergiftung sowie Möglichkeiten zu ihrer Vermeidung, insbesondere beim Umgang mit gefährlichen Arbeits-Stoffen, nennen und beachten</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" valign="top">h)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">die im Ausbildungsbetrieb verwendeten Energiearten nennen und Möglichkeiten rationeller Energieverwendung im beruflichen Einwirkungs- und Beobachtungsbereich anführen</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="right" colsep="0" morerows="5" valign="top">2</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="5" valign="top">Kenntnisse des Ausbildungsbetriebs (§ 4 Nr. 2)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">a)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">räumliche Aufteilung des Ausbildungsbetriebs beschreiben</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Arbeitszeit- und Pausenregelung nennen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Fertigungsablauf beschreiben, Aufgabe der Fabrikationsabteilungen erläutern</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Lohnformen, Lohnabrechnung und Vergütung für Auszubildende erörtern</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Unterlagen für Lohnberechnung und Methoden für die Lohnfindung nennen</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" valign="top">f)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Aufgaben von Betriebsleitung, Betriebsrat und Jugendvertretung sowie Rechte und Pflichten von Mitarbeitern und Auszubildenden erläutern</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="right" colsep="0" morerows="3" valign="top">3</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="3" valign="top">Pflegen und Instandhalten der Arbeitsgeräte, Maschinen und Werkzeuge, Einrichten der Arbeitsgeräte und Maschinen (§ 4 Nr. 3)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">a)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">Ordnung und Sauberkeit am Arbeitsplatz halten und ihre Bedeutung begründen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Arbeitsgeräte, Maschinen und Werkzeuge pflegen und instandhalten, insbesondere einfache Verschleißteile und Werkzeuge auswechseln</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Funktionsfähigkeit der Werkzeuge und Maschinen nach Betriebsanleitung erhalten, Störungen feststellen und melden</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Arbeitsgeräte und Maschinen nach Betriebsanleitung und -anweisung einrichten</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="right" colsep="0" morerows="4" valign="top">4</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="4" valign="top">Vorbereiten der Rohware (§ 4 Nr. 4)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">a)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">Rohhäute und -felle konservieren, wichtige Konservierungsverfahren erläutern</entry>
+                                        <entry VJ="1" align="center" colsep="0" morerows="6" valign="middle">3</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="6" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="6" valign="top">&#160;</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Aufteilung der Flächen bei Häuten und Fellen erläutern</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Fehler in Rohhäuten und -fellen nennen und ihre Folgen für die Weiterverarbeitung erläutern</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">beim Zusammenstellen von Partien mitwirken, Partien auszeichnen, Gewicht der Partien feststellen</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Unterschiede zwischen den einzelnen Rohhaut- und Rohfellarten feststellen</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="right" colsep="0" morerows="11" valign="top">5</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="11" valign="top">Arbeiten in der Wasserwerkstatt, Herstellen der Blößen (§ 4 Nr. 5)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">a)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">Partie weichen, Arbeitsverfahren erläutern</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Partie äschern, Arbeitsverfahren erläutern</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">c)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">Arbeitsweise der Entfleischmaschine erklären</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="7" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="center" colsep="0" morerows="7" valign="middle">2</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="7" valign="top">&#160;</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Arbeitsweise der Spaltmaschine sowie Zweck des Spaltens erläutern</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Unterschiede zwischen Narben- und Spaltleder aufzeigen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">f)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Häute crouponieren und Spalte beschneiden</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">g)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Blößengewicht feststellen, Blößen eingeben</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">h)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Entkälkungs- und Beizverfahren sowie ihre Anwendungsbereiche erläutern</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">i)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Entkälkung und Beize vorbereiten, Wirkungsweise der zugegebenen Chemikalien erläutern</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" valign="top">k)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Entkälkungs- und Beizprozesse überwachen</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">l)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">Häute entfleischen</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="1" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="1" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="center" colsep="0" morerows="1" valign="middle">1</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" valign="top">m)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Häute spalten</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="right" colsep="0" morerows="6" valign="top">6</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="6" valign="top">Gerben (§ 4 Nr. 6)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Pickel oder Vorgerbung für die unterschiedlichen Gerbverfahren erläutern und durchführen</entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="top">2</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">&#160;</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">b)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">unterschiedliche Gerb-verfahren, insbesondere vegetabile und synthetisch -mineralische sowie Fett-und Kombinationsgerbung, erläutern und durchführen</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="5" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="center" colsep="0" morerows="5" valign="middle">3</entry>
+                                        <entry VJ="1" align="center" colsep="0" morerows="5" valign="middle">3</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gerbprozesse überwachen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Leder abwelken und nach Verwendungszweck sortieren</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Leder spalten</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">f)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Leder falzen, Falzgewicht feststellen</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" valign="top">g)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Unterschiede zwischen Rohhäuten und -fellen, Pickelware, Wet-blue und Crust erläutern</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="right" colsep="0" morerows="3" valign="top">7</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="3" valign="top">Färben (§ 4 Nr. 7)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Neutralisierungsmittel nennen und ihren Einfluß auf den Ledercharakter beschreiben, Leder unterschiedlicher Art neutralisieren</entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="top">2</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">&#160;</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">b)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">unterschiedliche Nach-gerbverfahren und die daraus resultierenden Ledereigenschaften erläutern, Nachgerb-verfahren durchführen</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="2" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="center" colsep="0" morerows="2" valign="middle">2</entry>
+                                        <entry VJ="1" align="center" colsep="0" morerows="2" valign="middle">3</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Farbstoffgruppen und Färbereihilfsmittel erläutern, Leder nach unterschiedlichen Verfahren färben</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Wirkungsweise von Fettungs- und Hilfsmitteln erläutern, Leder fetten</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="right" colsep="0" morerows="7" valign="top">8</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="7" valign="top">Zurichten (§ 4 Nr. 8)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">a)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">Leder abwelken, ausrecken und ausstoßen</entry>
+                                        <entry VJ="1" align="center" colsep="0" morerows="2" valign="middle">4</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="2" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="2" valign="top">&#160;</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">unterschiedliche Trocknungsverfahren beschreiben und ihre Vor- und Nachteile erläutern, Leder trocknen</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Leder anfeuchten, stollen, millen, walken, spannen, schleifen und entstauben</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">d)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">Arbeitsweise verschiedenartiger Bügelmaschinen beschreiben und spezifische Einsatzzwecke erläutern, Bügelmaschinen bedienen</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="2" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="center" colsep="0" morerows="2" valign="middle">4</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="2" valign="top">&#160;</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">e)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Narben pressen</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" valign="top">f)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Leder glanzstoßen, polieren, krispeln und walzen</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">g)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">Farbstofflösungen, Grundierungen, Deckfarben und Appreturen nach Rezeptur ansetzen und auf vorgegebenen Farbton einstellen</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="1" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="1" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="center" colsep="0" morerows="1" valign="middle">4</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" valign="top">h)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Auftragsverfahren erläutern, Farbstoff-lösungen, Grundierungen, Deckfarben und Appreturen von Hand und mit Maschine auftragen</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="right" colsep="0" morerows="3" valign="top">9</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="3" valign="top">Durchführen von Qualitätskontrollen (§ 4 Nr. 9)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">bei der Qualitätskontrolle fertiger Leder mitwirken</entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="top">1</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">&#160;</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">b)</entry>
+                                        <entry VJ="1" align="left" colsep="0" rowsep="0" valign="top">Fehler und ihre Ursachen sowie Qualitätsminderungen feststellen und beschreiben</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="2" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="center" colsep="0" morerows="2" valign="middle">1</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="2" valign="top">&#160;</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">fertige Leder messen und auszeichnen</entry>
+                                    </row>
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" valign="top">d)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Qualität des Leders unter Beachtung seiner unterschiedlichen Verwendung erläutern</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="right" colsep="0" morerows="2" valign="top">10</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="2" valign="top">Sortieren und Einlagern fertiger Leder sowie Herrichten zum Versand (§ 4 Nr. 10)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">a)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">fertige Leder sortieren</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="2" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="left" colsep="0" morerows="2" valign="top">&#160;</entry>
+                                        <entry VJ="1" align="center" colsep="0" morerows="2" valign="middle">1</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">b)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">fertige Leder einlagern</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">c)</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Leder zum Versand herrichten</entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153933" doknr="BJNR008380981BJNE888800308">
+        <metadaten>
+            <jurabk>GerbAusbV</jurabk>
+            <enbez>Anhang EV</enbez>
+            <titel format="XML">Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
 <BR/>
 und Kapitel XVI Sachgebiet C Abschnitt III
 <BR/>
-(BGBl. II 1990, 889, 998, 1135)</titel></metadaten><textdaten><text format="XML"><Content><P><noindex> Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft: <BR/>- Kapitel V Sachgebiet B Abschnitt III - <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), zuletzt geändert durch Artikel 43 des Gesetzes vom 28. Juni 1990 (BGBl. I S. 1221), sowie die nach § 7 Abs. 2, §§ 25, 27a Abs. 1, § 40 und § 46 Abs. 3 Satz 3 der Handwerksordnung erlassenen Rechtsverordnungen</LA><LA Size="normal">mit folgenden Maßgaben:<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Eine am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet bestehende Berechtigung,<DL Font="normal" Type="arabic"><DT>aa)</DT><DD Font="normal"><LA Size="normal">ein Handwerk als stehendes Gewerbe selbständig zu betreiben,</LA></DD> <DT>bb)</DT><DD Font="normal"><LA Size="normal">zum Einstellen oder zur Ausbildung von Lehrlingen in Handwerksbetrieben oder</LA></DD> <DT>cc)</DT><DD Font="normal"><LA Size="normal">zur Führung des Meistertitels</LA></DD> </DL></LA><LA Size="normal">bleibt bestehen.</LA></DD>  <DT>b)</DT><DD Font="normal"><LA Size="normal">Einkaufs- und Liefergenossenschaften und Arbeitsgemeinschaften der Produktionsgenossenschaften des Handwerks bleiben Mitglied der Handwerkskammer, soweit sie Mitglied der Handwerkskammer sind.</LA></DD> <DT>c)</DT><DD Font="normal"><LA Size="normal">Gewerbetreibende, die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet berechtigt sind, ein Handwerk als stehendes Gewerbe selbständig zu betreiben, werden auf Antrag oder von Amts wegen mit dem Handwerk der Anlage A der Handwerksordnung in die Handwerksrolle eingetragen, das dem bisherigen Handwerk zugeordnet werden kann. Führen solche Gewerbetreibende rechtmäßig den Titel Meister des Handwerks, sind sie berechtigt, den Meistertitel des Handwerks der Anlage A der Handwerksordnung zu führen.</LA></DD> <DT>d)</DT><DD Font="normal"><LA Size="normal">Gewerbetreibende, die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet selbständig ein stehendes Gewerbe betreiben, das dort nicht als Handwerk eingestuft, jedoch in der Anlage A der Handwerksordnung als Handwerk aufgeführt ist, werden auf Antrag oder von Amts wegen mit diesem Handwerk in die Handwerksrolle eingetragen.</LA></DD> <DT>e)</DT><DD Font="normal"><LA Size="normal">Buchstabe c) Satz 1 findet auf Gewerbetreibende, die ein handwerksähnliches Gewerbe betreiben, entsprechende Anwendung.</LA></DD> <DT>f)</DT><DD Font="normal"><LA Size="normal">Die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet bestehenden Organisationen des Handwerks sind bis 31. Dezember 1991 den Bestimmungen der Handwerksordnung entsprechend anzupassen; bis dahin gelten sie als Organisationen im Sinne der Handwerksordnung. Dasselbe gilt für die bestehenden Facharbeiter- und Meisterprüfungskommissionen; bis zum 31. Dezember 1991 gelten sie als Prüfungsausschüsse im Sinne der Handwerksordnung. Die Handwerkskammern haben unverzüglich, spätestens jedoch bis zum 31. Dezember 1991, die Voraussetzungen für die Beteiligung der Gesellen entsprechend den Bestimmungen der Handwerksordnung zu schaffen.</LA></DD> <DT>g)</DT><DD Font="normal"><LA Size="normal">Am Tage des Wirksamwerdens des Beitritts bestehende Lehrverhältnisse werden nach den bisherigen Vorschriften zu Ende geführt, es sei denn, die Parteien des Lehrvertrages vereinbaren die Fortsetzung der Berufsausbildung in einem Handwerk der Anlage A der Handwerksordnung.</LA></DD> <DT>h)</DT><DD Font="normal"><LA Size="normal">Lehrlinge, die ihre Berufsausbildung nach bisherigem Recht durchlaufen, werden nach den bisherigen Rechtsvorschriften geprüft, soweit nicht der Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften für Verfahren und Zuständigkeit erläßt.</LA></DD> <DT>i)</DT><DD Font="normal"><LA Size="normal">Die am Tage des Wirksamwerdens des Beitritts laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.</LA></DD> <DT>k)</DT><DD Font="normal"><LA Size="normal">Die Handwerkskammern können bis zum 1. Dezember 1995 Ausnahmen von den nach § 25 der Handwerksordnung erlassenen Rechtsverordnungen zulassen, wenn die gesetzten Anforderungen noch nicht erfüllt werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft kann im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Befugnis nach Satz 1 einschränken oder aufheben.</LA></DD> <DT>l)</DT><DD Font="normal"><LA Size="normal">Die Rechtsverordnungen nach § 27a Abs. 1 und § 40 der Handwerksordnung bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.</LA></DD> <DT>m)</DT><DD Font="normal"><LA Size="normal">Der Bundesminister für Wirtschaft bestimmt durch Rechtsverordnung nach § 46 Abs. 3 der Handwerksordnung, welche Prüfungen an Ausbildungseinrichtungen der Nationalen Volksarmee nach Maßgabe des § 3 Abs. 2 der Verordnung über die Anerkennung von Prüfungen bei der Eintragung in die Handwerksrolle und bei der Ablegung der Meisterprüfung im Handwerk vom 2. November 1982 (BGBl. I S. 1475) als Voraussetzung für die Befreiung von Teil II der Meisterprüfung im Handwerk anerkannt werden.</LA></DD> <DT>n)</DT><DD Font="normal"><LA Size="normal">Der Bundesminister für Wirtschaft kann durch Rechtsverordnung nach § 7 Abs. 2 der Handwerksordnung bestimmen, welche Prüfungen von Meistern der volkseigenen Industrie, die bis zum 31. Dezember 1991 abgelegt worden sind, mit welcher Maßgabe als ausreichende Voraussetzung für die Eintragung in die Handwerksrolle anerkannt werden.</LA></DD> <DT>o)</DT><DD Font="normal"><LA Size="normal">Prüfungszeugnisse nach der Systematik der Ausbildungsberufe sowie der Systematik der Facharbeiterberufe in Handwerksberufen aus dem in Artikel 3 des Vertrages genannten Gebiet stehen Gesellenprüfungszeugnisse nach § 31 Abs. 2 der Handwerksordnung gleich.</LA></DD>   </DL></LA></DD>  </DL><BR/><BR/>- Kapitel XVI Sachgebiet C Abschnitt III - <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt geändert durch § 19 des Gesetzes vom 23. Dezember 1981 (BGBl. I S. 1692), und auf Grund § 21 Abs. 1 und 2, §§ 25, 29 Abs. 1, § 43 Abs. 1 und 2, § 46 Abs. 2, § 47 Abs. 3, § 76 Abs. 2, § 77 Abs. 5, § 80 Abs. 2, § 81 Abs. 4, § 82 Abs. 2, §§ 93, 95 Abs. 4, § 96 Abs. 2 erlassene Rechtsverordnungen</LA><LA Size="normal">mit folgenden Maßgaben:<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Rechtsverordnungen nach § 21 Abs. 1 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Rechtsverordnungen nach § 29 Abs. 1 und § 43 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Wirtschaft oder den sonst zuständigen Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">Die zuständige Stelle kann bis zum 31. Dezember 1995 Ausnahmen von den Ausbildungsverordnungen nach § 25 des Gesetzes zulassen, wenn die durch technische Regeln gesetzten Anforderungen noch nicht erfüllt werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister kann im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Befugnis nach Satz 1 einschränken oder aufheben.</LA></DD> <DT>c)</DT><DD Font="normal"><LA Size="normal">Die Regelungen in Ausbildungsverordnungen nach § 25 des Gesetzes über die Ausbildung in überbetrieblichen Ausbildungsstätten (§ 27 des Gesetzes) werden nicht angewendet, wenn die zuständige Stelle feststellt, daß eine solche Ausbildung nicht möglich ist.</LA></DD> <DT>d)</DT><DD Font="normal"><LA Size="normal">Bei Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - IGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) bestehende Ausbildungsverhältnisse werden nach den neuen Vorschriften zu Ende geführt, es sei denn, daß eine Ausbildung nach den neuen Vorschriften nicht möglich ist oder der Lehrling eine Fortsetzung nach den bisherigen Vorschriften ausdrücklich wünscht. Sofern die Beendigung des Lehrverhältnisses nach den neuen Ausbildungsverordnungen im bisherigen Betrieb nicht möglich ist, sind das zuständige Arbeitsamt und die zuständige Stelle verpflichtet, den Lehrling zu unterstützen, einen neuen Ausbildungsbetrieb zu finden, der die Ausbildung nach den neuen Ausbildungsverordnungen fortsetzt.</LA></DD> <DT>e)</DT><DD Font="normal"><LA Size="normal">Die Ausbildungszeit soll nach § 29 Abs. 3 des Gesetzes verlängert werden, soweit eine Berufsausbildung mit Abitur durchgeführt wird.</LA></DD> <DT>f)</DT><DD Font="normal"><LA Size="normal">Die Anwendung der §§ 76, 77, 80 bis 82, 86, 88, 90, 92 bis 96 des Gesetzes und der auf Grund dieser Bestimmungen erlassenen Verordnungen bestimmt der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.</LA></DD> <DT>g)</DT><DD Font="normal"><LA Size="normal">Die Betriebe sind verpflichtet, die praktische Berufsausbildung zweckentsprechend aufrecht zu erhalten, soweit dies zur Erfüllung von Lehrverträgen erforderlich ist, die vor Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - JGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) abgeschlossen worden sind. Für Betriebsakademien und andere der beruflichen Bildung dienende Einrichtungen ist dies mindestens bis zum 31. Dezember 1990 zu gewährleisten. Auf Antrag der Handwerkskammern und der Industrie- und Handelskammern ist durch die Betriebe zu prüfen, inwieweit vorhandene Kapazitäten der praktischen Berufsausbildung (insbesondere Lehrwerkstätten) als überbetriebliche Ausbildungsstätten genutzt werden oder als Treuhandvermögen an die vorgenannten Kammern zur Nutzung übertragen werden können.</LA></DD> <DT>h)</DT><DD Font="normal"><LA Size="normal">Solange die in §§ 79, 87, 89 und 91 des Gesetzes genannten zuständigen Stellen nicht bestehen, bestimmt das Land die zuständige Stelle.</LA></DD> <DT>i)</DT><DD Font="normal"><LA Size="normal">Lehrlinge, die gemäß der Systematik der Facharbeiterberufe ausgebildet werden, werden nach den bisherigen Rechtsvorschriften geprüft, soweit nicht der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften für Verfahren und Zuständigkeiten erläßt.</LA></DD> <DT>k)</DT><DD Font="normal"><LA Size="normal">Die am Tage des Wirksamwerdens des Beitritts laufenden Prüfungsverfahren in der beruflichen Fortbildung und beruflichen Umschulung werden nach den bisherigen Vorschriften zu Ende geführt.</LA></DD> </DL></LA></DD>  </DL></noindex></P></Content></text></textdaten></norm>
+(BGBl. II 1990, 889, 998, 1135)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <noindex> Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft: <BR/>- Kapitel V Sachgebiet B Abschnitt III - <DL Font="normal" Type="arabic">
+                                <DT>1.</DT>
+                                <DD Font="normal">
+                                    <LA Size="normal">Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), zuletzt geändert durch Artikel 43 des Gesetzes vom 28. Juni 1990 (BGBl. I S. 1221), sowie die nach § 7 Abs. 2, §§ 25, 27a Abs. 1, § 40 und § 46 Abs. 3 Satz 3 der Handwerksordnung erlassenen Rechtsverordnungen</LA>
+                                    <LA Size="normal">mit folgenden Maßgaben:<DL Font="normal" Type="arabic">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Eine am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet bestehende Berechtigung,<DL Font="normal" Type="arabic">
+                                                        <DT>aa)</DT>
+                                                        <DD Font="normal">
+                                                            <LA Size="normal">ein Handwerk als stehendes Gewerbe selbständig zu betreiben,</LA>
+                                                        </DD>
+                                                        <DT>bb)</DT>
+                                                        <DD Font="normal">
+                                                            <LA Size="normal">zum Einstellen oder zur Ausbildung von Lehrlingen in Handwerksbetrieben oder</LA>
+                                                        </DD>
+                                                        <DT>cc)</DT>
+                                                        <DD Font="normal">
+                                                            <LA Size="normal">zur Führung des Meistertitels</LA>
+                                                        </DD>
+                                                    </DL>
+                                                </LA>
+                                                <LA Size="normal">bleibt bestehen.</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Einkaufs- und Liefergenossenschaften und Arbeitsgemeinschaften der Produktionsgenossenschaften des Handwerks bleiben Mitglied der Handwerkskammer, soweit sie Mitglied der Handwerkskammer sind.</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Gewerbetreibende, die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet berechtigt sind, ein Handwerk als stehendes Gewerbe selbständig zu betreiben, werden auf Antrag oder von Amts wegen mit dem Handwerk der Anlage A der Handwerksordnung in die Handwerksrolle eingetragen, das dem bisherigen Handwerk zugeordnet werden kann. Führen solche Gewerbetreibende rechtmäßig den Titel Meister des Handwerks, sind sie berechtigt, den Meistertitel des Handwerks der Anlage A der Handwerksordnung zu führen.</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Gewerbetreibende, die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet selbständig ein stehendes Gewerbe betreiben, das dort nicht als Handwerk eingestuft, jedoch in der Anlage A der Handwerksordnung als Handwerk aufgeführt ist, werden auf Antrag oder von Amts wegen mit diesem Handwerk in die Handwerksrolle eingetragen.</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Buchstabe c) Satz 1 findet auf Gewerbetreibende, die ein handwerksähnliches Gewerbe betreiben, entsprechende Anwendung.</LA>
+                                            </DD>
+                                            <DT>f)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet bestehenden Organisationen des Handwerks sind bis 31. Dezember 1991 den Bestimmungen der Handwerksordnung entsprechend anzupassen; bis dahin gelten sie als Organisationen im Sinne der Handwerksordnung. Dasselbe gilt für die bestehenden Facharbeiter- und Meisterprüfungskommissionen; bis zum 31. Dezember 1991 gelten sie als Prüfungsausschüsse im Sinne der Handwerksordnung. Die Handwerkskammern haben unverzüglich, spätestens jedoch bis zum 31. Dezember 1991, die Voraussetzungen für die Beteiligung der Gesellen entsprechend den Bestimmungen der Handwerksordnung zu schaffen.</LA>
+                                            </DD>
+                                            <DT>g)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Am Tage des Wirksamwerdens des Beitritts bestehende Lehrverhältnisse werden nach den bisherigen Vorschriften zu Ende geführt, es sei denn, die Parteien des Lehrvertrages vereinbaren die Fortsetzung der Berufsausbildung in einem Handwerk der Anlage A der Handwerksordnung.</LA>
+                                            </DD>
+                                            <DT>h)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Lehrlinge, die ihre Berufsausbildung nach bisherigem Recht durchlaufen, werden nach den bisherigen Rechtsvorschriften geprüft, soweit nicht der Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften für Verfahren und Zuständigkeit erläßt.</LA>
+                                            </DD>
+                                            <DT>i)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Die am Tage des Wirksamwerdens des Beitritts laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.</LA>
+                                            </DD>
+                                            <DT>k)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Die Handwerkskammern können bis zum 1. Dezember 1995 Ausnahmen von den nach § 25 der Handwerksordnung erlassenen Rechtsverordnungen zulassen, wenn die gesetzten Anforderungen noch nicht erfüllt werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft kann im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Befugnis nach Satz 1 einschränken oder aufheben.</LA>
+                                            </DD>
+                                            <DT>l)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Die Rechtsverordnungen nach § 27a Abs. 1 und § 40 der Handwerksordnung bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.</LA>
+                                            </DD>
+                                            <DT>m)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Der Bundesminister für Wirtschaft bestimmt durch Rechtsverordnung nach § 46 Abs. 3 der Handwerksordnung, welche Prüfungen an Ausbildungseinrichtungen der Nationalen Volksarmee nach Maßgabe des § 3 Abs. 2 der Verordnung über die Anerkennung von Prüfungen bei der Eintragung in die Handwerksrolle und bei der Ablegung der Meisterprüfung im Handwerk vom 2. November 1982 (BGBl. I S. 1475) als Voraussetzung für die Befreiung von Teil II der Meisterprüfung im Handwerk anerkannt werden.</LA>
+                                            </DD>
+                                            <DT>n)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Der Bundesminister für Wirtschaft kann durch Rechtsverordnung nach § 7 Abs. 2 der Handwerksordnung bestimmen, welche Prüfungen von Meistern der volkseigenen Industrie, die bis zum 31. Dezember 1991 abgelegt worden sind, mit welcher Maßgabe als ausreichende Voraussetzung für die Eintragung in die Handwerksrolle anerkannt werden.</LA>
+                                            </DD>
+                                            <DT>o)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Prüfungszeugnisse nach der Systematik der Ausbildungsberufe sowie der Systematik der Facharbeiterberufe in Handwerksberufen aus dem in Artikel 3 des Vertrages genannten Gebiet stehen Gesellenprüfungszeugnisse nach § 31 Abs. 2 der Handwerksordnung gleich.</LA>
+                                            </DD>
+                                        </DL>
+                                    </LA>
+                                </DD>
+                            </DL>
+                            <BR/>
+                            <BR/>- Kapitel XVI Sachgebiet C Abschnitt III - <DL Font="normal" Type="arabic">
+                                <DT>1.</DT>
+                                <DD Font="normal">
+                                    <LA Size="normal">Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt geändert durch § 19 des Gesetzes vom 23. Dezember 1981 (BGBl. I S. 1692), und auf Grund § 21 Abs. 1 und 2, §§ 25, 29 Abs. 1, § 43 Abs. 1 und 2, § 46 Abs. 2, § 47 Abs. 3, § 76 Abs. 2, § 77 Abs. 5, § 80 Abs. 2, § 81 Abs. 4, § 82 Abs. 2, §§ 93, 95 Abs. 4, § 96 Abs. 2 erlassene Rechtsverordnungen</LA>
+                                    <LA Size="normal">mit folgenden Maßgaben:<DL Font="normal" Type="arabic">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Rechtsverordnungen nach § 21 Abs. 1 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Rechtsverordnungen nach § 29 Abs. 1 und § 43 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Wirtschaft oder den sonst zuständigen Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Die zuständige Stelle kann bis zum 31. Dezember 1995 Ausnahmen von den Ausbildungsverordnungen nach § 25 des Gesetzes zulassen, wenn die durch technische Regeln gesetzten Anforderungen noch nicht erfüllt werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister kann im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Befugnis nach Satz 1 einschränken oder aufheben.</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Die Regelungen in Ausbildungsverordnungen nach § 25 des Gesetzes über die Ausbildung in überbetrieblichen Ausbildungsstätten (§ 27 des Gesetzes) werden nicht angewendet, wenn die zuständige Stelle feststellt, daß eine solche Ausbildung nicht möglich ist.</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Bei Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - IGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) bestehende Ausbildungsverhältnisse werden nach den neuen Vorschriften zu Ende geführt, es sei denn, daß eine Ausbildung nach den neuen Vorschriften nicht möglich ist oder der Lehrling eine Fortsetzung nach den bisherigen Vorschriften ausdrücklich wünscht. Sofern die Beendigung des Lehrverhältnisses nach den neuen Ausbildungsverordnungen im bisherigen Betrieb nicht möglich ist, sind das zuständige Arbeitsamt und die zuständige Stelle verpflichtet, den Lehrling zu unterstützen, einen neuen Ausbildungsbetrieb zu finden, der die Ausbildung nach den neuen Ausbildungsverordnungen fortsetzt.</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Die Ausbildungszeit soll nach § 29 Abs. 3 des Gesetzes verlängert werden, soweit eine Berufsausbildung mit Abitur durchgeführt wird.</LA>
+                                            </DD>
+                                            <DT>f)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Die Anwendung der §§ 76, 77, 80 bis 82, 86, 88, 90, 92 bis 96 des Gesetzes und der auf Grund dieser Bestimmungen erlassenen Verordnungen bestimmt der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.</LA>
+                                            </DD>
+                                            <DT>g)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Die Betriebe sind verpflichtet, die praktische Berufsausbildung zweckentsprechend aufrecht zu erhalten, soweit dies zur Erfüllung von Lehrverträgen erforderlich ist, die vor Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - JGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) abgeschlossen worden sind. Für Betriebsakademien und andere der beruflichen Bildung dienende Einrichtungen ist dies mindestens bis zum 31. Dezember 1990 zu gewährleisten. Auf Antrag der Handwerkskammern und der Industrie- und Handelskammern ist durch die Betriebe zu prüfen, inwieweit vorhandene Kapazitäten der praktischen Berufsausbildung (insbesondere Lehrwerkstätten) als überbetriebliche Ausbildungsstätten genutzt werden oder als Treuhandvermögen an die vorgenannten Kammern zur Nutzung übertragen werden können.</LA>
+                                            </DD>
+                                            <DT>h)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Solange die in §§ 79, 87, 89 und 91 des Gesetzes genannten zuständigen Stellen nicht bestehen, bestimmt das Land die zuständige Stelle.</LA>
+                                            </DD>
+                                            <DT>i)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Lehrlinge, die gemäß der Systematik der Facharbeiterberufe ausgebildet werden, werden nach den bisherigen Rechtsvorschriften geprüft, soweit nicht der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften für Verfahren und Zuständigkeiten erläßt.</LA>
+                                            </DD>
+                                            <DT>k)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Die am Tage des Wirksamwerdens des Beitritts laufenden Prüfungsverfahren in der beruflichen Fortbildung und beruflichen Umschulung werden nach den bisherigen Vorschriften zu Ende geführt.</LA>
+                                            </DD>
+                                        </DL>
+                                    </LA>
+                                </DD>
+                            </DL>
+                        </noindex>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
 </dokumente>

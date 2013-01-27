@@ -1,21 +1,495 @@
-<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
-<dokumente builddate="20120625152033" doknr="BJNR015590979"><norm builddate="20120625152033" doknr="BJNR015590979"><metadaten><jurabk>KälteAnlBMeistPrV</jurabk><ausfertigung-datum manuell="ja">1979-08-27</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1979, 1559</zitstelle></fundstelle><langue>Verordnung über das Berufsbild und über die Prüfungsanforderungen im
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625152033" doknr="BJNR015590979">
+    <norm builddate="20120625152033" doknr="BJNR015590979">
+        <metadaten>
+            <jurabk>KälteAnlBMeistPrV</jurabk>
+            <ausfertigung-datum manuell="ja">1979-08-27</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1979, 1559</zitstelle>
+            </fundstelle>
+            <langue>Verordnung über das Berufsbild und über die Prüfungsanforderungen im
 praktischen und im fachtheoretischen Teil der Meisterprüfung für das
-Kälteanlagenbauer-Handwerk</langue></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten><Content><P>(+++ Textnachweis ab: 12.9.1979 +++)</P></Content></fussnoten></textdaten></norm>
-<norm builddate="20120625152033" doknr="BJNR015590979BJNE000400326"><metadaten><jurabk>KälteAnlBMeistPrV</jurabk><enbez>Eingangsformel</enbez></metadaten><textdaten><text format="XML"><Content><P>Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 24 Nr. 1 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, und unter Berücksichtigung von Artikel 1 Nr. 2 der Verordnung vom 10. Juli 1978 (BGBl. I S. 984) wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:</P></Content></text></textdaten></norm>
-<norm builddate="20120625152033" doknr="BJNR015590979BJNG000100326"><metadaten><jurabk>KälteAnlBMeistPrV</jurabk><gliederungseinheit><gliederungskennzahl>010</gliederungskennzahl><gliederungsbez>1. Abschnitt</gliederungsbez><gliederungstitel>Berufsbild</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625152033" doknr="BJNR015590979BJNE000500326"><metadaten><jurabk>KälteAnlBMeistPrV</jurabk><enbez>§ 1</enbez><titel format="parat">Berufsbild</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Dem Kälteanlagenbauer-Handwerk sind folgende Tätigkeiten zuzurechnen: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Entwurf und Bau von Kälteanlagen und kältetechnischen Einrichtungen, insbesondere für die Frischhaltung, Konservierung, Lagerung und den Transport von wärmeempfindlichen Gütern, für Getränkeschankanlagen sowie für die Kunsteis- und Speiseeisherstellung,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Entwurf und Bau von kältetechnischen Einrichtungen für verfahrenstechnische, produktionstechnische und Klima-Anlagen sowie für Wärmepumpenanlagen und für medizinische sowie labortechnische Zwecke,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Inbetriebnahme, Wartung, Instandhaltung und Instandsetzung von Kälteanlagen und kältetechnischen Einrichtungen.</LA></DD> </DL> </P><P>(2) Dem Kälteanlagenbauer-Handwerk sind folgende Kenntnisse und Fertigkeiten zuzurechnen: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Kenntnisse der Kältetechnik, insbesondere der Verfahren zur rationellen und energiesparenden Kälteerzeugung,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Kenntnisse der Wärme- und der Strömungslehre, der Thermodynamik sowie der Kreisprozesse,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Kenntnisse der Mechanik und der Maschinenelemente,</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Kenntnisse der Isolierungen zum Wärme-, Kälte- und Schallschutz, gegen Schwitzwasserbildung sowie zur Schwingungsdämpfung,</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">Kenntnisse über Elektrotechnik und Elektronik,</LA></DD> <DT>6.</DT><DD Font="normal"><LA Size="normal">Kenntnisse der Meß-, Schalt-, Steuerungs- und Regelungstechnik sowie ihrer Geräte,</LA></DD> <DT>7.</DT><DD Font="normal"><LA Size="normal">Kenntnisse der Funktionsweise der Kälteanlagen und der kältetechnischen Einrichtungen,</LA></DD> <DT>8.</DT><DD Font="normal"><LA Size="normal">Kenntnisse der Berechnung von Kälteanlagen, ihrer Einzelgeräte, Baugruppen und -teile sowie des Kälte- und Luftbedarfs,</LA></DD> <DT>9.</DT><DD Font="normal"><LA Size="normal">Kenntnisse der Werk-, Betriebs- und Hilfsstoffe,</LA></DD> <DT>10.</DT><DD Font="normal"><LA Size="normal">Kenntnisse der einschlägigen Vorschriften der Unfallverhütung, des Arbeitsschutzes, der Arbeitssicherheit und des Immissionsschutzes,</LA></DD> <DT>11.</DT><DD Font="normal"><LA Size="normal">Kenntnisse der anerkannten Regeln der Technik des Kälteanlagenbaus unter besonderer Berücksichtigung energiesparender Maßnahmen,</LA></DD> <DT>12.</DT><DD Font="normal"><LA Size="normal">Anfertigen und Lesen von Skizzen, Zeichnungen, Schemata sowie von Schalt- und Stromlaufplänen,</LA></DD> <DT>13.</DT><DD Font="normal"><LA Size="normal">Messen und Prüfen mit mechanischen, elektrischen und elektronischen Meß- und Prüfgeräten,</LA></DD> <DT>14.</DT><DD Font="normal"><LA Size="normal">Feststellen und Beheben von Störungen und Fehlern,</LA></DD> <DT>15.</DT><DD Font="normal"><LA Size="normal">spanendes und spanloses Be- und Verarbeiten von Stählen, NE-Metallen und Kunststoffen,</LA></DD> <DT>16.</DT><DD Font="normal"><LA Size="normal">Herstellen lösbarer und unlösbarer Verbindungen, insbesondere durch Schrauben, Stiften, Keilen, Nieten, Kleben, Weich- und Hartlöten sowie durch Gas- und Lichtbogenhandschweißen,</LA></DD> <DT>17.</DT><DD Font="normal"><LA Size="normal">Behandeln von Oberflächen und Durchführen von Korrosionsschutzmaßnahmen,</LA></DD> <DT>18.</DT><DD Font="normal"><LA Size="normal">Montieren und Demontieren von Kälteanlagen, Einzelgeräten, Baugruppen und -teilen,</LA></DD> <DT>19.</DT><DD Font="normal"><LA Size="normal">Inbetriebnehmen durch Reinigen, Evakuieren, Füllen, Prüfen, Einstellen und Justieren,</LA></DD> <DT>20.</DT><DD Font="normal"><LA Size="normal">Pflegen und Instandhalten von Werkzeugen, Vorrichtungen, Geräten, Maschinen und Werkstatteinrichtungen.</LA></DD> </DL></P></Content></text></textdaten></norm>
-<norm builddate="20120625152033" doknr="BJNR015590979BJNG000200326"><metadaten><jurabk>KälteAnlBMeistPrV</jurabk><gliederungseinheit><gliederungskennzahl>020</gliederungskennzahl><gliederungsbez>2. Abschnitt</gliederungsbez><gliederungstitel>Prüfungsanforderungen in den Teilen
-I und II der Meisterprüfung</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625152033" doknr="BJNR015590979BJNE000600326"><metadaten><jurabk>KälteAnlBMeistPrV</jurabk><enbez>§ 2</enbez><titel format="parat">Gliederung, Dauer und Bestehen der praktischen
-Prüfung (Teil I)</titel></metadaten><textdaten><text format="XML"><Content><P>(1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.</P><P>(2) Die Meisterprüfungsarbeit soll nicht länger als acht Arbeitstage, die Arbeitsprobe nicht länger als acht Stunden dauern.</P><P>(3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.</P></Content>  </text></textdaten></norm>
-<norm builddate="20120625152033" doknr="BJNR015590979BJNE000700326"><metadaten><jurabk>KälteAnlBMeistPrV</jurabk><enbez>§ 3</enbez><titel format="parat">Meisterprüfungsarbeit</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Als Meisterprüfungsarbeit ist eine der nachstehenden Kälteanlagen oder kältetechnischen Einrichtungen betriebsfertig zu bauen: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">eine Kälteanlage mit automatischer Abtauung durch Heißgas oder elektrische Heizung für einen Gefrierraum oder einen Tieftemperatur-Lagerraum,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">eine Kälteanlage mit einer Leistung von mehr als 12.000 Watt für gewerbliche, produktions- oder verfahrenstechnische Zwecke mit vorgegebener Leistungsregelung,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">eine Kälteanlage für mehrere Räume mit mindestens zwei verschiedenen Temperaturen im Plus- und Minusbereich,</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">eine Kälteanlage oder kältetechnische Einrichtung mit mindestens zweistufiger Verdichtung für Tieftemperaturen,</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">eine Kälteanlage für Räume mit einzuhaltenden Luftzuständen je nach der Art des Lagerguts,</LA></DD> <DT>6.</DT><DD Font="normal"><LA Size="normal">eine Kälteanlage oder kältetechnische Einrichtung für Eisansatz- oder Eisspeicheranlagen.</LA></DD> </DL> </P><P>(2) Der Prüfling hat dem Meisterprüfungsausschuß vor Anfertigung der Meisterprüfungsarbeit eine Entwurfsskizze und eine Projektbeschreibung vorzulegen. Nach Genehmigung dieser Unterlagen sind die Zeichnung, die Berechnung, der elektrische Schaltplan, das Rohrleitungsschema, die Materialaufstellung, die Vorkalkulation und das Angebotsschreiben anzufertigen und dem Meisterprüfungsausschuß zu übergeben.</P><P>(3) Mit der Meisterprüfungsarbeit ist die Nachkalkulation abzuliefern.</P></Content> </text></textdaten></norm>
-<norm builddate="20120625152033" doknr="BJNR015590979BJNE000800326"><metadaten><jurabk>KälteAnlBMeistPrV</jurabk><enbez>§ 4</enbez><titel format="parat">Arbeitsprobe</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Als Arbeitsprobe sind zwei der nachstehenden Arbeiten auszuführen, davon je eine nach den Nummern 1 bis 3 und eine nach den Nummern 4 bis 6: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Anfertigen eines Verteilerstücks aus Stahl oder Kupfer mit mehreren Abgängen nach Zeichnung,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Anfertigen eines Flüssigkeitsabscheiders oder Wärmeaustauschers nach Zeichnung,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Demontieren, Montieren und Auswechseln von Bauteilen eines Verdichters,</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Einstellen thermostatischer Expansionsventile nach vorgegebenen Überhitzungen einschließlich der Messungen,</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">Inbetriebnehmen einer Kälteanlage nach vorgegebenen Werten durch Evakuieren, Füllen und Prüfen sowie Erstellen eines Protokolls,</LA></DD> <DT>6.</DT><DD Font="normal"><LA Size="normal">Feststellen und Beheben von Störungen und Fehlern an Kälteanlagen und kältetechnischen Einrichtungen.</LA></DD> </DL> </P><P>(2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.</P></Content></text></textdaten></norm>
-<norm builddate="20120625152033" doknr="BJNR015590979BJNE000900326"><metadaten><jurabk>KälteAnlBMeistPrV</jurabk><enbez>§ 5</enbez><titel format="parat">Prüfung der fachtheoretischen Kenntnisse (Teil II)</titel></metadaten><textdaten><text format="XML"><Content><P>(1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Technische Mathematik:</LA><LA Size="normal">Berechnung<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">aus der Mechanik, insbesondere von Leistungen, Drücken und Übersetzungen an Kompressoren,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">des Luftzustands, des Wärmedurchgangs sowie des Wärme- und Kältebedarfs,</LA></DD> <DT>c)</DT><DD Font="normal"><LA Size="normal">von Bauteilen der Kälteanlagen, insbesondere von Verdampfern, Kondensatoren und Rohrleitungen;</LA></DD> </DL></LA></DD>  <DT>2.</DT><DD Font="normal"><LA Size="normal">Technisches Zeichnen:<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Zeichnen mechanischer Einzelteile,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">Zeichnen von Schemata der Kälteanlagen und kältetechnischen Einrichtungen,</LA></DD> <DT>c)</DT><DD Font="normal"><LA Size="normal">Lesen und Zeichnen elektrischer Schalt- und Stromlaufpläne sowie kältetechnischer Fließbilder;</LA></DD> </DL></LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Fachtechnologie:<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Kältetechnik, insbesondere die Verfahren zur rationellen und energiesparenden Kälteerzeugung,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">Maschinenelemente,</LA></DD> <DT>c)</DT><DD Font="normal"><LA Size="normal">Funktionsweise von Kälteanlagen und von kältetechnischen Einrichtungen,</LA></DD> <DT>d)</DT><DD Font="normal"><LA Size="normal">Wärme- und Strömungslehre, Thermodynamik sowie Kreisprozesse,</LA></DD> <DT>e)</DT><DD Font="normal"><LA Size="normal">Isolierungen zum Wärme-, Kälte- und Schallschutz und zur Schwingungsdämpfung,</LA></DD> <DT>f)</DT><DD Font="normal"><LA Size="normal">Meß-, Schalt-, Steuerungs- und Regelungstechnik,</LA></DD> <DT>g)</DT><DD Font="normal"><LA Size="normal">Arten lösbarer und unlösbarer Verbindungen,</LA></DD> <DT>h)</DT><DD Font="normal"><LA Size="normal">einschlägige Vorschriften der Unfallverhütung, des Arbeitsschutzes, der Arbeitssicherheit und des Immissionsschutzes,</LA></DD> <DT>i)</DT><DD Font="normal"><LA Size="normal">anerkannte Regeln der Technik des Kälteanlagenbaus, Berücksichtigung energiesparender Maßnahmen;</LA></DD> </DL></LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Werkstoffkunde:<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Arten, Eigenschaften, Verwendung und Bezeichnung der Werk-, Betriebs- und Hilfsstoffe,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">Behandeln von Oberflächen und Durchführen von Korrosionsschutzmaßnahmen;</LA></DD> </DL></LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">Kalkulation:</LA><LA Size="normal">Kostenermittlung mit allen für die Preisbildung wesentlichen Faktoren einschließlich der Berechnungen für die Angebots- und die Nachkalkulation.</LA></DD>  </DL> </P><P>(2) Die Prüfung ist schriftlich und mündlich durchzuführen.</P><P>(3) Die schriftliche Prüfung soll insgesamt nicht länger als zwölf Stunden, die mündliche nicht länger als eine halbe Stunde je Prüfling dauern. In der schriftlichen Prüfung soll an einem Tag nicht länger als sechs Stunden geprüft werden.</P><P>(4) Der Prüfling ist von der mündlichen Prüfung auf Antrag zu befreien, wenn er im Durchschnitt mindestens gute schriftliche Leistungen erbracht hat.</P><P>(5) Soweit die Prüfung programmiert durchgeführt wird, kann abweichend von Absatz 2 auf die mündliche Prüfung verzichtet werden.</P><P>(6) Mindestvoraussetzung für das Bestehen des Teils II sind jeweils ausreichende Leistungen in den Prüfungsfächern nach Absatz 1 Nr. 1, 2, 3 und 5.</P></Content>    </text></textdaten></norm>
-<norm builddate="20120625152033" doknr="BJNR015590979BJNG000300326"><metadaten><jurabk>KälteAnlBMeistPrV</jurabk><gliederungseinheit><gliederungskennzahl>030</gliederungskennzahl><gliederungsbez>3. Abschnitt</gliederungsbez><gliederungstitel>Übergangs- und Schlußvorschriften</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625152033" doknr="BJNR015590979BJNE001000326"><metadaten><jurabk>KälteAnlBMeistPrV</jurabk><enbez>§ 6</enbez></metadaten><textdaten><text format="XML"><Content><P>-</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152033" doknr="BJNR015590979BJNE001100326"><metadaten><jurabk>KälteAnlBMeistPrV</jurabk><enbez>§ 7</enbez><titel format="parat">Weitere Anforderungen</titel></metadaten><textdaten><text format="XML"><Content><P>Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.</P></Content></text></textdaten></norm>
-<norm builddate="20120625152033" doknr="BJNR015590979BJNE001200326"><metadaten><jurabk>KälteAnlBMeistPrV</jurabk><enbez>§ 8</enbez><titel format="parat">Berlin-Klausel</titel></metadaten><textdaten><text format="XML"><Content><P>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.</P></Content></text></textdaten></norm>
-<norm builddate="20120625152033" doknr="BJNR015590979BJNE001300326"><metadaten><jurabk>KälteAnlBMeistPrV</jurabk><enbez>§ 9</enbez><titel format="parat">Inkrafttreten</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</P><P>(2) Die auf Grund des § 122 der Handwerksordnung weiter anzuwendenden Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.</P></Content> </text></textdaten></norm>
-<norm builddate="20120625152033" doknr="BJNR015590979BJNE001400326"><metadaten><jurabk>KälteAnlBMeistPrV</jurabk><enbez>Schlußformel</enbez></metadaten><textdaten><text format="XML"><Content><P><SP>Der Bundesminister für Wirtschaft</SP></P></Content></text></textdaten></norm>
+Kälteanlagenbauer-Handwerk</langue>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten>
+                <Content>
+                    <P>(+++ Textnachweis ab: 12.9.1979 +++)</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152033" doknr="BJNR015590979BJNE000400326">
+        <metadaten>
+            <jurabk>KälteAnlBMeistPrV</jurabk>
+            <enbez>Eingangsformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 24 Nr. 1 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, und unter Berücksichtigung von Artikel 1 Nr. 2 der Verordnung vom 10. Juli 1978 (BGBl. I S. 984) wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152033" doknr="BJNR015590979BJNG000100326">
+        <metadaten>
+            <jurabk>KälteAnlBMeistPrV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>010</gliederungskennzahl>
+                <gliederungsbez>1. Abschnitt</gliederungsbez>
+                <gliederungstitel>Berufsbild</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152033" doknr="BJNR015590979BJNE000500326">
+        <metadaten>
+            <jurabk>KälteAnlBMeistPrV</jurabk>
+            <enbez>§ 1</enbez>
+            <titel format="parat">Berufsbild</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Dem Kälteanlagenbauer-Handwerk sind folgende Tätigkeiten zuzurechnen: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Entwurf und Bau von Kälteanlagen und kältetechnischen Einrichtungen, insbesondere für die Frischhaltung, Konservierung, Lagerung und den Transport von wärmeempfindlichen Gütern, für Getränkeschankanlagen sowie für die Kunsteis- und Speiseeisherstellung,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Entwurf und Bau von kältetechnischen Einrichtungen für verfahrenstechnische, produktionstechnische und Klima-Anlagen sowie für Wärmepumpenanlagen und für medizinische sowie labortechnische Zwecke,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Inbetriebnahme, Wartung, Instandhaltung und Instandsetzung von Kälteanlagen und kältetechnischen Einrichtungen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Dem Kälteanlagenbauer-Handwerk sind folgende Kenntnisse und Fertigkeiten zuzurechnen: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse der Kältetechnik, insbesondere der Verfahren zur rationellen und energiesparenden Kälteerzeugung,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse der Wärme- und der Strömungslehre, der Thermodynamik sowie der Kreisprozesse,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse der Mechanik und der Maschinenelemente,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse der Isolierungen zum Wärme-, Kälte- und Schallschutz, gegen Schwitzwasserbildung sowie zur Schwingungsdämpfung,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse über Elektrotechnik und Elektronik,</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse der Meß-, Schalt-, Steuerungs- und Regelungstechnik sowie ihrer Geräte,</LA>
+                            </DD>
+                            <DT>7.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse der Funktionsweise der Kälteanlagen und der kältetechnischen Einrichtungen,</LA>
+                            </DD>
+                            <DT>8.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse der Berechnung von Kälteanlagen, ihrer Einzelgeräte, Baugruppen und -teile sowie des Kälte- und Luftbedarfs,</LA>
+                            </DD>
+                            <DT>9.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse der Werk-, Betriebs- und Hilfsstoffe,</LA>
+                            </DD>
+                            <DT>10.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse der einschlägigen Vorschriften der Unfallverhütung, des Arbeitsschutzes, der Arbeitssicherheit und des Immissionsschutzes,</LA>
+                            </DD>
+                            <DT>11.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse der anerkannten Regeln der Technik des Kälteanlagenbaus unter besonderer Berücksichtigung energiesparender Maßnahmen,</LA>
+                            </DD>
+                            <DT>12.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Anfertigen und Lesen von Skizzen, Zeichnungen, Schemata sowie von Schalt- und Stromlaufplänen,</LA>
+                            </DD>
+                            <DT>13.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Messen und Prüfen mit mechanischen, elektrischen und elektronischen Meß- und Prüfgeräten,</LA>
+                            </DD>
+                            <DT>14.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Feststellen und Beheben von Störungen und Fehlern,</LA>
+                            </DD>
+                            <DT>15.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">spanendes und spanloses Be- und Verarbeiten von Stählen, NE-Metallen und Kunststoffen,</LA>
+                            </DD>
+                            <DT>16.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Herstellen lösbarer und unlösbarer Verbindungen, insbesondere durch Schrauben, Stiften, Keilen, Nieten, Kleben, Weich- und Hartlöten sowie durch Gas- und Lichtbogenhandschweißen,</LA>
+                            </DD>
+                            <DT>17.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Behandeln von Oberflächen und Durchführen von Korrosionsschutzmaßnahmen,</LA>
+                            </DD>
+                            <DT>18.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Montieren und Demontieren von Kälteanlagen, Einzelgeräten, Baugruppen und -teilen,</LA>
+                            </DD>
+                            <DT>19.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Inbetriebnehmen durch Reinigen, Evakuieren, Füllen, Prüfen, Einstellen und Justieren,</LA>
+                            </DD>
+                            <DT>20.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Pflegen und Instandhalten von Werkzeugen, Vorrichtungen, Geräten, Maschinen und Werkstatteinrichtungen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152033" doknr="BJNR015590979BJNG000200326">
+        <metadaten>
+            <jurabk>KälteAnlBMeistPrV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>020</gliederungskennzahl>
+                <gliederungsbez>2. Abschnitt</gliederungsbez>
+                <gliederungstitel>Prüfungsanforderungen in den Teilen
+I und II der Meisterprüfung</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152033" doknr="BJNR015590979BJNE000600326">
+        <metadaten>
+            <jurabk>KälteAnlBMeistPrV</jurabk>
+            <enbez>§ 2</enbez>
+            <titel format="parat">Gliederung, Dauer und Bestehen der praktischen
+Prüfung (Teil I)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.</P>
+                    <P>(2) Die Meisterprüfungsarbeit soll nicht länger als acht Arbeitstage, die Arbeitsprobe nicht länger als acht Stunden dauern.</P>
+                    <P>(3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152033" doknr="BJNR015590979BJNE000700326">
+        <metadaten>
+            <jurabk>KälteAnlBMeistPrV</jurabk>
+            <enbez>§ 3</enbez>
+            <titel format="parat">Meisterprüfungsarbeit</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Als Meisterprüfungsarbeit ist eine der nachstehenden Kälteanlagen oder kältetechnischen Einrichtungen betriebsfertig zu bauen: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">eine Kälteanlage mit automatischer Abtauung durch Heißgas oder elektrische Heizung für einen Gefrierraum oder einen Tieftemperatur-Lagerraum,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">eine Kälteanlage mit einer Leistung von mehr als 12.000 Watt für gewerbliche, produktions- oder verfahrenstechnische Zwecke mit vorgegebener Leistungsregelung,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">eine Kälteanlage für mehrere Räume mit mindestens zwei verschiedenen Temperaturen im Plus- und Minusbereich,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">eine Kälteanlage oder kältetechnische Einrichtung mit mindestens zweistufiger Verdichtung für Tieftemperaturen,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">eine Kälteanlage für Räume mit einzuhaltenden Luftzuständen je nach der Art des Lagerguts,</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">eine Kälteanlage oder kältetechnische Einrichtung für Eisansatz- oder Eisspeicheranlagen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Der Prüfling hat dem Meisterprüfungsausschuß vor Anfertigung der Meisterprüfungsarbeit eine Entwurfsskizze und eine Projektbeschreibung vorzulegen. Nach Genehmigung dieser Unterlagen sind die Zeichnung, die Berechnung, der elektrische Schaltplan, das Rohrleitungsschema, die Materialaufstellung, die Vorkalkulation und das Angebotsschreiben anzufertigen und dem Meisterprüfungsausschuß zu übergeben.</P>
+                    <P>(3) Mit der Meisterprüfungsarbeit ist die Nachkalkulation abzuliefern.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152033" doknr="BJNR015590979BJNE000800326">
+        <metadaten>
+            <jurabk>KälteAnlBMeistPrV</jurabk>
+            <enbez>§ 4</enbez>
+            <titel format="parat">Arbeitsprobe</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Als Arbeitsprobe sind zwei der nachstehenden Arbeiten auszuführen, davon je eine nach den Nummern 1 bis 3 und eine nach den Nummern 4 bis 6: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Anfertigen eines Verteilerstücks aus Stahl oder Kupfer mit mehreren Abgängen nach Zeichnung,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Anfertigen eines Flüssigkeitsabscheiders oder Wärmeaustauschers nach Zeichnung,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Demontieren, Montieren und Auswechseln von Bauteilen eines Verdichters,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Einstellen thermostatischer Expansionsventile nach vorgegebenen Überhitzungen einschließlich der Messungen,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Inbetriebnehmen einer Kälteanlage nach vorgegebenen Werten durch Evakuieren, Füllen und Prüfen sowie Erstellen eines Protokolls,</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Feststellen und Beheben von Störungen und Fehlern an Kälteanlagen und kältetechnischen Einrichtungen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152033" doknr="BJNR015590979BJNE000900326">
+        <metadaten>
+            <jurabk>KälteAnlBMeistPrV</jurabk>
+            <enbez>§ 5</enbez>
+            <titel format="parat">Prüfung der fachtheoretischen Kenntnisse (Teil II)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Technische Mathematik:</LA>
+                                <LA Size="normal">Berechnung<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">aus der Mechanik, insbesondere von Leistungen, Drücken und Übersetzungen an Kompressoren,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">des Luftzustands, des Wärmedurchgangs sowie des Wärme- und Kältebedarfs,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">von Bauteilen der Kälteanlagen, insbesondere von Verdampfern, Kondensatoren und Rohrleitungen;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Technisches Zeichnen:<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Zeichnen mechanischer Einzelteile,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Zeichnen von Schemata der Kälteanlagen und kältetechnischen Einrichtungen,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Lesen und Zeichnen elektrischer Schalt- und Stromlaufpläne sowie kältetechnischer Fließbilder;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Fachtechnologie:<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Kältetechnik, insbesondere die Verfahren zur rationellen und energiesparenden Kälteerzeugung,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Maschinenelemente,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Funktionsweise von Kälteanlagen und von kältetechnischen Einrichtungen,</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Wärme- und Strömungslehre, Thermodynamik sowie Kreisprozesse,</LA>
+                                        </DD>
+                                        <DT>e)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Isolierungen zum Wärme-, Kälte- und Schallschutz und zur Schwingungsdämpfung,</LA>
+                                        </DD>
+                                        <DT>f)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Meß-, Schalt-, Steuerungs- und Regelungstechnik,</LA>
+                                        </DD>
+                                        <DT>g)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Arten lösbarer und unlösbarer Verbindungen,</LA>
+                                        </DD>
+                                        <DT>h)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">einschlägige Vorschriften der Unfallverhütung, des Arbeitsschutzes, der Arbeitssicherheit und des Immissionsschutzes,</LA>
+                                        </DD>
+                                        <DT>i)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">anerkannte Regeln der Technik des Kälteanlagenbaus, Berücksichtigung energiesparender Maßnahmen;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Werkstoffkunde:<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Arten, Eigenschaften, Verwendung und Bezeichnung der Werk-, Betriebs- und Hilfsstoffe,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Behandeln von Oberflächen und Durchführen von Korrosionsschutzmaßnahmen;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kalkulation:</LA>
+                                <LA Size="normal">Kostenermittlung mit allen für die Preisbildung wesentlichen Faktoren einschließlich der Berechnungen für die Angebots- und die Nachkalkulation.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Die Prüfung ist schriftlich und mündlich durchzuführen.</P>
+                    <P>(3) Die schriftliche Prüfung soll insgesamt nicht länger als zwölf Stunden, die mündliche nicht länger als eine halbe Stunde je Prüfling dauern. In der schriftlichen Prüfung soll an einem Tag nicht länger als sechs Stunden geprüft werden.</P>
+                    <P>(4) Der Prüfling ist von der mündlichen Prüfung auf Antrag zu befreien, wenn er im Durchschnitt mindestens gute schriftliche Leistungen erbracht hat.</P>
+                    <P>(5) Soweit die Prüfung programmiert durchgeführt wird, kann abweichend von Absatz 2 auf die mündliche Prüfung verzichtet werden.</P>
+                    <P>(6) Mindestvoraussetzung für das Bestehen des Teils II sind jeweils ausreichende Leistungen in den Prüfungsfächern nach Absatz 1 Nr. 1, 2, 3 und 5.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152033" doknr="BJNR015590979BJNG000300326">
+        <metadaten>
+            <jurabk>KälteAnlBMeistPrV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>3. Abschnitt</gliederungsbez>
+                <gliederungstitel>Übergangs- und Schlußvorschriften</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152033" doknr="BJNR015590979BJNE001000326">
+        <metadaten>
+            <jurabk>KälteAnlBMeistPrV</jurabk>
+            <enbez>§ 6</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152033" doknr="BJNR015590979BJNE001100326">
+        <metadaten>
+            <jurabk>KälteAnlBMeistPrV</jurabk>
+            <enbez>§ 7</enbez>
+            <titel format="parat">Weitere Anforderungen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152033" doknr="BJNR015590979BJNE001200326">
+        <metadaten>
+            <jurabk>KälteAnlBMeistPrV</jurabk>
+            <enbez>§ 8</enbez>
+            <titel format="parat">Berlin-Klausel</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152033" doknr="BJNR015590979BJNE001300326">
+        <metadaten>
+            <jurabk>KälteAnlBMeistPrV</jurabk>
+            <enbez>§ 9</enbez>
+            <titel format="parat">Inkrafttreten</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</P>
+                    <P>(2) Die auf Grund des § 122 der Handwerksordnung weiter anzuwendenden Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152033" doknr="BJNR015590979BJNE001400326">
+        <metadaten>
+            <jurabk>KälteAnlBMeistPrV</jurabk>
+            <enbez>Schlußformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <SP>Der Bundesminister für Wirtschaft</SP>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
 </dokumente>

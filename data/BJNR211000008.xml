@@ -1,20 +1,442 @@
-<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
-<dokumente builddate="20121112214509" doknr="BJNR211000008"><norm builddate="20121112214509" doknr="BJNR211000008"><metadaten><jurabk>SoldErnAnO 2009</jurabk><ausfertigung-datum manuell="ja">2008-10-16</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>2008, 2110</zitstelle></fundstelle><langue>Anordnung über die Ernennung und Entlassung von Soldatinnen und Soldaten und die Ernennung von Reservistinnen und Reservisten</langue><standangabe checked="ja"><standtyp>Stand</standtyp><standkommentar>Zuletzt geändert durch AnO v. 26.10.2012 I 2280</standkommentar></standangabe></metadaten><textdaten><fussnoten><Content><P><BR/> <pre xml:space="preserve">(+++ Textnachweis ab: 1.1.2009 +++)<BR/><BR/></pre></P></Content></fussnoten></textdaten></norm>
-<norm builddate="20121112214509" doknr="BJNR211000008BJNE000100000"><metadaten><jurabk>SoldErnAnO 2009</jurabk><enbez>Eingangsformel</enbez></metadaten><textdaten><text format="XML"><Content><P>Nach § 4 Abs. 2 des Soldatengesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005 (BGBl. I S. 1482) und Artikel 1 Abs. 2 der Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Soldaten vom 10. Juli 1969 (BGBl. I S. 775), die durch die Anordnung vom 17. März 1972 (BGBl. I S. 499) geändert worden ist, ordne ich an:</P></Content></text></textdaten></norm>
-<norm builddate="20121112214509" doknr="BJNR211000008BJNG000100000"><metadaten><jurabk>SoldErnAnO 2009</jurabk><gliederungseinheit><gliederungskennzahl>010</gliederungskennzahl><gliederungsbez>Abschnitt 1</gliederungsbez><gliederungstitel>Allgemeines</gliederungstitel></gliederungseinheit></metadaten><textdaten/></norm>
-<norm builddate="20121112214509" doknr="BJNR211000008BJNE000200000"><metadaten><jurabk>SoldErnAnO 2009</jurabk><enbez>Art 1</enbez><titel format="XML">Dienstgradbezeichnungen</titel></metadaten><textdaten><text format="XML"><Content><P>Soweit in dieser Anordnung Dienstgradbezeichnungen des Heeres und der Luftwaffe verwendet werden, gelten die jeweiligen Bestimmungen auch für die entsprechenden Dienstgrade der Marine und des Sanitätsdienstes.</P></Content></text></textdaten></norm>
-<norm builddate="20121112214509" doknr="BJNR211000008BJNE000300000"><metadaten><jurabk>SoldErnAnO 2009</jurabk><enbez>Art 2</enbez><titel format="XML">Vorbehaltene Ernennungen und Entlassungen</titel></metadaten><textdaten><text format="XML"><Content><P>Dem Bundesministerium der Verteidigung behalte ich vor <DL><DT>1.</DT><DD><LA>Ernennungen zum Oberst,</LA></DD><DT>2.</DT><DD><LA>Entlassungen von Offizieren im Dienstgrad Oberst, die nicht der Besoldungsgruppe B 3 angehören,</LA></DD><DT>3.</DT><DD><LA>Ernennungen und Entlassungen der im Militärischen Abschirmdienst oder im Amt für Militärkunde verwendeten Soldatinnen und Soldaten sowie Ernennungen der in diesen Bereichen beorderten Reservistinnen und Reservisten,</LA></DD><DT>4.</DT><DD><LA>Ernennungen der Anwärterinnen und Anwärter für die Laufbahnen der Offiziere des Truppendienstes und des militärfachlichen Dienstes zum Leutnant und</LA></DD><DT>5.</DT><DD><LA>Ernennungen und Entlassungen in sonstigen besonderen Fällen.</LA></DD></DL></P></Content></text></textdaten></norm>
-<norm builddate="20121112214509" doknr="BJNR211000008BJNE000400000"><metadaten><jurabk>SoldErnAnO 2009</jurabk><enbez>Art 3</enbez><titel format="XML">Ausschließliche Zuständigkeit der Dienststellenleitung</titel></metadaten><textdaten><text format="XML"><Content><P>Die Ausübung der nachfolgend übertragenen Rechte zur Ernennung und Entlassung obliegt der Leiterin oder dem Leiter der jeweiligen Dienststelle persönlich, soweit sie oder er nicht von einer Ermächtigung durch das Bundesministerium der Verteidigung Gebrauch macht, die Vollziehung von Ernennungs- und Entlassungsurkunden auf andere Angehörige der Dienststelle zu übertragen.</P></Content></text></textdaten></norm>
-<norm builddate="20121112214509" doknr="BJNR211000008BJNG000201310"><metadaten><jurabk>SoldErnAnO 2009</jurabk><gliederungseinheit><gliederungskennzahl>020</gliederungskennzahl><gliederungsbez>Abschnitt 2</gliederungsbez><gliederungstitel>Zuständigkeiten für Berufssoldatinnen, Berufssoldaten, Soldatinnen auf Zeit, Soldaten auf Zeit und Soldatinnen und Soldaten, die Wehrdienst nach Maßgabe des Wehrpflichtgesetzes leisten</gliederungstitel></gliederungseinheit></metadaten><textdaten><fussnoten/></textdaten></norm>
-<norm builddate="20121112214509" doknr="BJNR211000008BJNE000502310"><metadaten><jurabk>SoldErnAnO 2009</jurabk><enbez>Art 4</enbez><titel format="XML">Zuständigkeit des Personalamtes der Bundeswehr und der Stammdienststelle der Bundeswehr</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Das Personalamt der Bundeswehr ernennt und entlässt Offiziere bis zum Oberstleutnant, Anwärterinnen und Anwärter für eine Laufbahn der Offiziere sowie Mannschaften, die sich mit dem Ziel der Übernahme als Anwärterin oder Anwärter für eine Laufbahn der Offiziere verpflichtet haben.</P><P>(2) Die Stammdienststelle der Bundeswehr ernennt und entlässt Feldwebel, Fachunteroffiziere, Anwärterinnen und Anwärter für eine Laufbahn der Feldwebel oder Fachunteroffiziere sowie Mannschaften, die sich mit dem Ziel der Übernahme als Anwärterin oder Anwärter für eine Laufbahn der Feldwebel oder Fachunteroffiziere verpflichtet haben. Darüber hinaus ernennt und entlässt sie Mannschaften, die <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Heeresuniform tragen und <DL Font="normal" Type="alpha"><DT>a)</DT><DD Font="normal"><LA Size="normal">dem fliegenden Personal,</LA></DD><DT>b)</DT><DD Font="normal"><LA Size="normal">dem Flugsicherungspersonal,</LA></DD><DT>c)</DT><DD Font="normal"><LA Size="normal">dem luftfahrzeugtechnischen Personal oder</LA></DD><DT>d)</DT><DD Font="normal"><LA Size="normal">nationalen Dienststellen bei integrierten Stäben</LA></DD></DL>angehören oder <DL Font="normal" Type="alpha"><DT>e)</DT><DD Font="normal"><LA Size="normal">die sich in einer integrierten Verwendung befinden,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">Luftwaffenuniform tragen und <DL Font="normal" Type="alpha"><DT>a)</DT><DD Font="normal"><LA Size="normal">auf einer Planstelle z.b.V. oder einer Planstelle z.b.V.-Schüleretat geführt werden,</LA></DD><DT>b)</DT><DD Font="normal"><LA Size="normal">sich in einer integrierten Verwendung befinden,</LA></DD><DT>c)</DT><DD Font="normal"><LA Size="normal">nationalen Dienststellen bei integrierten Stäben angehören oder</LA></DD><DT>d)</DT><DD Font="normal"><LA Size="normal">Dienststellen und Einrichtungen im Ausland oder dem NATO-E3A-Verband angehören,</LA></DD></DL></LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">Marineuniform tragen,</LA></DD><DT>4.</DT><DD Font="normal"><LA Size="normal">sich in den Laufbahnen des Sanitätsdienstes oder des Militärmusikdienstes befinden,</LA></DD><DT>5.</DT><DD Font="normal"><LA Size="normal">dem Bereich der Spitzensportförderung der Bundeswehr, der Stammdienststelle der Bundeswehr oder dem Zentralen Sanitätsdienst der Bundeswehr angehören oder</LA></DD><DT>6.</DT><DD Font="normal"><LA Size="normal">nach § 7 des Einsatz-Weiterverwendungsgesetzes in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten berufen werden oder worden sind.</LA></DD></DL></P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20121112214509" doknr="BJNR211000008BJNE000601310"><metadaten><jurabk>SoldErnAnO 2009</jurabk><enbez>Art 5</enbez><titel format="XML">Zuständigkeiten im Heer</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Kompanien, Batterien, Staffeln, Inspektionen, Stabsquartiere, die Ausbildungsbereiche des Ausbildungszentrums Munster, der deutsche Anteil der Stabskompanie der Deutsch-Französischen Brigade sowie das Einsatz- und Ausbildungszentrum für Tragtierwesen dürfen ihnen unterstellte Soldatinnen auf Zeit, Soldaten auf Zeit und Soldatinnen und Soldaten, die Wehrdienst nach Maßgabe des Wehrpflichtgesetzes leisten, zu einem Mannschaftsdienstgrad befördern.</P><P>(2) Es dürfen <DL><DT>1.</DT><DD><LA>die Bataillone, die Abteilungen der Heeresfliegertruppe, der deutsche Anteil des Deutsch-Französischen Versorgungsbataillons, das Gefechtssimulationszentrum Heer, das Gefechtsübungszentrum des Heeres und das Ausbildungszentrum Spezielle Operationen, soweit nicht in Absatz 1 andere Zuständigkeiten begründet worden sind,</LA></DD><DT>2.</DT><DD><LA>die Brigaden, der deutsche Anteil der Deutsch-Französischen Brigade, das Kommando Spezialkräfte, die Regimenter, das Ausbildungszentrum Munster sowie die Schulen, soweit nicht in Absatz 1 oder in Nummer 1 andere Zuständigkeiten begründet worden sind,</LA></DD><DT>3.</DT><DD><LA>die Divisionen, soweit nicht in Absatz 1 oder in Nummer 1 oder 2 andere Zuständigkeiten begründet worden sind,</LA></DD><DT>4.</DT><DD><LA>das Heeresführungskommando und das Heeresamt, soweit nicht in Absatz 1 oder in den Nummern 1 bis 3 andere Zuständigkeiten begründet worden sind,</LA></DD></DL>Bewerberinnen und Bewerber sowie ihnen unterstellte Soldatinnen und Soldaten in einer Mannschaftslaufbahn in das Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit berufen. Sie dürfen außerdem ihnen unterstellte Soldatinnen und Soldaten zu einem Mannschaftsdienstgrad befördern, soweit nicht in Absatz 1 andere Zuständigkeiten begründet worden sind.</P><P>(3) Es dürfen <DL><DT>1.</DT><DD><LA>die Divisionen,</LA></DD><DT>2.</DT><DD><LA>das Heeresführungskommando und das Heeresamt, soweit nicht unter Nummer 1 andere Zuständigkeiten begründet worden sind,</LA></DD></DL>ihnen unterstellte Mannschaften entlassen.</P><P>(4) In nicht von den Absätzen 1 bis 3 erfassten Fällen werden Mannschaften durch die Stammdienststelle der Bundeswehr ernannt und entlassen.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20121112214509" doknr="BJNR211000008BJNE000701310"><metadaten><jurabk>SoldErnAnO 2009</jurabk><enbez>Art 6</enbez><titel format="XML">Zuständigkeiten in der Luftwaffe</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Staffeln, Kompanien, Inspektionen, Ausbildungsgruppen, Ausbildungsunterstützungsgruppen, Sektoren, die Instandhaltungs- und die Unterstützungsgruppen, die System- und die Systemunterstützungszentren, das Zentrum Elektronischer Kampf Fliegende Waffensysteme sowie die abgesetzten Züge und abgesetzten technischen Züge des Einsatzführungsdienstes dürfen ihnen unterstellte Soldatinnen auf Zeit und Soldaten auf Zeit sowie Soldatinnen und Soldaten, die Wehrdienst nach Maßgabe des Wehrpflichtgesetzes leisten, zu einem Mannschaftsdienstgrad befördern.</P><P>(2) Es dürfen <DL><DT>1.</DT><DD><LA>die Geschwader, Regimenter, Einsatzführungsbereiche, Schulen, die Flugbereitschaft des Bundesministeriums der Verteidigung, das Kommando Operative Führung Luftstreitkräfte, der Führungsunterstützungsbereich Luftwaffe, das Waffensystemunterstützungszentrum und das Amt für Flugsicherung der Bundeswehr, soweit nicht in Absatz 1 andere Zuständigkeiten begründet worden sind,</LA></DD><DT>2.</DT><DD><LA>die Divisionen, das Lufttransportkommando, das Waffensystemkommando der Luftwaffe und das Luftwaffenausbildungskommando, soweit nicht in Absatz 1 oder in Nummer 1 andere Zuständigkeiten begründet worden sind,</LA></DD><DT>3.</DT><DD><LA>das Luftwaffenführungskommando und das Luftwaffenamt, soweit nicht in Absatz 1 oder in Nummer 1 oder 2 andere Zuständigkeiten begründet worden sind,</LA></DD></DL>Bewerberinnen und Bewerber sowie ihnen unterstellte Soldatinnen und Soldaten in einer Mannschaftslaufbahn in das Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit berufen. Sie dürfen außerdem ihnen unterstellte Soldatinnen und Soldaten zu einem Mannschaftsdienstgrad befördern, soweit nicht in Absatz 1 andere Zuständigkeiten begründet worden sind.</P><P>(3) Es dürfen <DL><DT>1.</DT><DD><LA>die Divisionen, das Lufttransportkommando, das Waffensystemkommando der Luftwaffe und das Luftwaffenausbildungskommando,</LA></DD><DT>2.</DT><DD><LA>das Luftwaffenführungskommando und das Luftwaffenamt, soweit nicht in Nummer 1 andere Zuständigkeiten begründet worden sind,</LA></DD></DL>ihnen unterstellte Mannschaften entlassen.</P><P>(4) In nicht von den Absätzen 1 bis 3 erfassten Fällen werden Mannschaften durch die Stammdienststelle der Bundeswehr ernannt und entlassen.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20121112214509" doknr="BJNR211000008BJNE000801310"><metadaten><jurabk>SoldErnAnO 2009</jurabk><enbez>Art 7</enbez><titel format="XML">Zuständigkeiten in der Streitkräftebasis</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Kompanien, Einsatzsektoren der Fernmeldeaufklärungsabschnitte, Ausbildungszentren, Inspektionen, Truppenübungsplatzkommandanturen und Stabsquartiere sowie die Zentren für Nachwuchsgewinnung dürfen ihnen unterstellte Soldatinnen und Soldaten auf Zeit sowie Soldatinnen und Soldaten, die Wehrdienst nach Maßgabe des Wehrpflichtgesetzes leisten, zu einem Mannschaftsdienstgrad befördern.</P><P>(2) Es dürfen <DL><DT>1.</DT><DD><LA>die Bataillone, Fernmeldeaufklärungsabschnitte und Hauptdepots, soweit nicht in Absatz 1 andere Zuständigkeiten begründet worden sind,</LA></DD><DT>2.</DT><DD><LA>die Brigaden, Regimenter, Fernmeldebereiche, Landeskommandos, das Standortkommando Berlin, das Kommando Strategische Aufklärung, das Logistikzentrum der Bundeswehr, das Zentrum Innere Führung, das Zentrum für Operative Information, das Zentrum für Verifikationsaufgaben der Bundeswehr, das Amt für Geoinformationswesen der Bundeswehr, das Logistikamt der Bundeswehr, die Akademie der Bundeswehr für Information und Kommunikation, das Militärgeschichtliche Forschungsamt, das Zentrum für Transformation der Bundeswehr, das Zentrum für Kampfmittelbeseitigung der Bundeswehr, das CIMIC-Zentrum, das Materialwirtschaftszentrum Einsatz der Bundeswehr sowie die Schulen, soweit nicht in Absatz 1 oder in Nummer 1 andere Zuständigkeiten begründet worden sind,</LA></DD><DT>3.</DT><DD><LA>die Wehrbereichskommandos, die Führungsakademie der Bundeswehr und das Personalamt der Bundeswehr, soweit nicht in Absatz 1 oder in Nummer 1 oder 2 andere Zuständigkeiten begründet worden sind,</LA></DD><DT>4.</DT><DD><LA>das Einsatzführungskommando der Bundeswehr, das Streitkräfteunterstützungskommando, das Kommando Führung Operationen von Spezialkräften, das Kommando Operative Führung Eingreifkräfte und das Streitkräfteamt, soweit nicht in Absatz 1 oder in den Nummern 1 bis 3 andere Zuständigkeiten begründet worden sind,</LA></DD></DL>Bewerberinnen und Bewerber sowie ihnen unterstellte Soldatinnen und Soldaten in einer Mannschaftslaufbahn in das Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit berufen. Sie dürfen außerdem ihnen unterstellte Soldatinnen und Soldaten zu einem Mannschaftsdienstgrad befördern, soweit nicht in Absatz 1 andere Zuständigkeiten begründet worden sind.</P><P>(3) Es dürfen <DL><DT>1.</DT><DD><LA>die Wehrbereichskommandos, die Führungsakademie der Bundeswehr und das Personalamt der Bundeswehr,</LA></DD><DT>2.</DT><DD><LA>das Einsatzführungskommando der Bundeswehr, das Streitkräfteunterstützungskommando, das Kommando Führung Operationen von Spezialkräften, das Kommando Operative Führung Eingreifkräfte und das Streitkräfteamt, soweit nicht in Nummer 1 andere Zuständigkeiten begründet worden sind,</LA></DD></DL>ihnen unterstellte Mannschaften entlassen.</P><P>(4) In nicht von den Absätzen 1 bis 3 erfassten Fällen werden Mannschaften durch die Stammdienststelle der Bundeswehr ernannt und entlassen.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20121112214509" doknr="BJNR211000008BJNG000300000"><metadaten><jurabk>SoldErnAnO 2009</jurabk><gliederungseinheit><gliederungskennzahl>030</gliederungskennzahl><gliederungsbez>Abschnitt 3</gliederungsbez><gliederungstitel>Zuständigkeiten für Reservistinnen und Reservisten</gliederungstitel></gliederungseinheit></metadaten><textdaten/></norm>
-<norm builddate="20121112214509" doknr="BJNR211000008BJNE000901310"><metadaten><jurabk>SoldErnAnO 2009</jurabk><enbez>Art 8</enbez><titel format="XML">Beförderungen und Entlassungen</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Reservistinnen und Reservisten im Sinne dieses Artikels sind auch Soldatinnen und Soldaten in anderen als den in Abschnitt 2 genannten Wehrdienstverhältnissen.</P><P>(2) Das Personalamt der Bundeswehr darf zu Offizierdienstgraden bis zum Oberstleutnant befördern. Es darf außerdem die Reserveoffizier-Anwärterinnen und Reserveoffizier-Anwärter befördern. Dies gilt auch für die Verleihung vorläufiger und zeitweiliger Offizierdienstgrade nach § 5 Abs. 3 und § 43 Abs. 3 der Soldatenlaufbahnverordnung.</P><P>(3) Die Stammdienststelle der Bundeswehr darf zu Unteroffizier- und Mannschaftsdienstgraden befördern. Dies gilt auch für die Verleihung vorläufiger und zeitweiliger Unteroffizier- und Mannschaftsdienstgrade nach § 5 Abs. 3 der Soldatenlaufbahnverordnung und vorläufiger und zeitweiliger Unteroffizierdienstgrade nach § 22 Abs. 5 der Soldatenlaufbahnverordnung.</P><P>(4) Reservistinnen und Reservisten werden durch ihren Übungstruppenteil entlassen. Als Leiterin oder Leiter eines Truppenteils eingesetzte Reservistinnen und Reservisten werden durch die nächsthöhere Dienststelle entlassen.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20121112214509" doknr="BJNR211000008BJNG000400000"><metadaten><jurabk>SoldErnAnO 2009</jurabk><gliederungseinheit><gliederungskennzahl>040</gliederungskennzahl><gliederungsbez>Abschnitt 4</gliederungsbez><gliederungstitel>Schlussbestimmungen</gliederungstitel></gliederungseinheit></metadaten><textdaten/></norm>
-<norm builddate="20121112214509" doknr="BJNR211000008BJNE001001310"><metadaten><jurabk>SoldErnAnO 2009</jurabk><enbez>Art 9</enbez><titel format="XML">Entlassungen nach § 61 in Verbindung mit § 29 Abs. 1 Satz 3 Nr. 4 des Wehrpflichtgesetzes</titel></metadaten><textdaten><text format="XML"><Content><P>Die Zuständigkeit der nächsten Disziplinarvorgesetzten nach § 61 in Verbindung mit § 29 Abs. 1 Satz 3 Nr. 4 des Wehrpflichtgesetzes bleibt unberührt.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20121112214509" doknr="BJNR211000008BJNE001101310"><metadaten><jurabk>SoldErnAnO 2009</jurabk><enbez>Art 10</enbez><titel format="XML">(weggefallen)</titel></metadaten><textdaten><text format="XML"><Content><P>-</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20121112214509" doknr="BJNR211000008BJNE001200000"><metadaten><jurabk>SoldErnAnO 2009</jurabk><enbez>Art 11</enbez><titel format="XML">Inkrafttreten, Außerkrafttreten</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Diese Anordnung tritt am 1. Januar 2009 in Kraft.</P><P>(2) Der Gesamtvertrauenspersonenausschuss ist beteiligt worden.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20121112214509" doknr="BJNR211000008BJNE001300000"><metadaten><jurabk>SoldErnAnO 2009</jurabk><enbez>Schlussformel</enbez></metadaten><textdaten><text format="XML"><Content><P>Der Bundesminister der Verteidigung<SP/></P></Content></text></textdaten></norm>
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20121112214509" doknr="BJNR211000008">
+    <norm builddate="20121112214509" doknr="BJNR211000008">
+        <metadaten>
+            <jurabk>SoldErnAnO 2009</jurabk>
+            <ausfertigung-datum manuell="ja">2008-10-16</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>2008, 2110</zitstelle>
+            </fundstelle>
+            <langue>Anordnung über die Ernennung und Entlassung von Soldatinnen und Soldaten und die Ernennung von Reservistinnen und Reservisten</langue>
+            <standangabe checked="ja">
+                <standtyp>Stand</standtyp>
+                <standkommentar>Zuletzt geändert durch AnO v. 26.10.2012 I 2280</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <fussnoten>
+                <Content>
+                    <P>
+                        <BR/>
+                        <pre xml:space="preserve">(+++ Textnachweis ab: 1.1.2009 +++)<BR/>
+                            <BR/>
+                        </pre>
+                    </P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20121112214509" doknr="BJNR211000008BJNE000100000">
+        <metadaten>
+            <jurabk>SoldErnAnO 2009</jurabk>
+            <enbez>Eingangsformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Nach § 4 Abs. 2 des Soldatengesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005 (BGBl. I S. 1482) und Artikel 1 Abs. 2 der Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Soldaten vom 10. Juli 1969 (BGBl. I S. 775), die durch die Anordnung vom 17. März 1972 (BGBl. I S. 499) geändert worden ist, ordne ich an:</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20121112214509" doknr="BJNR211000008BJNG000100000">
+        <metadaten>
+            <jurabk>SoldErnAnO 2009</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>010</gliederungskennzahl>
+                <gliederungsbez>Abschnitt 1</gliederungsbez>
+                <gliederungstitel>Allgemeines</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten/>
+    </norm>
+    <norm builddate="20121112214509" doknr="BJNR211000008BJNE000200000">
+        <metadaten>
+            <jurabk>SoldErnAnO 2009</jurabk>
+            <enbez>Art 1</enbez>
+            <titel format="XML">Dienstgradbezeichnungen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Soweit in dieser Anordnung Dienstgradbezeichnungen des Heeres und der Luftwaffe verwendet werden, gelten die jeweiligen Bestimmungen auch für die entsprechenden Dienstgrade der Marine und des Sanitätsdienstes.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20121112214509" doknr="BJNR211000008BJNE000300000">
+        <metadaten>
+            <jurabk>SoldErnAnO 2009</jurabk>
+            <enbez>Art 2</enbez>
+            <titel format="XML">Vorbehaltene Ernennungen und Entlassungen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Dem Bundesministerium der Verteidigung behalte ich vor <DL>
+                            <DT>1.</DT>
+                            <DD>
+                                <LA>Ernennungen zum Oberst,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD>
+                                <LA>Entlassungen von Offizieren im Dienstgrad Oberst, die nicht der Besoldungsgruppe B 3 angehören,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD>
+                                <LA>Ernennungen und Entlassungen der im Militärischen Abschirmdienst oder im Amt für Militärkunde verwendeten Soldatinnen und Soldaten sowie Ernennungen der in diesen Bereichen beorderten Reservistinnen und Reservisten,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD>
+                                <LA>Ernennungen der Anwärterinnen und Anwärter für die Laufbahnen der Offiziere des Truppendienstes und des militärfachlichen Dienstes zum Leutnant und</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD>
+                                <LA>Ernennungen und Entlassungen in sonstigen besonderen Fällen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20121112214509" doknr="BJNR211000008BJNE000400000">
+        <metadaten>
+            <jurabk>SoldErnAnO 2009</jurabk>
+            <enbez>Art 3</enbez>
+            <titel format="XML">Ausschließliche Zuständigkeit der Dienststellenleitung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die Ausübung der nachfolgend übertragenen Rechte zur Ernennung und Entlassung obliegt der Leiterin oder dem Leiter der jeweiligen Dienststelle persönlich, soweit sie oder er nicht von einer Ermächtigung durch das Bundesministerium der Verteidigung Gebrauch macht, die Vollziehung von Ernennungs- und Entlassungsurkunden auf andere Angehörige der Dienststelle zu übertragen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20121112214509" doknr="BJNR211000008BJNG000201310">
+        <metadaten>
+            <jurabk>SoldErnAnO 2009</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>020</gliederungskennzahl>
+                <gliederungsbez>Abschnitt 2</gliederungsbez>
+                <gliederungstitel>Zuständigkeiten für Berufssoldatinnen, Berufssoldaten, Soldatinnen auf Zeit, Soldaten auf Zeit und Soldatinnen und Soldaten, die Wehrdienst nach Maßgabe des Wehrpflichtgesetzes leisten</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20121112214509" doknr="BJNR211000008BJNE000502310">
+        <metadaten>
+            <jurabk>SoldErnAnO 2009</jurabk>
+            <enbez>Art 4</enbez>
+            <titel format="XML">Zuständigkeit des Personalamtes der Bundeswehr und der Stammdienststelle der Bundeswehr</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Das Personalamt der Bundeswehr ernennt und entlässt Offiziere bis zum Oberstleutnant, Anwärterinnen und Anwärter für eine Laufbahn der Offiziere sowie Mannschaften, die sich mit dem Ziel der Übernahme als Anwärterin oder Anwärter für eine Laufbahn der Offiziere verpflichtet haben.</P>
+                    <P>(2) Die Stammdienststelle der Bundeswehr ernennt und entlässt Feldwebel, Fachunteroffiziere, Anwärterinnen und Anwärter für eine Laufbahn der Feldwebel oder Fachunteroffiziere sowie Mannschaften, die sich mit dem Ziel der Übernahme als Anwärterin oder Anwärter für eine Laufbahn der Feldwebel oder Fachunteroffiziere verpflichtet haben. Darüber hinaus ernennt und entlässt sie Mannschaften, die <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Heeresuniform tragen und <DL Font="normal" Type="alpha">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">dem fliegenden Personal,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">dem Flugsicherungspersonal,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">dem luftfahrzeugtechnischen Personal oder</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">nationalen Dienststellen bei integrierten Stäben</LA>
+                                        </DD>
+                                    </DL>angehören oder <DL Font="normal" Type="alpha">
+                                        <DT>e)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">die sich in einer integrierten Verwendung befinden,</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Luftwaffenuniform tragen und <DL Font="normal" Type="alpha">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">auf einer Planstelle z.b.V. oder einer Planstelle z.b.V.-Schüleretat geführt werden,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">sich in einer integrierten Verwendung befinden,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">nationalen Dienststellen bei integrierten Stäben angehören oder</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Dienststellen und Einrichtungen im Ausland oder dem NATO-E3A-Verband angehören,</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Marineuniform tragen,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">sich in den Laufbahnen des Sanitätsdienstes oder des Militärmusikdienstes befinden,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">dem Bereich der Spitzensportförderung der Bundeswehr, der Stammdienststelle der Bundeswehr oder dem Zentralen Sanitätsdienst der Bundeswehr angehören oder</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">nach § 7 des Einsatz-Weiterverwendungsgesetzes in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten berufen werden oder worden sind.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20121112214509" doknr="BJNR211000008BJNE000601310">
+        <metadaten>
+            <jurabk>SoldErnAnO 2009</jurabk>
+            <enbez>Art 5</enbez>
+            <titel format="XML">Zuständigkeiten im Heer</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Kompanien, Batterien, Staffeln, Inspektionen, Stabsquartiere, die Ausbildungsbereiche des Ausbildungszentrums Munster, der deutsche Anteil der Stabskompanie der Deutsch-Französischen Brigade sowie das Einsatz- und Ausbildungszentrum für Tragtierwesen dürfen ihnen unterstellte Soldatinnen auf Zeit, Soldaten auf Zeit und Soldatinnen und Soldaten, die Wehrdienst nach Maßgabe des Wehrpflichtgesetzes leisten, zu einem Mannschaftsdienstgrad befördern.</P>
+                    <P>(2) Es dürfen <DL>
+                            <DT>1.</DT>
+                            <DD>
+                                <LA>die Bataillone, die Abteilungen der Heeresfliegertruppe, der deutsche Anteil des Deutsch-Französischen Versorgungsbataillons, das Gefechtssimulationszentrum Heer, das Gefechtsübungszentrum des Heeres und das Ausbildungszentrum Spezielle Operationen, soweit nicht in Absatz 1 andere Zuständigkeiten begründet worden sind,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD>
+                                <LA>die Brigaden, der deutsche Anteil der Deutsch-Französischen Brigade, das Kommando Spezialkräfte, die Regimenter, das Ausbildungszentrum Munster sowie die Schulen, soweit nicht in Absatz 1 oder in Nummer 1 andere Zuständigkeiten begründet worden sind,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD>
+                                <LA>die Divisionen, soweit nicht in Absatz 1 oder in Nummer 1 oder 2 andere Zuständigkeiten begründet worden sind,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD>
+                                <LA>das Heeresführungskommando und das Heeresamt, soweit nicht in Absatz 1 oder in den Nummern 1 bis 3 andere Zuständigkeiten begründet worden sind,</LA>
+                            </DD>
+                        </DL>Bewerberinnen und Bewerber sowie ihnen unterstellte Soldatinnen und Soldaten in einer Mannschaftslaufbahn in das Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit berufen. Sie dürfen außerdem ihnen unterstellte Soldatinnen und Soldaten zu einem Mannschaftsdienstgrad befördern, soweit nicht in Absatz 1 andere Zuständigkeiten begründet worden sind.</P>
+                    <P>(3) Es dürfen <DL>
+                            <DT>1.</DT>
+                            <DD>
+                                <LA>die Divisionen,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD>
+                                <LA>das Heeresführungskommando und das Heeresamt, soweit nicht unter Nummer 1 andere Zuständigkeiten begründet worden sind,</LA>
+                            </DD>
+                        </DL>ihnen unterstellte Mannschaften entlassen.</P>
+                    <P>(4) In nicht von den Absätzen 1 bis 3 erfassten Fällen werden Mannschaften durch die Stammdienststelle der Bundeswehr ernannt und entlassen.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20121112214509" doknr="BJNR211000008BJNE000701310">
+        <metadaten>
+            <jurabk>SoldErnAnO 2009</jurabk>
+            <enbez>Art 6</enbez>
+            <titel format="XML">Zuständigkeiten in der Luftwaffe</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Staffeln, Kompanien, Inspektionen, Ausbildungsgruppen, Ausbildungsunterstützungsgruppen, Sektoren, die Instandhaltungs- und die Unterstützungsgruppen, die System- und die Systemunterstützungszentren, das Zentrum Elektronischer Kampf Fliegende Waffensysteme sowie die abgesetzten Züge und abgesetzten technischen Züge des Einsatzführungsdienstes dürfen ihnen unterstellte Soldatinnen auf Zeit und Soldaten auf Zeit sowie Soldatinnen und Soldaten, die Wehrdienst nach Maßgabe des Wehrpflichtgesetzes leisten, zu einem Mannschaftsdienstgrad befördern.</P>
+                    <P>(2) Es dürfen <DL>
+                            <DT>1.</DT>
+                            <DD>
+                                <LA>die Geschwader, Regimenter, Einsatzführungsbereiche, Schulen, die Flugbereitschaft des Bundesministeriums der Verteidigung, das Kommando Operative Führung Luftstreitkräfte, der Führungsunterstützungsbereich Luftwaffe, das Waffensystemunterstützungszentrum und das Amt für Flugsicherung der Bundeswehr, soweit nicht in Absatz 1 andere Zuständigkeiten begründet worden sind,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD>
+                                <LA>die Divisionen, das Lufttransportkommando, das Waffensystemkommando der Luftwaffe und das Luftwaffenausbildungskommando, soweit nicht in Absatz 1 oder in Nummer 1 andere Zuständigkeiten begründet worden sind,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD>
+                                <LA>das Luftwaffenführungskommando und das Luftwaffenamt, soweit nicht in Absatz 1 oder in Nummer 1 oder 2 andere Zuständigkeiten begründet worden sind,</LA>
+                            </DD>
+                        </DL>Bewerberinnen und Bewerber sowie ihnen unterstellte Soldatinnen und Soldaten in einer Mannschaftslaufbahn in das Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit berufen. Sie dürfen außerdem ihnen unterstellte Soldatinnen und Soldaten zu einem Mannschaftsdienstgrad befördern, soweit nicht in Absatz 1 andere Zuständigkeiten begründet worden sind.</P>
+                    <P>(3) Es dürfen <DL>
+                            <DT>1.</DT>
+                            <DD>
+                                <LA>die Divisionen, das Lufttransportkommando, das Waffensystemkommando der Luftwaffe und das Luftwaffenausbildungskommando,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD>
+                                <LA>das Luftwaffenführungskommando und das Luftwaffenamt, soweit nicht in Nummer 1 andere Zuständigkeiten begründet worden sind,</LA>
+                            </DD>
+                        </DL>ihnen unterstellte Mannschaften entlassen.</P>
+                    <P>(4) In nicht von den Absätzen 1 bis 3 erfassten Fällen werden Mannschaften durch die Stammdienststelle der Bundeswehr ernannt und entlassen.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20121112214509" doknr="BJNR211000008BJNE000801310">
+        <metadaten>
+            <jurabk>SoldErnAnO 2009</jurabk>
+            <enbez>Art 7</enbez>
+            <titel format="XML">Zuständigkeiten in der Streitkräftebasis</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Kompanien, Einsatzsektoren der Fernmeldeaufklärungsabschnitte, Ausbildungszentren, Inspektionen, Truppenübungsplatzkommandanturen und Stabsquartiere sowie die Zentren für Nachwuchsgewinnung dürfen ihnen unterstellte Soldatinnen und Soldaten auf Zeit sowie Soldatinnen und Soldaten, die Wehrdienst nach Maßgabe des Wehrpflichtgesetzes leisten, zu einem Mannschaftsdienstgrad befördern.</P>
+                    <P>(2) Es dürfen <DL>
+                            <DT>1.</DT>
+                            <DD>
+                                <LA>die Bataillone, Fernmeldeaufklärungsabschnitte und Hauptdepots, soweit nicht in Absatz 1 andere Zuständigkeiten begründet worden sind,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD>
+                                <LA>die Brigaden, Regimenter, Fernmeldebereiche, Landeskommandos, das Standortkommando Berlin, das Kommando Strategische Aufklärung, das Logistikzentrum der Bundeswehr, das Zentrum Innere Führung, das Zentrum für Operative Information, das Zentrum für Verifikationsaufgaben der Bundeswehr, das Amt für Geoinformationswesen der Bundeswehr, das Logistikamt der Bundeswehr, die Akademie der Bundeswehr für Information und Kommunikation, das Militärgeschichtliche Forschungsamt, das Zentrum für Transformation der Bundeswehr, das Zentrum für Kampfmittelbeseitigung der Bundeswehr, das CIMIC-Zentrum, das Materialwirtschaftszentrum Einsatz der Bundeswehr sowie die Schulen, soweit nicht in Absatz 1 oder in Nummer 1 andere Zuständigkeiten begründet worden sind,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD>
+                                <LA>die Wehrbereichskommandos, die Führungsakademie der Bundeswehr und das Personalamt der Bundeswehr, soweit nicht in Absatz 1 oder in Nummer 1 oder 2 andere Zuständigkeiten begründet worden sind,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD>
+                                <LA>das Einsatzführungskommando der Bundeswehr, das Streitkräfteunterstützungskommando, das Kommando Führung Operationen von Spezialkräften, das Kommando Operative Führung Eingreifkräfte und das Streitkräfteamt, soweit nicht in Absatz 1 oder in den Nummern 1 bis 3 andere Zuständigkeiten begründet worden sind,</LA>
+                            </DD>
+                        </DL>Bewerberinnen und Bewerber sowie ihnen unterstellte Soldatinnen und Soldaten in einer Mannschaftslaufbahn in das Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit berufen. Sie dürfen außerdem ihnen unterstellte Soldatinnen und Soldaten zu einem Mannschaftsdienstgrad befördern, soweit nicht in Absatz 1 andere Zuständigkeiten begründet worden sind.</P>
+                    <P>(3) Es dürfen <DL>
+                            <DT>1.</DT>
+                            <DD>
+                                <LA>die Wehrbereichskommandos, die Führungsakademie der Bundeswehr und das Personalamt der Bundeswehr,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD>
+                                <LA>das Einsatzführungskommando der Bundeswehr, das Streitkräfteunterstützungskommando, das Kommando Führung Operationen von Spezialkräften, das Kommando Operative Führung Eingreifkräfte und das Streitkräfteamt, soweit nicht in Nummer 1 andere Zuständigkeiten begründet worden sind,</LA>
+                            </DD>
+                        </DL>ihnen unterstellte Mannschaften entlassen.</P>
+                    <P>(4) In nicht von den Absätzen 1 bis 3 erfassten Fällen werden Mannschaften durch die Stammdienststelle der Bundeswehr ernannt und entlassen.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20121112214509" doknr="BJNR211000008BJNG000300000">
+        <metadaten>
+            <jurabk>SoldErnAnO 2009</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>Abschnitt 3</gliederungsbez>
+                <gliederungstitel>Zuständigkeiten für Reservistinnen und Reservisten</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten/>
+    </norm>
+    <norm builddate="20121112214509" doknr="BJNR211000008BJNE000901310">
+        <metadaten>
+            <jurabk>SoldErnAnO 2009</jurabk>
+            <enbez>Art 8</enbez>
+            <titel format="XML">Beförderungen und Entlassungen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Reservistinnen und Reservisten im Sinne dieses Artikels sind auch Soldatinnen und Soldaten in anderen als den in Abschnitt 2 genannten Wehrdienstverhältnissen.</P>
+                    <P>(2) Das Personalamt der Bundeswehr darf zu Offizierdienstgraden bis zum Oberstleutnant befördern. Es darf außerdem die Reserveoffizier-Anwärterinnen und Reserveoffizier-Anwärter befördern. Dies gilt auch für die Verleihung vorläufiger und zeitweiliger Offizierdienstgrade nach § 5 Abs. 3 und § 43 Abs. 3 der Soldatenlaufbahnverordnung.</P>
+                    <P>(3) Die Stammdienststelle der Bundeswehr darf zu Unteroffizier- und Mannschaftsdienstgraden befördern. Dies gilt auch für die Verleihung vorläufiger und zeitweiliger Unteroffizier- und Mannschaftsdienstgrade nach § 5 Abs. 3 der Soldatenlaufbahnverordnung und vorläufiger und zeitweiliger Unteroffizierdienstgrade nach § 22 Abs. 5 der Soldatenlaufbahnverordnung.</P>
+                    <P>(4) Reservistinnen und Reservisten werden durch ihren Übungstruppenteil entlassen. Als Leiterin oder Leiter eines Truppenteils eingesetzte Reservistinnen und Reservisten werden durch die nächsthöhere Dienststelle entlassen.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20121112214509" doknr="BJNR211000008BJNG000400000">
+        <metadaten>
+            <jurabk>SoldErnAnO 2009</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>040</gliederungskennzahl>
+                <gliederungsbez>Abschnitt 4</gliederungsbez>
+                <gliederungstitel>Schlussbestimmungen</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten/>
+    </norm>
+    <norm builddate="20121112214509" doknr="BJNR211000008BJNE001001310">
+        <metadaten>
+            <jurabk>SoldErnAnO 2009</jurabk>
+            <enbez>Art 9</enbez>
+            <titel format="XML">Entlassungen nach § 61 in Verbindung mit § 29 Abs. 1 Satz 3 Nr. 4 des Wehrpflichtgesetzes</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die Zuständigkeit der nächsten Disziplinarvorgesetzten nach § 61 in Verbindung mit § 29 Abs. 1 Satz 3 Nr. 4 des Wehrpflichtgesetzes bleibt unberührt.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20121112214509" doknr="BJNR211000008BJNE001101310">
+        <metadaten>
+            <jurabk>SoldErnAnO 2009</jurabk>
+            <enbez>Art 10</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20121112214509" doknr="BJNR211000008BJNE001200000">
+        <metadaten>
+            <jurabk>SoldErnAnO 2009</jurabk>
+            <enbez>Art 11</enbez>
+            <titel format="XML">Inkrafttreten, Außerkrafttreten</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Diese Anordnung tritt am 1. Januar 2009 in Kraft.</P>
+                    <P>(2) Der Gesamtvertrauenspersonenausschuss ist beteiligt worden.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20121112214509" doknr="BJNR211000008BJNE001300000">
+        <metadaten>
+            <jurabk>SoldErnAnO 2009</jurabk>
+            <enbez>Schlussformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Der Bundesminister der Verteidigung<SP/>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
 </dokumente>

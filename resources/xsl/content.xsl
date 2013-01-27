@@ -2,11 +2,9 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="3.0">
     <xsl:output indent="yes" encoding="UTF-8"/>
     <xsl:strip-space elements="*"/>
-
     <xsl:template match="/">
         <xsl:apply-templates select="norm"/>
     </xsl:template>
-
     <xsl:template match="norm">
         <xsl:copy>
             <xsl:apply-templates select="@*"/>
@@ -30,8 +28,7 @@
     </xsl:template>    
     
     <!-- IGNORE -->
-    <xsl:template match="DD" mode="text" priority="5"></xsl:template>
-
+    <xsl:template match="DD" mode="text" priority="5"/>
     <xsl:template match="Content" mode="text" priority="5">
         <xsl:apply-templates mode="text"/>
     </xsl:template>

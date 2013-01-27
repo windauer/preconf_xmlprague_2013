@@ -1,7 +1,126 @@
-<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
-<dokumente builddate="20120905043637" doknr="BJNR004240991"><norm builddate="20120905043637" doknr="BJNR004240991"><metadaten><jurabk>MilBezPersRatV 1991</jurabk><ausfertigung-datum manuell="ja">1991-02-08</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1991, 424</zitstelle></fundstelle><langue>Verordnung über die Bildung von Bezirkspersonalräten bei militärischen
-Dienststellen</langue><standangabe checked="ja"><standtyp>Stand</standtyp><standkommentar>Zuletzt geändert durch Art. 1 V v. 21.8.2012 I 1804</standkommentar></standangabe><standangabe checked="ja"><standtyp>Aufh</standtyp><standkommentar>V aufgeh. durch Art. 3 Abs. 2 Satz 2 V 51-3-5 v. 21.8.2012 I 1804 mWv 1.4.2013</standkommentar></standangabe></metadaten><textdaten><fussnoten><Content><P><BR/> <pre xml:space="preserve">(+++ Textnachweis ab: 22.1.1991 +++)<BR/><BR/></pre></P></Content></fussnoten></textdaten></norm>
-<norm builddate="20120905043637" doknr="BJNR004240991BJNE000100308"><metadaten><jurabk>MilBezPersRatV 1991</jurabk><enbez>Eingangsformel</enbez></metadaten><textdaten><text format="XML"><Content><P>Auf Grund des § 39 des Soldatenbeteiligungsgesetzes (SBG) vom 16. Januar 1991 (BGBl. I S. 47) verordnet der Bundesminister der Verteidigung:</P></Content></text></textdaten></norm>
-<norm builddate="20120905043637" doknr="BJNR004240991BJNE000204310"><metadaten><jurabk>MilBezPersRatV 1991</jurabk><enbez>§ 1</enbez></metadaten><textdaten><text format="XML"><Content><P>Bezirkspersonalräte werden bei folgenden, den Behörden der Mittelstufe nach § 6 Abs. 2 Satz 2 des Bundespersonalvertretungsgesetzes entsprechenden militärischen Dienststellen gebildet: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Streitkräfteunterstützungskommando,</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">Streitkräfteamt,</LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">Sanitätsführungskommando,</LA></DD><DT>4.</DT><DD Font="normal"><LA Size="normal">(aufgehoben),</LA></DD><DT>5.</DT><DD Font="normal"><LA Size="normal">(aufgehoben),</LA></DD><DT>6.</DT><DD Font="normal"><LA Size="normal">Heeresamt,</LA></DD><DT>7.</DT><DD Font="normal"><LA Size="normal">Luftwaffenamt,</LA></DD><DT>8.</DT><DD Font="normal"><LA Size="normal">Marineamt,</LA></DD><DT>9.</DT><DD Font="normal"><LA Size="normal">Sanitätsamt der Bundeswehr,</LA></DD><DT>10.</DT><DD Font="normal"><LA Size="normal">Heeresführungskommando,</LA></DD><DT>11.</DT><DD Font="normal"><LA Size="normal">(aufgehoben),</LA></DD><DT>12.</DT><DD Font="normal"><LA Size="normal">Luftwaffenführungskommando.</LA></DD></DL></P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120905043637" doknr="BJNR004240991BJNE000300308"><metadaten><jurabk>MilBezPersRatV 1991</jurabk><enbez>§ 2</enbez></metadaten><textdaten><text format="XML"><Content><P>Diese Verordnung tritt mit Wirkung vom 22. Januar 1991 in Kraft.</P></Content></text><fussnoten/></textdaten></norm>
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120905043637" doknr="BJNR004240991">
+    <norm builddate="20120905043637" doknr="BJNR004240991">
+        <metadaten>
+            <jurabk>MilBezPersRatV 1991</jurabk>
+            <ausfertigung-datum manuell="ja">1991-02-08</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1991, 424</zitstelle>
+            </fundstelle>
+            <langue>Verordnung über die Bildung von Bezirkspersonalräten bei militärischen
+Dienststellen</langue>
+            <standangabe checked="ja">
+                <standtyp>Stand</standtyp>
+                <standkommentar>Zuletzt geändert durch Art. 1 V v. 21.8.2012 I 1804</standkommentar>
+            </standangabe>
+            <standangabe checked="ja">
+                <standtyp>Aufh</standtyp>
+                <standkommentar>V aufgeh. durch Art. 3 Abs. 2 Satz 2 V 51-3-5 v. 21.8.2012 I 1804 mWv 1.4.2013</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <fussnoten>
+                <Content>
+                    <P>
+                        <BR/>
+                        <pre xml:space="preserve">(+++ Textnachweis ab: 22.1.1991 +++)<BR/>
+                            <BR/>
+                        </pre>
+                    </P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120905043637" doknr="BJNR004240991BJNE000100308">
+        <metadaten>
+            <jurabk>MilBezPersRatV 1991</jurabk>
+            <enbez>Eingangsformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Auf Grund des § 39 des Soldatenbeteiligungsgesetzes (SBG) vom 16. Januar 1991 (BGBl. I S. 47) verordnet der Bundesminister der Verteidigung:</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120905043637" doknr="BJNR004240991BJNE000204310">
+        <metadaten>
+            <jurabk>MilBezPersRatV 1991</jurabk>
+            <enbez>§ 1</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Bezirkspersonalräte werden bei folgenden, den Behörden der Mittelstufe nach § 6 Abs. 2 Satz 2 des Bundespersonalvertretungsgesetzes entsprechenden militärischen Dienststellen gebildet: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Streitkräfteunterstützungskommando,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Streitkräfteamt,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Sanitätsführungskommando,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">(aufgehoben),</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">(aufgehoben),</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Heeresamt,</LA>
+                            </DD>
+                            <DT>7.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Luftwaffenamt,</LA>
+                            </DD>
+                            <DT>8.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Marineamt,</LA>
+                            </DD>
+                            <DT>9.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Sanitätsamt der Bundeswehr,</LA>
+                            </DD>
+                            <DT>10.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Heeresführungskommando,</LA>
+                            </DD>
+                            <DT>11.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">(aufgehoben),</LA>
+                            </DD>
+                            <DT>12.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Luftwaffenführungskommando.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120905043637" doknr="BJNR004240991BJNE000300308">
+        <metadaten>
+            <jurabk>MilBezPersRatV 1991</jurabk>
+            <enbez>§ 2</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Diese Verordnung tritt mit Wirkung vom 22. Januar 1991 in Kraft.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
 </dokumente>

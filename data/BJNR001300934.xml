@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
-<dokumente builddate="20120625155021" doknr="BJNR001300934"><norm builddate="20120625155021" doknr="BJNR001300934"><metadaten><jurabk>VwVereinfG</jurabk><ausfertigung-datum manuell="ja">1934-02-27</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>RGBl I</periodikum><zitstelle>1934, 130</zitstelle></fundstelle><langue>Gesetz zur Vereinfachung und Verbilligung der Verwaltung</langue></metadaten><textdaten><text format="decorated"/><fussnoten><Content><P>Partielles Recht für Berlin</P></Content></fussnoten></textdaten></norm>
-<norm builddate="20120625155021" doknr="BJNR001300934BJNG000100301"><metadaten><jurabk>VwVereinfG</jurabk><gliederungseinheit><gliederungskennzahl>010</gliederungskennzahl><gliederungsbez>Kapitel I</gliederungsbez><gliederungstitel>Einheitliche Verkehrspolitik</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="decorated"/><fussnoten/></textdaten></norm>
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625155021" doknr="BJNR001300934">
+    <norm builddate="20120625155021" doknr="BJNR001300934">
+        <metadaten>
+            <jurabk>VwVereinfG</jurabk>
+            <ausfertigung-datum manuell="ja">1934-02-27</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>RGBl I</periodikum>
+                <zitstelle>1934, 130</zitstelle>
+            </fundstelle>
+            <langue>Gesetz zur Vereinfachung und Verbilligung der Verwaltung</langue>
+        </metadaten>
+        <textdaten>
+            <text format="decorated"/>
+            <fussnoten>
+                <Content>
+                    <P>Partielles Recht für Berlin</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155021" doknr="BJNR001300934BJNG000100301">
+        <metadaten>
+            <jurabk>VwVereinfG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>010</gliederungskennzahl>
+                <gliederungsbez>Kapitel I</gliederungsbez>
+                <gliederungstitel>Einheitliche Verkehrspolitik</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="decorated"/>
+            <fussnoten/>
+        </textdaten>
+    </norm>
 </dokumente>

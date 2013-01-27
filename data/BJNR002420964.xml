@@ -1,13 +1,156 @@
-<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
-<dokumente builddate="20120803043426" doknr="BJNR002420964"><norm builddate="20120803043426" doknr="BJNR002420964"><metadaten><jurabk>LorbBlErl</jurabk><ausfertigung-datum manuell="ja">1964-03-24</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1964, 242</zitstelle></fundstelle><langue>Erlaß über die Stiftung des Silbernen Lorbeerblattes</langue><standangabe checked="ja"><standtyp>Stand</standtyp><standkommentar>Geändert durch Erlass v. 28.11.1980 I 2217</standkommentar></standangabe></metadaten><textdaten><fussnoten><Content><P>(+++ Textnachweis Geltung ab: 6.12.1980 +++)</P></Content></fussnoten></textdaten></norm>
-<norm builddate="20120803043426" doknr="BJNR002420964BJNE000100315"><metadaten><jurabk>LorbBlErl</jurabk><enbez>Art I</enbez></metadaten><textdaten><text format="XML"><Content><P>Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und Ehrenzeichen vom 26. Juli 1957 (Bundesgesetzbl. I S. 844) bestätige ich die Stiftung des Silbernen Lorbeerblattes vom 23. Juni 1950.</P></Content></text></textdaten></norm>
-<norm builddate="20120803043426" doknr="BJNR002420964BJNE000200315"><metadaten><jurabk>LorbBlErl</jurabk><enbez>Art II</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Das Silberne Lorbeerblatt ist ein Ehrenzeichen. Es wird als Auszeichnung für hervorragende Leistungen auf den Gebieten des sportlichen und musischen Lebens verliehen.</P><P>(2) Bei der Wertung der Leistungen wird ein strenger internationaler Maßstab angelegt. Einmalige Höchstleistungen reichen grundsätzlich für eine Verleihung nicht aus. Der Leistung muß eine vorbildliche menschliche und charakterliche Haltung des Auszuzeichnenden entsprechen.</P></Content> </text></textdaten></norm>
-<norm builddate="20120803043426" doknr="BJNR002420964BJNE000300315"><metadaten><jurabk>LorbBlErl</jurabk><enbez>Art III</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Das Ehrenzeichen ist eine silberne Anstecknadel (Ansteckbrosche) in der Form eines waagerechten Lorbeerblattes. Es kann auch in einer Sonderausfertigung verliehen werden. Eine Abbildung des im Bundesministerium des Innern verwahrten amtlichen Musters wird als Anlage veröffentlicht.</P><P>(2) Wird das Silberne Lorbeerblatt in verkleinerter Ausführung an der Bandschnalle getragen, so erhält diese die olympischen Farben.</P></Content> </text></textdaten></norm>
-<norm builddate="20120803043426" doknr="BJNR002420964BJNE000400315"><metadaten><jurabk>LorbBlErl</jurabk><enbez>Art IV</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Der Beliehene erhält neben dem Ehrenzeichen eine Verleihungsurkunde.</P><P>(2) Bei der Auszeichnung einer Mannschaftsleistung erhält die Mannschaft oder der Verein eine vergrößerte Ausführung des Silbernen Lorbeerblattes und eine Verleihungsurkunde. Die an der Leistung beteiligten aktiven Mitglieder erhalten das Ehrenzeichen und eine Verleihungsurkunde.</P></Content> </text><fussnoten/></textdaten></norm>
-<norm builddate="20120803043426" doknr="BJNR002420964BJNE000500315"><metadaten><jurabk>LorbBlErl</jurabk><enbez>Art V</enbez></metadaten><textdaten><text format="XML"><Content><P>Die vergrößerte Ausführung des Silbernen Lorbeerblattes kann auch zur Auszeichnung eines Vereins verliehen werden.</P></Content></text></textdaten></norm>
-<norm builddate="20120803043426" doknr="BJNR002420964BJNE000600315"><metadaten><jurabk>LorbBlErl</jurabk><enbez>Art VI</enbez></metadaten><textdaten><text format="XML"><Content><P>Die bisher verliehenen Anstecknadeln (Ansteckbroschen) sind Ehrenzeichen im Sinne des Gesetzes über Titel, Orden und Ehrenzeichen.</P></Content></text></textdaten></norm>
-<norm builddate="20120803043426" doknr="BJNR002420964BJNE000700315"><metadaten><jurabk>LorbBlErl</jurabk><enbez>Art VII</enbez></metadaten><textdaten><text format="XML"><Content><P>Einzelheiten der Verleihung können in gesonderten Richtlinien festgelegt werden.</P></Content></text></textdaten></norm>
-<norm builddate="20120803043426" doknr="BJNR002420964BJNE000800315"><metadaten><jurabk>LorbBlErl</jurabk><enbez>Schlußformel</enbez></metadaten><textdaten><text format="XML"><Content><P><SP>Der Bundespräsident</SP> <BR/><SP>Der Stellvertreter des Bundeskanzlers</SP> <BR/><SP>Der Bundesminister des Innern</SP></P></Content></text></textdaten></norm>
-<norm builddate="20120803043426" doknr="BJNR002420964BJNE000900315"><metadaten><jurabk>LorbBlErl</jurabk><enbez>Anlage</enbez><titel format="parat">(zu Artikel III Abs 1)</titel></metadaten><textdaten><text format="XML"><Content><P><ABWFORMAT typ="E"/><kommentar typ="Fundstelle">(Inhalt: nicht darstellbares Muster, <BR/>Fundstelle: BGBl. I 1964, 243)</kommentar></P></Content>
-</text></textdaten></norm>
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120803043426" doknr="BJNR002420964">
+    <norm builddate="20120803043426" doknr="BJNR002420964">
+        <metadaten>
+            <jurabk>LorbBlErl</jurabk>
+            <ausfertigung-datum manuell="ja">1964-03-24</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1964, 242</zitstelle>
+            </fundstelle>
+            <langue>Erlaß über die Stiftung des Silbernen Lorbeerblattes</langue>
+            <standangabe checked="ja">
+                <standtyp>Stand</standtyp>
+                <standkommentar>Geändert durch Erlass v. 28.11.1980 I 2217</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <fussnoten>
+                <Content>
+                    <P>(+++ Textnachweis Geltung ab: 6.12.1980 +++)</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120803043426" doknr="BJNR002420964BJNE000100315">
+        <metadaten>
+            <jurabk>LorbBlErl</jurabk>
+            <enbez>Art I</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und Ehrenzeichen vom 26. Juli 1957 (Bundesgesetzbl. I S. 844) bestätige ich die Stiftung des Silbernen Lorbeerblattes vom 23. Juni 1950.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120803043426" doknr="BJNR002420964BJNE000200315">
+        <metadaten>
+            <jurabk>LorbBlErl</jurabk>
+            <enbez>Art II</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Das Silberne Lorbeerblatt ist ein Ehrenzeichen. Es wird als Auszeichnung für hervorragende Leistungen auf den Gebieten des sportlichen und musischen Lebens verliehen.</P>
+                    <P>(2) Bei der Wertung der Leistungen wird ein strenger internationaler Maßstab angelegt. Einmalige Höchstleistungen reichen grundsätzlich für eine Verleihung nicht aus. Der Leistung muß eine vorbildliche menschliche und charakterliche Haltung des Auszuzeichnenden entsprechen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120803043426" doknr="BJNR002420964BJNE000300315">
+        <metadaten>
+            <jurabk>LorbBlErl</jurabk>
+            <enbez>Art III</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Das Ehrenzeichen ist eine silberne Anstecknadel (Ansteckbrosche) in der Form eines waagerechten Lorbeerblattes. Es kann auch in einer Sonderausfertigung verliehen werden. Eine Abbildung des im Bundesministerium des Innern verwahrten amtlichen Musters wird als Anlage veröffentlicht.</P>
+                    <P>(2) Wird das Silberne Lorbeerblatt in verkleinerter Ausführung an der Bandschnalle getragen, so erhält diese die olympischen Farben.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120803043426" doknr="BJNR002420964BJNE000400315">
+        <metadaten>
+            <jurabk>LorbBlErl</jurabk>
+            <enbez>Art IV</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Der Beliehene erhält neben dem Ehrenzeichen eine Verleihungsurkunde.</P>
+                    <P>(2) Bei der Auszeichnung einer Mannschaftsleistung erhält die Mannschaft oder der Verein eine vergrößerte Ausführung des Silbernen Lorbeerblattes und eine Verleihungsurkunde. Die an der Leistung beteiligten aktiven Mitglieder erhalten das Ehrenzeichen und eine Verleihungsurkunde.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120803043426" doknr="BJNR002420964BJNE000500315">
+        <metadaten>
+            <jurabk>LorbBlErl</jurabk>
+            <enbez>Art V</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die vergrößerte Ausführung des Silbernen Lorbeerblattes kann auch zur Auszeichnung eines Vereins verliehen werden.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120803043426" doknr="BJNR002420964BJNE000600315">
+        <metadaten>
+            <jurabk>LorbBlErl</jurabk>
+            <enbez>Art VI</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die bisher verliehenen Anstecknadeln (Ansteckbroschen) sind Ehrenzeichen im Sinne des Gesetzes über Titel, Orden und Ehrenzeichen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120803043426" doknr="BJNR002420964BJNE000700315">
+        <metadaten>
+            <jurabk>LorbBlErl</jurabk>
+            <enbez>Art VII</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Einzelheiten der Verleihung können in gesonderten Richtlinien festgelegt werden.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120803043426" doknr="BJNR002420964BJNE000800315">
+        <metadaten>
+            <jurabk>LorbBlErl</jurabk>
+            <enbez>Schlußformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <SP>Der Bundespräsident</SP>
+                        <BR/>
+                        <SP>Der Stellvertreter des Bundeskanzlers</SP>
+                        <BR/>
+                        <SP>Der Bundesminister des Innern</SP>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120803043426" doknr="BJNR002420964BJNE000900315">
+        <metadaten>
+            <jurabk>LorbBlErl</jurabk>
+            <enbez>Anlage</enbez>
+            <titel format="parat">(zu Artikel III Abs 1)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <ABWFORMAT typ="E"/>
+                        <kommentar typ="Fundstelle">(Inhalt: nicht darstellbares Muster, <BR/>Fundstelle: BGBl. I 1964, 243)</kommentar>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
 </dokumente>

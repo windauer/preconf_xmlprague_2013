@@ -63,7 +63,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>BGB (inline &amp; generate UUIDS)</String>
+                                    <String>BGB (content)</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -81,10 +81,10 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>file:/Users/windauer/dev/association/gesetz/resources/xsl/inline.xsl</String>
+                                    <String>file:/Users/windauer/dev/association/gesetz/resources/xsl/content.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
-                                    <String>file:/Users/windauer/dev/association/gesetz/data/BJNR001950896.xml</String>
+                                    <String>file:/Users/windauer/dev/association/gesetz/data/transformed/BGG-inlined.xml</String>
                                 </field>
                                 <field name="defaultScenario">
                                     <Boolean>false</Boolean>
@@ -102,7 +102,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>/Users/windauer/dev/association/gesetz/data/transformed/BGG-inlined.xml</File>
+                                    <File>/Users/windauer/dev/association/gesetz/data/transformed/BGG-content.xml</File>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
@@ -229,7 +229,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>HGB (inline &amp; generate UUIDS)</String>
+                                    <String>BGB (inline &amp; generate UUIDS)</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -250,7 +250,7 @@
                                     <String>file:/Users/windauer/dev/association/gesetz/resources/xsl/inline.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
-                                    <String>file:/Users/windauer/dev/association/gesetz/data/BJNR002190897.xml</String>
+                                    <String>file:/Users/windauer/dev/association/gesetz/data/BJNR001950896.xml</String>
                                 </field>
                                 <field name="defaultScenario">
                                     <Boolean>false</Boolean>
@@ -268,7 +268,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>/Users/windauer/dev/association/gesetz/data/transformed/HGB-inlined.xml</File>
+                                    <File>/Users/windauer/dev/association/gesetz/data/transformed/BGG-inlined.xml</File>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
@@ -395,7 +395,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>BGB (content)</String>
+                                    <String>HGB (inline &amp; generate UUIDS)</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -413,10 +413,10 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>file:/Users/windauer/dev/association/gesetz/resources/xsl/content.xsl</String>
+                                    <String>file:/Users/windauer/dev/association/gesetz/resources/xsl/inline.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
-                                    <String>file:/Users/windauer/dev/association/gesetz/data/transformed/BGG-inlined.xml</String>
+                                    <String>file:/Users/windauer/dev/association/gesetz/data/BJNR002190897.xml</String>
                                 </field>
                                 <field name="defaultScenario">
                                     <Boolean>false</Boolean>
@@ -434,7 +434,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>/Users/windauer/dev/association/gesetz/data/transformed/BGG-content.xml</File>
+                                    <File>/Users/windauer/dev/association/gesetz/data/transformed/HGB-inlined.xml</File>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>

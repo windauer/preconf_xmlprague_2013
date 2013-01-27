@@ -1,58 +1,285 @@
-<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
-<dokumente builddate="20120625152655" doknr="BJNR003510970"><norm builddate="20120625152655" doknr="BJNR003510970"><metadaten><jurabk>MarktStrGDV 6</jurabk><ausfertigung-datum manuell="ja">1970-04-14</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1970, 351</zitstelle></fundstelle><langue>Sechste Durchführungsverordnung zum Marktstrukturgesetz - Getreide, Öl- und Hülsenfrüchte</langue><standangabe checked="ja"><standtyp>Neuf</standtyp><standkommentar>Neugefasst durch Bek. v. 4.7.1994 I 1459;</standkommentar></standangabe><standangabe checked="ja"><standtyp>Stand</standtyp><standkommentar>geändert durch Art. 3 V v. 5.11.1997 I 2642</standkommentar></standangabe></metadaten><textdaten><fussnoten><Content><P>(+++ Textnachweis Geltung ab: 23.3.1985 +++)</P><P><BR/> Überschrift: IdF d. Art. 3 Nr. 1 V v. 5.11.1997 I 2642 mWv 12.11.1997</P><P><BR/> Die V tritt in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anlage I Kap. VI Sachg. C Abschn. III Nr. 1 iVm Art. 1 G v. 23.9.1990 II 885, 1016 am 1.1.1994 in Kraft. Diese Maßgabe ist gem. Art. 4 Satz 2 G v. 26.6.1992 I 1159 mWv 1.7.1992 nicht mehr anzuwenden. Die V ist gem. ihrem § 4 idF d. G v. 26.6.1992 I 1159 in dem in Art. 3 des Einigungsvertrages genannten Gebiet mWv 1.7.1992 in Kraft getreten.</P></Content></fussnoten></textdaten></norm>
-<norm builddate="20120625152655" doknr="BJNR003510970BJNE000203308"><metadaten><jurabk>MarktStrGDV 6</jurabk><enbez>§ 1</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Zu einer Gruppe verwandter Erzeugnisse (§ 3 Abs. 1 Nr. 3 Buchstabe a des Gesetzes), für die eine Erzeugergemeinschaft gebildet werden kann, können mehrere der folgenden Erzeugnisse zusammengefaßt werden: <BR/><table frame="top" tocentry="%yes;">
-	<tgroup align="left" char="" charoff="50" cols="2" colsep="0" rowsep="0">
-		<colspec colname="col1" colnum="1" colwidth="20*"/>
-		<colspec colname="col2" colnum="2" colwidth="40*"/>
-		<thead valign="bottom">
-			<row rowsep="1">
-				<entry VJ="1" align="left" colsep="0" valign="top">KN-Code</entry>
-				<entry VJ="1" align="center" colsep="0" valign="top">Erzeugnisse</entry>
-			</row>
-		</thead>
-		<tbody valign="top">
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">ex 1001</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Qualitätsweizen für Backzwecke</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">ex 1001</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Qualitätshartweizen (Durum-Weizen) für Ernährungszwecke</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">ex 1001</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Qualitätsweizen für Brauzwecke</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">ex 1002</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Qualitätsroggen für die Brotherstellung</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">ex 1003</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Qualitätsgerste für Brauzwecke</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">ex 1004</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Qualitätshafer für Ernährungszwecke</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">ex 0713</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Trockene, ausgelöste Erbsen und Bohnen, nicht geschält oder zerkleinert</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">ex 1204</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Leinsamen</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">ex 1205</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Rapssamen</entry>
-			</row>
-		</tbody>
-	</tgroup>
-</table> </P><P>(2) Im Sinne dieser Verordnung ist <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Qualitätsweizen Erntegut von Sorten, die einen Sedimentationswert von mindestens 30 und bei einem Umrechnungsfaktor für Stickstoff von 5,7 einen Rohproteingehalt in der Trockensubstanz von mindestens 12% erreichen; die Fallzahl bei der Auswuchsbestimmung muß mindestens 150 betragen;</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Qualitätsroggen Erntegut von Sorten, die ein Mehlamylogramm von mindestens 330 Amylogramm-Einheiten erreichen; die Fallzahl bei der Auswuchsbestimmung muß mindestens 90 betragen;</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Qualitätsgerste Erntegut von Sorten, die bei einem Umrechnungsfaktor für Stickstoff von 6,25 einen Rohproteingehalt von höchstens 11,5% und eine Keimfähigkeit ab 15. Oktober von mindestens 98% erreichen; der Vollgerstenanteil muß mindestens 90% betragen;</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Qualitätshafer Erntegut von Sorten, die, bezogen auf die Trockensubstanz, einen Spelzengehalt von höchstens 26% und ein Tausendkorngewicht von mindestens 27 g aufweisen;</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">Qualitätshartweizen Erntegut von Sorten, die, bezogen auf die Trockensubstanz, bei einem Umrechnungsfaktor für Stickstoff von 5,7, einen Rohproteingehalt von mindestens 14% und einen Gelbpigmentgehalt im Grieß von mindestens 0,450 mg/100 g aufweisen;</LA></DD> <DT>6.</DT><DD Font="normal"><LA Size="normal">Qualitätsweizen für Brauzwecke Erntegut von Sorten, die bezogen auf die Trockensubstanz, bei einem Umrechnungsfaktor für Stickstoff von 6,25 einen Rohproteingehalt von höchstens 12% und eine Keimfähigkeit von mindestens 95% erreichen; der Vollkornanteil muß mindestens 90% betragen.</LA></DD></DL></P></Content> </text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152655" doknr="BJNR003510970BJNE000303308"><metadaten><jurabk>MarktStrGDV 6</jurabk><enbez>§ 2</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Die Mindesterzeugungsmenge (§ 3 Abs. 1 Nr. 6 des Gesetzes) wird festgesetzt auf jährlich <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">400 Tonnen je Sorte Qualitätsweizen für Backzwecke,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">300 Tonnen je Sorte Qualitätsroggen für die Brotherstellung,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">300 Tonnen je Sorte Qualitätsgerste für Brauzwecke,</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">300 Tonnen je Sorte Qualitätshafer für Ernährungszwecke,</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">300 Tonnen je Sorte Qualitätshartweizen für Ernährungszwecke,</LA></DD> <DT>6.</DT><DD Font="normal"><LA Size="normal">400 Tonnen je Sorte Qualitätsweizen für Brauzwecke,</LA></DD> <DT>7.</DT><DD Font="normal"><LA Size="normal">400 Tonnen Erbsen und Bohnen,</LA></DD> <DT>8.</DT><DD Font="normal"><LA Size="normal"/><LA Size="normal">1.000 Tonnen Raps,</LA></DD>  <DT>9.</DT><DD Font="normal"><LA Size="normal">300 Tonnen Leinsamen.</LA></DD> </DL> </P><P>(2) Das erste Jahr beginnt mit dem der Antragstellung auf Anerkennung als Erzeugergemeinschaft folgenden <BR/>-  1. April bei Sommerfrucht, <BR/>-  1. Oktober bei Winterfrucht. Abweichend von Satz 1 beginnt das erste Jahr am <BR/>- 15. März bei Sommerraps, <BR/>- 15. August bei Winterraps.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152655" doknr="BJNR003510970BJNE000401301"><metadaten><jurabk>MarktStrGDV 6</jurabk><enbez>§ 3</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Die Mindestmenge eines Liefervertrages (§ 6 Abs. 1 Nr. 4 des Gesetzes) wird festgesetzt auf jährlich jeweils 50% der in § 2 Abs. 1 bezeichneten Mengen. Werden Lieferverträge mit Zustimmung der Erzeugergemeinschaft unmittelbar zwischen Mitgliedern der Erzeugergemeinschaft und einem Unternehmen abgeschlossen, so gelten diese Lieferverträge für die Berechnung der Mindestmenge nach Satz 1 als ein Liefervertrag.</P><P>(2) Die Mindestdauer eines Liefervertrages (§ 6 Abs. 1 Nr. 5 des Gesetzes) wird für Lieferverträge nach Absatz 1 auf drei Jahre festgesetzt.</P></Content> </text></textdaten></norm>
-<norm builddate="20120625152655" doknr="BJNR003510970BJNE000804308"><metadaten><jurabk>MarktStrGDV 6</jurabk><enbez>§ 3a</enbez></metadaten><textdaten><text format="XML"><Content><P>Die Landesregierungen können durch Rechtsverordnung <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">die Erzeugnisse, die zu einer Gruppe verwandter Erzeugnisse (§ 3 Abs. 1 Nr. 3 Buchstabe a des Gesetzes) zusammengefaßt werden können, um<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Dinkel für die Grünkern-, Gebäck- und Teigwarenherstellung,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">Qualitätskörnermais zur Herstellung von Erzeugnissen für die menschliche Ernährung sowie für die technische Verwendung,</LA></DD> <DT>c)</DT><DD Font="normal"><LA Size="normal">Sojabohnen,</LA></DD> <DT>d)</DT><DD Font="normal"><LA Size="normal">Sonnenblumenkerne,</LA></DD> <DT>e)</DT><DD Font="normal"><LA Size="normal">Buchweizen,</LA></DD> <DT>f)</DT><DD Font="normal"><LA Size="normal">Senfsamen,</LA></DD> <DT>g)</DT><DD Font="normal"><LA Size="normal">Hanfsamen</LA></DD> </DL></LA><LA Size="normal">ergänzen und</LA></DD>  <DT>2.</DT><DD Font="normal"><LA Size="normal">für diese Erzeugnisse<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">die Mindesterzeugungsmenge (§ 3 Abs. 1 Nr. 6 des Gesetzes),</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">die Mindestmenge und Mindestdauer von Lieferverträgen (§ 6 Abs. 1 Nr. 4 und 5 des Gesetzes)</LA><LA Size="normal">festsetzen.</LA></DD>  </DL></LA></DD> </DL></P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625152655" doknr="BJNR003510970BJNE000502301"><metadaten><jurabk>MarktStrGDV 6</jurabk><enbez>§ 4</enbez></metadaten><textdaten><text format="XML"><Content><P>(Inkrafttreten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet)</P></Content></text></textdaten></norm>
-<norm builddate="20120625152655" doknr="BJNR003510970BJNE000601301"><metadaten><jurabk>MarktStrGDV 6</jurabk><enbez>§ 5</enbez></metadaten><textdaten><text format="XML"><Content><P>(Inkrafttreten)</P></Content></text></textdaten></norm>
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625152655" doknr="BJNR003510970">
+    <norm builddate="20120625152655" doknr="BJNR003510970">
+        <metadaten>
+            <jurabk>MarktStrGDV 6</jurabk>
+            <ausfertigung-datum manuell="ja">1970-04-14</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1970, 351</zitstelle>
+            </fundstelle>
+            <langue>Sechste Durchführungsverordnung zum Marktstrukturgesetz - Getreide, Öl- und Hülsenfrüchte</langue>
+            <standangabe checked="ja">
+                <standtyp>Neuf</standtyp>
+                <standkommentar>Neugefasst durch Bek. v. 4.7.1994 I 1459;</standkommentar>
+            </standangabe>
+            <standangabe checked="ja">
+                <standtyp>Stand</standtyp>
+                <standkommentar>geändert durch Art. 3 V v. 5.11.1997 I 2642</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <fussnoten>
+                <Content>
+                    <P>(+++ Textnachweis Geltung ab: 23.3.1985 +++)</P>
+                    <P>
+                        <BR/> Überschrift: IdF d. Art. 3 Nr. 1 V v. 5.11.1997 I 2642 mWv 12.11.1997</P>
+                    <P>
+                        <BR/> Die V tritt in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anlage I Kap. VI Sachg. C Abschn. III Nr. 1 iVm Art. 1 G v. 23.9.1990 II 885, 1016 am 1.1.1994 in Kraft. Diese Maßgabe ist gem. Art. 4 Satz 2 G v. 26.6.1992 I 1159 mWv 1.7.1992 nicht mehr anzuwenden. Die V ist gem. ihrem § 4 idF d. G v. 26.6.1992 I 1159 in dem in Art. 3 des Einigungsvertrages genannten Gebiet mWv 1.7.1992 in Kraft getreten.</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152655" doknr="BJNR003510970BJNE000203308">
+        <metadaten>
+            <jurabk>MarktStrGDV 6</jurabk>
+            <enbez>§ 1</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Zu einer Gruppe verwandter Erzeugnisse (§ 3 Abs. 1 Nr. 3 Buchstabe a des Gesetzes), für die eine Erzeugergemeinschaft gebildet werden kann, können mehrere der folgenden Erzeugnisse zusammengefaßt werden: <BR/>
+                        <table frame="top" tocentry="%yes;">
+                            <tgroup align="left" char="" charoff="50" cols="2" colsep="0" rowsep="0">
+                                <colspec colname="col1" colnum="1" colwidth="20*"/>
+                                <colspec colname="col2" colnum="2" colwidth="40*"/>
+                                <thead valign="bottom">
+                                    <row rowsep="1">
+                                        <entry VJ="1" align="left" colsep="0" valign="top">KN-Code</entry>
+                                        <entry VJ="1" align="center" colsep="0" valign="top">Erzeugnisse</entry>
+                                    </row>
+                                </thead>
+                                <tbody valign="top">
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">ex 1001</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Qualitätsweizen für Backzwecke</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">ex 1001</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Qualitätshartweizen (Durum-Weizen) für Ernährungszwecke</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">ex 1001</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Qualitätsweizen für Brauzwecke</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">ex 1002</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Qualitätsroggen für die Brotherstellung</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">ex 1003</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Qualitätsgerste für Brauzwecke</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">ex 1004</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Qualitätshafer für Ernährungszwecke</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">ex 0713</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Trockene, ausgelöste Erbsen und Bohnen, nicht geschält oder zerkleinert</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">ex 1204</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Leinsamen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">ex 1205</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Rapssamen</entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                    </P>
+                    <P>(2) Im Sinne dieser Verordnung ist <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Qualitätsweizen Erntegut von Sorten, die einen Sedimentationswert von mindestens 30 und bei einem Umrechnungsfaktor für Stickstoff von 5,7 einen Rohproteingehalt in der Trockensubstanz von mindestens 12% erreichen; die Fallzahl bei der Auswuchsbestimmung muß mindestens 150 betragen;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Qualitätsroggen Erntegut von Sorten, die ein Mehlamylogramm von mindestens 330 Amylogramm-Einheiten erreichen; die Fallzahl bei der Auswuchsbestimmung muß mindestens 90 betragen;</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Qualitätsgerste Erntegut von Sorten, die bei einem Umrechnungsfaktor für Stickstoff von 6,25 einen Rohproteingehalt von höchstens 11,5% und eine Keimfähigkeit ab 15. Oktober von mindestens 98% erreichen; der Vollgerstenanteil muß mindestens 90% betragen;</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Qualitätshafer Erntegut von Sorten, die, bezogen auf die Trockensubstanz, einen Spelzengehalt von höchstens 26% und ein Tausendkorngewicht von mindestens 27 g aufweisen;</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Qualitätshartweizen Erntegut von Sorten, die, bezogen auf die Trockensubstanz, bei einem Umrechnungsfaktor für Stickstoff von 5,7, einen Rohproteingehalt von mindestens 14% und einen Gelbpigmentgehalt im Grieß von mindestens 0,450 mg/100 g aufweisen;</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Qualitätsweizen für Brauzwecke Erntegut von Sorten, die bezogen auf die Trockensubstanz, bei einem Umrechnungsfaktor für Stickstoff von 6,25 einen Rohproteingehalt von höchstens 12% und eine Keimfähigkeit von mindestens 95% erreichen; der Vollkornanteil muß mindestens 90% betragen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152655" doknr="BJNR003510970BJNE000303308">
+        <metadaten>
+            <jurabk>MarktStrGDV 6</jurabk>
+            <enbez>§ 2</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Mindesterzeugungsmenge (§ 3 Abs. 1 Nr. 6 des Gesetzes) wird festgesetzt auf jährlich <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">400 Tonnen je Sorte Qualitätsweizen für Backzwecke,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">300 Tonnen je Sorte Qualitätsroggen für die Brotherstellung,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">300 Tonnen je Sorte Qualitätsgerste für Brauzwecke,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">300 Tonnen je Sorte Qualitätshafer für Ernährungszwecke,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">300 Tonnen je Sorte Qualitätshartweizen für Ernährungszwecke,</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">400 Tonnen je Sorte Qualitätsweizen für Brauzwecke,</LA>
+                            </DD>
+                            <DT>7.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">400 Tonnen Erbsen und Bohnen,</LA>
+                            </DD>
+                            <DT>8.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal"/>
+                                <LA Size="normal">1.000 Tonnen Raps,</LA>
+                            </DD>
+                            <DT>9.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">300 Tonnen Leinsamen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Das erste Jahr beginnt mit dem der Antragstellung auf Anerkennung als Erzeugergemeinschaft folgenden <BR/>-  1. April bei Sommerfrucht, <BR/>-  1. Oktober bei Winterfrucht. Abweichend von Satz 1 beginnt das erste Jahr am <BR/>- 15. März bei Sommerraps, <BR/>- 15. August bei Winterraps.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152655" doknr="BJNR003510970BJNE000401301">
+        <metadaten>
+            <jurabk>MarktStrGDV 6</jurabk>
+            <enbez>§ 3</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Mindestmenge eines Liefervertrages (§ 6 Abs. 1 Nr. 4 des Gesetzes) wird festgesetzt auf jährlich jeweils 50% der in § 2 Abs. 1 bezeichneten Mengen. Werden Lieferverträge mit Zustimmung der Erzeugergemeinschaft unmittelbar zwischen Mitgliedern der Erzeugergemeinschaft und einem Unternehmen abgeschlossen, so gelten diese Lieferverträge für die Berechnung der Mindestmenge nach Satz 1 als ein Liefervertrag.</P>
+                    <P>(2) Die Mindestdauer eines Liefervertrages (§ 6 Abs. 1 Nr. 5 des Gesetzes) wird für Lieferverträge nach Absatz 1 auf drei Jahre festgesetzt.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152655" doknr="BJNR003510970BJNE000804308">
+        <metadaten>
+            <jurabk>MarktStrGDV 6</jurabk>
+            <enbez>§ 3a</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die Landesregierungen können durch Rechtsverordnung <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Erzeugnisse, die zu einer Gruppe verwandter Erzeugnisse (§ 3 Abs. 1 Nr. 3 Buchstabe a des Gesetzes) zusammengefaßt werden können, um<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Dinkel für die Grünkern-, Gebäck- und Teigwarenherstellung,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Qualitätskörnermais zur Herstellung von Erzeugnissen für die menschliche Ernährung sowie für die technische Verwendung,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Sojabohnen,</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Sonnenblumenkerne,</LA>
+                                        </DD>
+                                        <DT>e)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Buchweizen,</LA>
+                                        </DD>
+                                        <DT>f)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Senfsamen,</LA>
+                                        </DD>
+                                        <DT>g)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Hanfsamen</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                                <LA Size="normal">ergänzen und</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">für diese Erzeugnisse<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">die Mindesterzeugungsmenge (§ 3 Abs. 1 Nr. 6 des Gesetzes),</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">die Mindestmenge und Mindestdauer von Lieferverträgen (§ 6 Abs. 1 Nr. 4 und 5 des Gesetzes)</LA>
+                                            <LA Size="normal">festsetzen.</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152655" doknr="BJNR003510970BJNE000502301">
+        <metadaten>
+            <jurabk>MarktStrGDV 6</jurabk>
+            <enbez>§ 4</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(Inkrafttreten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet)</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625152655" doknr="BJNR003510970BJNE000601301">
+        <metadaten>
+            <jurabk>MarktStrGDV 6</jurabk>
+            <enbez>§ 5</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(Inkrafttreten)</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
 </dokumente>

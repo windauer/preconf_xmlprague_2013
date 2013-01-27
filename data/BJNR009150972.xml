@@ -1,34 +1,713 @@
-<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
-<dokumente builddate="20120625153707" doknr="BJNR009150972"><norm builddate="20120625153707" doknr="BJNR009150972"><metadaten><jurabk>RindTbV</jurabk><ausfertigung-datum manuell="ja">1972-06-16</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1972, 915</zitstelle></fundstelle><kurzue>Tuberkulose-Verordnung</kurzue><langue>Verordnung zum Schutz gegen die Tuberkulose des Rindes</langue><standangabe checked="ja"><standtyp>Neuf</standtyp><standkommentar>Neugefasst durch Bek. v. 13.3.1997 I 462;</standkommentar></standangabe><standangabe checked="ja"><standtyp>Stand</standtyp><standkommentar>geändert durch Art. 1 V v. 17.6.2009 I 1337</standkommentar></standangabe></metadaten><textdaten><fussnoten><Content><P>(+++ Textnachweis Geltung ab: 1.2.1988 +++)</P></Content></fussnoten></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNG000101308"><metadaten><jurabk>RindTbV</jurabk><gliederungseinheit><gliederungskennzahl>010</gliederungskennzahl><gliederungsbez>I.</gliederungsbez><gliederungstitel>Begriffsbestimmungen</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE001203377"><metadaten><jurabk>RindTbV</jurabk><enbez>§ 1</enbez></metadaten><textdaten><text format="XML"><Content><P>Im Sinne dieser Verordnung liegen vor: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Tuberkulose der Rinder, wenn diese durch<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">allergische Untersuchung mittels intrakutaner Tuberkulinprobe oder</LA></DD><DT>b)</DT><DD Font="normal"><LA Size="normal">bakteriologische oder molekularbiologische Untersuchung</LA></DD></DL></LA><LA Size="normal">festgestellt ist;</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">Verdacht auf Tuberkulose der Rinder, wenn das Ergebnis<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">einer der Untersuchungen nach Nummer 1,</LA></DD><DT>b)</DT><DD Font="normal"><LA Size="normal">einer klinischen Untersuchung oder</LA></DD><DT>c)</DT><DD Font="normal"><LA Size="normal">einer pathologisch-anatomischen Untersuchung</LA></DD></DL></LA><LA Size="normal">den Ausbruch der Tuberkulose befürchten läßt.</LA></DD></DL></P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNG000201308"><metadaten><jurabk>RindTbV</jurabk><gliederungseinheit><gliederungskennzahl>020</gliederungskennzahl><gliederungsbez>II.</gliederungsbez><gliederungstitel>Schutzmaßregeln</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNG000301308"><metadaten><jurabk>RindTbV</jurabk><gliederungseinheit><gliederungskennzahl>020010</gliederungskennzahl><gliederungsbez>1.</gliederungsbez><gliederungstitel>Allgemeine Schutzmaßregeln</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE001301308"><metadaten><jurabk>RindTbV</jurabk><enbez>§ 2</enbez></metadaten><textdaten><text format="XML"><Content><P>Impfungen gegen die Tuberkulose des Rindes und Heilversuche sind verboten. Die zuständige Behörde kann Ausnahmen zur Durchführung wissenschaftlicher Versuche zulassen, wenn Belange der Seuchenbekämpfung nicht entgegenstehen.</P></Content></text></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE001404377"><metadaten><jurabk>RindTbV</jurabk><enbez>§ 3</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Werden bei Rindern anlässlich der Fleischuntersuchung pathologisch-anatomische Veränderungen festgestellt, die auf Tuberkulose hindeuten, stellt die zuständige Behörde sicher, dass <DL Type="arabic"><DT>1.</DT><DD Font="normal"><LA>diese Veränderungen labordiagnostisch auf Tuberkulose untersucht werden und</LA></DD><DT>2.</DT><DD Font="normal"><LA>ihr das Ergebnis dieser Untersuchung mitgeteilt wird.</LA></DD></DL>Bis zur Mitteilung des Ergebnisses nach Satz 1 Nummer 2 darf der Schlachtkörper aus der Schlachtstätte nicht verbracht werden. Ist bei der Untersuchung nach Satz 1 Nummer 1 Tuberkulose der Rinder festgestellt worden, so teilt die nach Satz 1 zuständige Behörde unverzüglich der für den Herkunftsbestand des betroffenen Rindes zuständigen Behörde das Ergebnis der Untersuchung mit.</P><P>(2) Die für den Herkunftsbestand zuständige Behörde untersucht unverzüglich alle über sechs Wochen alten Rinder des betroffenen Bestandes mittels Simultantest nach Anhang B Nummer 2.2 der Richtlinie 64/432/EWG des Rates vom 26. Juni 1964 zur Regelung viehseuchenrechtlicher Fragen beim innergemeinschaftlichen Handelsverkehr mit Rindern und Schweinen (ABl. EG vom 29.7.1964, S. 1977) in der jeweils geltenden Fassung auf Tuberkulose. Bis zur Vorlage des Ergebnisses der Untersuchung nach Satz 1 dürfen Rinder aus dem Bestand nicht verbracht werden.</P><P>(3) Abweichend von Absatz 2 Satz 1 kann die zuständige Behörde, soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen, <DL Type="arabic"><DT>1.</DT><DD Font="normal"><LA>in Betrieben, in denen mindestens 30 vom Hundert der gehaltenen Rinder Kühe sind, deren in Stallhaltung gemästete Nachkommen von der Untersuchung ausnehmen,</LA></DD><DT>2.</DT><DD Font="normal"><LA>in Betrieben, in denen Rinder ausschließlich in Stallhaltung gemästet und zur sofortigen Schlachtung abgegeben werden, nur so viele Tiere auf Tuberkulose untersuchen, dass Tuberkulose mit einer Wahrscheinlichkeit von 95 vom Hundert und einer Prävalenzschwelle von 25 vom Hundert festgestellt werden kann.</LA></DD></DL></P><P>(4) Die zuständige Behörde kann anordnen, dass der Besitzer von Rindern die Tiere auf Tuberkulose untersuchen zu lassen hat, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.</P><P>(5) In den Fällen des Absatzes 2 Satz 1 und des Absatzes 4 ist der Besitzer oder sein Vertreter verpflichtet, zur Durchführung dieser Untersuchungen die erforderliche Hilfe zu leisten.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE001502377"><metadaten><jurabk>RindTbV</jurabk><enbez>§ 4</enbez></metadaten><textdaten><text format="XML"><Content><P>Ist das Ergebnis der Tuberkulinprobe bei Rindern zweifelhaft (Nummer 2.2.5.3.2 Buchstabe b des Anhangs B der Richtlinie 64/432/EWG), so sind diese Rinder durch einen beamteten oder amtlich beauftragten Tierarzt nachzuuntersuchen. Bis zum Abschluß dieser Untersuchung dürfen die Tiere aus dem Gehöft oder von dem sonstigen Standort nur mit Genehmigung der zuständigen Behörde entfernt werden; dies gilt nicht, wenn die Tiere unter amtlicher Kontrolle zur Schlachtung verbracht werden.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE001601308"><metadaten><jurabk>RindTbV</jurabk><enbez>§ 5</enbez></metadaten><textdaten><text format="XML"><Content><P>Werden in einem Rinderbestand Tuberkulinproben durchgeführt, so hat der Besitzer, sofern nicht eine Untersuchung nach dieser Verordnung vorliegt, das Ergebnis dem zuständigen beamteten Tierarzt unverzüglich mitzuteilen.</P></Content></text></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNG000401308"><metadaten><jurabk>RindTbV</jurabk><gliederungseinheit><gliederungskennzahl>020020</gliederungskennzahl><gliederungsbez>2.</gliederungsbez><gliederungstitel>Schutzmaßregeln nach amtlicher Feststellung
-der Tuberkulose oder des Verdachts auf Tuberkulose</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE001702308"><metadaten><jurabk>RindTbV</jurabk><enbez>§ 6</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Ist der Ausbruch der Tuberkulose bei Rindern amtlich festgestellt, so unterliegen das Gehöft und der sonstige Standort nach Maßgabe folgender Vorschriften der Sperre: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Die Rinder des Bestandes<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">sind im Stall oder mit Genehmigung der zuständigen Behörde auf der Weide abzusondern,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">dürfen nur mit Genehmigung der zuständigen Behörde aus dem Gehöft oder von dem sonstigen Standort entfernt werden.</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Der Besitzer hat Milch von Kühen, bei denen Tuberkulose festgestellt worden ist, nach näherer Anweisung der zuständigen Behörde unschädlich zu beseitigen.</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Behälter, Gerätschaften und sonstige Gegenstände, die in Ställen oder an sonstigen Standorten des Bestandes benutzt worden sind, sind nach näherer Anweisung des beamteten Tierarztes zu reinigen und zu desinfizieren.</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Die mit der Beaufsichtigung, Wartung und Pflege der Rinder betrauten Personen haben sich nach Verlassen des Stalles nach näherer Anweisung des beamteten Tierarztes zu reinigen und desinfizieren.</LA></DD> </DL> </P><P>(2) Bei Verdacht auf Tuberkulose gelten die Maßregeln nach Absatz 1 Nr. 1; die Maßregeln nach Absatz 1 Nr. 2 bis 4 können von der zuständigen Behörde angeordnet werden.</P></Content></text></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE001801308"><metadaten><jurabk>RindTbV</jurabk><enbez>§ 7</enbez></metadaten><textdaten><text format="XML"><Content><P>Die zuständige Behörde ordnet die Tötung von Rindern an, bei denen Tuberkulose festgestellt worden ist. Sie kann die Tötung verdächtiger Rinder anordnen, soweit dies zur Verhütung der Verbreitung der Tuberkulose erforderlich ist.</P></Content></text></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNG001104308"><metadaten><jurabk>RindTbV</jurabk><gliederungseinheit><gliederungskennzahl>020021</gliederungskennzahl><gliederungsbez>2a.</gliederungsbez><gliederungstitel>Schutzmaßregeln bei Ansteckungsverdacht</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE003402377"><metadaten><jurabk>RindTbV</jurabk><enbez>§ 7a</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Ist in einem Gehöft oder an einem sonstigen Standort Tuberkulose oder Verdacht auf Tuberkulose der Rinder amtlich festgestellt, so stellt die zuständige Behörde epidemiologische Nachforschungen an und unterstellt alle Rinder der Gehöfte oder sonstigen Standorte, <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">von denen die Seuche eingeschleppt oder</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">in die die Seuche bereits weiterverschleppt</LA></DD></DL>worden sein kann, der behördlichen Beobachtung. Die zuständige Behörde ordnet bei den Rindern, die aus einem Bestand verbracht worden sind, in dem Tuberkulose oder Verdacht auf Tuberkulose der Rinder amtlich festgestellt worden ist, die Untersuchung auf Tuberkulose an. Wird die Untersuchung nach Satz 2 <DL Type="arabic"><DT>1.</DT><DD Font="normal"><LA>mit negativem Ergebnis durchgeführt, hebt die zuständige Behörde die behördliche Beobachtung auf,</LA></DD><DT>2.</DT><DD Font="normal"><LA>mit positivem Ergebnis durchgeführt, ordnet sie bei allen über sechs Wochen alten der behördlichen Beobachtung unterliegenden Rindern die Untersuchung auf Tuberkulose an.</LA></DD></DL>Abweichend von Satz 3 Nummer 2 können <DL Type="arabic"><DT>1.</DT><DD Font="normal"><LA>in Betrieben, in denen mindestens 30 vom Hundert der gehaltenen Rinder Kühe sind, deren in Stallhaltung gemästete Nachkommen von der Untersuchung ausgenommen werden,</LA></DD><DT>2.</DT><DD Font="normal"><LA>in Betrieben, in denen Rinder ausschließlich in Stallhaltung gemästet und zur Schlachtung abgegeben werden, nur so viele Tiere auf Tuberkulose untersucht werden, dass Tuberkulose mit einer Wahrscheinlichkeit von 95 vom Hundert und einer Prävalenzschwelle von 25 vom Hundert festgestellt werden kann.</LA></DD></DL>Die epidemiologischen Nachforschungen nach Satz 1 erstrecken sich auf einen Zeitraum von fünf Jahren.</P><P>(2) Rinder dürfen aus Gehöften oder von sonstigen Standorten, die der behördlichen Beobachtung nach Absatz 1 unterliegen, erst dann verbracht werden, wenn die Untersuchungen nach Absatz 1 Satz 2 mit negativem Ergebnis auf Tuberkulose durchgeführt worden sind. Die zuständige Behörde kann Ausnahmen für das Verbringen von Rindern zur sofortigen Schlachtung in einen von ihr bestimmten Schlachthof, zu diagnostischen Zwecken oder zur sofortigen Tötung und unschädlichen Beseitigung genehmigen.</P><P>(3) Die zuständige Behörde kann bei den der behördlichen Beobachtung unterliegenden ansteckungsverdächtigen Rindern die Tötung anordnen.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNG000501308"><metadaten><jurabk>RindTbV</jurabk><gliederungseinheit><gliederungskennzahl>020030</gliederungskennzahl><gliederungsbez>3.</gliederungsbez><gliederungstitel>Desinfektion</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE001903308"><metadaten><jurabk>RindTbV</jurabk><enbez>§ 8</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Behälter, in denen Milch von Kühen, bei denen Verdacht auf Tuberkulose festgestellt worden ist, an eine Sammelmolkerei geliefert wird, sind von der Sammelmolkerei zu reinigen und zu desinfizieren.</P><P>(2) Nach Entfernung der Rinder, bei denen Tuberkulose oder Verdacht auf Tuberkulose festgestellt worden ist, aus dem Bestand oder von ihren sonstigen Standorten sind nach näherer Anweisung des beamteten Tierarztes <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">die Ställe oder sonstigen Standorte dieser Tiere, insbesondere die Stallgänge, Jaucherinnen, Futtergänge, die verwendeten Gerätschaften und sonstigen Gegenstände, die Träger des Ansteckungsstoffes sein können, unverzüglich zu reinigen und zu desinfizieren;</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">der Dung aus den Ställen oder sonstigen Standorten an einem für empfängliche Tiere unzugänglichen Platz zu packen, zu desinfizieren und mindestens drei Wochen zu lagern;</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">flüssige Abgänge aus den Ställen oder sonstigen Standorten, soweit sie nicht dem Dung beigegeben werden, zu desinfizieren.</LA></DD> </DL> </P><P>(3) Die zuständige Behörde kann zulassen, daß die Desinfektion nach Absatz 2 Nr. 1 auf die Standplätze der Tiere und die diesen benachbarten sowie gegenüberliegenden Standplätze oder auf die Stallabteilungen beschränkt wird, in denen die Tiere gestanden haben.</P></Content> </text></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNG000601308"><metadaten><jurabk>RindTbV</jurabk><gliederungseinheit><gliederungskennzahl>020040</gliederungskennzahl><gliederungsbez>4.</gliederungsbez><gliederungstitel>Aufhebung der Schutzmaßregeln</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE002002377"><metadaten><jurabk>RindTbV</jurabk><enbez>§ 9</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die Tuberkulose erloschen ist oder sich der Verdacht auf Tuberkulose als unbegründet erwiesen hat.</P><P>(2) Die Tuberkulose gilt als erloschen, wenn <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">die Rinder des Bestandes verendet sind, getötet oder entfernt worden sind,</LA></DD><DT>b)</DT><DD Font="normal"><LA Size="normal">die seuchenkranken und seuchenverdächtigen Rinder, im Falle der Anordnung nach § 7 Satz 2 auch die ansteckungsverdächtigen Rinder, entfernt worden sind und bei den übrigen Rindern des Bestandes frühestens acht Wochen nach der Entfernung eine klinische Untersuchung in Verbindung mit einer Tuberkulinprobe sowie eine weitere, im Abstand von mindestens acht Wochen durchgeführte Tuberkulinprobe einen negativen Befund ergeben haben oder</LA></DD><DT>c)</DT><DD Font="normal"><LA Size="normal">bei Verdacht auf Tuberkulose die seuchenverdächtigen Rinder entfernt worden sind und frühestens acht Wochen nach der Entfernung bei den übrigen Rindern eine klinische Untersuchung in Verbindung mit einer Tuberkulinprobe einen negativen Befund ergeben hat oder</LA></DD><DT>d)</DT><DD Font="normal"><LA Size="normal">im Falle einer positiven molekularbiologischen Untersuchung im Schlachthof bei den Rindern des Bestandes, aus dem das positiv molekularbiologisch untersuchte Rind stammt, eine Untersuchung mit einer Tuberkulinprobe ein negatives Ergebnis ergeben hat und,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">die Desinfektion nach näherer Anweisung des beamteten Tierarztes unter amtlicher Überwachung durchgeführt und vom beamteten Tierarzt abgenommen worden ist.</LA></DD></DL></P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNG000702377"><metadaten><jurabk>RindTbV</jurabk><gliederungseinheit><gliederungskennzahl>030</gliederungskennzahl><gliederungsbez>III.</gliederungsbez><gliederungstitel>(weggefallen)</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE002102377"><metadaten><jurabk>RindTbV</jurabk><enbez>(XXXX) §§ 10 und 11</enbez><titel format="XML">(weggefallen)</titel></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNG000801308"><metadaten><jurabk>RindTbV</jurabk><gliederungseinheit><gliederungskennzahl>040</gliederungskennzahl><gliederungsbez>IV.</gliederungsbez><gliederungstitel>Anerkannte Bestände</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE002302377"><metadaten><jurabk>RindTbV</jurabk><enbez>(XXXX) §§ 12 und 13</enbez><titel format="XML">(weggefallen)</titel></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE002502377"><metadaten><jurabk>RindTbV</jurabk><enbez>§ 14</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Ist in einem Rinderbestand bei anderen Haustieren Tuberkulose oder Verdacht auf Tuberkulose festgestellt worden, hat der Besitzer <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">die zuständige Behörde hiervon zu benachrichtigen,</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">die seuchenkranken und seuchenverdächtigen Tiere abzusondern und vom Rinderbestand fernzuhalten und</LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">eine von der zuständigen Behörde angeordnete Untersuchung zu dulden.</LA></DD></DL></P><P>(2) Die zuständige Behörde ordnet die Untersuchung des Rinderbestandes an, wenn zu befürchten ist, daß die Tuberkulose auf Rinder übertragen worden ist.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE002602113"><metadaten><jurabk>RindTbV</jurabk><enbez>§ 15</enbez></metadaten><textdaten><text format="XML"><Content><P>Der Besitzer eines Rinderbestandes hat dafür zu sorgen, daß die Rinder seines Bestandes <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">nicht mit Personen, die an ansteckender Tuberkulose leiden, und</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">nicht mit tuberkulosekranken und verdächtigen Haustieren anderer Besitzer</LA></DD></DL>in Berührung kommen.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE002703377"><metadaten><jurabk>RindTbV</jurabk><enbez>§ 16</enbez><titel format="XML">(weggefallen)</titel></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNG000901308"><metadaten><jurabk>RindTbV</jurabk><gliederungseinheit><gliederungskennzahl>050</gliederungskennzahl><gliederungsbez>V.</gliederungsbez><gliederungstitel>Ordnungswidrigkeiten</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE002804377"><metadaten><jurabk>RindTbV</jurabk><enbez>§ 17</enbez></metadaten><textdaten><text format="XML"><Content><P>(1) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 1 Buchstabe b des Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">einer vollziehbaren Anordnung nach § 3 Absatz 4, § 6 Absatz 2 zweiter Halbsatz in Verbindung mit Absatz 1 Nummer 2, 3 oder 4, § 7 oder § 7a Absatz 1 Satz 2 oder Absatz 3 oder § 14 Absatz 2 oder</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">einer mit einer Genehmigung nach § 7a Abs. 2 Satz 2, verbundenen vollziehbaren Auflage</LA></DD></DL>zuwiderhandelt.</P><P>(2) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 2 des Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">entgegen § 2 Satz 1 eine Impfung oder einen Heilversuch durchführt,</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">entgegen § 3 Absatz 5 nicht die erforderliche Hilfe leistet,</LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">entgegen § 4 Satz 2 Rinder aus dem Gehöft oder von dem sonstigen Standort entfernt,</LA></DD><DT>4.</DT><DD Font="normal"><LA Size="normal">entgegen § 5 das Ergebnis der Tuberkulinprobe nicht unverzüglich mitteilt,</LA></DD><DT>5.</DT><DD Font="normal"><LA Size="normal">entgegen § 6 Abs. 1 Nr. 1 Buchstabe a Rinder nicht absondert oder entgegen § 6 Abs. 1 Nr. 1 Buchstabe b Rinder aus dem Gehöft oder von dem sonstigen Standort entfernt,</LA></DD><DT>6.</DT><DD Font="normal"><LA Size="normal">entgegen § 6 Abs. 1 Nr. 2 Milch nicht unschädlich beseitigt,</LA></DD><DT>7.</DT><DD Font="normal"><LA Size="normal">der Vorschrift des § 6 Abs. 1 Nr. 3 oder 4 oder § 8 Abs. 1 oder 2 über die Reinigung oder Desinfektion zuwiderhandelt,</LA></DD><DT>8.</DT><DD Font="normal"><LA Size="normal">entgegen § 7a Abs. 2 Satz 1 ein Rind verbringt.</LA></DD></DL></P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNG001001308"><metadaten><jurabk>RindTbV</jurabk><gliederungseinheit><gliederungskennzahl>060</gliederungskennzahl><gliederungsbez>VI.</gliederungsbez><gliederungstitel>Schlußvorschriften</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE002901308"><metadaten><jurabk>RindTbV</jurabk><enbez>§ 18</enbez></metadaten><textdaten><text format="XML"><Content><P>Ein Rinderbestand, der vor Inkrafttreten dieser Verordnung von der zuständigen Behörde amtlich als tuberkulosefrei anerkannt worden ist, gilt als anerkannter Bestand im Sinne dieser Verordnung.</P></Content></text></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE003102308"><metadaten><jurabk>RindTbV</jurabk><enbez>§ 19</enbez></metadaten><textdaten><text format="XML"><Content><P>(Inkrafttreten)</P></Content></text></textdaten></norm>
-<norm builddate="20120625153707" doknr="BJNR009150972BJNE003303377"><metadaten><jurabk>RindTbV</jurabk><enbez>Anlage</enbez><titel format="XML">(weggefallen)</titel></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten/></textdaten></norm>
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625153707" doknr="BJNR009150972">
+    <norm builddate="20120625153707" doknr="BJNR009150972">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <ausfertigung-datum manuell="ja">1972-06-16</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1972, 915</zitstelle>
+            </fundstelle>
+            <kurzue>Tuberkulose-Verordnung</kurzue>
+            <langue>Verordnung zum Schutz gegen die Tuberkulose des Rindes</langue>
+            <standangabe checked="ja">
+                <standtyp>Neuf</standtyp>
+                <standkommentar>Neugefasst durch Bek. v. 13.3.1997 I 462;</standkommentar>
+            </standangabe>
+            <standangabe checked="ja">
+                <standtyp>Stand</standtyp>
+                <standkommentar>geändert durch Art. 1 V v. 17.6.2009 I 1337</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <fussnoten>
+                <Content>
+                    <P>(+++ Textnachweis Geltung ab: 1.2.1988 +++)</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNG000101308">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>010</gliederungskennzahl>
+                <gliederungsbez>I.</gliederungsbez>
+                <gliederungstitel>Begriffsbestimmungen</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE001203377">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>§ 1</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Im Sinne dieser Verordnung liegen vor: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Tuberkulose der Rinder, wenn diese durch<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">allergische Untersuchung mittels intrakutaner Tuberkulinprobe oder</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">bakteriologische oder molekularbiologische Untersuchung</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                                <LA Size="normal">festgestellt ist;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Verdacht auf Tuberkulose der Rinder, wenn das Ergebnis<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">einer der Untersuchungen nach Nummer 1,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">einer klinischen Untersuchung oder</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">einer pathologisch-anatomischen Untersuchung</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                                <LA Size="normal">den Ausbruch der Tuberkulose befürchten läßt.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNG000201308">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>020</gliederungskennzahl>
+                <gliederungsbez>II.</gliederungsbez>
+                <gliederungstitel>Schutzmaßregeln</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNG000301308">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>020010</gliederungskennzahl>
+                <gliederungsbez>1.</gliederungsbez>
+                <gliederungstitel>Allgemeine Schutzmaßregeln</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE001301308">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>§ 2</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Impfungen gegen die Tuberkulose des Rindes und Heilversuche sind verboten. Die zuständige Behörde kann Ausnahmen zur Durchführung wissenschaftlicher Versuche zulassen, wenn Belange der Seuchenbekämpfung nicht entgegenstehen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE001404377">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>§ 3</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Werden bei Rindern anlässlich der Fleischuntersuchung pathologisch-anatomische Veränderungen festgestellt, die auf Tuberkulose hindeuten, stellt die zuständige Behörde sicher, dass <DL Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA>diese Veränderungen labordiagnostisch auf Tuberkulose untersucht werden und</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA>ihr das Ergebnis dieser Untersuchung mitgeteilt wird.</LA>
+                            </DD>
+                        </DL>Bis zur Mitteilung des Ergebnisses nach Satz 1 Nummer 2 darf der Schlachtkörper aus der Schlachtstätte nicht verbracht werden. Ist bei der Untersuchung nach Satz 1 Nummer 1 Tuberkulose der Rinder festgestellt worden, so teilt die nach Satz 1 zuständige Behörde unverzüglich der für den Herkunftsbestand des betroffenen Rindes zuständigen Behörde das Ergebnis der Untersuchung mit.</P>
+                    <P>(2) Die für den Herkunftsbestand zuständige Behörde untersucht unverzüglich alle über sechs Wochen alten Rinder des betroffenen Bestandes mittels Simultantest nach Anhang B Nummer 2.2 der Richtlinie 64/432/EWG des Rates vom 26. Juni 1964 zur Regelung viehseuchenrechtlicher Fragen beim innergemeinschaftlichen Handelsverkehr mit Rindern und Schweinen (ABl. EG vom 29.7.1964, S. 1977) in der jeweils geltenden Fassung auf Tuberkulose. Bis zur Vorlage des Ergebnisses der Untersuchung nach Satz 1 dürfen Rinder aus dem Bestand nicht verbracht werden.</P>
+                    <P>(3) Abweichend von Absatz 2 Satz 1 kann die zuständige Behörde, soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen, <DL Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA>in Betrieben, in denen mindestens 30 vom Hundert der gehaltenen Rinder Kühe sind, deren in Stallhaltung gemästete Nachkommen von der Untersuchung ausnehmen,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA>in Betrieben, in denen Rinder ausschließlich in Stallhaltung gemästet und zur sofortigen Schlachtung abgegeben werden, nur so viele Tiere auf Tuberkulose untersuchen, dass Tuberkulose mit einer Wahrscheinlichkeit von 95 vom Hundert und einer Prävalenzschwelle von 25 vom Hundert festgestellt werden kann.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(4) Die zuständige Behörde kann anordnen, dass der Besitzer von Rindern die Tiere auf Tuberkulose untersuchen zu lassen hat, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.</P>
+                    <P>(5) In den Fällen des Absatzes 2 Satz 1 und des Absatzes 4 ist der Besitzer oder sein Vertreter verpflichtet, zur Durchführung dieser Untersuchungen die erforderliche Hilfe zu leisten.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE001502377">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>§ 4</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Ist das Ergebnis der Tuberkulinprobe bei Rindern zweifelhaft (Nummer 2.2.5.3.2 Buchstabe b des Anhangs B der Richtlinie 64/432/EWG), so sind diese Rinder durch einen beamteten oder amtlich beauftragten Tierarzt nachzuuntersuchen. Bis zum Abschluß dieser Untersuchung dürfen die Tiere aus dem Gehöft oder von dem sonstigen Standort nur mit Genehmigung der zuständigen Behörde entfernt werden; dies gilt nicht, wenn die Tiere unter amtlicher Kontrolle zur Schlachtung verbracht werden.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE001601308">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>§ 5</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Werden in einem Rinderbestand Tuberkulinproben durchgeführt, so hat der Besitzer, sofern nicht eine Untersuchung nach dieser Verordnung vorliegt, das Ergebnis dem zuständigen beamteten Tierarzt unverzüglich mitzuteilen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNG000401308">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>020020</gliederungskennzahl>
+                <gliederungsbez>2.</gliederungsbez>
+                <gliederungstitel>Schutzmaßregeln nach amtlicher Feststellung
+der Tuberkulose oder des Verdachts auf Tuberkulose</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE001702308">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>§ 6</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Ist der Ausbruch der Tuberkulose bei Rindern amtlich festgestellt, so unterliegen das Gehöft und der sonstige Standort nach Maßgabe folgender Vorschriften der Sperre: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Die Rinder des Bestandes<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">sind im Stall oder mit Genehmigung der zuständigen Behörde auf der Weide abzusondern,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">dürfen nur mit Genehmigung der zuständigen Behörde aus dem Gehöft oder von dem sonstigen Standort entfernt werden.</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Der Besitzer hat Milch von Kühen, bei denen Tuberkulose festgestellt worden ist, nach näherer Anweisung der zuständigen Behörde unschädlich zu beseitigen.</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Behälter, Gerätschaften und sonstige Gegenstände, die in Ställen oder an sonstigen Standorten des Bestandes benutzt worden sind, sind nach näherer Anweisung des beamteten Tierarztes zu reinigen und zu desinfizieren.</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Die mit der Beaufsichtigung, Wartung und Pflege der Rinder betrauten Personen haben sich nach Verlassen des Stalles nach näherer Anweisung des beamteten Tierarztes zu reinigen und desinfizieren.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Bei Verdacht auf Tuberkulose gelten die Maßregeln nach Absatz 1 Nr. 1; die Maßregeln nach Absatz 1 Nr. 2 bis 4 können von der zuständigen Behörde angeordnet werden.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE001801308">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>§ 7</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die zuständige Behörde ordnet die Tötung von Rindern an, bei denen Tuberkulose festgestellt worden ist. Sie kann die Tötung verdächtiger Rinder anordnen, soweit dies zur Verhütung der Verbreitung der Tuberkulose erforderlich ist.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNG001104308">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>020021</gliederungskennzahl>
+                <gliederungsbez>2a.</gliederungsbez>
+                <gliederungstitel>Schutzmaßregeln bei Ansteckungsverdacht</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE003402377">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>§ 7a</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Ist in einem Gehöft oder an einem sonstigen Standort Tuberkulose oder Verdacht auf Tuberkulose der Rinder amtlich festgestellt, so stellt die zuständige Behörde epidemiologische Nachforschungen an und unterstellt alle Rinder der Gehöfte oder sonstigen Standorte, <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">von denen die Seuche eingeschleppt oder</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">in die die Seuche bereits weiterverschleppt</LA>
+                            </DD>
+                        </DL>worden sein kann, der behördlichen Beobachtung. Die zuständige Behörde ordnet bei den Rindern, die aus einem Bestand verbracht worden sind, in dem Tuberkulose oder Verdacht auf Tuberkulose der Rinder amtlich festgestellt worden ist, die Untersuchung auf Tuberkulose an. Wird die Untersuchung nach Satz 2 <DL Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA>mit negativem Ergebnis durchgeführt, hebt die zuständige Behörde die behördliche Beobachtung auf,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA>mit positivem Ergebnis durchgeführt, ordnet sie bei allen über sechs Wochen alten der behördlichen Beobachtung unterliegenden Rindern die Untersuchung auf Tuberkulose an.</LA>
+                            </DD>
+                        </DL>Abweichend von Satz 3 Nummer 2 können <DL Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA>in Betrieben, in denen mindestens 30 vom Hundert der gehaltenen Rinder Kühe sind, deren in Stallhaltung gemästete Nachkommen von der Untersuchung ausgenommen werden,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA>in Betrieben, in denen Rinder ausschließlich in Stallhaltung gemästet und zur Schlachtung abgegeben werden, nur so viele Tiere auf Tuberkulose untersucht werden, dass Tuberkulose mit einer Wahrscheinlichkeit von 95 vom Hundert und einer Prävalenzschwelle von 25 vom Hundert festgestellt werden kann.</LA>
+                            </DD>
+                        </DL>Die epidemiologischen Nachforschungen nach Satz 1 erstrecken sich auf einen Zeitraum von fünf Jahren.</P>
+                    <P>(2) Rinder dürfen aus Gehöften oder von sonstigen Standorten, die der behördlichen Beobachtung nach Absatz 1 unterliegen, erst dann verbracht werden, wenn die Untersuchungen nach Absatz 1 Satz 2 mit negativem Ergebnis auf Tuberkulose durchgeführt worden sind. Die zuständige Behörde kann Ausnahmen für das Verbringen von Rindern zur sofortigen Schlachtung in einen von ihr bestimmten Schlachthof, zu diagnostischen Zwecken oder zur sofortigen Tötung und unschädlichen Beseitigung genehmigen.</P>
+                    <P>(3) Die zuständige Behörde kann bei den der behördlichen Beobachtung unterliegenden ansteckungsverdächtigen Rindern die Tötung anordnen.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNG000501308">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>020030</gliederungskennzahl>
+                <gliederungsbez>3.</gliederungsbez>
+                <gliederungstitel>Desinfektion</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE001903308">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>§ 8</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Behälter, in denen Milch von Kühen, bei denen Verdacht auf Tuberkulose festgestellt worden ist, an eine Sammelmolkerei geliefert wird, sind von der Sammelmolkerei zu reinigen und zu desinfizieren.</P>
+                    <P>(2) Nach Entfernung der Rinder, bei denen Tuberkulose oder Verdacht auf Tuberkulose festgestellt worden ist, aus dem Bestand oder von ihren sonstigen Standorten sind nach näherer Anweisung des beamteten Tierarztes <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Ställe oder sonstigen Standorte dieser Tiere, insbesondere die Stallgänge, Jaucherinnen, Futtergänge, die verwendeten Gerätschaften und sonstigen Gegenstände, die Träger des Ansteckungsstoffes sein können, unverzüglich zu reinigen und zu desinfizieren;</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">der Dung aus den Ställen oder sonstigen Standorten an einem für empfängliche Tiere unzugänglichen Platz zu packen, zu desinfizieren und mindestens drei Wochen zu lagern;</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">flüssige Abgänge aus den Ställen oder sonstigen Standorten, soweit sie nicht dem Dung beigegeben werden, zu desinfizieren.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(3) Die zuständige Behörde kann zulassen, daß die Desinfektion nach Absatz 2 Nr. 1 auf die Standplätze der Tiere und die diesen benachbarten sowie gegenüberliegenden Standplätze oder auf die Stallabteilungen beschränkt wird, in denen die Tiere gestanden haben.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNG000601308">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>020040</gliederungskennzahl>
+                <gliederungsbez>4.</gliederungsbez>
+                <gliederungstitel>Aufhebung der Schutzmaßregeln</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE002002377">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>§ 9</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die Tuberkulose erloschen ist oder sich der Verdacht auf Tuberkulose als unbegründet erwiesen hat.</P>
+                    <P>(2) Die Tuberkulose gilt als erloschen, wenn <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">die Rinder des Bestandes verendet sind, getötet oder entfernt worden sind,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">die seuchenkranken und seuchenverdächtigen Rinder, im Falle der Anordnung nach § 7 Satz 2 auch die ansteckungsverdächtigen Rinder, entfernt worden sind und bei den übrigen Rindern des Bestandes frühestens acht Wochen nach der Entfernung eine klinische Untersuchung in Verbindung mit einer Tuberkulinprobe sowie eine weitere, im Abstand von mindestens acht Wochen durchgeführte Tuberkulinprobe einen negativen Befund ergeben haben oder</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">bei Verdacht auf Tuberkulose die seuchenverdächtigen Rinder entfernt worden sind und frühestens acht Wochen nach der Entfernung bei den übrigen Rindern eine klinische Untersuchung in Verbindung mit einer Tuberkulinprobe einen negativen Befund ergeben hat oder</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">im Falle einer positiven molekularbiologischen Untersuchung im Schlachthof bei den Rindern des Bestandes, aus dem das positiv molekularbiologisch untersuchte Rind stammt, eine Untersuchung mit einer Tuberkulinprobe ein negatives Ergebnis ergeben hat und,</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Desinfektion nach näherer Anweisung des beamteten Tierarztes unter amtlicher Überwachung durchgeführt und vom beamteten Tierarzt abgenommen worden ist.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNG000702377">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>III.</gliederungsbez>
+                <gliederungstitel>(weggefallen)</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE002102377">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>(XXXX) §§ 10 und 11</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNG000801308">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>040</gliederungskennzahl>
+                <gliederungsbez>IV.</gliederungsbez>
+                <gliederungstitel>Anerkannte Bestände</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE002302377">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>(XXXX) §§ 12 und 13</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE002502377">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>§ 14</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Ist in einem Rinderbestand bei anderen Haustieren Tuberkulose oder Verdacht auf Tuberkulose festgestellt worden, hat der Besitzer <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die zuständige Behörde hiervon zu benachrichtigen,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die seuchenkranken und seuchenverdächtigen Tiere abzusondern und vom Rinderbestand fernzuhalten und</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">eine von der zuständigen Behörde angeordnete Untersuchung zu dulden.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Die zuständige Behörde ordnet die Untersuchung des Rinderbestandes an, wenn zu befürchten ist, daß die Tuberkulose auf Rinder übertragen worden ist.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE002602113">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>§ 15</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Der Besitzer eines Rinderbestandes hat dafür zu sorgen, daß die Rinder seines Bestandes <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">nicht mit Personen, die an ansteckender Tuberkulose leiden, und</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">nicht mit tuberkulosekranken und verdächtigen Haustieren anderer Besitzer</LA>
+                            </DD>
+                        </DL>in Berührung kommen.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE002703377">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>§ 16</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNG000901308">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>050</gliederungskennzahl>
+                <gliederungsbez>V.</gliederungsbez>
+                <gliederungstitel>Ordnungswidrigkeiten</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE002804377">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>§ 17</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 1 Buchstabe b des Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">einer vollziehbaren Anordnung nach § 3 Absatz 4, § 6 Absatz 2 zweiter Halbsatz in Verbindung mit Absatz 1 Nummer 2, 3 oder 4, § 7 oder § 7a Absatz 1 Satz 2 oder Absatz 3 oder § 14 Absatz 2 oder</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">einer mit einer Genehmigung nach § 7a Abs. 2 Satz 2, verbundenen vollziehbaren Auflage</LA>
+                            </DD>
+                        </DL>zuwiderhandelt.</P>
+                    <P>(2) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 2 des Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">entgegen § 2 Satz 1 eine Impfung oder einen Heilversuch durchführt,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">entgegen § 3 Absatz 5 nicht die erforderliche Hilfe leistet,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">entgegen § 4 Satz 2 Rinder aus dem Gehöft oder von dem sonstigen Standort entfernt,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">entgegen § 5 das Ergebnis der Tuberkulinprobe nicht unverzüglich mitteilt,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">entgegen § 6 Abs. 1 Nr. 1 Buchstabe a Rinder nicht absondert oder entgegen § 6 Abs. 1 Nr. 1 Buchstabe b Rinder aus dem Gehöft oder von dem sonstigen Standort entfernt,</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">entgegen § 6 Abs. 1 Nr. 2 Milch nicht unschädlich beseitigt,</LA>
+                            </DD>
+                            <DT>7.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">der Vorschrift des § 6 Abs. 1 Nr. 3 oder 4 oder § 8 Abs. 1 oder 2 über die Reinigung oder Desinfektion zuwiderhandelt,</LA>
+                            </DD>
+                            <DT>8.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">entgegen § 7a Abs. 2 Satz 1 ein Rind verbringt.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNG001001308">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>060</gliederungskennzahl>
+                <gliederungsbez>VI.</gliederungsbez>
+                <gliederungstitel>Schlußvorschriften</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE002901308">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>§ 18</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Ein Rinderbestand, der vor Inkrafttreten dieser Verordnung von der zuständigen Behörde amtlich als tuberkulosefrei anerkannt worden ist, gilt als anerkannter Bestand im Sinne dieser Verordnung.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE003102308">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>§ 19</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(Inkrafttreten)</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625153707" doknr="BJNR009150972BJNE003303377">
+        <metadaten>
+            <jurabk>RindTbV</jurabk>
+            <enbez>Anlage</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
 </dokumente>

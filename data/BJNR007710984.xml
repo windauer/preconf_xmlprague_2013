@@ -1,20 +1,627 @@
-<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
-<dokumente builddate="20120625155012" doknr="BJNR007710984"><norm builddate="20120625155012" doknr="BJNR007710984"><metadaten><jurabk>SchoMstrV</jurabk><amtabk>SchoMstrV</amtabk><ausfertigung-datum manuell="ja">1984-06-25</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1984, 771</zitstelle></fundstelle><kurzue>Schornsteinfegermeisterverordnung</kurzue><langue>Verordnung über das Berufsbild und über die Prüfungsanforderungen im
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625155012" doknr="BJNR007710984">
+    <norm builddate="20120625155012" doknr="BJNR007710984">
+        <metadaten>
+            <jurabk>SchoMstrV</jurabk>
+            <amtabk>SchoMstrV</amtabk>
+            <ausfertigung-datum manuell="ja">1984-06-25</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1984, 771</zitstelle>
+            </fundstelle>
+            <kurzue>Schornsteinfegermeisterverordnung</kurzue>
+            <langue>Verordnung über das Berufsbild und über die Prüfungsanforderungen im
 praktischen und im fachtheoretischen Teil der Meisterprüfung für das
-Schornsteinfeger-Handwerk</langue></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten><Content><P>(+++ Textnachweis ab: 1.1.1985 +++)</P></Content></fussnoten></textdaten></norm>
-<norm builddate="20120625155012" doknr="BJNR007710984BJNE000400327"><metadaten><jurabk>SchoMstrV</jurabk><enbez>Eingangsformel</enbez></metadaten><textdaten><text format="XML"><Content><P>Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 24 Nr. 1 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:</P></Content></text></textdaten></norm>
-<norm builddate="20120625155012" doknr="BJNR007710984BJNG000100327"><metadaten><jurabk>SchoMstrV</jurabk><gliederungseinheit><gliederungskennzahl>010</gliederungskennzahl><gliederungsbez>1. Abschnitt</gliederungsbez><gliederungstitel>Berufsbild</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625155012" doknr="BJNR007710984BJNE000500327"><metadaten><jurabk>SchoMstrV</jurabk><enbez>§ 1</enbez><titel format="parat">Berufsbild</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Dem Schornsteinfeger-Handwerk sind folgende Tätigkeiten zuzurechnen: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Kehrung, Reinigung und Überprüfung von Schornsteinen, Verbindungsstücken und Feuerstätten,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Reinigung und Überprüfung von Lüftungsanlagen und ähnlichen Einrichtungen nach der jeweils geltenden Kehr- und Überprüfungsordnung,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Durchführung der Feuerstättenschau sowie Prüfung und Begutachtung von Feuerungs- und Lüftungsanlagen und ähnlichen Einrichtungen auf ihre Feuersicherheit,</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Feststellung von Mängeln, insbesondere von Funktionsstörungen, Belästigungen und Gefahren, an Feuerungs- und Lüftungsanlagen und ähnlichen Einrichtungen sowie Beseitigung von Funktionsstörungen an Rauch- und Abgaswegen,</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">baurechtlich vorgeschriebene Prüfungen und Begutachtungen sowie Ausstellung entsprechender Bescheinigungen insbesondere zu Rohbau- und Schlußabnahmen,</LA></DD> <DT>6.</DT><DD Font="normal"><LA Size="normal">Überprüfung von Schornsteinen, Verbindungsstücken und Feuerstätten sowie ähnlichen Einrichtungen nach den Immissionsschutzbestimmungen des Bundes, Feststellung und Weiterleitung von Angaben für die Aufstellung von Emissionskatastern nach den Immissionsschutzbestimmungen des jeweiligen Landes sowie Ausstellung entsprechender Bescheinigungen,</LA></DD> <DT>7.</DT><DD Font="normal"><LA Size="normal">Überwachung von Feuerungsanlagen, soweit sie nach den Rechtsvorschriften über die Energie-Einsparung als Aufgabe übertragen ist,</LA></DD> <DT>8.</DT><DD Font="normal"><LA Size="normal">Beratung in feuerungstechnischen Fragen,</LA></DD> <DT>9.</DT><DD Font="normal"><LA Size="normal">Durchführung der Brandverhütungsschau oder Teilnahme an ihr,</LA></DD> <DT>10.</DT><DD Font="normal"><LA Size="normal">Hilfeleistung bei der Brandbekämpfung nach Aufforderung durch die zuständige Behörde und Unterstützung der Aufgaben des Zivilschutzes, soweit sie die Brandverhütung betreffen,</LA></DD> <DT>11.</DT><DD Font="normal"><LA Size="normal">schriftliche Meldung festgestellter Mängel.</LA></DD> </DL> </P><P>(2) Dem Schornsteinfeger-Handwerk sind folgende Kenntnisse und Fertigkeiten zuzurechnen: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Kenntnisse der Vorschriften der Teile I bis III des Schornsteinfegergesetzes und der hierzu erlassenen Rechtsverordnungen in der jeweils geltenden Fassung,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Kenntnisse über die Vorschriften der Teile IV und V des Schornsteinfegergesetzes und der hierzu erlassenen Rechtsverordnungen in der jeweils geltenden Fassung sowie über die berufsbezogenen Vorschriften des Baurechts, des Brandschutzes, des Immissionsschutzes und der Energie-Einsparung,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Kenntnisse der berufsbezogenen Vorschriften der Unfallverhütung, des Arbeitsschutzes und der Arbeitssicherheit,</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Kenntnisse der Führung und Verwaltung eines Kehrbezirks,</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">Kenntnisse des Aufbaus und der Funktion von Feuerungs- und Lüftungsanlagen sowie ähnlichen Einrichtungen,</LA></DD> <DT>6.</DT><DD Font="normal"><LA Size="normal">Kenntnisse des Aufbaus, der Funktion, der Handhabung und der Anwendung von Arbeits-, Reinigungs-, Meß- und Prüfgeräten,</LA></DD> <DT>7.</DT><DD Font="normal"><LA Size="normal">Kenntnisse über chemische und physikalische Vorgänge in der Feuerungs- und Meßtechnik einschließlich der hierzu erforderlichen Berechnungen sowie über Grundlagen der Bauphysik und Elektrotechnik,</LA></DD> <DT>8.</DT><DD Font="normal"><LA Size="normal">Kenntnisse der Ausstellung von Bescheinigungen nach den berufsbezogenen Rechtsvorschriften sowie über die Anfertigung von Gutachten,</LA></DD> <DT>9.</DT><DD Font="normal"><LA Size="normal">Kenntnisse über das Lesen von Skizzen, Zeichnungen und Funktionsschemata,</LA></DD> <DT>10.</DT><DD Font="normal"><LA Size="normal">Kehren, Reinigen und Überprüfen von Feuerungsanlagen und ähnlichen Einrichtungen,</LA></DD> <DT>11.</DT><DD Font="normal"><LA Size="normal">Überprüfen und Reinigen von Lüftungsanlagen und ähnlichen Einrichtungen nach der Kehr- und Überprüfungsordnung,</LA></DD> <DT>12.</DT><DD Font="normal"><LA Size="normal">Feststellen von Mängeln, insbesondere von Funktionsstörungen, Belästigungen und Gefahren, an Feuerungs- und Lüftungsanlagen, insbesondere an Zu- und Ablufteinrichtungen und im Verbrennungsluftverbund, sowie an ähnlichen Einrichtungen,</LA></DD> <DT>13.</DT><DD Font="normal"><LA Size="normal">Beseitigen von Mängeln, insbesondere von Funktionsstörungen, an Rauch- und Abgaswegen,</LA></DD> <DT>14.</DT><DD Font="normal"><LA Size="normal">schriftliches Melden von Mängeln,</LA></DD> <DT>15.</DT><DD Font="normal"><LA Size="normal">Überprüfen, Prüfen und Begutachten von Feuerungs- und Lüftungsanlagen, insbesondere an Zu- und Ablufteinrichtungen und im Verbrennungsluftverbund, sowie an ähnlichen Einrichtungen,</LA></DD> <DT>16.</DT><DD Font="normal"><LA Size="normal">Hilfeleisten bei der Brandbekämpfung und Unterstützen der Aufgaben des Zivilschutzes bei der Brandverhütung,</LA></DD> <DT>17.</DT><DD Font="normal"><LA Size="normal">Überwachen von Feuerungsanlagen und ähnlichen Einrichtungen sowie Feststellen von Angaben für die Aufstellung von Emissionskatastern,</LA></DD> <DT>18.</DT><DD Font="normal"><LA Size="normal">Ausstellen von Bescheinigungen nach den berufsbezogenen Rechtsvorschriften,</LA></DD> <DT>19.</DT><DD Font="normal"><LA Size="normal">Messen an Feuerungsanlagen, Zu- und Ablufteinrichtungen und ähnlichen Einrichtungen,</LA></DD> <DT>20.</DT><DD Font="normal"><LA Size="normal">Durchführen von berufsbezogenen Berechnungen,</LA></DD> <DT>21.</DT><DD Font="normal"><LA Size="normal">Lesen und Anfertigen von Skizzen und Zeichnungen sowie Lesen von Funktionsschemata,</LA></DD> <DT>22.</DT><DD Font="normal"><LA Size="normal">Auswählen, Vorbereiten, Handhaben, Pflegen und Instandsetzen von Arbeits-, Reinigungs-, Meß- und Prüfgeräten.</LA></DD> </DL></P></Content></text></textdaten></norm>
-<norm builddate="20120625155012" doknr="BJNR007710984BJNG000200327"><metadaten><jurabk>SchoMstrV</jurabk><gliederungseinheit><gliederungskennzahl>020</gliederungskennzahl><gliederungsbez>2. Abschnitt</gliederungsbez><gliederungstitel>Prüfungsanforderungen in den Teilen
-I und II der Meisterprüfung</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625155012" doknr="BJNR007710984BJNE000600327"><metadaten><jurabk>SchoMstrV</jurabk><enbez>§ 2</enbez><titel format="parat">Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)</titel></metadaten><textdaten><text format="XML"><Content><P>(1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen.</P><P>(2) Die Anfertigung der Meisterprüfungsarbeit soll nicht länger als vier, die Ausführung der Arbeitsprobe nicht länger als sechs Stunden dauern.</P><P>(3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe. Innerhalb der Arbeitsprobe müssen die Arbeiten nach § 4 Nr. 1, 3, 5, 6 und 7 ebenfalls mit mindestens ausreichend bewertet sein.</P></Content>  </text></textdaten></norm>
-<norm builddate="20120625155012" doknr="BJNR007710984BJNE000700327"><metadaten><jurabk>SchoMstrV</jurabk><enbez>§ 3</enbez><titel format="parat">Meisterprüfungsarbeit</titel></metadaten><textdaten><text format="XML"><Content><P>Als Meisterprüfungsarbeit sind zwei der nachstehenden Arbeiten, davon in jedem Fall die nach Nummer 1, anzufertigen: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Erarbeiten und Auswerten von Arbeitsunterlagen für die Führung und Verwaltung eines Kehrbezirks,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Erarbeiten von Vorschlägen für die Verbrennungsluftversorgung einer Wohnung mit mehreren Feuerstätten,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Bestimmen der Abmessungen von Schornsteinen mit unterschiedlicher Ausführung von Schornstein, Verbindungsstück und Feuerstätte.</LA></DD> </DL></P></Content></text></textdaten></norm>
-<norm builddate="20120625155012" doknr="BJNR007710984BJNE000800327"><metadaten><jurabk>SchoMstrV</jurabk><enbez>§ 4</enbez><titel format="parat">Arbeitsprobe</titel></metadaten><textdaten><text format="XML"><Content><P>Als Arbeitsprobe sind sechs der nachstehend genannten Arbeiten, davon in jedem Fall die nach den Nummern 1, 3, 5, 6 und 7, auszuführen: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Kehren und Überprüfen von Schornsteinen,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Kehren oder Reinigen einer Feuerstätte und eines Verbindungsstücks,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Überprüfen einer Feuerstätte und eines Verbindungsstücks,</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Überprüfen oder Reinigen einer Zu- und einer Ablufteinrichtung,</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">Überprüfen, Prüfen und Begutachten von Feuerungsanlagen auf ihre Feuersicherheit,</LA></DD> <DT>6.</DT><DD Font="normal"><LA Size="normal">Begutachten einer Feuerungsanlage, einer Zu- und einer Ablufteinrichtung oder einer ähnlichen Einrichtung nach baurechtlichen Vorschriften,</LA></DD> <DT>7.</DT><DD Font="normal"><LA Size="normal">Messen an Feuerungsanlagen nach öffentlich-rechtlichen Vorschriften,</LA></DD> <DT>8.</DT><DD Font="normal"><LA Size="normal">Messen an Feuerungsanlagen als Funktionsprüfung,</LA></DD> <DT>9.</DT><DD Font="normal"><LA Size="normal">Erfassen von Daten als Arbeitsunterlagen für die Führung und Verwaltung eines Kehrbezirks.</LA></DD> </DL></P></Content></text></textdaten></norm>
-<norm builddate="20120625155012" doknr="BJNR007710984BJNE000900327"><metadaten><jurabk>SchoMstrV</jurabk><enbez>§ 5</enbez><titel format="parat">Prüfung der fachtheoretischen Kenntnisse (Teil II)</titel></metadaten><textdaten><text format="XML"><Content><P>(1) In Teil II sind Kenntnisse in folgenden neun Prüfungsfächern nachzuweisen: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Schornsteinfegerrecht:<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Schornsteinfegergesetz und hierzu erlassene Rechtsvorschriften,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">Kehr- und Überprüfungsordnung und Kehr- und Überprüfungsgebührenordnung;</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Baurecht und Brandschutzrecht:<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Bauordnung und Brandschutzbestimmungen,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">Rechtsverordnungen, Verwaltungsvorschriften, Erlasse, Richtlinien, Regeln, Hinweise und DIN-Normen,</LA></DD> <DT>c)</DT><DD Font="normal"><LA Size="normal">bauaufsichtsrechtliche Zulassungen,</LA></DD> <DT>d)</DT><DD Font="normal"><LA Size="normal">Baustoffe und -teile für Feuerungs- und Lüftungsanlagen sowie ähnliche Einrichtungen,</LA></DD> <DT>e)</DT><DD Font="normal"><LA Size="normal">Lesen von Bauzeichnungen;</LA></DD> </DL></LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Immissionsschutz- und Energie-Einsparungsrecht:<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Immissionsschutz- und Energie-Einsparungsgesetz,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">Rechtsverordnungen, Verwaltungsvorschriften, Erlasse, Richtlinien, Hinweise und DIN-Normen,</LA></DD> <DT>c)</DT><DD Font="normal"><LA Size="normal">Allgemeine Grundsätze zur Durchführung von Messungen;</LA></DD> </DL></LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Unfallverhütung, Arbeitsschutz und Arbeitssicherheit:<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">berufsbezogene Vorschriften der Unfallverhütung und des Arbeitsschutzes,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">Sicherheitsregeln und sonstige Bestimmungen;</LA></DD> </DL></LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">Führen und Verwalten eines Kehrbezirks:<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Jahresarbeitsplan,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">Gebührenermittlung und -berechnung,</LA></DD> <DT>c)</DT><DD Font="normal"><LA Size="normal">Kehrbuchführung,</LA></DD> <DT>d)</DT><DD Font="normal"><LA Size="normal">Aufzeichnung, Meldung und statistische Auflistung der Mängel,</LA></DD> <DT>e)</DT><DD Font="normal"><LA Size="normal">Kundenberatung,</LA></DD> <DT>f)</DT><DD Font="normal"><LA Size="normal">behördlicher Schriftverkehr, Formulare zu Statistiken,</LA></DD> <DT>g)</DT><DD Font="normal"><LA Size="normal">Begutachtung,</LA></DD> <DT>h)</DT><DD Font="normal"><LA Size="normal">Lesen von Zeichnungen und Funktionsschemata sowie Anfertigen von Skizzen;</LA></DD> </DL></LA></DD> <DT>6.</DT><DD Font="normal"><LA Size="normal">Aufbau und Funktion von Feuerungs- und Lüftungsanlagen sowie ähnlichen Einrichtungen:<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Schornsteine,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">Feuerstätten und Verbindungsstücke,</LA></DD> <DT>c)</DT><DD Font="normal"><LA Size="normal">Lüftungseinrichtungen,</LA></DD> <DT>d)</DT><DD Font="normal"><LA Size="normal">Sicherheits-, Steuer- und Regeleinrichtungen,</LA></DD> <DT>e)</DT><DD Font="normal"><LA Size="normal">Zusammenwirken der Vorgänge in Feuerungsanlagen,</LA></DD> <DT>f)</DT><DD Font="normal"><LA Size="normal">Wärmeverteilung;</LA></DD> </DL></LA></DD> <DT>7.</DT><DD Font="normal"><LA Size="normal">Aufbau und Funktion von Meß- und Prüfgeräten:<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Meß- und Prüfgeräte für Immissionsschutzmessungen,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">Meß- und Prüfgeräte für Feuerungs- und Lüftungsanlagen sowie für ähnliche Einrichtungen;</LA></DD> </DL></LA></DD> <DT>8.</DT><DD Font="normal"><LA Size="normal">Chemische und physikalische Vorgänge in der Feuerungs- und Meßtechnik:<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Brennstoffe,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">Verbrennungsvorgänge,</LA></DD> <DT>c)</DT><DD Font="normal"><LA Size="normal">Feuerungstechnik,</LA></DD> <DT>d)</DT><DD Font="normal"><LA Size="normal">Strömungsvorgänge,</LA></DD> <DT>e)</DT><DD Font="normal"><LA Size="normal">Grundlagen der Elektrotechnik,</LA></DD> <DT>f)</DT><DD Font="normal"><LA Size="normal">Wärmetechnik,</LA></DD> <DT>g)</DT><DD Font="normal"><LA Size="normal">Meßtechnik;</LA></DD> </DL></LA></DD> <DT>9.</DT><DD Font="normal"><LA Size="normal">Technische Mathematik:</LA><LA Size="normal">verbrennungs-, feuerungs-, strömungs- und wärmetechnische Berechnungen.</LA></DD>  </DL> </P><P>(2) Die Prüfung ist schriftlich und in vier Prüfungsfächern, davon in jedem Fall im Prüfungsfach nach Absatz 1 Nr. 6, auch mündlich durchzuführen.</P><P>(3) Die schriftliche Prüfung soll nicht länger als fünfzehn, die mündliche nicht länger als eine halbe Stunde je Prüfling dauern. In der schriftlichen Prüfung soll an einem Tag nicht länger als sechs Stunden geprüft werden.</P><P>(4) Der Prüfling ist von der mündlichen Prüfung auf Antrag zu befreien, wenn er im Durchschnitt mindestens gute schriftliche Leistungen erbracht hat.</P><P>(5) Mindestvoraussetzung für das Bestehen des Teils II sind jeweils ausreichende Leistungen in den Prüfungsfächern nach Absatz 1 Nr. 1, 2, 3, 6 und 8.</P></Content>   </text></textdaten></norm>
-<norm builddate="20120625155012" doknr="BJNR007710984BJNG000300327"><metadaten><jurabk>SchoMstrV</jurabk><gliederungseinheit><gliederungskennzahl>030</gliederungskennzahl><gliederungsbez>3. Abschnitt</gliederungsbez><gliederungstitel>Übergangs- und Schlußvorschriften</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625155012" doknr="BJNR007710984BJNE001000327"><metadaten><jurabk>SchoMstrV</jurabk><enbez>§ 6</enbez></metadaten><textdaten><text format="XML"><Content><P>-</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625155012" doknr="BJNR007710984BJNE001100327"><metadaten><jurabk>SchoMstrV</jurabk><enbez>§ 7</enbez><titel format="parat">Weitere Anforderungen</titel></metadaten><textdaten><text format="XML"><Content><P>Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.</P></Content></text></textdaten></norm>
-<norm builddate="20120625155012" doknr="BJNR007710984BJNE001200327"><metadaten><jurabk>SchoMstrV</jurabk><enbez>§ 8</enbez><titel format="parat">Berlin-Klausel</titel></metadaten><textdaten><text format="XML"><Content><P>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.</P></Content></text></textdaten></norm>
-<norm builddate="20120625155012" doknr="BJNR007710984BJNE001300327"><metadaten><jurabk>SchoMstrV</jurabk><enbez>§ 9</enbez><titel format="parat">Inkrafttreten</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Diese Verordnung tritt am 1. Januar 1985 in Kraft.</P><P>(2) Die auf Grund des § 122 der Handwerksordnung weiter anzuwendenden Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.</P></Content> </text></textdaten></norm>
-<norm builddate="20120625155012" doknr="BJNR007710984BJNE001400327"><metadaten><jurabk>SchoMstrV</jurabk><enbez>Schlußformel</enbez></metadaten><textdaten><text format="XML"><Content><P><SP>Der Bundesminister für Wirtschaft</SP></P></Content></text></textdaten></norm>
+Schornsteinfeger-Handwerk</langue>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten>
+                <Content>
+                    <P>(+++ Textnachweis ab: 1.1.1985 +++)</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155012" doknr="BJNR007710984BJNE000400327">
+        <metadaten>
+            <jurabk>SchoMstrV</jurabk>
+            <enbez>Eingangsformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 24 Nr. 1 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155012" doknr="BJNR007710984BJNG000100327">
+        <metadaten>
+            <jurabk>SchoMstrV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>010</gliederungskennzahl>
+                <gliederungsbez>1. Abschnitt</gliederungsbez>
+                <gliederungstitel>Berufsbild</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155012" doknr="BJNR007710984BJNE000500327">
+        <metadaten>
+            <jurabk>SchoMstrV</jurabk>
+            <enbez>§ 1</enbez>
+            <titel format="parat">Berufsbild</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Dem Schornsteinfeger-Handwerk sind folgende Tätigkeiten zuzurechnen: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kehrung, Reinigung und Überprüfung von Schornsteinen, Verbindungsstücken und Feuerstätten,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Reinigung und Überprüfung von Lüftungsanlagen und ähnlichen Einrichtungen nach der jeweils geltenden Kehr- und Überprüfungsordnung,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Durchführung der Feuerstättenschau sowie Prüfung und Begutachtung von Feuerungs- und Lüftungsanlagen und ähnlichen Einrichtungen auf ihre Feuersicherheit,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Feststellung von Mängeln, insbesondere von Funktionsstörungen, Belästigungen und Gefahren, an Feuerungs- und Lüftungsanlagen und ähnlichen Einrichtungen sowie Beseitigung von Funktionsstörungen an Rauch- und Abgaswegen,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">baurechtlich vorgeschriebene Prüfungen und Begutachtungen sowie Ausstellung entsprechender Bescheinigungen insbesondere zu Rohbau- und Schlußabnahmen,</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Überprüfung von Schornsteinen, Verbindungsstücken und Feuerstätten sowie ähnlichen Einrichtungen nach den Immissionsschutzbestimmungen des Bundes, Feststellung und Weiterleitung von Angaben für die Aufstellung von Emissionskatastern nach den Immissionsschutzbestimmungen des jeweiligen Landes sowie Ausstellung entsprechender Bescheinigungen,</LA>
+                            </DD>
+                            <DT>7.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Überwachung von Feuerungsanlagen, soweit sie nach den Rechtsvorschriften über die Energie-Einsparung als Aufgabe übertragen ist,</LA>
+                            </DD>
+                            <DT>8.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Beratung in feuerungstechnischen Fragen,</LA>
+                            </DD>
+                            <DT>9.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Durchführung der Brandverhütungsschau oder Teilnahme an ihr,</LA>
+                            </DD>
+                            <DT>10.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Hilfeleistung bei der Brandbekämpfung nach Aufforderung durch die zuständige Behörde und Unterstützung der Aufgaben des Zivilschutzes, soweit sie die Brandverhütung betreffen,</LA>
+                            </DD>
+                            <DT>11.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">schriftliche Meldung festgestellter Mängel.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Dem Schornsteinfeger-Handwerk sind folgende Kenntnisse und Fertigkeiten zuzurechnen: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse der Vorschriften der Teile I bis III des Schornsteinfegergesetzes und der hierzu erlassenen Rechtsverordnungen in der jeweils geltenden Fassung,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse über die Vorschriften der Teile IV und V des Schornsteinfegergesetzes und der hierzu erlassenen Rechtsverordnungen in der jeweils geltenden Fassung sowie über die berufsbezogenen Vorschriften des Baurechts, des Brandschutzes, des Immissionsschutzes und der Energie-Einsparung,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse der berufsbezogenen Vorschriften der Unfallverhütung, des Arbeitsschutzes und der Arbeitssicherheit,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse der Führung und Verwaltung eines Kehrbezirks,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse des Aufbaus und der Funktion von Feuerungs- und Lüftungsanlagen sowie ähnlichen Einrichtungen,</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse des Aufbaus, der Funktion, der Handhabung und der Anwendung von Arbeits-, Reinigungs-, Meß- und Prüfgeräten,</LA>
+                            </DD>
+                            <DT>7.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse über chemische und physikalische Vorgänge in der Feuerungs- und Meßtechnik einschließlich der hierzu erforderlichen Berechnungen sowie über Grundlagen der Bauphysik und Elektrotechnik,</LA>
+                            </DD>
+                            <DT>8.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse der Ausstellung von Bescheinigungen nach den berufsbezogenen Rechtsvorschriften sowie über die Anfertigung von Gutachten,</LA>
+                            </DD>
+                            <DT>9.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kenntnisse über das Lesen von Skizzen, Zeichnungen und Funktionsschemata,</LA>
+                            </DD>
+                            <DT>10.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kehren, Reinigen und Überprüfen von Feuerungsanlagen und ähnlichen Einrichtungen,</LA>
+                            </DD>
+                            <DT>11.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Überprüfen und Reinigen von Lüftungsanlagen und ähnlichen Einrichtungen nach der Kehr- und Überprüfungsordnung,</LA>
+                            </DD>
+                            <DT>12.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Feststellen von Mängeln, insbesondere von Funktionsstörungen, Belästigungen und Gefahren, an Feuerungs- und Lüftungsanlagen, insbesondere an Zu- und Ablufteinrichtungen und im Verbrennungsluftverbund, sowie an ähnlichen Einrichtungen,</LA>
+                            </DD>
+                            <DT>13.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Beseitigen von Mängeln, insbesondere von Funktionsstörungen, an Rauch- und Abgaswegen,</LA>
+                            </DD>
+                            <DT>14.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">schriftliches Melden von Mängeln,</LA>
+                            </DD>
+                            <DT>15.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Überprüfen, Prüfen und Begutachten von Feuerungs- und Lüftungsanlagen, insbesondere an Zu- und Ablufteinrichtungen und im Verbrennungsluftverbund, sowie an ähnlichen Einrichtungen,</LA>
+                            </DD>
+                            <DT>16.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Hilfeleisten bei der Brandbekämpfung und Unterstützen der Aufgaben des Zivilschutzes bei der Brandverhütung,</LA>
+                            </DD>
+                            <DT>17.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Überwachen von Feuerungsanlagen und ähnlichen Einrichtungen sowie Feststellen von Angaben für die Aufstellung von Emissionskatastern,</LA>
+                            </DD>
+                            <DT>18.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Ausstellen von Bescheinigungen nach den berufsbezogenen Rechtsvorschriften,</LA>
+                            </DD>
+                            <DT>19.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Messen an Feuerungsanlagen, Zu- und Ablufteinrichtungen und ähnlichen Einrichtungen,</LA>
+                            </DD>
+                            <DT>20.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Durchführen von berufsbezogenen Berechnungen,</LA>
+                            </DD>
+                            <DT>21.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Lesen und Anfertigen von Skizzen und Zeichnungen sowie Lesen von Funktionsschemata,</LA>
+                            </DD>
+                            <DT>22.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Auswählen, Vorbereiten, Handhaben, Pflegen und Instandsetzen von Arbeits-, Reinigungs-, Meß- und Prüfgeräten.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155012" doknr="BJNR007710984BJNG000200327">
+        <metadaten>
+            <jurabk>SchoMstrV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>020</gliederungskennzahl>
+                <gliederungsbez>2. Abschnitt</gliederungsbez>
+                <gliederungstitel>Prüfungsanforderungen in den Teilen
+I und II der Meisterprüfung</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155012" doknr="BJNR007710984BJNE000600327">
+        <metadaten>
+            <jurabk>SchoMstrV</jurabk>
+            <enbez>§ 2</enbez>
+            <titel format="parat">Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen.</P>
+                    <P>(2) Die Anfertigung der Meisterprüfungsarbeit soll nicht länger als vier, die Ausführung der Arbeitsprobe nicht länger als sechs Stunden dauern.</P>
+                    <P>(3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe. Innerhalb der Arbeitsprobe müssen die Arbeiten nach § 4 Nr. 1, 3, 5, 6 und 7 ebenfalls mit mindestens ausreichend bewertet sein.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155012" doknr="BJNR007710984BJNE000700327">
+        <metadaten>
+            <jurabk>SchoMstrV</jurabk>
+            <enbez>§ 3</enbez>
+            <titel format="parat">Meisterprüfungsarbeit</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Als Meisterprüfungsarbeit sind zwei der nachstehenden Arbeiten, davon in jedem Fall die nach Nummer 1, anzufertigen: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Erarbeiten und Auswerten von Arbeitsunterlagen für die Führung und Verwaltung eines Kehrbezirks,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Erarbeiten von Vorschlägen für die Verbrennungsluftversorgung einer Wohnung mit mehreren Feuerstätten,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Bestimmen der Abmessungen von Schornsteinen mit unterschiedlicher Ausführung von Schornstein, Verbindungsstück und Feuerstätte.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155012" doknr="BJNR007710984BJNE000800327">
+        <metadaten>
+            <jurabk>SchoMstrV</jurabk>
+            <enbez>§ 4</enbez>
+            <titel format="parat">Arbeitsprobe</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Als Arbeitsprobe sind sechs der nachstehend genannten Arbeiten, davon in jedem Fall die nach den Nummern 1, 3, 5, 6 und 7, auszuführen: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kehren und Überprüfen von Schornsteinen,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Kehren oder Reinigen einer Feuerstätte und eines Verbindungsstücks,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Überprüfen einer Feuerstätte und eines Verbindungsstücks,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Überprüfen oder Reinigen einer Zu- und einer Ablufteinrichtung,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Überprüfen, Prüfen und Begutachten von Feuerungsanlagen auf ihre Feuersicherheit,</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Begutachten einer Feuerungsanlage, einer Zu- und einer Ablufteinrichtung oder einer ähnlichen Einrichtung nach baurechtlichen Vorschriften,</LA>
+                            </DD>
+                            <DT>7.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Messen an Feuerungsanlagen nach öffentlich-rechtlichen Vorschriften,</LA>
+                            </DD>
+                            <DT>8.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Messen an Feuerungsanlagen als Funktionsprüfung,</LA>
+                            </DD>
+                            <DT>9.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Erfassen von Daten als Arbeitsunterlagen für die Führung und Verwaltung eines Kehrbezirks.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155012" doknr="BJNR007710984BJNE000900327">
+        <metadaten>
+            <jurabk>SchoMstrV</jurabk>
+            <enbez>§ 5</enbez>
+            <titel format="parat">Prüfung der fachtheoretischen Kenntnisse (Teil II)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) In Teil II sind Kenntnisse in folgenden neun Prüfungsfächern nachzuweisen: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Schornsteinfegerrecht:<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Schornsteinfegergesetz und hierzu erlassene Rechtsvorschriften,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Kehr- und Überprüfungsordnung und Kehr- und Überprüfungsgebührenordnung;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Baurecht und Brandschutzrecht:<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Bauordnung und Brandschutzbestimmungen,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Rechtsverordnungen, Verwaltungsvorschriften, Erlasse, Richtlinien, Regeln, Hinweise und DIN-Normen,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">bauaufsichtsrechtliche Zulassungen,</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Baustoffe und -teile für Feuerungs- und Lüftungsanlagen sowie ähnliche Einrichtungen,</LA>
+                                        </DD>
+                                        <DT>e)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Lesen von Bauzeichnungen;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Immissionsschutz- und Energie-Einsparungsrecht:<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Immissionsschutz- und Energie-Einsparungsgesetz,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Rechtsverordnungen, Verwaltungsvorschriften, Erlasse, Richtlinien, Hinweise und DIN-Normen,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Allgemeine Grundsätze zur Durchführung von Messungen;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Unfallverhütung, Arbeitsschutz und Arbeitssicherheit:<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">berufsbezogene Vorschriften der Unfallverhütung und des Arbeitsschutzes,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Sicherheitsregeln und sonstige Bestimmungen;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Führen und Verwalten eines Kehrbezirks:<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Jahresarbeitsplan,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Gebührenermittlung und -berechnung,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Kehrbuchführung,</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Aufzeichnung, Meldung und statistische Auflistung der Mängel,</LA>
+                                        </DD>
+                                        <DT>e)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Kundenberatung,</LA>
+                                        </DD>
+                                        <DT>f)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">behördlicher Schriftverkehr, Formulare zu Statistiken,</LA>
+                                        </DD>
+                                        <DT>g)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Begutachtung,</LA>
+                                        </DD>
+                                        <DT>h)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Lesen von Zeichnungen und Funktionsschemata sowie Anfertigen von Skizzen;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Aufbau und Funktion von Feuerungs- und Lüftungsanlagen sowie ähnlichen Einrichtungen:<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Schornsteine,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Feuerstätten und Verbindungsstücke,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Lüftungseinrichtungen,</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Sicherheits-, Steuer- und Regeleinrichtungen,</LA>
+                                        </DD>
+                                        <DT>e)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Zusammenwirken der Vorgänge in Feuerungsanlagen,</LA>
+                                        </DD>
+                                        <DT>f)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Wärmeverteilung;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>7.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Aufbau und Funktion von Meß- und Prüfgeräten:<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Meß- und Prüfgeräte für Immissionsschutzmessungen,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Meß- und Prüfgeräte für Feuerungs- und Lüftungsanlagen sowie für ähnliche Einrichtungen;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>8.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Chemische und physikalische Vorgänge in der Feuerungs- und Meßtechnik:<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Brennstoffe,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Verbrennungsvorgänge,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Feuerungstechnik,</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Strömungsvorgänge,</LA>
+                                        </DD>
+                                        <DT>e)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Grundlagen der Elektrotechnik,</LA>
+                                        </DD>
+                                        <DT>f)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Wärmetechnik,</LA>
+                                        </DD>
+                                        <DT>g)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Meßtechnik;</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>9.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Technische Mathematik:</LA>
+                                <LA Size="normal">verbrennungs-, feuerungs-, strömungs- und wärmetechnische Berechnungen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Die Prüfung ist schriftlich und in vier Prüfungsfächern, davon in jedem Fall im Prüfungsfach nach Absatz 1 Nr. 6, auch mündlich durchzuführen.</P>
+                    <P>(3) Die schriftliche Prüfung soll nicht länger als fünfzehn, die mündliche nicht länger als eine halbe Stunde je Prüfling dauern. In der schriftlichen Prüfung soll an einem Tag nicht länger als sechs Stunden geprüft werden.</P>
+                    <P>(4) Der Prüfling ist von der mündlichen Prüfung auf Antrag zu befreien, wenn er im Durchschnitt mindestens gute schriftliche Leistungen erbracht hat.</P>
+                    <P>(5) Mindestvoraussetzung für das Bestehen des Teils II sind jeweils ausreichende Leistungen in den Prüfungsfächern nach Absatz 1 Nr. 1, 2, 3, 6 und 8.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155012" doknr="BJNR007710984BJNG000300327">
+        <metadaten>
+            <jurabk>SchoMstrV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>3. Abschnitt</gliederungsbez>
+                <gliederungstitel>Übergangs- und Schlußvorschriften</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155012" doknr="BJNR007710984BJNE001000327">
+        <metadaten>
+            <jurabk>SchoMstrV</jurabk>
+            <enbez>§ 6</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155012" doknr="BJNR007710984BJNE001100327">
+        <metadaten>
+            <jurabk>SchoMstrV</jurabk>
+            <enbez>§ 7</enbez>
+            <titel format="parat">Weitere Anforderungen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155012" doknr="BJNR007710984BJNE001200327">
+        <metadaten>
+            <jurabk>SchoMstrV</jurabk>
+            <enbez>§ 8</enbez>
+            <titel format="parat">Berlin-Klausel</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155012" doknr="BJNR007710984BJNE001300327">
+        <metadaten>
+            <jurabk>SchoMstrV</jurabk>
+            <enbez>§ 9</enbez>
+            <titel format="parat">Inkrafttreten</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Diese Verordnung tritt am 1. Januar 1985 in Kraft.</P>
+                    <P>(2) Die auf Grund des § 122 der Handwerksordnung weiter anzuwendenden Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625155012" doknr="BJNR007710984BJNE001400327">
+        <metadaten>
+            <jurabk>SchoMstrV</jurabk>
+            <enbez>Schlußformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <SP>Der Bundesminister für Wirtschaft</SP>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
 </dokumente>

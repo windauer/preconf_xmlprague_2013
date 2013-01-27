@@ -1,45 +1,1277 @@
-<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
-<dokumente builddate="20120625150408" doknr="BJNR007590969"><norm builddate="20120625150408" doknr="BJNR007590969"><metadaten><jurabk>EichG</jurabk><ausfertigung-datum manuell="ja">1969-07-11</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1969, 759</zitstelle></fundstelle><kurzue>Eichgesetz</kurzue><langue>Gesetz über das Meß- und Eichwesen</langue><standangabe checked="ja"><standtyp>Neuf</standtyp><standkommentar>Neugefasst durch Bek. v. 23.3.1992 I 711;</standkommentar></standangabe><standangabe checked="ja"><standtyp>Stand</standtyp><standkommentar>zuletzt geändert Art. 1 G v. 7.3.2011 I 338</standkommentar></standangabe></metadaten><textdaten><fussnoten><Content><P><BR/> <pre xml:space="preserve">(+++ Textnachweis ab: 6.6.1986 +++)<BR/>(+++ Maßgaben aufgrund des EinigVtr vgl. EichG Anhang EV +++)<BR/><BR/></pre></P></Content></fussnoten></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE000806360"><metadaten><jurabk>EichG</jurabk><enbez>Inhaltsübersicht</enbez></metadaten><textdaten><text format="XML"><TOC><Ident><B>Erster Abschnitt</B><BR/><BR/><B>Zweckbestimmung; Zulassung,<BR/>Eichung und andere Prüfungen von Meßgeräten</B></Ident><P><table frame="none" pgwide="1" tocentry="%yes;"><tgroup align="left" char="" charoff="50" cols="2"><colspec colname="col1" colwidth="0.14*"/><colspec colname="col2" colwidth="1.86*"/><tbody valign="top"><row><entry VJ="1" colsep="0" rowsep="0">§ 1</entry><entry VJ="1" colsep="0" rowsep="0">Zweck des Gesetzes</entry></row><row><entry VJ="1" colsep="0" rowsep="0">§ 2</entry><entry VJ="1" colsep="0" rowsep="0">Eichpflicht und andere Maßnahmen zur Gewährleistung der Meßsicherheit</entry></row><row><entry VJ="1" colsep="0" rowsep="0">§ 3</entry><entry VJ="1" colsep="0" rowsep="0">Erlaß von Ausführungsvorschriften</entry></row><row><entry VJ="1" colsep="0" rowsep="0">§ 4</entry><entry VJ="1" colsep="0" rowsep="0">Zusatzeinrichtungen</entry></row><row><entry VJ="1" colsep="0" rowsep="0">§ 5</entry><entry VJ="1" colsep="0" rowsep="0">Mitwirkung der Gemeinden</entry></row></tbody></tgroup></table><BR/><BR/></P><Ident><B>Zweiter Abschnitt</B><BR/><BR/><B>Fertigpackungen und Schankgefäße</B></Ident><P><table frame="none" pgwide="1" tocentry="%yes;"><tgroup align="left" char="" charoff="50" cols="2"><colspec colname="col1" colwidth="0.14*"/><colspec colname="col2" colwidth="1.86*"/><tbody valign="top"><row><entry VJ="1" colsep="0" rowsep="0">§ 6</entry><entry VJ="1" colsep="0" rowsep="0">Begriffsbestimmungen für Fertigpackungen</entry></row><row><entry VJ="1" colsep="0" rowsep="0">§ 7</entry><entry VJ="1" colsep="0" rowsep="0">Anforderungen an Fertigpackungen</entry></row><row><entry VJ="1" colsep="0" rowsep="0">§ 8</entry><entry VJ="1" colsep="0" rowsep="0">Erlaß von Ausführungsvorschriften</entry></row><row><entry VJ="1" colsep="0" rowsep="0">§ 9</entry><entry VJ="1" colsep="0" rowsep="0">Ausschankmaße</entry></row></tbody></tgroup></table><BR/><BR/></P><Ident><B>Dritter Abschnitt</B><BR/><BR/><B>Öffentliche Waagen</B></Ident><P><table frame="none" pgwide="1" tocentry="%yes;"><tgroup align="left" char="" charoff="50" cols="2"><colspec align="left" char="" charoff="50" colname="col1" colwidth="0.14*"/><colspec align="left" char="" charoff="50" colname="col2" colwidth="1.86*"/><tbody valign="top"><row><entry VJ="1" colsep="0" rowsep="0">§ 10</entry><entry VJ="1" colsep="0" rowsep="0">Wäger an öffentlichen Waagen</entry></row></tbody></tgroup></table><BR/><BR/></P><Ident><B>Vierter Abschnitt</B><BR/><BR/><B>Zuständigkeiten</B></Ident><P><table frame="none" pgwide="1" tocentry="%yes;"><tgroup align="left" char="" charoff="50" cols="2"><colspec colname="col1" colwidth="0.14*"/><colspec colname="col2" colwidth="1.86*"/><tbody valign="top"><row><entry VJ="1" colsep="0" rowsep="0">§ 11</entry><entry VJ="1" colsep="0" rowsep="0">Behörden</entry></row><row><entry VJ="1" colsep="0" rowsep="0">§ 12</entry><entry VJ="1" colsep="0" rowsep="0">(weggefallen)</entry></row><row><entry VJ="1" colsep="0" rowsep="0">§ 13</entry><entry VJ="1" colsep="0" rowsep="0">Aufgaben der Physikalisch-Technischen Bundesanstalt</entry></row></tbody></tgroup></table><BR/><BR/></P><Ident><B>Fünfter Abschnitt</B><BR/><BR/><B>Kosten, Auskunft und Nachschau</B></Ident><P><table frame="none" pgwide="1" tocentry="%yes;"><tgroup align="left" char="" charoff="50" cols="2"><colspec colname="col1" colwidth="0.14*"/><colspec colname="col2" colwidth="1.86*"/><tbody valign="top"><row><entry VJ="1" colsep="0" rowsep="0">§ 13a</entry><entry VJ="1" colsep="0" rowsep="0">Kostenerhebung</entry></row><row><entry VJ="1" colsep="0" rowsep="0">§ 14</entry><entry VJ="1" colsep="0" rowsep="0">Kostenverordnung für Amtshandlungen</entry></row><row><entry VJ="1" colsep="0" rowsep="0">§ 15</entry><entry VJ="1" colsep="0" rowsep="0">(weggefallen)</entry></row><row><entry VJ="1" colsep="0" rowsep="0">§ 16</entry><entry VJ="1" colsep="0" rowsep="0">Auskunft und Nachschau</entry></row><row><entry VJ="1" colsep="0" rowsep="0">§ 17</entry><entry VJ="1" colsep="0" rowsep="0">Befugnis zur Auskunftserteilung</entry></row><row><entry VJ="1" colsep="0" rowsep="0">§ 18</entry><entry VJ="1" colsep="0" rowsep="0">Abwehr und Unterbindung von Zuwiderhandlungen</entry></row></tbody></tgroup></table><BR/><BR/></P><Ident><B>Sechster Abschnitt</B><BR/><BR/><B>Bußgeldvorschriften</B></Ident><P><table frame="none" pgwide="1" tocentry="%yes;"><tgroup align="left" char="" charoff="50" cols="2"><colspec colname="col1" colwidth="0.14*"/><colspec colname="col2" colwidth="1.86*"/><tbody valign="top"><row><entry VJ="1" colsep="0" rowsep="0">§ 19</entry><entry VJ="1" colsep="0" rowsep="0">Ordnungswidrigkeiten</entry></row><row><entry VJ="1" colsep="0" rowsep="0">§ 20</entry><entry VJ="1" colsep="0" rowsep="0">Einziehung</entry></row></tbody></tgroup></table><BR/><BR/></P><Ident><B>Siebenter Abschnitt</B><BR/><BR/><B>Schlußvorschriften</B></Ident><P><table frame="none" pgwide="1" tocentry="%yes;"><tgroup align="left" char="" charoff="50" cols="2" colsep="0" rowsep="0"><colspec colname="col1" colnum="1" colwidth="0.142395*"/><colspec colname="col2" colnum="2" colwidth="1.857605*"/><tbody valign="top"><row><entry VJ="1">§ 21</entry><entry VJ="1">EG-Verordnungen</entry></row><row><entry VJ="1">§ 22</entry><entry VJ="1">(weggefallen)</entry></row><row><entry VJ="1">§ 23</entry><entry VJ="1">Bezugnahme auf technische Regeln</entry></row><row><entry VJ="1">§ 24</entry><entry VJ="1">Allgemeine Übergangsvorschriften</entry></row><row><entry VJ="1">§ 25</entry><entry VJ="1">Fortbestehen von Eichpflichten</entry></row><row><entry VJ="1">§ 26</entry><entry VJ="1">(weggefallen)</entry></row><row><entry VJ="1">§ 27</entry><entry VJ="1">Bezugnahme auf Vorschriften</entry></row></tbody></tgroup></table></P></TOC></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNG000102308"><metadaten><jurabk>EichG</jurabk><gliederungseinheit><gliederungskennzahl>010</gliederungskennzahl><gliederungsbez>Erster Abschnitt</gliederungsbez><gliederungstitel>Zweckbestimmung, Zulassung, Eichung und andere
-Prüfungen von Meßgeräten</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE000902308"><metadaten><jurabk>EichG</jurabk><enbez>§ 1</enbez><titel format="parat">Zweck des Gesetzes</titel></metadaten><textdaten><text format="XML"><Content><P>Zweck dieses Gesetzes ist es, <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">den Verbraucher beim Erwerb meßbarer Güter und Dienstleistungen zu schützen und im Interesse eines lauteren Handelsverkehrs die Voraussetzungen für richtiges Messen im geschäftlichen Verkehr zu schaffen,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">die Meßsicherheit im Gesundheitsschutz, Arbeitsschutz und Umweltschutz und in ähnlichen Bereichen des öffentlichen Interesses zu gewährleisten und</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">das Vertrauen in amtliche Messungen zu stärken.</LA></DD> </DL></P></Content></text></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE001004377"><metadaten><jurabk>EichG</jurabk><enbez>§ 2</enbez><titel format="parat">Eichpflicht und andere Maßnahmen zur Gewährleistung der Meßsicherheit</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Meßgeräte, die im geschäftlichen oder amtlichen Verkehr, Arbeitsschutz, Umweltschutz oder Strahlenschutz oder im Verkehrswesen verwendet werden, müssen zugelassen und geeicht sein, sofern dies zur Gewährleistung der Meßsicherheit erforderlich ist. Das Gleiche gilt für Messgeräte im Gesundheitsschutz, soweit sie nicht in anderen Rechtsvorschriften geregelt sind.</P><P>(2) Die Bundesregierung wird ermächtigt, zur Gewährleistung der Meßsicherheit in den in Absatz 1 genannten Bereichen oder zur Umsetzung von Rechtsakten der Europäischen Gemeinschaften durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, welche Meßgeräte nur in den Verkehr gebracht, in Betrieb genommen, bereitgehalten oder verwendet werden dürfen, wenn sie zugelassen und geeicht sind.</P><P>(3) Die Bundesregierung wird ferner ermächtigt, zu den gleichen Zwecken durch Rechtsverordnung mit Zustimmung des Bundesrates andere Maßnahmen vorzuschreiben, durch die eine ausreichende Meßsicherheit zu erwarten ist. Sie kann dabei insbesondere die Wartung von Meßgeräten, die Vornahme von Kontrolluntersuchungen und die Teilnahme an Vergleichsmessungen vorschreiben.</P><P>(4) Die Eichung wird, soweit in einer nach Absatz 2 erlassenen Rechtsverordnung nichts anderes bestimmt ist, von den zuständigen Behörden und von staatlich anerkannten Prüfstellen für Meßgeräte für Elektrizität, Gas, Wasser oder Wärme vorgenommen (amtliche Eichung). Die Eichung neuer Meßgeräte kann nach Maßgabe dieser Verordnung auch vom Hersteller vorgenommen werden (Eichung durch den Hersteller).</P><P>(5) Vor Erlaß von Rechtsverordnungen nach den Absätzen 2 und 3 sind die betroffenen Kreise zu hören.</P></Content>    </text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE001103377"><metadaten><jurabk>EichG</jurabk><enbez>§ 3</enbez><titel format="parat">Erlaß von Ausführungsvorschriften</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zur Durchführung des § 2 und der auf Grund von § 2 erlassenen Rechtsverordnungen zu erlassen. Sie kann dabei insbesondere <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Anforderungen an Meßgeräte und ihre Verwendung festlegen,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">die Gültigkeitsdauer der Eichung festlegen sowie die Wiederholung von Prüfungen und die Häufigkeit von Wartungsarbeiten vorschreiben,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Vorschriften erlassen über<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">die Voraussetzungen, den Umfang und das Verfahren der Zulassung, der Eichung und sonstiger Prüfungen sowie die Voraussetzungen der Rücknahme und des Widerrufs der Zulassung,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">die Voraussetzungen, den Umfang und das Verfahren der Anerkennung von Prüfstellen und der öffentlichen Bestellung und Verpflichtung des Prüfstellenpersonals sowie die Voraussetzungen der Rücknahme und des Widerrufs der Bestellung, den Betrieb der Prüfstelle, die Aufsicht über die Prüfstelle und die Haftung für ihre Tätigkeit,</LA></DD> <DT>c)</DT><DD Font="normal"><LA Size="normal">die Voraussetzungen, den Umfang und das Verfahren der Anerkennung und Überwachung anderer mit der Durchführung dieses Gesetzes betrauter Stellen, sowie deren Zusammenarbeit untereinander und mit ausländischen Behörden und Stellen,</LA></DD> <DT>d)</DT><DD Font="normal"><LA Size="normal">die Mitwirkungspflichten des Besitzers eines Meßgerätes bei der Eichung oder sonstigen Prüfung der meßtechnischen Eigenschaften,</LA></DD> <DT>e)</DT><DD Font="normal"><LA Size="normal">die Überprüfung von Meßergebnissen,</LA></DD> <DT>f)</DT><DD Font="normal"><LA Size="normal">die Ausnutzung von Fehlergrenzen und Abweichungen,</LA></DD> <DT>g)</DT><DD Font="normal"><LA Size="normal">den Schutz vorgeschriebener Kennzeichen,</LA></DD> <DT>h)</DT><DD Font="normal"><LA Size="normal">die Untersagung des Inverkehrbringens, der Inbetriebnahme, der Bereithaltung und der Verwendung in anderen Staaten mit EG-Zeichen versehener vorschriftswidriger Meßgeräte durch die Physikalisch-Technische Bundesanstalt.</LA></DD> </DL> </LA></DD> </DL></P><P>(1a) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">die Anerkennung und Überwachung von Stellen nach Absatz 1 Satz 2 Nr. 3 Buchstabe c dem Bundesministerium für Wirtschaft und Technologie zuzuweisen,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">die für die Durchführung des Gesetzes zuständigen Behörden und Stellen zu bestimmen,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Vorschriften über die Überwachung des Inverkehrbringens von Messgeräten durch die zuständigen Behörden zu erlassen, insbesondere über<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">ein bei der Überwachung anzuwendendes einheitliches Konzept sowie die Abstimmung der Tätigkeit der Behörden,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">die behördlichen Maßnahmen einschließlich des Verbots oder der Beschränkung des Inverkehrbringens oder des Verwendens,</LA></DD> </DL></LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">der Physikalisch-Technischen Bundesanstalt die Entscheidung darüber zuzuweisen, dass im Ausland hergestellte Messgeräte nach Maßgabe einer nach den Absätzen 1 und 2 in Verbindung mit § 2 Abs. 2 oder 3 erlassenen Rechtsverordnung Messgeräten, die dieser Rechtsverordnung entsprechen, gleichgestellt und insoweit von deren Anwendung ausgenommen sind; dabei kann auch das Verfahren einschließlich einer Veröffentlichung der Entscheidung geregelt werden.</LA></DD> </DL> </P><P>(2) Die Bundesregierung wird ferner ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">zum Schutze des geschäftlichen Verkehrs vorzuschreiben, daß<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Werte für Größen nur angegeben werden dürfen, wenn sie mit einem geeichten Meßgerät ermittelt und nach einem bestimmten Verfahren umgerechnet sind,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">Gewichtswerte nur als Nettowerte angegeben werden dürfen,</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">zur Erleichterung des Handelsverkehrs Vorschriften zu erlassen über die Anerkennung in anderen Staaten durchgeführter Zulassungen, Eichungen und Prüfungen von Meßgeräten,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">zur Erleichterung des Handels mit Getreide Vorschriften über die Schüttdichte von Getreide zu erlassen.</LA></DD> </DL> </P><P>(3) Vor dem Erlaß von Rechtsverordnungen nach den Absätzen 1 bis 2 sind die betroffenen Kreise zu hören.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE001202308"><metadaten><jurabk>EichG</jurabk><enbez>§ 4</enbez><titel format="parat">Zusatzeinrichtungen</titel></metadaten><textdaten><text format="XML"><Content><P>Soweit in den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen nichts anderes bestimmt ist, stehen Zusatzeinrichtungen den Meßgeräten gleich.</P></Content></text></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE001302308"><metadaten><jurabk>EichG</jurabk><enbez>§ 5</enbez><titel format="parat">Mitwirkung der Gemeinden</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Gemeinden haben die zuständigen Behörden bei der Durchführung örtlicher Eichtage außerhalb der Amtsstelle zu unterstützen. Soweit erforderlich, haben sie insbesondere <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">geeignete Räume bereitzustellen,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Zeit und Ort der Eichungen in ortsüblicher Weise bekanntzugeben,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Hilfskräfte zur Verfügung zu stellen.</LA></DD> </DL> </P><P>(2) Die Gemeinden können von der zuständigen Behörde die Erstattung ihrer baren Auslagen verlangen.</P></Content></text></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNG000203377"><metadaten><jurabk>EichG</jurabk><gliederungseinheit><gliederungskennzahl>020</gliederungskennzahl><gliederungsbez>Zweiter Abschnitt</gliederungsbez><gliederungstitel>Fertigpackungen und Ausschankmaße</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE001402308"><metadaten><jurabk>EichG</jurabk><enbez>§ 6</enbez><titel format="parat">Begriffsbestimmungen für Fertigpackungen</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Fertigpackungen im Sinne dieses Gesetzes sind Erzeugnisse in Verpackungen beliebiger Art, die in Abwesenheit des Käufers abgepackt und verschlossen werden, wobei die Menge des darin enthaltenen Erzeugnisses ohne Öffnen oder merkliche Änderung der Verpackung nicht verändert werden kann.</P><P>(2) Im Sinne dieses Gesetzes ist: <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Füllmenge die Menge, die eine einzelne Fertigpackung enthält,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Nennfüllmenge die Menge, die die Fertigpackung enthalten soll,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Inverkehrbringen das Anbieten, Vorrätighalten zum Verkauf oder zur sonstigen Abgabe, Feilhalten und jedes Abgeben an andere.</LA></DD> </DL></P></Content> </text></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE001502308"><metadaten><jurabk>EichG</jurabk><enbez>§ 7</enbez><titel format="parat">Anforderungen an Fertigpackungen</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Fertigpackungen dürfen nur hergestellt, in den Geltungsbereich dieses Gesetzes verbracht oder in den Verkehr gebracht werden, wenn die Nennfüllmenge angegeben ist und die Füllmenge den festgelegten Anforderungen entspricht.</P><P>(2) Fertigpackungen müssen so gestaltet und befüllt sein, daß sie keine größere Füllmenge vortäuschen, als in ihnen enthalten ist.</P></Content> </text></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE001605377"><metadaten><jurabk>EichG</jurabk><enbez>§ 8</enbez><titel format="parat">Erlaß von Ausführungsvorschriften</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz, hinsichtlich der Anforderungen nach § 7 Abs. 2 auch im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit, zum Schutze des Verbrauchers, zur Erleichterung des Handels mit Fertigpackungen und zur Umsetzung von Rechtsakten der Europäischen Gemeinschaften durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen insbesondere über <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">die Angabe von Nennfüllmengen bei Fertigpackungen und die Art und Weise dieser Angabe,</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">die Anforderungen an die Genauigkeit der Füllmenge,</LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">die Kontrollen und Aufzeichnungen, die von den Betrieben zur Einhaltung der Genauigkeitsanforderungen nach Nummer 2 vorzunehmen sind, sowie die Meßgeräte, die hierbei zu verwenden sind,</LA></DD><DT>4.</DT><DD Font="normal"><LA Size="normal">Meßgeräte, die zur Kontrolle durch den Verbraucher bereitzuhalten sind,</LA></DD><DT>5.</DT><DD Font="normal"><LA Size="normal">Voraussetzungen und Methoden für eine einheitliche Füllmengenbestimmung,</LA></DD><DT>6.</DT><DD Font="normal"><LA Size="normal">Anforderungen an die Genauigkeit des Volumens von Behältnissen und ihre Kennzeichnung,</LA></DD><DT>7.</DT><DD Font="normal"><LA Size="normal">die Angabe dessen, der Fertigpackungen oder Behältnisse herstellt, in den Geltungsbereich dieses Gesetzes verbringt oder in den Verkehr bringt und über die Anbringung von Aufschriften und Zeichen auf Fertigpackungen und Behältnissen und ihre Anerkennung durch die Physikalisch- Technische Bundesanstalt,</LA></DD><DT>8.</DT><DD Font="normal"><LA Size="normal">Art und Umfang der von den zuständigen Behörden durchzuführenden Prüfungen zur Überwachung der Einhaltung der auf Grund der Nummern 2, 3, 5 und 6 erlassenen Vorschriften und über die Anerkennung in anderen Staaten durchgeführter Prüfungen,</LA></DD><DT>9.</DT><DD Font="normal"><LA Size="normal">die Angabe eines Grundpreises bei Fertigpackungen und über die Art und Weise dieser Angabe,</LA></DD><DT>10.</DT><DD Font="normal"><LA Size="normal">verbindliche Nennfüllmengen für Fertigpackungen und über die Pflicht zur Verwendung bestimmter Behältnisse bestimmten Volumens oder bestimmter Abmessungen für die Herstellung von Fertigpackungen,</LA></DD><DT>11.</DT><DD Font="normal"><LA Size="normal">Ausnahmen von § 7 Abs. 1,</LA></DD><DT>12.</DT><DD Font="normal"><LA Size="normal">die Gestaltung und Befüllung von Fertigpackungen, damit diese den Anforderungen des § 7 Abs. 2 genügen.</LA></DD></DL>Das Bundesministerium für Wirtschaft und Technologie wird ferner ermächtigt, zu den gleichen Zwecken entsprechende Vorschriften für andere Verkaufseinheiten zu erlassen.</P><P>(2) Vor dem Erlaß von Verordnungen nach Absatz 1 soll ein jeweils auszuwählender Kreis von Sachkennern aus der Verbraucherschaft und der beteiligten Wirtschaft gehört werden.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE001706377"><metadaten><jurabk>EichG</jurabk><enbez>§ 9</enbez><titel format="parat">Ausschankmaße</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Ausschankmaße sind Gefäße, die zum gewerbsmäßigen Ausschank von Getränken gegen Entgelt bestimmt sind und bei Bedarf gefüllt werden.</P><P>(2) Ausschankmaße dürfen nur in den Verkehr gebracht, verwendet oder bereitgehalten werden, wenn sie die festgelegten Volumen einhalten und das Volumen auf ihnen gekennzeichnet und angegeben ist.</P><P>(3) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze des Verbrauchers oder zur Umsetzung von Rechtsakten der Europäischen Gemeinschaften <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">bestimmte Volumen für Ausschankmaße festzulegen,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Vorschriften zu erlassen über die Kennzeichnung des Volumens und die dabei einzuhaltenden Anforderungen an die Genauigkeit, die Angabe des Volumens, die Art und Weise der Kennzeichnung und der Angabe sowie über die Angabe eines Herstellerzeichens und seine Anerkennung durch die Physikalisch-Technische Bundesanstalt,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">Ausnahmen von Absatz 2 zuzulassen.</LA></DD> </DL></P></Content>  </text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNG000302308"><metadaten><jurabk>EichG</jurabk><gliederungseinheit><gliederungskennzahl>030</gliederungskennzahl><gliederungsbez>Dritter Abschnitt</gliederungsbez><gliederungstitel>Öffentliche Waagen</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE001807360"><metadaten><jurabk>EichG</jurabk><enbez>§ 10</enbez><titel format="XML">Öffentliche Waagen</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Öffentliche Waagen sind Waagen, mit denen Wägegut für jedermann gewogen wird.</P><P>(2) Der Betreiber öffentlicher Waagen hat sicherzustellen, dass die Ergebnisse der Wägungen schriftlich bescheinigt werden.</P><P>(3) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, zur Gewährleistung richtiger Wägungen und zum Nachweis dieser Wägungen Vorschriften durch Rechtsverordnung mit Zustimmung des Bundesrates zu erlassen über <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">die Ausstattung, die Unterhaltung und den Betrieb öffentlicher Waagen, die Untersagung des Betriebes, die Durchführung von Wägungen und die dem Betreiber einer öffentlichen Waage obliegenden Anzeigepflichten,</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">die Anforderungen an die Sachkunde und Unabhängigkeit des Betreibers und des Betriebspersonals und die Prüfung dieser Anforderungen,</LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">den Nachweis der Wägungen und die Aufbewahrung der Unterlagen,</LA></DD><DT>4.</DT><DD Font="normal"><LA Size="normal">die Kennzeichnung der öffentlichen Waagen,</LA></DD><DT>5.</DT><DD Font="normal"><LA Size="normal">das Verfahren im Zusammenhang mit den Nummern 1 bis 4.</LA></DD></DL></P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNG000402308"><metadaten><jurabk>EichG</jurabk><gliederungseinheit><gliederungskennzahl>040</gliederungskennzahl><gliederungsbez>Vierter Abschnitt</gliederungsbez><gliederungstitel>Zuständigkeiten</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE003703377"><metadaten><jurabk>EichG</jurabk><enbez>§ 11</enbez><titel format="parat">Behörden</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Landesregierungen oder die von ihnen bestimmten Stellen bestimmen die für die Ausführung dieses Gesetzes zuständigen Behörden, soweit nicht die Physikalisch-Technische Bundesanstalt zuständig oder auf Grund dieses Gesetzes etwas anderes bestimmt ist.</P><P>(2) Örtlich zuständig für die Eichung und sonstige Prüfung von Meßgeräten an der Amtsstelle ist jede nach Absatz 1 sachlich zuständige Behörde, bei der eine solche Amtshandlung beantragt wird.</P></Content> </text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE003806310"><metadaten><jurabk>EichG</jurabk><enbez>§ 12</enbez><titel format="XML">(weggefallen)</titel></metadaten><textdaten><text format="XML"><Content><P>-</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE003904310"><metadaten><jurabk>EichG</jurabk><enbez>§ 13</enbez><titel format="XML">Aufgaben der Physikalisch-Technischen Bundesanstalt</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Physikalisch-Technische Bundesanstalt hat zur Sicherung der Einheitlichkeit des gesetzlichen Meßwesens <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Bauarten von Meßgeräten zuzulassen,</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">Normalgeräte und Prüfungshilfsmittel der zuständigen Behörden und der staatlich anerkannten Prüfstellen auf Antrag zu prüfen,</LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">die für die Durchführung dieses Gesetzes zuständigen Landesbehörden sowie die staatlich anerkannten Prüfstellen zu beraten und</LA></DD><DT>4.</DT><DD Font="normal"><LA Size="normal">die Zusammenarbeit der nach § 3 Abs. 1 Satz 2 Nr. 3 Buchstabe c anerkannten Stellen abzustimmen.</LA></DD></DL></P><P>(2) Die Physikalisch-Technische Bundesanstalt hat ferner <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">das physikalisch-technische Meßwesen wissenschaftlich zu bearbeiten, insbesondere wissenschaftliche Forschung auf diesem Gebiet zu betreiben und</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">Prüfungen und Untersuchungen auf dem Gebiet des physikalisch-technischen Meßwesens vorzunehmen.</LA></DD></DL></P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNG000503377"><metadaten><jurabk>EichG</jurabk><gliederungseinheit><gliederungskennzahl>050</gliederungskennzahl><gliederungsbez>Fünfter Abschnitt</gliederungsbez><gliederungstitel>Kosten, Auskunft und Nachschau</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE005501310"><metadaten><jurabk>EichG</jurabk><enbez>§ 13a</enbez><titel format="XML">Kostenerhebung</titel></metadaten><textdaten><text format="XML"><Content><P>Für <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Amtshandlungen nach den §§ 2 bis 4, 8 bis 10, 21 und 25,</LA></DD><DT>2.</DT><DD Font="normal"><LA Size="normal">die Prüfung von Normalgeräten und Prüfungshilfsmitteln,</LA></DD><DT>3.</DT><DD Font="normal"><LA Size="normal">Maßnahmen zur Überwachung der Einhaltung der Vorschriften dieses Gesetzes</LA></DD><DT>4.</DT><DD Font="normal"><LA Size="normal">(weggefallen)</LA></DD></DL>werden Kosten (Gebühren und Auslagen) erhoben.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE004005377"><metadaten><jurabk>EichG</jurabk><enbez>§ 14</enbez><titel format="parat">Kostenverordnung für Amtshandlungen</titel></metadaten><textdaten><text format="XML"><Content><P>Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die gebührenpflichtigen Amtshandlungen näher sowie die Gebührensätze für die einzelnen Amtshandlungen zu bestimmen. In der Rechtsverordnung kann bestimmt werden, daß eine Gebühr auch für eine Amtshandlung erhoben werden kann, die nicht begonnen worden ist, wenn die Gründe hierfür von demjenigen zu vertreten sind, der die Amtshandlung veranlaßt hat.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE004106310"><metadaten><jurabk>EichG</jurabk><enbez>§ 15</enbez><titel format="XML">(weggefallen)</titel></metadaten><textdaten><text format="XML"><Content><P>-</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE004202308"><metadaten><jurabk>EichG</jurabk><enbez>§ 16</enbez><titel format="parat">Auskunft und Nachschau</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die für die Einhaltung der Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen verantwortlichen Personen haben der zuständigen Behörde die für die Durchführung dieses Gesetzes erforderlichen Auskünfte zu erteilen.</P><P>(2) Soweit es zur Durchführung dieses Gesetzes erforderlich ist, sind die von der zuständigen Behörde mit der Überwachung beauftragten Personen befugt, Grundstücke und Betriebsräume des Auskunftspflichtigen sowie die dazugehörigen Geschäftsräume während der üblichen Betriebs- oder Geschäftszeiten zu betreten, Prüfungen und Besichtigungen vorzunehmen, Proben zu entnehmen und in die geschäftlichen Unterlagen des Auskunftspflichtigen Einsicht zu nehmen. Der Auskunftspflichtige oder eine für ihn handelnde Person hat die Maßnahmen nach Satz 1 zu dulden und die in der Überwachung tätigen Personen bei der Erfüllung ihrer Aufgaben zu unterstützen, insbesondere ihnen auf Verlangen die Räume und Unterlagen zu bezeichnen, Räume und Behältnisse zu öffnen und die Entnahme der Proben zu ermöglichen.</P><P>(3) Werden Fertigpackungen oder andere Verkaufseinheiten in den Geltungsbereich dieses Gesetzes verbracht und dabei vom Importeur unmittelbar an den Handel geliefert, so ist der Händler verpflichtet, Prüfungen auf Grund einer Rechtsverordnung nach § 8 Abs. 1 Satz 1 Nr. 8 in seinem Betrieb zu dulden und der zuständigen Behörde die erforderlichen Auskünfte zu erteilen. Werden Behältnisse in den Geltungsbereich dieses Gesetzes verbracht und dabei vom Importeur unmittelbar an den Abfüllbetrieb geliefert, so ist der Betriebsinhaber verpflichtet, Prüfungen auf Grund einer Rechtsverordnung nach § 8 Abs. 1 Satz 1 Nr. 8 zu dulden und der zuständigen Behörde die erforderlichen Auskünfte zu erteilen. Absatz 2 gilt entsprechend.</P><P>(4) Werden Fertigpackungen oder andere Verkaufseinheiten für Prüfungen auf Grund einer Rechtsverordnung nach § 8 Abs. 1 Satz 1 Nr. 8 als Probe entnommen und zerstört, so ist eine angemessene Entschädigung in Geld zu leisten, sofern sich kein Grund zur Beanstandung ergeben hat.</P><P>(5) Der zur Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.</P></Content>    </text></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE004305377"><metadaten><jurabk>EichG</jurabk><enbez>§ 17</enbez><titel format="parat">Befugnis zur Auskunftserteilung</titel></metadaten><textdaten><text format="XML"><Content><P>Die Zolldienststellen sind befugt, den Eichaufsichtsbehörden der Länder Auskünfte zu erteilen über die Einfuhr von Fertigpackungen, offenen Packungen, Maßbehältnissen, Schankgefäßen und Meßgeräten, die das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium der Finanzen bestimmt. Der Einfuhr steht das sonstige Verbringen in den Geltungsbereich des Gesetzes gleich. Das Postgeheimnis (Artikel 10 Abs. 1 des Grundgesetzes) wird insoweit eingeschränkt.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE004402308"><metadaten><jurabk>EichG</jurabk><enbez>§ 18</enbez><titel format="parat">Abwehr und Unterbindung von Zuwiderhandlungen</titel></metadaten><textdaten><text format="XML"><Content><P>Zur Abwehr oder Unterbindung von Zuwiderhandlungen gegen dieses Gesetz oder gegen die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen haben die Beauftragten der zuständigen Behörden die Befugnisse von Polizeibeamten. Die Landesregierungen können diese Befugnisse durch Rechtsverordnung einschränken. Sie können diese Ermächtigung durch Rechtsverordnung auf andere Behörden übertragen.</P></Content></text></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNG000602308"><metadaten><jurabk>EichG</jurabk><gliederungseinheit><gliederungskennzahl>060</gliederungskennzahl><gliederungsbez>Sechster Abschnitt</gliederungsbez><gliederungstitel>Bußgeldvorschriften</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE004507377"><metadaten><jurabk>EichG</jurabk><enbez>§ 19</enbez><titel format="parat">Ordnungswidrigkeiten</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Fertigpackungen, die entgegen § 7 Abs. 2 gestaltet oder befüllt sind, herstellt, herstellen läßt oder in den Geltungsbereich dieses Gesetzes verbringt,</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">entgegen § 16 Abs. 1 oder 3 Satz 1 oder 2 eine Auskunft nicht, nicht richtig oder nicht vollständig erteilt, entgegen § 16 Abs. 2 Satz 2 eine Maßnahme nicht duldet oder eine in der Überwachung tätige Person nicht unterstützt oder entgegen § 16 Abs. 3 Satz 1 oder 2 eine Prüfung nicht duldet,</LA></DD> <DT>3.</DT><DD Font="normal"><LA Size="normal">nicht geeichte Meßgeräte entgegen § 25 Abs. 1 Satz 1 verwendet oder entgegen § 25 Abs. 1 Satz 1 Nr. 1, 4 oder 5 bereithält,</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">einer Rechtsverordnung nach § 2 Abs. 2 oder 3, § 3 Abs. 1 oder 2, § 8 Abs. 1 Satz 1 Nr. 1 bis 7, 9, 10 oder 12, jeweils auch in Verbindung mit Satz 2, § 9 Abs. 3, § 10 Abs. 3 oder § 21 Satz 1 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">Verordnungen des Rates oder der Kommission der Europäischen Gemeinschaften im Sinne des § 21 zuwiderhandelt, soweit eine Rechtsverordnung nach Absatz 3 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.</LA></DD> </DL> </P><P>(2) Absatz 1 Nr. 2 gilt auch bei Verordnungen des Rates oder der Kommission der Europäischen Gemeinschaften im Sinne des § 21 und den zu ihrer Durchführung erlassenen Verordnungen.</P><P>(3) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates die einzelnen Tatbestände der Verordnungen, die nach Absatz 1 Nr. 5 als Ordnungswidrigkeiten mit Geldbuße geahndet werden können, zu bezeichnen, soweit dies zur Durchführung der Verordnungen erforderlich ist.</P><P>(4) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend Euro geahndet werden.</P><P>(5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist, soweit das Gesetz von der Physikalisch-Technischen Bundesanstalt ausgeführt wird, die Behörde oder Stelle, die von der Landesregierung durch Rechtsverordnung bestimmt wird. Die Landesregierung kann die Ermächtigung auf die zuständige oberste Landesbehörde übertragen.</P></Content>   </text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE004602308"><metadaten><jurabk>EichG</jurabk><enbez>§ 20</enbez><titel format="parat">Einziehung</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Ist eine in § 19 bezeichnete Ordnungswidrigkeit begangen worden, so können Gegenstände, die durch die Ordnungswidrigkeit hervorgebracht oder zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind oder auf die sich die Ordnungswidrigkeit bezieht, eingezogen werden.</P><P>(2) § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.</P></Content> </text></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNG000702308"><metadaten><jurabk>EichG</jurabk><gliederungseinheit><gliederungskennzahl>070</gliederungskennzahl><gliederungsbez>Siebenter Abschnitt</gliederungsbez><gliederungstitel>Schlußvorschriften</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE005305310"><metadaten><jurabk>EichG</jurabk><enbez>§ 21</enbez><titel format="XML">EG-Verordnungen</titel></metadaten><textdaten><text format="XML"><Content><P>Soweit es zur Durchführung von Verordnungen des Rates oder der Kommission der Europäischen Gemeinschaften, die einer Regelung nach den §§ 7 und 8 entsprechen, erforderlich ist, kann das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz mit Zustimmung des Bundesrates durch Rechtsverordnung die erforderlichen Ausführungsvorschriften erlassen. Die §§ 11, 16 bis 18, 20 und 23 finden für die Durchführung der in Satz 1 genannten Rechtsakte der Europäischen Gemeinschaften und der zu ihrer Ausführung erlassenen Rechtsverordnungen entsprechende Anwendung.</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE004705377"><metadaten><jurabk>EichG</jurabk><enbez>§ 22</enbez><titel format="parat">(weggefallen)</titel></metadaten><textdaten><text format="XML"><Content><P>-</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE004802308"><metadaten><jurabk>EichG</jurabk><enbez>§ 23</enbez><titel format="parat">Bezugnahme auf technische Regeln</titel></metadaten><textdaten><text format="XML"><Content><P>Zur Festlegung technischer Anforderungen und Prüfverfahren kann in Rechtsverordnungen auf Grund dieses Gesetzes auf Veröffentlichungen sachverständiger Stellen verwiesen werden. Hierbei sind in der Rechtsverordnung das Datum der Veröffentlichung und die Bezugsquelle anzugeben.</P></Content></text></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE004902308"><metadaten><jurabk>EichG</jurabk><enbez>§ 24</enbez><titel format="parat">Allgemeine Übergangsvorschriften</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Die Eichung und die eichamtliche Beglaubigung eines Meßgeräts vor Inkrafttreten dieses Gesetzes gilt im bisherigen Umfang als Eichung im Sinne dieses Gesetzes; die Zulassung eines Meßgeräts vor Inkrafttreten dieses Gesetzes gilt im bisherigen Umfang als Zulassung im Sinne dieses Gesetzes.</P><P>(2) Die amtliche Beglaubigung oder amtliche Prüfung von Meßgeräten für Elektrizität vor Inkrafttreten dieses Gesetzes und die Beglaubigung nach den bis zum 30. Juni 1992 geltenden Vorschriften dieses Gesetzes gelten im bisherigen Umfang als Eichung im Sinne dieses Gesetzes.</P><P>(3) Die öffentliche Bestellung und Vereidigung eines Wägers an öffentlichen Waagen vor Inkrafttreten dieses Gesetzes gilt als öffentliche Bestellung im Sinne dieses Gesetzes.</P><P>(4) Die Verpflichtung und Vereidigung der Leiter von Elektrischen Prüfämtern, Prüfamtsaußenstellen und Nebenprüfämtern sowie ihrer Stellvertreter, gilt als öffentliche Bestellung im Sinne dieses Gesetzes.</P><P>(5) Die bei Inkrafttreten dieses Gesetzes bestehenden Befugnisse und Verpflichtungen der Elektrischen Prüfämter, Prüfamtsaußenstellen und Nebenprüfämter gelten im bisherigen Umfang weiter. Die Befugnis zur amtlichen Beglaubigung und amtlichen Prüfung von Meßgeräten für Elektrizität und die nach den bis zum 30. Juni 1992 geltenden Vorschriften bestehende Befugnis zur Beglaubigung von Meßgeräten für Elektrizität, Gas, Wasser und Wärme gelten als Befugnis zur Eichung.</P><P>(6) Soweit Prüfstellen vor dem 2. März 1985 staatlich anerkannt worden sind, kann die Anerkennung auch nachträglich mit einer Auflage verbunden werden.</P></Content>     </text></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE005402377"><metadaten><jurabk>EichG</jurabk><enbez>§ 25</enbez><titel format="parat">Fortbestehen von Eichpflichten</titel></metadaten><textdaten><text format="XML"><Content><P>(1) Es ist verboten, <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Meßgeräte zur Bestimmung<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">der Länge, der Fläche, des Volumens, der Masse, der thermischen oder elektrischen Energie, der thermischen oder elektrischen Leistung, der Durchflußstärke von Flüssigkeiten oder Gasen oder der Dichte oder des Gehalts von Flüssigkeiten,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">des Wassergehalts von Speisefetten, des Feuchtgehaltes von Getreide oder Ölfrüchten, der Schüttdichte von Getreide, des Fettgehalts von Milch oder Milcherzeugnissen oder des Stärkegehalts von Kartoffeln,</LA></DD> <DT>c)</DT><DD Font="normal"><LA Size="normal">des Fahrpreises bei Kraftfahrzeugen</LA></DD> </DL></LA><LA Size="normal">ungeeicht im geschäftlichen Verkehr zu verwenden oder so bereitzuhalten, daß sie ohne besondere Vorbereitung in Gebrauch genommen werden können,</LA></DD>  <DT>2.</DT><DD Font="normal"><LA Size="normal">die in Nummer 1 bezeichneten Meßgeräte sowie Meßgeräte zur Bestimmung des Drucks von Flüssigkeiten oder Gasen und der Temperatur<DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">für Messungen nach dem Zoll- und Steuerrecht sowie dem Branntweinmonopolrecht,</LA></DD> <DT>b)</DT><DD Font="normal"><LA Size="normal">zur Bestimmung von Beförderungsgebühren,</LA></DD> <DT>c)</DT><DD Font="normal"><LA Size="normal">zur Schiffsvermessung und Schiffseichung,</LA></DD> <DT>d)</DT><DD Font="normal"><LA Size="normal">zur Durchführung öffentlicher Überwachungsaufgaben,</LA></DD> <DT>e)</DT><DD Font="normal"><LA Size="normal">zur Erstattung von Gutachten für staatsanwaltschaftliche oder gerichtliche Verfahren, Schiedsverfahren oder für andere amtliche Zwecke oder</LA></DD> <DT>f)</DT><DD Font="normal"><LA Size="normal">zur Erstattung von Schiedsgutachten</LA></DD> </DL></LA><LA Size="normal">ungeeicht zu verwenden,</LA></DD>  <DT>3.</DT><DD Font="normal"><LA Size="normal">Meßgeräte für die amtliche Überwachung des Straßenverkehrs ungeeicht zu verwenden,</LA></DD> <DT>4.</DT><DD Font="normal"><LA Size="normal">Meßgeräte zur Prüfung des Reifenluftdrucks an Kraftfahrzeugen in öffentlichen Tankstellen und Betrieben des Kraftfahrzeuggewerbes ungeeicht zu verwenden oder so bereitzuhalten, daß sie ohne besondere Vorbereitung in Gebrauch genommen werden können,</LA></DD> <DT>5.</DT><DD Font="normal"><LA Size="normal">Meßgeräte zur Bestimmung der Masse, des Volumens, des Drucks, der Temperatur, der Dichte oder des Gehalts bei der Herstellung von Arzneimitteln in Apotheken auf Grund ärztlicher Verschreibung oder bei Analysen in pharmazeutischen Laboratorien ungeeicht zu verwenden oder so bereitzuhalten, daß sie ohne besondere Vorbereitung in Gebrauch genommen werden können,</LA></DD> </DL>soweit nicht die Bundesregierung in einer Rechtsverordnung nach § 2 eine neue Regelung trifft. Satz 1 Nr. 2 Buchstabe d steht der Verwendung nichtgeeichter Meßgeräte zur Durchführung öffentlicher Überwachungsaufgaben nicht entgegen, wenn <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">die Meßgeräte ihrer Beschaffenheit nach nicht die Voraussetzungen der Eichfähigkeit erfüllen und in anderer Weise als durch Eichung sichergestellt ist, daß die Verwendung der Geräte zu einer genaueren Bestimmung von Meßwerten führt, als sie nach dem Stand von Wissenschaft und Technik mit Hilfe geeichter Meßgeräte erreicht werden kann oder</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">die Meßsicherheit der Geräte für den Bereich, in welchem sie bei der Durchführung der Überwachungsaufgabe Verwendung finden, ohne Bedeutung ist.</LA></DD> </DL> </P><P>(2) Absatz 1 Satz 1 Nr. 1, soweit sie die Bestimmung des Gehalts betrifft, und Nummern 2 und 3 gelten nicht für Meßgerätearten, die am 1. Januar 1985 nicht eichfähig waren.</P><P>(3) Den Meßgeräten stehen gleich <DL Font="normal" Type="arabic"><DT>1.</DT><DD Font="normal"><LA Size="normal">Zusatzeinrichtungen, deren Wirkungsweise vom zugehörigen Meßgerät beeinflußt wird oder die eine Wirkung auf das zugehörige Meßgerät ausüben oder ausüben können, und</LA></DD> <DT>2.</DT><DD Font="normal"><LA Size="normal">Zusatzeinrichtungen zur Ermittlung des Preises in offenen Verkaufsstellen.</LA></DD> </DL></P></Content> </text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE005004377"><metadaten><jurabk>EichG</jurabk><enbez>§ 26</enbez></metadaten><textdaten><text format="XML"><Content><P>(weggefallen)</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE005102308"><metadaten><jurabk>EichG</jurabk><enbez>§ 27</enbez><titel format="parat">Bezugnahme auf Vorschriften</titel></metadaten><textdaten><text format="XML"><Content><P>Soweit in Gesetzen oder Verordnungen des Bundesrechts auf Vorschriften des Maß- und Gewichtsgesetzes verwiesen wird, beziehen sich diese Verweisungen auf die entsprechenden Vorschriften dieses Gesetzes.</P></Content></text></textdaten></norm>
-<norm builddate="20120625150408" doknr="BJNR007590969BJNE888800309"><metadaten><jurabk>EichG</jurabk><enbez>Anhang EV</enbez><titel format="XML">Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet C Abschnitt III
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625150408" doknr="BJNR007590969">
+    <norm builddate="20120625150408" doknr="BJNR007590969">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <ausfertigung-datum manuell="ja">1969-07-11</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1969, 759</zitstelle>
+            </fundstelle>
+            <kurzue>Eichgesetz</kurzue>
+            <langue>Gesetz über das Meß- und Eichwesen</langue>
+            <standangabe checked="ja">
+                <standtyp>Neuf</standtyp>
+                <standkommentar>Neugefasst durch Bek. v. 23.3.1992 I 711;</standkommentar>
+            </standangabe>
+            <standangabe checked="ja">
+                <standtyp>Stand</standtyp>
+                <standkommentar>zuletzt geändert Art. 1 G v. 7.3.2011 I 338</standkommentar>
+            </standangabe>
+        </metadaten>
+        <textdaten>
+            <fussnoten>
+                <Content>
+                    <P>
+                        <BR/>
+                        <pre xml:space="preserve">(+++ Textnachweis ab: 6.6.1986 +++)<BR/>(+++ Maßgaben aufgrund des EinigVtr vgl. EichG Anhang EV +++)<BR/>
+                            <BR/>
+                        </pre>
+                    </P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE000806360">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>Inhaltsübersicht</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <TOC>
+                    <Ident>
+                        <B>Erster Abschnitt</B>
+                        <BR/>
+                        <BR/>
+                        <B>Zweckbestimmung; Zulassung,<BR/>Eichung und andere Prüfungen von Meßgeräten</B>
+                    </Ident>
+                    <P>
+                        <table frame="none" pgwide="1" tocentry="%yes;">
+                            <tgroup align="left" char="" charoff="50" cols="2">
+                                <colspec colname="col1" colwidth="0.14*"/>
+                                <colspec colname="col2" colwidth="1.86*"/>
+                                <tbody valign="top">
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 1</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Zweck des Gesetzes</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 2</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Eichpflicht und andere Maßnahmen zur Gewährleistung der Meßsicherheit</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 3</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Erlaß von Ausführungsvorschriften</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 4</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Zusatzeinrichtungen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 5</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Mitwirkung der Gemeinden</entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                        <BR/>
+                        <BR/>
+                    </P>
+                    <Ident>
+                        <B>Zweiter Abschnitt</B>
+                        <BR/>
+                        <BR/>
+                        <B>Fertigpackungen und Schankgefäße</B>
+                    </Ident>
+                    <P>
+                        <table frame="none" pgwide="1" tocentry="%yes;">
+                            <tgroup align="left" char="" charoff="50" cols="2">
+                                <colspec colname="col1" colwidth="0.14*"/>
+                                <colspec colname="col2" colwidth="1.86*"/>
+                                <tbody valign="top">
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 6</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Begriffsbestimmungen für Fertigpackungen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 7</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Anforderungen an Fertigpackungen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 8</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Erlaß von Ausführungsvorschriften</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 9</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Ausschankmaße</entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                        <BR/>
+                        <BR/>
+                    </P>
+                    <Ident>
+                        <B>Dritter Abschnitt</B>
+                        <BR/>
+                        <BR/>
+                        <B>Öffentliche Waagen</B>
+                    </Ident>
+                    <P>
+                        <table frame="none" pgwide="1" tocentry="%yes;">
+                            <tgroup align="left" char="" charoff="50" cols="2">
+                                <colspec align="left" char="" charoff="50" colname="col1" colwidth="0.14*"/>
+                                <colspec align="left" char="" charoff="50" colname="col2" colwidth="1.86*"/>
+                                <tbody valign="top">
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 10</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Wäger an öffentlichen Waagen</entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                        <BR/>
+                        <BR/>
+                    </P>
+                    <Ident>
+                        <B>Vierter Abschnitt</B>
+                        <BR/>
+                        <BR/>
+                        <B>Zuständigkeiten</B>
+                    </Ident>
+                    <P>
+                        <table frame="none" pgwide="1" tocentry="%yes;">
+                            <tgroup align="left" char="" charoff="50" cols="2">
+                                <colspec colname="col1" colwidth="0.14*"/>
+                                <colspec colname="col2" colwidth="1.86*"/>
+                                <tbody valign="top">
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 11</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Behörden</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 12</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">(weggefallen)</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 13</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Aufgaben der Physikalisch-Technischen Bundesanstalt</entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                        <BR/>
+                        <BR/>
+                    </P>
+                    <Ident>
+                        <B>Fünfter Abschnitt</B>
+                        <BR/>
+                        <BR/>
+                        <B>Kosten, Auskunft und Nachschau</B>
+                    </Ident>
+                    <P>
+                        <table frame="none" pgwide="1" tocentry="%yes;">
+                            <tgroup align="left" char="" charoff="50" cols="2">
+                                <colspec colname="col1" colwidth="0.14*"/>
+                                <colspec colname="col2" colwidth="1.86*"/>
+                                <tbody valign="top">
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 13a</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Kostenerhebung</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 14</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Kostenverordnung für Amtshandlungen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 15</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">(weggefallen)</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 16</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Auskunft und Nachschau</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 17</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Befugnis zur Auskunftserteilung</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 18</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Abwehr und Unterbindung von Zuwiderhandlungen</entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                        <BR/>
+                        <BR/>
+                    </P>
+                    <Ident>
+                        <B>Sechster Abschnitt</B>
+                        <BR/>
+                        <BR/>
+                        <B>Bußgeldvorschriften</B>
+                    </Ident>
+                    <P>
+                        <table frame="none" pgwide="1" tocentry="%yes;">
+                            <tgroup align="left" char="" charoff="50" cols="2">
+                                <colspec colname="col1" colwidth="0.14*"/>
+                                <colspec colname="col2" colwidth="1.86*"/>
+                                <tbody valign="top">
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 19</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Ordnungswidrigkeiten</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" colsep="0" rowsep="0">§ 20</entry>
+                                        <entry VJ="1" colsep="0" rowsep="0">Einziehung</entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                        <BR/>
+                        <BR/>
+                    </P>
+                    <Ident>
+                        <B>Siebenter Abschnitt</B>
+                        <BR/>
+                        <BR/>
+                        <B>Schlußvorschriften</B>
+                    </Ident>
+                    <P>
+                        <table frame="none" pgwide="1" tocentry="%yes;">
+                            <tgroup align="left" char="" charoff="50" cols="2" colsep="0" rowsep="0">
+                                <colspec colname="col1" colnum="1" colwidth="0.142395*"/>
+                                <colspec colname="col2" colnum="2" colwidth="1.857605*"/>
+                                <tbody valign="top">
+                                    <row>
+                                        <entry VJ="1">§ 21</entry>
+                                        <entry VJ="1">EG-Verordnungen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1">§ 22</entry>
+                                        <entry VJ="1">(weggefallen)</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1">§ 23</entry>
+                                        <entry VJ="1">Bezugnahme auf technische Regeln</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1">§ 24</entry>
+                                        <entry VJ="1">Allgemeine Übergangsvorschriften</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1">§ 25</entry>
+                                        <entry VJ="1">Fortbestehen von Eichpflichten</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1">§ 26</entry>
+                                        <entry VJ="1">(weggefallen)</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1">§ 27</entry>
+                                        <entry VJ="1">Bezugnahme auf Vorschriften</entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                    </P>
+                </TOC>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNG000102308">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>010</gliederungskennzahl>
+                <gliederungsbez>Erster Abschnitt</gliederungsbez>
+                <gliederungstitel>Zweckbestimmung, Zulassung, Eichung und andere
+Prüfungen von Meßgeräten</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE000902308">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 1</enbez>
+            <titel format="parat">Zweck des Gesetzes</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Zweck dieses Gesetzes ist es, <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">den Verbraucher beim Erwerb meßbarer Güter und Dienstleistungen zu schützen und im Interesse eines lauteren Handelsverkehrs die Voraussetzungen für richtiges Messen im geschäftlichen Verkehr zu schaffen,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Meßsicherheit im Gesundheitsschutz, Arbeitsschutz und Umweltschutz und in ähnlichen Bereichen des öffentlichen Interesses zu gewährleisten und</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">das Vertrauen in amtliche Messungen zu stärken.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE001004377">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 2</enbez>
+            <titel format="parat">Eichpflicht und andere Maßnahmen zur Gewährleistung der Meßsicherheit</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Meßgeräte, die im geschäftlichen oder amtlichen Verkehr, Arbeitsschutz, Umweltschutz oder Strahlenschutz oder im Verkehrswesen verwendet werden, müssen zugelassen und geeicht sein, sofern dies zur Gewährleistung der Meßsicherheit erforderlich ist. Das Gleiche gilt für Messgeräte im Gesundheitsschutz, soweit sie nicht in anderen Rechtsvorschriften geregelt sind.</P>
+                    <P>(2) Die Bundesregierung wird ermächtigt, zur Gewährleistung der Meßsicherheit in den in Absatz 1 genannten Bereichen oder zur Umsetzung von Rechtsakten der Europäischen Gemeinschaften durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, welche Meßgeräte nur in den Verkehr gebracht, in Betrieb genommen, bereitgehalten oder verwendet werden dürfen, wenn sie zugelassen und geeicht sind.</P>
+                    <P>(3) Die Bundesregierung wird ferner ermächtigt, zu den gleichen Zwecken durch Rechtsverordnung mit Zustimmung des Bundesrates andere Maßnahmen vorzuschreiben, durch die eine ausreichende Meßsicherheit zu erwarten ist. Sie kann dabei insbesondere die Wartung von Meßgeräten, die Vornahme von Kontrolluntersuchungen und die Teilnahme an Vergleichsmessungen vorschreiben.</P>
+                    <P>(4) Die Eichung wird, soweit in einer nach Absatz 2 erlassenen Rechtsverordnung nichts anderes bestimmt ist, von den zuständigen Behörden und von staatlich anerkannten Prüfstellen für Meßgeräte für Elektrizität, Gas, Wasser oder Wärme vorgenommen (amtliche Eichung). Die Eichung neuer Meßgeräte kann nach Maßgabe dieser Verordnung auch vom Hersteller vorgenommen werden (Eichung durch den Hersteller).</P>
+                    <P>(5) Vor Erlaß von Rechtsverordnungen nach den Absätzen 2 und 3 sind die betroffenen Kreise zu hören.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE001103377">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 3</enbez>
+            <titel format="parat">Erlaß von Ausführungsvorschriften</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zur Durchführung des § 2 und der auf Grund von § 2 erlassenen Rechtsverordnungen zu erlassen. Sie kann dabei insbesondere <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Anforderungen an Meßgeräte und ihre Verwendung festlegen,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Gültigkeitsdauer der Eichung festlegen sowie die Wiederholung von Prüfungen und die Häufigkeit von Wartungsarbeiten vorschreiben,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Vorschriften erlassen über<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">die Voraussetzungen, den Umfang und das Verfahren der Zulassung, der Eichung und sonstiger Prüfungen sowie die Voraussetzungen der Rücknahme und des Widerrufs der Zulassung,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">die Voraussetzungen, den Umfang und das Verfahren der Anerkennung von Prüfstellen und der öffentlichen Bestellung und Verpflichtung des Prüfstellenpersonals sowie die Voraussetzungen der Rücknahme und des Widerrufs der Bestellung, den Betrieb der Prüfstelle, die Aufsicht über die Prüfstelle und die Haftung für ihre Tätigkeit,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">die Voraussetzungen, den Umfang und das Verfahren der Anerkennung und Überwachung anderer mit der Durchführung dieses Gesetzes betrauter Stellen, sowie deren Zusammenarbeit untereinander und mit ausländischen Behörden und Stellen,</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">die Mitwirkungspflichten des Besitzers eines Meßgerätes bei der Eichung oder sonstigen Prüfung der meßtechnischen Eigenschaften,</LA>
+                                        </DD>
+                                        <DT>e)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">die Überprüfung von Meßergebnissen,</LA>
+                                        </DD>
+                                        <DT>f)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">die Ausnutzung von Fehlergrenzen und Abweichungen,</LA>
+                                        </DD>
+                                        <DT>g)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">den Schutz vorgeschriebener Kennzeichen,</LA>
+                                        </DD>
+                                        <DT>h)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">die Untersagung des Inverkehrbringens, der Inbetriebnahme, der Bereithaltung und der Verwendung in anderen Staaten mit EG-Zeichen versehener vorschriftswidriger Meßgeräte durch die Physikalisch-Technische Bundesanstalt.</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(1a) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Anerkennung und Überwachung von Stellen nach Absatz 1 Satz 2 Nr. 3 Buchstabe c dem Bundesministerium für Wirtschaft und Technologie zuzuweisen,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die für die Durchführung des Gesetzes zuständigen Behörden und Stellen zu bestimmen,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Vorschriften über die Überwachung des Inverkehrbringens von Messgeräten durch die zuständigen Behörden zu erlassen, insbesondere über<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">ein bei der Überwachung anzuwendendes einheitliches Konzept sowie die Abstimmung der Tätigkeit der Behörden,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">die behördlichen Maßnahmen einschließlich des Verbots oder der Beschränkung des Inverkehrbringens oder des Verwendens,</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">der Physikalisch-Technischen Bundesanstalt die Entscheidung darüber zuzuweisen, dass im Ausland hergestellte Messgeräte nach Maßgabe einer nach den Absätzen 1 und 2 in Verbindung mit § 2 Abs. 2 oder 3 erlassenen Rechtsverordnung Messgeräten, die dieser Rechtsverordnung entsprechen, gleichgestellt und insoweit von deren Anwendung ausgenommen sind; dabei kann auch das Verfahren einschließlich einer Veröffentlichung der Entscheidung geregelt werden.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Die Bundesregierung wird ferner ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">zum Schutze des geschäftlichen Verkehrs vorzuschreiben, daß<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Werte für Größen nur angegeben werden dürfen, wenn sie mit einem geeichten Meßgerät ermittelt und nach einem bestimmten Verfahren umgerechnet sind,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">Gewichtswerte nur als Nettowerte angegeben werden dürfen,</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">zur Erleichterung des Handelsverkehrs Vorschriften zu erlassen über die Anerkennung in anderen Staaten durchgeführter Zulassungen, Eichungen und Prüfungen von Meßgeräten,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">zur Erleichterung des Handels mit Getreide Vorschriften über die Schüttdichte von Getreide zu erlassen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(3) Vor dem Erlaß von Rechtsverordnungen nach den Absätzen 1 bis 2 sind die betroffenen Kreise zu hören.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE001202308">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 4</enbez>
+            <titel format="parat">Zusatzeinrichtungen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Soweit in den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen nichts anderes bestimmt ist, stehen Zusatzeinrichtungen den Meßgeräten gleich.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE001302308">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 5</enbez>
+            <titel format="parat">Mitwirkung der Gemeinden</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Gemeinden haben die zuständigen Behörden bei der Durchführung örtlicher Eichtage außerhalb der Amtsstelle zu unterstützen. Soweit erforderlich, haben sie insbesondere <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">geeignete Räume bereitzustellen,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Zeit und Ort der Eichungen in ortsüblicher Weise bekanntzugeben,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Hilfskräfte zur Verfügung zu stellen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Die Gemeinden können von der zuständigen Behörde die Erstattung ihrer baren Auslagen verlangen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNG000203377">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>020</gliederungskennzahl>
+                <gliederungsbez>Zweiter Abschnitt</gliederungsbez>
+                <gliederungstitel>Fertigpackungen und Ausschankmaße</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE001402308">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 6</enbez>
+            <titel format="parat">Begriffsbestimmungen für Fertigpackungen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Fertigpackungen im Sinne dieses Gesetzes sind Erzeugnisse in Verpackungen beliebiger Art, die in Abwesenheit des Käufers abgepackt und verschlossen werden, wobei die Menge des darin enthaltenen Erzeugnisses ohne Öffnen oder merkliche Änderung der Verpackung nicht verändert werden kann.</P>
+                    <P>(2) Im Sinne dieses Gesetzes ist: <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Füllmenge die Menge, die eine einzelne Fertigpackung enthält,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Nennfüllmenge die Menge, die die Fertigpackung enthalten soll,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Inverkehrbringen das Anbieten, Vorrätighalten zum Verkauf oder zur sonstigen Abgabe, Feilhalten und jedes Abgeben an andere.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE001502308">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 7</enbez>
+            <titel format="parat">Anforderungen an Fertigpackungen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Fertigpackungen dürfen nur hergestellt, in den Geltungsbereich dieses Gesetzes verbracht oder in den Verkehr gebracht werden, wenn die Nennfüllmenge angegeben ist und die Füllmenge den festgelegten Anforderungen entspricht.</P>
+                    <P>(2) Fertigpackungen müssen so gestaltet und befüllt sein, daß sie keine größere Füllmenge vortäuschen, als in ihnen enthalten ist.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE001605377">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 8</enbez>
+            <titel format="parat">Erlaß von Ausführungsvorschriften</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz, hinsichtlich der Anforderungen nach § 7 Abs. 2 auch im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit, zum Schutze des Verbrauchers, zur Erleichterung des Handels mit Fertigpackungen und zur Umsetzung von Rechtsakten der Europäischen Gemeinschaften durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen insbesondere über <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Angabe von Nennfüllmengen bei Fertigpackungen und die Art und Weise dieser Angabe,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Anforderungen an die Genauigkeit der Füllmenge,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Kontrollen und Aufzeichnungen, die von den Betrieben zur Einhaltung der Genauigkeitsanforderungen nach Nummer 2 vorzunehmen sind, sowie die Meßgeräte, die hierbei zu verwenden sind,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Meßgeräte, die zur Kontrolle durch den Verbraucher bereitzuhalten sind,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Voraussetzungen und Methoden für eine einheitliche Füllmengenbestimmung,</LA>
+                            </DD>
+                            <DT>6.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Anforderungen an die Genauigkeit des Volumens von Behältnissen und ihre Kennzeichnung,</LA>
+                            </DD>
+                            <DT>7.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Angabe dessen, der Fertigpackungen oder Behältnisse herstellt, in den Geltungsbereich dieses Gesetzes verbringt oder in den Verkehr bringt und über die Anbringung von Aufschriften und Zeichen auf Fertigpackungen und Behältnissen und ihre Anerkennung durch die Physikalisch- Technische Bundesanstalt,</LA>
+                            </DD>
+                            <DT>8.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Art und Umfang der von den zuständigen Behörden durchzuführenden Prüfungen zur Überwachung der Einhaltung der auf Grund der Nummern 2, 3, 5 und 6 erlassenen Vorschriften und über die Anerkennung in anderen Staaten durchgeführter Prüfungen,</LA>
+                            </DD>
+                            <DT>9.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Angabe eines Grundpreises bei Fertigpackungen und über die Art und Weise dieser Angabe,</LA>
+                            </DD>
+                            <DT>10.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">verbindliche Nennfüllmengen für Fertigpackungen und über die Pflicht zur Verwendung bestimmter Behältnisse bestimmten Volumens oder bestimmter Abmessungen für die Herstellung von Fertigpackungen,</LA>
+                            </DD>
+                            <DT>11.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Ausnahmen von § 7 Abs. 1,</LA>
+                            </DD>
+                            <DT>12.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Gestaltung und Befüllung von Fertigpackungen, damit diese den Anforderungen des § 7 Abs. 2 genügen.</LA>
+                            </DD>
+                        </DL>Das Bundesministerium für Wirtschaft und Technologie wird ferner ermächtigt, zu den gleichen Zwecken entsprechende Vorschriften für andere Verkaufseinheiten zu erlassen.</P>
+                    <P>(2) Vor dem Erlaß von Verordnungen nach Absatz 1 soll ein jeweils auszuwählender Kreis von Sachkennern aus der Verbraucherschaft und der beteiligten Wirtschaft gehört werden.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE001706377">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 9</enbez>
+            <titel format="parat">Ausschankmaße</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Ausschankmaße sind Gefäße, die zum gewerbsmäßigen Ausschank von Getränken gegen Entgelt bestimmt sind und bei Bedarf gefüllt werden.</P>
+                    <P>(2) Ausschankmaße dürfen nur in den Verkehr gebracht, verwendet oder bereitgehalten werden, wenn sie die festgelegten Volumen einhalten und das Volumen auf ihnen gekennzeichnet und angegeben ist.</P>
+                    <P>(3) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze des Verbrauchers oder zur Umsetzung von Rechtsakten der Europäischen Gemeinschaften <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">bestimmte Volumen für Ausschankmaße festzulegen,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Vorschriften zu erlassen über die Kennzeichnung des Volumens und die dabei einzuhaltenden Anforderungen an die Genauigkeit, die Angabe des Volumens, die Art und Weise der Kennzeichnung und der Angabe sowie über die Angabe eines Herstellerzeichens und seine Anerkennung durch die Physikalisch-Technische Bundesanstalt,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Ausnahmen von Absatz 2 zuzulassen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNG000302308">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>Dritter Abschnitt</gliederungsbez>
+                <gliederungstitel>Öffentliche Waagen</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE001807360">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 10</enbez>
+            <titel format="XML">Öffentliche Waagen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Öffentliche Waagen sind Waagen, mit denen Wägegut für jedermann gewogen wird.</P>
+                    <P>(2) Der Betreiber öffentlicher Waagen hat sicherzustellen, dass die Ergebnisse der Wägungen schriftlich bescheinigt werden.</P>
+                    <P>(3) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, zur Gewährleistung richtiger Wägungen und zum Nachweis dieser Wägungen Vorschriften durch Rechtsverordnung mit Zustimmung des Bundesrates zu erlassen über <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Ausstattung, die Unterhaltung und den Betrieb öffentlicher Waagen, die Untersagung des Betriebes, die Durchführung von Wägungen und die dem Betreiber einer öffentlichen Waage obliegenden Anzeigepflichten,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Anforderungen an die Sachkunde und Unabhängigkeit des Betreibers und des Betriebspersonals und die Prüfung dieser Anforderungen,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">den Nachweis der Wägungen und die Aufbewahrung der Unterlagen,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Kennzeichnung der öffentlichen Waagen,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">das Verfahren im Zusammenhang mit den Nummern 1 bis 4.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNG000402308">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>040</gliederungskennzahl>
+                <gliederungsbez>Vierter Abschnitt</gliederungsbez>
+                <gliederungstitel>Zuständigkeiten</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE003703377">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 11</enbez>
+            <titel format="parat">Behörden</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Landesregierungen oder die von ihnen bestimmten Stellen bestimmen die für die Ausführung dieses Gesetzes zuständigen Behörden, soweit nicht die Physikalisch-Technische Bundesanstalt zuständig oder auf Grund dieses Gesetzes etwas anderes bestimmt ist.</P>
+                    <P>(2) Örtlich zuständig für die Eichung und sonstige Prüfung von Meßgeräten an der Amtsstelle ist jede nach Absatz 1 sachlich zuständige Behörde, bei der eine solche Amtshandlung beantragt wird.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE003806310">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 12</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE003904310">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 13</enbez>
+            <titel format="XML">Aufgaben der Physikalisch-Technischen Bundesanstalt</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Physikalisch-Technische Bundesanstalt hat zur Sicherung der Einheitlichkeit des gesetzlichen Meßwesens <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Bauarten von Meßgeräten zuzulassen,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Normalgeräte und Prüfungshilfsmittel der zuständigen Behörden und der staatlich anerkannten Prüfstellen auf Antrag zu prüfen,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die für die Durchführung dieses Gesetzes zuständigen Landesbehörden sowie die staatlich anerkannten Prüfstellen zu beraten und</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Zusammenarbeit der nach § 3 Abs. 1 Satz 2 Nr. 3 Buchstabe c anerkannten Stellen abzustimmen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Die Physikalisch-Technische Bundesanstalt hat ferner <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">das physikalisch-technische Meßwesen wissenschaftlich zu bearbeiten, insbesondere wissenschaftliche Forschung auf diesem Gebiet zu betreiben und</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Prüfungen und Untersuchungen auf dem Gebiet des physikalisch-technischen Meßwesens vorzunehmen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNG000503377">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>050</gliederungskennzahl>
+                <gliederungsbez>Fünfter Abschnitt</gliederungsbez>
+                <gliederungstitel>Kosten, Auskunft und Nachschau</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE005501310">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 13a</enbez>
+            <titel format="XML">Kostenerhebung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Für <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Amtshandlungen nach den §§ 2 bis 4, 8 bis 10, 21 und 25,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Prüfung von Normalgeräten und Prüfungshilfsmitteln,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Maßnahmen zur Überwachung der Einhaltung der Vorschriften dieses Gesetzes</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">(weggefallen)</LA>
+                            </DD>
+                        </DL>werden Kosten (Gebühren und Auslagen) erhoben.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE004005377">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 14</enbez>
+            <titel format="parat">Kostenverordnung für Amtshandlungen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die gebührenpflichtigen Amtshandlungen näher sowie die Gebührensätze für die einzelnen Amtshandlungen zu bestimmen. In der Rechtsverordnung kann bestimmt werden, daß eine Gebühr auch für eine Amtshandlung erhoben werden kann, die nicht begonnen worden ist, wenn die Gründe hierfür von demjenigen zu vertreten sind, der die Amtshandlung veranlaßt hat.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE004106310">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 15</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE004202308">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 16</enbez>
+            <titel format="parat">Auskunft und Nachschau</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die für die Einhaltung der Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen verantwortlichen Personen haben der zuständigen Behörde die für die Durchführung dieses Gesetzes erforderlichen Auskünfte zu erteilen.</P>
+                    <P>(2) Soweit es zur Durchführung dieses Gesetzes erforderlich ist, sind die von der zuständigen Behörde mit der Überwachung beauftragten Personen befugt, Grundstücke und Betriebsräume des Auskunftspflichtigen sowie die dazugehörigen Geschäftsräume während der üblichen Betriebs- oder Geschäftszeiten zu betreten, Prüfungen und Besichtigungen vorzunehmen, Proben zu entnehmen und in die geschäftlichen Unterlagen des Auskunftspflichtigen Einsicht zu nehmen. Der Auskunftspflichtige oder eine für ihn handelnde Person hat die Maßnahmen nach Satz 1 zu dulden und die in der Überwachung tätigen Personen bei der Erfüllung ihrer Aufgaben zu unterstützen, insbesondere ihnen auf Verlangen die Räume und Unterlagen zu bezeichnen, Räume und Behältnisse zu öffnen und die Entnahme der Proben zu ermöglichen.</P>
+                    <P>(3) Werden Fertigpackungen oder andere Verkaufseinheiten in den Geltungsbereich dieses Gesetzes verbracht und dabei vom Importeur unmittelbar an den Handel geliefert, so ist der Händler verpflichtet, Prüfungen auf Grund einer Rechtsverordnung nach § 8 Abs. 1 Satz 1 Nr. 8 in seinem Betrieb zu dulden und der zuständigen Behörde die erforderlichen Auskünfte zu erteilen. Werden Behältnisse in den Geltungsbereich dieses Gesetzes verbracht und dabei vom Importeur unmittelbar an den Abfüllbetrieb geliefert, so ist der Betriebsinhaber verpflichtet, Prüfungen auf Grund einer Rechtsverordnung nach § 8 Abs. 1 Satz 1 Nr. 8 zu dulden und der zuständigen Behörde die erforderlichen Auskünfte zu erteilen. Absatz 2 gilt entsprechend.</P>
+                    <P>(4) Werden Fertigpackungen oder andere Verkaufseinheiten für Prüfungen auf Grund einer Rechtsverordnung nach § 8 Abs. 1 Satz 1 Nr. 8 als Probe entnommen und zerstört, so ist eine angemessene Entschädigung in Geld zu leisten, sofern sich kein Grund zur Beanstandung ergeben hat.</P>
+                    <P>(5) Der zur Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE004305377">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 17</enbez>
+            <titel format="parat">Befugnis zur Auskunftserteilung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Die Zolldienststellen sind befugt, den Eichaufsichtsbehörden der Länder Auskünfte zu erteilen über die Einfuhr von Fertigpackungen, offenen Packungen, Maßbehältnissen, Schankgefäßen und Meßgeräten, die das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium der Finanzen bestimmt. Der Einfuhr steht das sonstige Verbringen in den Geltungsbereich des Gesetzes gleich. Das Postgeheimnis (Artikel 10 Abs. 1 des Grundgesetzes) wird insoweit eingeschränkt.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE004402308">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 18</enbez>
+            <titel format="parat">Abwehr und Unterbindung von Zuwiderhandlungen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Zur Abwehr oder Unterbindung von Zuwiderhandlungen gegen dieses Gesetz oder gegen die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen haben die Beauftragten der zuständigen Behörden die Befugnisse von Polizeibeamten. Die Landesregierungen können diese Befugnisse durch Rechtsverordnung einschränken. Sie können diese Ermächtigung durch Rechtsverordnung auf andere Behörden übertragen.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNG000602308">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>060</gliederungskennzahl>
+                <gliederungsbez>Sechster Abschnitt</gliederungsbez>
+                <gliederungstitel>Bußgeldvorschriften</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE004507377">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 19</enbez>
+            <titel format="parat">Ordnungswidrigkeiten</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Fertigpackungen, die entgegen § 7 Abs. 2 gestaltet oder befüllt sind, herstellt, herstellen läßt oder in den Geltungsbereich dieses Gesetzes verbringt,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">entgegen § 16 Abs. 1 oder 3 Satz 1 oder 2 eine Auskunft nicht, nicht richtig oder nicht vollständig erteilt, entgegen § 16 Abs. 2 Satz 2 eine Maßnahme nicht duldet oder eine in der Überwachung tätige Person nicht unterstützt oder entgegen § 16 Abs. 3 Satz 1 oder 2 eine Prüfung nicht duldet,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">nicht geeichte Meßgeräte entgegen § 25 Abs. 1 Satz 1 verwendet oder entgegen § 25 Abs. 1 Satz 1 Nr. 1, 4 oder 5 bereithält,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">einer Rechtsverordnung nach § 2 Abs. 2 oder 3, § 3 Abs. 1 oder 2, § 8 Abs. 1 Satz 1 Nr. 1 bis 7, 9, 10 oder 12, jeweils auch in Verbindung mit Satz 2, § 9 Abs. 3, § 10 Abs. 3 oder § 21 Satz 1 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Verordnungen des Rates oder der Kommission der Europäischen Gemeinschaften im Sinne des § 21 zuwiderhandelt, soweit eine Rechtsverordnung nach Absatz 3 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Absatz 1 Nr. 2 gilt auch bei Verordnungen des Rates oder der Kommission der Europäischen Gemeinschaften im Sinne des § 21 und den zu ihrer Durchführung erlassenen Verordnungen.</P>
+                    <P>(3) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates die einzelnen Tatbestände der Verordnungen, die nach Absatz 1 Nr. 5 als Ordnungswidrigkeiten mit Geldbuße geahndet werden können, zu bezeichnen, soweit dies zur Durchführung der Verordnungen erforderlich ist.</P>
+                    <P>(4) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend Euro geahndet werden.</P>
+                    <P>(5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist, soweit das Gesetz von der Physikalisch-Technischen Bundesanstalt ausgeführt wird, die Behörde oder Stelle, die von der Landesregierung durch Rechtsverordnung bestimmt wird. Die Landesregierung kann die Ermächtigung auf die zuständige oberste Landesbehörde übertragen.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE004602308">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 20</enbez>
+            <titel format="parat">Einziehung</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Ist eine in § 19 bezeichnete Ordnungswidrigkeit begangen worden, so können Gegenstände, die durch die Ordnungswidrigkeit hervorgebracht oder zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind oder auf die sich die Ordnungswidrigkeit bezieht, eingezogen werden.</P>
+                    <P>(2) § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNG000702308">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>070</gliederungskennzahl>
+                <gliederungsbez>Siebenter Abschnitt</gliederungsbez>
+                <gliederungstitel>Schlußvorschriften</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE005305310">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 21</enbez>
+            <titel format="XML">EG-Verordnungen</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Soweit es zur Durchführung von Verordnungen des Rates oder der Kommission der Europäischen Gemeinschaften, die einer Regelung nach den §§ 7 und 8 entsprechen, erforderlich ist, kann das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz mit Zustimmung des Bundesrates durch Rechtsverordnung die erforderlichen Ausführungsvorschriften erlassen. Die §§ 11, 16 bis 18, 20 und 23 finden für die Durchführung der in Satz 1 genannten Rechtsakte der Europäischen Gemeinschaften und der zu ihrer Ausführung erlassenen Rechtsverordnungen entsprechende Anwendung.</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE004705377">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 22</enbez>
+            <titel format="parat">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE004802308">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 23</enbez>
+            <titel format="parat">Bezugnahme auf technische Regeln</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Zur Festlegung technischer Anforderungen und Prüfverfahren kann in Rechtsverordnungen auf Grund dieses Gesetzes auf Veröffentlichungen sachverständiger Stellen verwiesen werden. Hierbei sind in der Rechtsverordnung das Datum der Veröffentlichung und die Bezugsquelle anzugeben.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE004902308">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 24</enbez>
+            <titel format="parat">Allgemeine Übergangsvorschriften</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Die Eichung und die eichamtliche Beglaubigung eines Meßgeräts vor Inkrafttreten dieses Gesetzes gilt im bisherigen Umfang als Eichung im Sinne dieses Gesetzes; die Zulassung eines Meßgeräts vor Inkrafttreten dieses Gesetzes gilt im bisherigen Umfang als Zulassung im Sinne dieses Gesetzes.</P>
+                    <P>(2) Die amtliche Beglaubigung oder amtliche Prüfung von Meßgeräten für Elektrizität vor Inkrafttreten dieses Gesetzes und die Beglaubigung nach den bis zum 30. Juni 1992 geltenden Vorschriften dieses Gesetzes gelten im bisherigen Umfang als Eichung im Sinne dieses Gesetzes.</P>
+                    <P>(3) Die öffentliche Bestellung und Vereidigung eines Wägers an öffentlichen Waagen vor Inkrafttreten dieses Gesetzes gilt als öffentliche Bestellung im Sinne dieses Gesetzes.</P>
+                    <P>(4) Die Verpflichtung und Vereidigung der Leiter von Elektrischen Prüfämtern, Prüfamtsaußenstellen und Nebenprüfämtern sowie ihrer Stellvertreter, gilt als öffentliche Bestellung im Sinne dieses Gesetzes.</P>
+                    <P>(5) Die bei Inkrafttreten dieses Gesetzes bestehenden Befugnisse und Verpflichtungen der Elektrischen Prüfämter, Prüfamtsaußenstellen und Nebenprüfämter gelten im bisherigen Umfang weiter. Die Befugnis zur amtlichen Beglaubigung und amtlichen Prüfung von Meßgeräten für Elektrizität und die nach den bis zum 30. Juni 1992 geltenden Vorschriften bestehende Befugnis zur Beglaubigung von Meßgeräten für Elektrizität, Gas, Wasser und Wärme gelten als Befugnis zur Eichung.</P>
+                    <P>(6) Soweit Prüfstellen vor dem 2. März 1985 staatlich anerkannt worden sind, kann die Anerkennung auch nachträglich mit einer Auflage verbunden werden.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE005402377">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 25</enbez>
+            <titel format="parat">Fortbestehen von Eichpflichten</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(1) Es ist verboten, <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Meßgeräte zur Bestimmung<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">der Länge, der Fläche, des Volumens, der Masse, der thermischen oder elektrischen Energie, der thermischen oder elektrischen Leistung, der Durchflußstärke von Flüssigkeiten oder Gasen oder der Dichte oder des Gehalts von Flüssigkeiten,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">des Wassergehalts von Speisefetten, des Feuchtgehaltes von Getreide oder Ölfrüchten, der Schüttdichte von Getreide, des Fettgehalts von Milch oder Milcherzeugnissen oder des Stärkegehalts von Kartoffeln,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">des Fahrpreises bei Kraftfahrzeugen</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                                <LA Size="normal">ungeeicht im geschäftlichen Verkehr zu verwenden oder so bereitzuhalten, daß sie ohne besondere Vorbereitung in Gebrauch genommen werden können,</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die in Nummer 1 bezeichneten Meßgeräte sowie Meßgeräte zur Bestimmung des Drucks von Flüssigkeiten oder Gasen und der Temperatur<DL Font="normal" Type="arabic">
+                                        <DT>a)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">für Messungen nach dem Zoll- und Steuerrecht sowie dem Branntweinmonopolrecht,</LA>
+                                        </DD>
+                                        <DT>b)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">zur Bestimmung von Beförderungsgebühren,</LA>
+                                        </DD>
+                                        <DT>c)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">zur Schiffsvermessung und Schiffseichung,</LA>
+                                        </DD>
+                                        <DT>d)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">zur Durchführung öffentlicher Überwachungsaufgaben,</LA>
+                                        </DD>
+                                        <DT>e)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">zur Erstattung von Gutachten für staatsanwaltschaftliche oder gerichtliche Verfahren, Schiedsverfahren oder für andere amtliche Zwecke oder</LA>
+                                        </DD>
+                                        <DT>f)</DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">zur Erstattung von Schiedsgutachten</LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                                <LA Size="normal">ungeeicht zu verwenden,</LA>
+                            </DD>
+                            <DT>3.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Meßgeräte für die amtliche Überwachung des Straßenverkehrs ungeeicht zu verwenden,</LA>
+                            </DD>
+                            <DT>4.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Meßgeräte zur Prüfung des Reifenluftdrucks an Kraftfahrzeugen in öffentlichen Tankstellen und Betrieben des Kraftfahrzeuggewerbes ungeeicht zu verwenden oder so bereitzuhalten, daß sie ohne besondere Vorbereitung in Gebrauch genommen werden können,</LA>
+                            </DD>
+                            <DT>5.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Meßgeräte zur Bestimmung der Masse, des Volumens, des Drucks, der Temperatur, der Dichte oder des Gehalts bei der Herstellung von Arzneimitteln in Apotheken auf Grund ärztlicher Verschreibung oder bei Analysen in pharmazeutischen Laboratorien ungeeicht zu verwenden oder so bereitzuhalten, daß sie ohne besondere Vorbereitung in Gebrauch genommen werden können,</LA>
+                            </DD>
+                        </DL>soweit nicht die Bundesregierung in einer Rechtsverordnung nach § 2 eine neue Regelung trifft. Satz 1 Nr. 2 Buchstabe d steht der Verwendung nichtgeeichter Meßgeräte zur Durchführung öffentlicher Überwachungsaufgaben nicht entgegen, wenn <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Meßgeräte ihrer Beschaffenheit nach nicht die Voraussetzungen der Eichfähigkeit erfüllen und in anderer Weise als durch Eichung sichergestellt ist, daß die Verwendung der Geräte zu einer genaueren Bestimmung von Meßwerten führt, als sie nach dem Stand von Wissenschaft und Technik mit Hilfe geeichter Meßgeräte erreicht werden kann oder</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">die Meßsicherheit der Geräte für den Bereich, in welchem sie bei der Durchführung der Überwachungsaufgabe Verwendung finden, ohne Bedeutung ist.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                    <P>(2) Absatz 1 Satz 1 Nr. 1, soweit sie die Bestimmung des Gehalts betrifft, und Nummern 2 und 3 gelten nicht für Meßgerätearten, die am 1. Januar 1985 nicht eichfähig waren.</P>
+                    <P>(3) Den Meßgeräten stehen gleich <DL Font="normal" Type="arabic">
+                            <DT>1.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Zusatzeinrichtungen, deren Wirkungsweise vom zugehörigen Meßgerät beeinflußt wird oder die eine Wirkung auf das zugehörige Meßgerät ausüben oder ausüben können, und</LA>
+                            </DD>
+                            <DT>2.</DT>
+                            <DD Font="normal">
+                                <LA Size="normal">Zusatzeinrichtungen zur Ermittlung des Preises in offenen Verkaufsstellen.</LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE005004377">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 26</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>(weggefallen)</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE005102308">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>§ 27</enbez>
+            <titel format="parat">Bezugnahme auf Vorschriften</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Soweit in Gesetzen oder Verordnungen des Bundesrechts auf Vorschriften des Maß- und Gewichtsgesetzes verwiesen wird, beziehen sich diese Verweisungen auf die entsprechenden Vorschriften dieses Gesetzes.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625150408" doknr="BJNR007590969BJNE888800309">
+        <metadaten>
+            <jurabk>EichG</jurabk>
+            <enbez>Anhang EV</enbez>
+            <titel format="XML">Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet C Abschnitt III
 <BR/>
 (BGBl. II 1990, 889, 1001)
 <BR/>
-- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -</titel></metadaten><textdaten><text format="XML"><Content><P><noindex>Abschnitt III <BR/>Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft: <BR/>... <BR/>Eichgesetz in der Fassung der Bekanntmachung vom 22. Februar 1985 (BGBl. I S. 410), zuletzt geändert gemäß Artikel 12 der Verordnung vom 26. November 1986 (BGBl. I S. 2089), <BR/>mit folgenden Maßgaben: <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT>a)</DT><DD Font="normal"><LA Size="normal">Meßgeräte, für die das Amt für Standardisierung, Meßwesen und Warenprüfung der Deutschen Demokratischen Republik eine Bauartzulassung erteilt hat, sind in dem in Artikel 3 des Vertrages genannten Gebiet für die Gültigkeitsdauer der Zulassung, längstens jedoch bis zum 31. Dezember 1993, zur Ersteichung und unbefristet zur Nacheichung zugelassen.</LA></DD><DT>b)</DT><DD Font="normal"><LA Size="normal">Meßgeräte, die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet im eichpflichtigen Verkehr verwendet oder bereitgehalten werden und zur Eichung zugelassen sind, aber auf Grund der bisher dort geltenden Vorschriften nicht eichpflichtig waren, müssen bis spätestens 31. Dezember 1991 geeicht sein.</LA></DD><DT>c)</DT><DD Font="normal"><LA Size="normal">Meßgeräte, die in dem in Artikel 3 des Vertrages genannten Gebiet im eichpflichtigen Verkehr verwendet oder bereitgehalten werden und die auf Grund der bisher dort geltenden Vorschriften weder zulassungspflichtig noch eichpflichtig waren, können erstgeeicht und bis zum 31. Dezember 1996 nachgeeicht werden, wenn sie die in der Eichordnung festgelegten Verkehrsfehlergrenzen sowie die in Teil 7 der Eichordnung genannten allgemeinen Anforderungen einhalten. Sie müssen bis spätestens 31. Dezember 1991 geeicht sein.</LA></DD><DT>d)</DT><DD Font="normal"><LA Size="normal">Schankgefäße im Sinne von § 18 Abs. 3 dürfen in dem in Artikel 3 des Vertrages genannten Gebiet bis zum 31. Dezember 1991 gewerbsmäßig in den Verkehr gebracht und bis 31. Dezember 1992 zum Ausschank von Getränken verwendet oder bereitgehalten werden, wenn sie den bisher dort geltenden Vorschriften entsprechen. Schankgefäße ohne Füllstrich dürfen nur noch bis zum 31. Dezember 1991 verwendet oder bereitgehalten werden.</LA></DD><DT>e)</DT><DD Font="normal"><LA Size="normal">Meßgeräte und Schankgefäße, die nur den vorstehenden Übergangsvorschriften entsprechen, dürfen in dem Gebiet, in dem das Grundgesetz schon vor dem Tage des Wirksamwerdens des Beitritts gegolten hat, weder in den Verkehr gebracht noch verwendet oder bereitgehalten werden.</LA></DD><DT>f)</DT><DD Font="normal"><LA Size="normal">Bis zur Einrichtung der erforderlichen Länderbehörden und staatlich anerkannten Prüfstellen, längstens bis zum 31. Dezember 1992, können die Regierungen der Länder in dem in Artikel 3 des Vertrages genannten Gebiet oder die von ihnen bestimmten Stellen abweichend von § 27 des Eichgesetzes andere Stellen mit der Durchführung des Gesetzes und der Eichordnung betrauen. Diese Stellen erheben für gebührenpflichtige Tätigkeiten Kosten nach der Eich- und Beglaubigungskostenverordnung vom 21. April 1982 (BGBl. I S. 428) in der jeweils geltenden Fassung.</LA></DD></DL></LA></DD></DL></noindex></P></Content></text></textdaten></norm>
+- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <noindex>Abschnitt III <BR/>Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft: <BR/>... <BR/>Eichgesetz in der Fassung der Bekanntmachung vom 22. Februar 1985 (BGBl. I S. 410), zuletzt geändert gemäß Artikel 12 der Verordnung vom 26. November 1986 (BGBl. I S. 2089), <BR/>mit folgenden Maßgaben: <DL Font="normal" Type="arabic">
+                                <DT/>
+                                <DD Font="normal">
+                                    <LA Size="normal">
+                                        <DL Font="normal" Type="arabic">
+                                            <DT>a)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Meßgeräte, für die das Amt für Standardisierung, Meßwesen und Warenprüfung der Deutschen Demokratischen Republik eine Bauartzulassung erteilt hat, sind in dem in Artikel 3 des Vertrages genannten Gebiet für die Gültigkeitsdauer der Zulassung, längstens jedoch bis zum 31. Dezember 1993, zur Ersteichung und unbefristet zur Nacheichung zugelassen.</LA>
+                                            </DD>
+                                            <DT>b)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Meßgeräte, die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet im eichpflichtigen Verkehr verwendet oder bereitgehalten werden und zur Eichung zugelassen sind, aber auf Grund der bisher dort geltenden Vorschriften nicht eichpflichtig waren, müssen bis spätestens 31. Dezember 1991 geeicht sein.</LA>
+                                            </DD>
+                                            <DT>c)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Meßgeräte, die in dem in Artikel 3 des Vertrages genannten Gebiet im eichpflichtigen Verkehr verwendet oder bereitgehalten werden und die auf Grund der bisher dort geltenden Vorschriften weder zulassungspflichtig noch eichpflichtig waren, können erstgeeicht und bis zum 31. Dezember 1996 nachgeeicht werden, wenn sie die in der Eichordnung festgelegten Verkehrsfehlergrenzen sowie die in Teil 7 der Eichordnung genannten allgemeinen Anforderungen einhalten. Sie müssen bis spätestens 31. Dezember 1991 geeicht sein.</LA>
+                                            </DD>
+                                            <DT>d)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Schankgefäße im Sinne von § 18 Abs. 3 dürfen in dem in Artikel 3 des Vertrages genannten Gebiet bis zum 31. Dezember 1991 gewerbsmäßig in den Verkehr gebracht und bis 31. Dezember 1992 zum Ausschank von Getränken verwendet oder bereitgehalten werden, wenn sie den bisher dort geltenden Vorschriften entsprechen. Schankgefäße ohne Füllstrich dürfen nur noch bis zum 31. Dezember 1991 verwendet oder bereitgehalten werden.</LA>
+                                            </DD>
+                                            <DT>e)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Meßgeräte und Schankgefäße, die nur den vorstehenden Übergangsvorschriften entsprechen, dürfen in dem Gebiet, in dem das Grundgesetz schon vor dem Tage des Wirksamwerdens des Beitritts gegolten hat, weder in den Verkehr gebracht noch verwendet oder bereitgehalten werden.</LA>
+                                            </DD>
+                                            <DT>f)</DT>
+                                            <DD Font="normal">
+                                                <LA Size="normal">Bis zur Einrichtung der erforderlichen Länderbehörden und staatlich anerkannten Prüfstellen, längstens bis zum 31. Dezember 1992, können die Regierungen der Länder in dem in Artikel 3 des Vertrages genannten Gebiet oder die von ihnen bestimmten Stellen abweichend von § 27 des Eichgesetzes andere Stellen mit der Durchführung des Gesetzes und der Eichordnung betrauen. Diese Stellen erheben für gebührenpflichtige Tätigkeiten Kosten nach der Eich- und Beglaubigungskostenverordnung vom 21. April 1982 (BGBl. I S. 428) in der jeweils geltenden Fassung.</LA>
+                                            </DD>
+                                        </DL>
+                                    </LA>
+                                </DD>
+                            </DL>
+                        </noindex>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
 </dokumente>

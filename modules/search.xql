@@ -62,11 +62,10 @@ let $startdate := xs:date(if($data) then ($data//startdate) else ('1700-01-01'))
 let $enddate := xs:date(if($data) then ($data//enddate) else (current-date()))
 let $showAscending :=if($data and $data//sortAscending = 'true') then (true()) else (false())
 let $term :=    if($data and string-length($data//term) gt 0) then ($data//term/text()) else ('')
-let $orderBy := if($data and string-length($data//orderBy) gt 0) then ($data//orderBy/text()) else ('') 
+let $orderBy := if($data and string-length($data//orderBy) gt 0) then ($data//orderBy/text()) else ('')
 
 (: Get all law book within the given start and enddate :)
 let $norms := collection("/apps/gesetze/data/")/dokumente/norm[xs:date(metadaten/ausfertigung-datum) ge $startdate][xs:date(metadaten/ausfertigung-datum) le $enddate]
-
 return
     <div>
         <h2>Search Result</h2>
@@ -77,11 +76,8 @@ return
                     <td>Titel</td>
                     <td>Datum</td>
                     <td>About</td>
-                
                 </tr>
             </thead>            
              { local:main($norms, $term, $orderBy, $showAscending) }            
         </table>                
     </div>
- 
-

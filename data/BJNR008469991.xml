@@ -1,128 +1,820 @@
-<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE dokumente SYSTEM "http://www.gesetze-im-internet.de/dtd/1.01/gii-norm.dtd">
-<dokumente builddate="20120625151956" doknr="BJNR008469991"><norm builddate="20120625151956" doknr="BJNR008469991"><metadaten><jurabk>StatAV</jurabk><amtabk>StatAV</amtabk><ausfertigung-datum manuell="ja">1991-03-26</ausfertigung-datum><fundstelle typ="amtlich"><periodikum>BGBl I</periodikum><zitstelle>1991, 846</zitstelle></fundstelle><langue>Statistikanpassungsverordnung</langue></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten><Content><P>(+++ Textnachweis ab:  1. 1.1991 +++)</P></Content></fussnoten></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNE002400307"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>000</gliederungskennzahl><gliederungsbez>-</gliederungsbez><gliederungstitel/></gliederungseinheit><enbez>Inhaltsübersicht</enbez></metadaten><textdaten><text format="XML"><Content><P> <table frame="none" pgwide="1" tocentry="%yes;">
-	<tgroup align="left" char="" charoff="50" cols="2" colsep="0" rowsep="0">
-		<colspec colname="col1" colnum="1" colwidth="15*"/>
-		<colspec colname="col2" colnum="2" colwidth="70*"/>
-		<tbody valign="top">
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 1:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Gesetz über die Preisstatistik</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 2:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Gesetz über die Statistik der Wirtschaftsrechnungen privater Haushalte</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 3:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Gesetz über die Statistik im Produzierenden Gewerbe</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 4:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Handelsstatistikgesetz</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 5:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Gesetz über die Durchführung laufender Statistiken im Handwerk</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 6:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Gesetz über Kostenstrukturstatistik</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 7:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Gesetz über Umweltstatistiken</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 8:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Gesetz über die Lohnstatistik</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 9:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Gesetz über die Finanzstatistik</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 10:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Beherbergungsstatistikgesetz</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 11:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Kinder- und Jugendhilfegesetz</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 12:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Hochschulstatistikgesetz</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 13:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Gesetz zur Durchführung einer Statistik über die Personenbeförderung im Straßenverkehr</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 14:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Gesetz über die Statistik der Binnenschiffahrt</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 15:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Gesetz über die Luftfahrtstatistik</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 16:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Gesetz über eine Pressestatistik</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 17:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">3. Betriebliche Altersversorgungsstatistikverordnung</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 18:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Gesetz über die Statistik der Seeschiffahrt</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 19:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Agrarstatistikgesetz</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 20:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Gesetz über Fischereistatistik</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 21:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Gesetz über betriebs- und marktwirtschaftliche Meldungen</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 22:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Außerkrafttreten</entry>
-			</row>
-			<row>
-				<entry VJ="1" align="left" colsep="0" valign="top">Artikel 23:</entry>
-				<entry VJ="1" align="left" colsep="0" valign="top">Inkrafttreten</entry>
-			</row>
-		</tbody>
-	</tgroup>
-</table> </P></Content></text></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNE002500307"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>000</gliederungskennzahl><gliederungsbez>-</gliederungsbez></gliederungseinheit><enbez>Eingangsformel</enbez></metadaten><textdaten><text format="XML"><Content><P>Auf Grund der Anlage I Kapitel XVIII Abschnitt II Nr. 1 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1138) verordnet die Bundesregierung und auf Grund der Anlage I Kapitel XVIII Abschnitt II Nr. 2 § 1 des Einigungsvertrages in Verbindung mit Artikel 1 des vorstehend genannten Gesetzes verordnen der Bundesminister für Wirtschaft, der Bundesminister für Arbeit und Sozialordnung, der Bundesminister der Finanzen, der Bundesminister für Frauen und Jugend, der Bundesminister für Bildung und Wissenschaft, der Bundesminister für Verkehr, der Bundesminister des Innern und der Bundesminister für Ernährung, Landwirtschaft und Forsten:</P></Content></text></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNG000100307"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>010</gliederungskennzahl><gliederungsbez>Art 1</gliederungsbez><gliederungstitel>Gesetz über die Preisstatistik</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P><DL Font="normal" Type="arabic"><DT><I>1.</I></DT><DD Font="normal"><LA Size="normal"><I>Abweichend von § 3 Abs. 2 Satz 2 des Gesetzes über die Preisstatistik in der im Bundesgesetzblatt Teil III, Gliederungsnummer 720-9, veröffentlichten bereinigten Fassung gilt:</I></LA><LA Size="normal"><I>&quot;Die Erhebungen werden bei höchstens 50.000 Auskunftspflichtigen, ab 1. Januar 1995 bei höchstens 34.000 Auskunftspflichtigen durchgeführt.&quot;</I></LA></DD>  <DT><I>2.</I></DT><DD Font="normal"><LA Size="normal"><I>Abweichend von § 4 Abs. 2 Satz 2 des Gesetzes gilt:</I></LA><LA Size="normal"><I>&quot;Die Erhebungen werden bei höchstens 20.000 Auskunftspflichtigen, ab 1. Januar 1995 bei höchstens 14.000 Auskunftspflichtigen durchgeführt.&quot;</I></LA></DD>  <DT><I>3.</I></DT><DD Font="normal"><LA Size="normal"><I>Abweichend von § 6 Abs. 2 Satz 2 des Gesetzes gilt:</I></LA><LA Size="normal"><I>&quot;Die Erhebungen werden bei höchstens 50.000 Auskunftspflichtigen, ab 1. Januar 1995 bei höchstens 38.000 Auskunftspflichtigen durchgeführt.&quot;</I></LA></DD>  </DL></P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNG000200307"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>020</gliederungskennzahl><gliederungsbez>Art 2</gliederungsbez><gliederungstitel>Gesetz über die Statistik der
-Wirtschaftsrechnungen privater Haushalte</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P><I>Abweichend von § 3 Abs. 1 des Gesetzes über die Statistik der Wirtschaftsrechnungen privater Haushalte in der im Bundesgesetzblatt Teil III, Gliederungsnummer 708-6, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 10 des Gesetzes vom 14. März 1980 (BGBl. I S. 294) geändert worden ist, gilt:</I> <BR/><I>&quot;(1) Die Erhebungen nach § 1 Nr. 1 erstrecken sich auf höchstens 6.000 Haushalte, ab 1. Januar 1993 auf 2.000 Haushalte in jedem Monat.&quot;</I></P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNG000300307"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>030</gliederungskennzahl><gliederungsbez>Art 3</gliederungsbez><gliederungstitel>Gesetz über die Statistik im
-Produzierenden Gewerbe</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNE002600307"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>030</gliederungskennzahl><gliederungsbez>Art 3</gliederungsbez></gliederungseinheit><enbez>§ 1</enbez></metadaten><textdaten><text format="XML"><Content><P><I>Abweichend von den §§ 2 bis 6 des Gesetzes über die Statistik im Produzierenden Gewerbe in der Fassung der Bekanntmachung vom 30. Mai 1980 (BGBl. I S. 641), das zuletzt durch Artikel 2 des Gesetzes vom 19. Dezember 1986 (BGBl. I S. 2555) geändert worden ist, gilt:</I> <DL Font="normal" Type="arabic"><DT><I>1.</I></DT><DD Font="normal"><LA Size="normal"><I>In § 2 Buchstabe A und § 3 Buchstabe B Ziffer I wird die Zahl &quot;52.000&quot; jeweils durch die Zahl &quot;68.000&quot; ersetzt.</I></LA></DD> <DT><I>2.</I></DT><DD Font="normal"><LA Size="normal"><I>In § 3 Buchstabe A Ziffer I wird die Zahl &quot;10.000&quot; durch die Zahl &quot;13.000&quot; ersetzt.</I></LA></DD> <DT><I>3.</I></DT><DD Font="normal"><LA Size="normal"><I>In § 3 Buchstabe B Ziffer II werden die Worte &quot;bei höchstens 15.000 der nach Ziffer I erfaßten Unternehmen&quot; durch die Worte &quot;bei höchstens 28.000, ab 1. Januar 1993 bei höchstens 20.000 der nach Ziffer I erfaßten Unternehmen&quot; ersetzt.</I></LA></DD> <DT><I>4.</I></DT><DD Font="normal"><LA Size="normal"><I>In § 4 Buchstabe C Ziffer I wird die Zahl &quot;5.000&quot; durch die Zahl &quot;9.000&quot; ersetzt.</I></LA></DD> <DT><I>5.</I></DT><DD Font="normal"><LA Size="normal"><I>In § 4 Buchstabe C Ziffer II wird die Zahl &quot;10.000&quot; durch die Zahl &quot;18.000&quot; ersetzt.</I></LA></DD> <DT><I>6.</I></DT><DD Font="normal"><LA Size="normal"><I>In § 5 Buchstabe A Ziffer II werden die Worte &quot;bei höchstens 4.000 der nach Ziffer I erfaßten Unternehmen&quot; durch die Worte &quot;bei höchstens 11.000, ab 1. Januar 1993 bei höchstens 6.000 der nach Ziffer I erfaßten Unternehmen&quot; ersetzt.</I></LA></DD> <DT><I>7.</I></DT><DD Font="normal"><LA Size="normal"><I>In § 6 Buchstabe A Ziffer I wird die Zahl &quot;1.000&quot; durch die Zahl &quot;1.300&quot; ersetzt.</I></LA></DD> <DT><I>8.</I></DT><DD Font="normal"><LA Size="normal"><I>In § 6 Buchstabe B Ziffer I wird die Zahl &quot;2.000&quot; durch die Zahl &quot;3.000&quot; ersetzt.</I></LA></DD> <DT><I>9.</I></DT><DD Font="normal"><LA Size="normal"><I>In § 6 Buchstabe B Ziffer II werden die Worte &quot;bei höchstens 1.100 der nach Ziffer I erfaßten Unternehmen&quot; durch die Worte &quot;bei höchstens 1.700, ab 1. Januar 1993 bei höchstens 1.400 der nach Ziffer I erfaßten Unternehmen&quot; ersetzt.</I></LA></DD> </DL></P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNE002701301"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>030</gliederungskennzahl><gliederungsbez>Art 3</gliederungsbez><gliederungstitel/></gliederungseinheit><enbez>(XXXX) §§ 2 und 3</enbez><titel format="XML">(weggefallen)</titel></metadaten><textdaten><text format="XML"><Content><P>-</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNG000400307"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>040</gliederungskennzahl><gliederungsbez>Art 4</gliederungsbez><gliederungstitel>Handelsstatistikgesetz</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNE002900307"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>040</gliederungskennzahl><gliederungsbez>Art 4</gliederungsbez></gliederungseinheit><enbez>§ 1</enbez></metadaten><textdaten><text format="XML"><Content><P><I>Abweichend von § 2 des Handelsstatistikgesetzes vom 10. November 1978 (BGBl. I S. 1733) gilt:</I> <DL Font="normal" Type="arabic"><DT><I>1.</I></DT><DD Font="normal"><LA Size="normal"><I>In Nummer 1 wird die Zahl &quot;10.000&quot; durch die Zahl &quot;13.500&quot; und die Zahl &quot;20.000&quot; durch die Zahl &quot;27.000&quot; ersetzt.</I></LA></DD> <DT><I>2.</I></DT><DD Font="normal"><LA Size="normal"><I>In Nummer 2 wird die Zahl &quot;25.000&quot; durch die Zahl &quot;35.000&quot; ersetzt.</I></LA></DD> <DT><I>3.</I></DT><DD Font="normal"><LA Size="normal"><I>In Nummer 3 wird die Zahl &quot;10.000&quot; durch die Zahl &quot;13.500&quot; ersetzt.</I></LA></DD> <DT><I>4.</I></DT><DD Font="normal"><LA Size="normal"><I>In Nummer 4 wird die Zahl &quot;8.000&quot; durch die Zahl &quot;11.500&quot; ersetzt.</I></LA></DD> </DL></P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNE003001301"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>040</gliederungskennzahl><gliederungsbez>Art 4</gliederungsbez><gliederungstitel/></gliederungseinheit><enbez>§ 2</enbez></metadaten><textdaten><text format="XML"><Content><P>-</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNG000500307"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>050</gliederungskennzahl><gliederungsbez>Art 5</gliederungsbez><gliederungstitel>Gesetz über die Durchführung laufender
-Statistiken im Handwerk</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNE003100307"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>050</gliederungskennzahl><gliederungsbez>Art 5</gliederungsbez></gliederungseinheit><enbez>§ 1</enbez></metadaten><textdaten><text format="XML"><Content><P><I>Abweichend von § 2 des Gesetzes über die Durchführung laufender Statistiken im Handwerk in der Fassung der Bekanntmachung vom 30. Mai 1980 (BGBl. I S. 648) gilt:</I> <BR/><I>In § 2 Abs. 3 wird die Zahl &quot;35.000&quot; durch die Zahl &quot;50.000&quot; ersetzt.</I></P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNE003201301"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>050</gliederungskennzahl><gliederungsbez>Art 5</gliederungsbez><gliederungstitel/></gliederungseinheit><enbez>§ 2</enbez></metadaten><textdaten><text format="XML"><Content><P>-</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNG000600307"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>060</gliederungskennzahl><gliederungsbez>Art 6</gliederungsbez><gliederungstitel>Gesetz über Kostenstrukturstatistik</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNE003300307"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>060</gliederungskennzahl><gliederungsbez>Art 6</gliederungsbez></gliederungseinheit><enbez>§ 1</enbez></metadaten><textdaten><text format="XML"><Content><P><I>Das Gesetz über Kostenstrukturstatistik in der im Bundesgesetzblatt Teil III, Gliederungsnummer 708-3, veröffentlichten bereinigten Fassung, zuletzt geändert durch § 13 Abs. 1 des Gesetzes vom 6. November 1975 (BGBl. I S. 2779), wird wie folgt ergänzt:</I> <BR/><I>Nach § 5 wird folgende Übergangsvorschrift eingefügt:</I> <DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT/><DD Font="normal"><LA Size="normal"><I>&quot;§ 5a</I></LA></DD> </DL></LA></DD></DL></LA></DD></DL></LA></DD></DL></LA></DD></DL></LA></DD></DL><I>(1) In dem in Artikel 3 des Einigungsvertrages genannten Gebiet wird die Zahl der nach § 5 Abs. 2 einzubeziehenden Erhebungseinheiten für die Jahre 1991 und 1992 um zusätzlich höchstens 5 vom Hundert der in diesem Gebiet ansässigen Unternehmen nach § 1 Nr. 1 bis 4 erhöht.</I></P><P><I>(2) Diese Regelung tritt am 31. Dezember 1993 außer Kraft.&quot;</I></P></Content> </text><fussnoten/></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNE003401301"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>060</gliederungskennzahl><gliederungsbez>Art 6</gliederungsbez><gliederungstitel/></gliederungseinheit><enbez>(XXXX) §§ 2 und 3</enbez><titel format="XML">(weggefallen)</titel></metadaten><textdaten><text format="XML"><Content><P>-</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNG000700307"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>070</gliederungskennzahl><gliederungsbez>Art 7</gliederungsbez><gliederungstitel>Gesetz über Umweltstatistiken</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P><I>Abweichend von § 4 des Gesetzes über Umweltstatistiken in der Fassung der Bekanntmachung vom 14. März 1980 (BGBl. I S. 311), das gemäß Artikel 10 der Verordnung vom 26. November 1986 (BGBl. I S. 2089) geändert worden ist, gilt:</I> <BR/><I>In § 4 Abs. 1 wird die Zahl &quot;80.000&quot; durch die Zahl &quot;90.000&quot; ersetzt.</I></P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNG000800307"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>080</gliederungskennzahl><gliederungsbez>Art 8</gliederungsbez><gliederungstitel>Gesetz über die Lohnstatistik</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNE003600307"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>080</gliederungskennzahl><gliederungsbez>Art 8</gliederungsbez></gliederungseinheit><enbez>§ 1</enbez></metadaten><textdaten><text format="XML"><Content><P><I>Abweichend von den §§ 2, 4, 6, 8 und 10 des Gesetzes über die Lohnstatistik in der im Bundesgesetzblatt Teil III, Gliederungsnummer 800-16, veröffentlichten bereinigten Fassung, das zuletzt durch das Gesetz vom 24. Oktober 1989 (BGBl. I S. 1912) geändert worden ist, gilt:</I> <DL Font="normal" Type="arabic"><DT><I>1.</I></DT><DD Font="normal"><LA Size="normal"><I>In § 2 Abs. 2 wird die Zahl &quot;3.500&quot; durch die Zahl &quot;6.500&quot; ersetzt.</I></LA></DD> <DT><I>2.</I></DT><DD Font="normal"><LA Size="normal"><DL Font="normal" Type="arabic"><DT><I>a)</I></DT><DD Font="normal"><LA Size="normal"><I>In § 4 Abs. 2 wird die Zahl &quot;18.000&quot; durch die Zahl &quot;27.000&quot; ersetzt.</I></LA></DD> <DT><I>b)</I></DT><DD Font="normal"><LA Size="normal"><I>In § 4 Abs. 2 wird die Zahl &quot;28.000&quot; durch die Zahl &quot;40.500&quot; ersetzt.</I></LA></DD> </DL></LA></DD> <DT><I>3.</I></DT><DD Font="normal"><LA Size="normal"><I>In § 6 Abs. 2 wird die Zahl &quot;590.000&quot; durch die Zahl &quot;940.000&quot; ersetzt.</I></LA></DD> <DT><I>4.</I></DT><DD Font="normal"><LA Size="normal"><I>In § 8 Abs. 2 wird die Zahl &quot;24.000&quot; durch die Zahl &quot;34.000&quot; ersetzt.</I></LA></DD> <DT><I>5.</I></DT><DD Font="normal"><LA Size="normal"><I>Abweichend von § 10 Satz 2 gilt:</I></LA><LA Size="normal"><I>&quot;Dabei darf die Anzahl der durch die Auswahl einbezogenen Arbeiter im Falle des § 2 Abs. 2 um bis zu 300, für die Erhebungen ab 1992 um bis zu 800, die Anzahl der ausgewählten Betriebe im Falle des § 4 Abs. 2 für die Statistik nach § 4 Abs. 1 Nr. 1 um bis zu 2.000, für die Erhebungen ab 1992 um bis zu 4.000, sowie für die Statistik nach § 4 Abs. 1 Nr. 2 und 3 zusammen um bis zu 7.000, die Anzahl der durch die Auswahl einbezogenen Arbeiter und Angestellten im Falle des § 6 Abs. 2 um bis zu 60.000 sowie die Anzahl der ausgewählten Unternehmen im Falle des § 8 Abs. 2 um bis zu 2.000 überschritten werden, soweit dies zur Gewinnung einer zuverlässigen statistischen Grundlage erforderlich ist.&quot;</I></LA></DD>  </DL></P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNE003701301"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>080</gliederungskennzahl><gliederungsbez>Art 8</gliederungsbez><gliederungstitel/></gliederungseinheit><enbez>(XXXX) §§ 2 bis 4</enbez><titel format="XML">(weggefallen)</titel></metadaten><textdaten><text format="XML"><Content><P>-</P></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNG000901301"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>090</gliederungskennzahl><gliederungsbez>Art 9 bis 21</gliederungsbez><gliederungstitel/></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P/></Content></text><fussnoten/></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNG002200307"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>220</gliederungskennzahl><gliederungsbez>Art 22</gliederungsbez><gliederungstitel>Außerkrafttreten</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P>Mit Ablauf des 2. Oktober 1992 treten Artikel 3 §§ 2 und 3, Artikel 4 § 2, Artikel 5 § 2, Artikel 6 §§ 2 und 3, Artikel 8 §§ 2 bis 4 sowie die Artikel 9 bis 21 außer Kraft.</P></Content></text></textdaten></norm>
-<norm builddate="20120625151956" doknr="BJNR008469991BJNG002300307"><metadaten><jurabk>StatAV</jurabk><gliederungseinheit><gliederungskennzahl>230</gliederungskennzahl><gliederungsbez>Art 23</gliederungsbez><gliederungstitel>Inkrafttreten</gliederungstitel></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P>Diese Verordnung tritt mit Ausnahme des Artikels 8 § 1 Nr. 1 und Nr. 2 Buchstabe a mit Wirkung vom 1. Januar 1991 in Kraft. Artikel 8 § 1 Nr. 1 und Nr. 2 Buchstabe a tritt am 1. Januar 1992 in Kraft.</P></Content></text></textdaten></norm>
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumente builddate="20120625151956" doknr="BJNR008469991">
+    <norm builddate="20120625151956" doknr="BJNR008469991">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <amtabk>StatAV</amtabk>
+            <ausfertigung-datum manuell="ja">1991-03-26</ausfertigung-datum>
+            <fundstelle typ="amtlich">
+                <periodikum>BGBl I</periodikum>
+                <zitstelle>1991, 846</zitstelle>
+            </fundstelle>
+            <langue>Statistikanpassungsverordnung</langue>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten>
+                <Content>
+                    <P>(+++ Textnachweis ab:  1. 1.1991 +++)</P>
+                </Content>
+            </fussnoten>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNE002400307">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>000</gliederungskennzahl>
+                <gliederungsbez>-</gliederungsbez>
+                <gliederungstitel/>
+            </gliederungseinheit>
+            <enbez>Inhaltsübersicht</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <table frame="none" pgwide="1" tocentry="%yes;">
+                            <tgroup align="left" char="" charoff="50" cols="2" colsep="0" rowsep="0">
+                                <colspec colname="col1" colnum="1" colwidth="15*"/>
+                                <colspec colname="col2" colnum="2" colwidth="70*"/>
+                                <tbody valign="top">
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 1:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gesetz über die Preisstatistik</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 2:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gesetz über die Statistik der Wirtschaftsrechnungen privater Haushalte</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 3:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gesetz über die Statistik im Produzierenden Gewerbe</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 4:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Handelsstatistikgesetz</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 5:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gesetz über die Durchführung laufender Statistiken im Handwerk</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 6:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gesetz über Kostenstrukturstatistik</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 7:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gesetz über Umweltstatistiken</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 8:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gesetz über die Lohnstatistik</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 9:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gesetz über die Finanzstatistik</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 10:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Beherbergungsstatistikgesetz</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 11:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Kinder- und Jugendhilfegesetz</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 12:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Hochschulstatistikgesetz</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 13:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gesetz zur Durchführung einer Statistik über die Personenbeförderung im Straßenverkehr</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 14:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gesetz über die Statistik der Binnenschiffahrt</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 15:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gesetz über die Luftfahrtstatistik</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 16:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gesetz über eine Pressestatistik</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 17:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">3. Betriebliche Altersversorgungsstatistikverordnung</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 18:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gesetz über die Statistik der Seeschiffahrt</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 19:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Agrarstatistikgesetz</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 20:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gesetz über Fischereistatistik</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 21:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Gesetz über betriebs- und marktwirtschaftliche Meldungen</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 22:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Außerkrafttreten</entry>
+                                    </row>
+                                    <row>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Artikel 23:</entry>
+                                        <entry VJ="1" align="left" colsep="0" valign="top">Inkrafttreten</entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                    </P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNE002500307">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>000</gliederungskennzahl>
+                <gliederungsbez>-</gliederungsbez>
+            </gliederungseinheit>
+            <enbez>Eingangsformel</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Auf Grund der Anlage I Kapitel XVIII Abschnitt II Nr. 1 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1138) verordnet die Bundesregierung und auf Grund der Anlage I Kapitel XVIII Abschnitt II Nr. 2 § 1 des Einigungsvertrages in Verbindung mit Artikel 1 des vorstehend genannten Gesetzes verordnen der Bundesminister für Wirtschaft, der Bundesminister für Arbeit und Sozialordnung, der Bundesminister der Finanzen, der Bundesminister für Frauen und Jugend, der Bundesminister für Bildung und Wissenschaft, der Bundesminister für Verkehr, der Bundesminister des Innern und der Bundesminister für Ernährung, Landwirtschaft und Forsten:</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNG000100307">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>010</gliederungskennzahl>
+                <gliederungsbez>Art 1</gliederungsbez>
+                <gliederungstitel>Gesetz über die Preisstatistik</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <DL Font="normal" Type="arabic">
+                            <DT>
+                                <I>1.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>Abweichend von § 3 Abs. 2 Satz 2 des Gesetzes über die Preisstatistik in der im Bundesgesetzblatt Teil III, Gliederungsnummer 720-9, veröffentlichten bereinigten Fassung gilt:</I>
+                                </LA>
+                                <LA Size="normal">
+                                    <I>"Die Erhebungen werden bei höchstens 50.000 Auskunftspflichtigen, ab 1. Januar 1995 bei höchstens 34.000 Auskunftspflichtigen durchgeführt."</I>
+                                </LA>
+                            </DD>
+                            <DT>
+                                <I>2.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>Abweichend von § 4 Abs. 2 Satz 2 des Gesetzes gilt:</I>
+                                </LA>
+                                <LA Size="normal">
+                                    <I>"Die Erhebungen werden bei höchstens 20.000 Auskunftspflichtigen, ab 1. Januar 1995 bei höchstens 14.000 Auskunftspflichtigen durchgeführt."</I>
+                                </LA>
+                            </DD>
+                            <DT>
+                                <I>3.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>Abweichend von § 6 Abs. 2 Satz 2 des Gesetzes gilt:</I>
+                                </LA>
+                                <LA Size="normal">
+                                    <I>"Die Erhebungen werden bei höchstens 50.000 Auskunftspflichtigen, ab 1. Januar 1995 bei höchstens 38.000 Auskunftspflichtigen durchgeführt."</I>
+                                </LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNG000200307">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>020</gliederungskennzahl>
+                <gliederungsbez>Art 2</gliederungsbez>
+                <gliederungstitel>Gesetz über die Statistik der
+Wirtschaftsrechnungen privater Haushalte</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <I>Abweichend von § 3 Abs. 1 des Gesetzes über die Statistik der Wirtschaftsrechnungen privater Haushalte in der im Bundesgesetzblatt Teil III, Gliederungsnummer 708-6, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 10 des Gesetzes vom 14. März 1980 (BGBl. I S. 294) geändert worden ist, gilt:</I>
+                        <BR/>
+                        <I>"(1) Die Erhebungen nach § 1 Nr. 1 erstrecken sich auf höchstens 6.000 Haushalte, ab 1. Januar 1993 auf 2.000 Haushalte in jedem Monat."</I>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNG000300307">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>Art 3</gliederungsbez>
+                <gliederungstitel>Gesetz über die Statistik im
+Produzierenden Gewerbe</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNE002600307">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>Art 3</gliederungsbez>
+            </gliederungseinheit>
+            <enbez>§ 1</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <I>Abweichend von den §§ 2 bis 6 des Gesetzes über die Statistik im Produzierenden Gewerbe in der Fassung der Bekanntmachung vom 30. Mai 1980 (BGBl. I S. 641), das zuletzt durch Artikel 2 des Gesetzes vom 19. Dezember 1986 (BGBl. I S. 2555) geändert worden ist, gilt:</I>
+                        <DL Font="normal" Type="arabic">
+                            <DT>
+                                <I>1.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>In § 2 Buchstabe A und § 3 Buchstabe B Ziffer I wird die Zahl "52.000" jeweils durch die Zahl "68.000" ersetzt.</I>
+                                </LA>
+                            </DD>
+                            <DT>
+                                <I>2.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>In § 3 Buchstabe A Ziffer I wird die Zahl "10.000" durch die Zahl "13.000" ersetzt.</I>
+                                </LA>
+                            </DD>
+                            <DT>
+                                <I>3.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>In § 3 Buchstabe B Ziffer II werden die Worte "bei höchstens 15.000 der nach Ziffer I erfaßten Unternehmen" durch die Worte "bei höchstens 28.000, ab 1. Januar 1993 bei höchstens 20.000 der nach Ziffer I erfaßten Unternehmen" ersetzt.</I>
+                                </LA>
+                            </DD>
+                            <DT>
+                                <I>4.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>In § 4 Buchstabe C Ziffer I wird die Zahl "5.000" durch die Zahl "9.000" ersetzt.</I>
+                                </LA>
+                            </DD>
+                            <DT>
+                                <I>5.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>In § 4 Buchstabe C Ziffer II wird die Zahl "10.000" durch die Zahl "18.000" ersetzt.</I>
+                                </LA>
+                            </DD>
+                            <DT>
+                                <I>6.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>In § 5 Buchstabe A Ziffer II werden die Worte "bei höchstens 4.000 der nach Ziffer I erfaßten Unternehmen" durch die Worte "bei höchstens 11.000, ab 1. Januar 1993 bei höchstens 6.000 der nach Ziffer I erfaßten Unternehmen" ersetzt.</I>
+                                </LA>
+                            </DD>
+                            <DT>
+                                <I>7.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>In § 6 Buchstabe A Ziffer I wird die Zahl "1.000" durch die Zahl "1.300" ersetzt.</I>
+                                </LA>
+                            </DD>
+                            <DT>
+                                <I>8.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>In § 6 Buchstabe B Ziffer I wird die Zahl "2.000" durch die Zahl "3.000" ersetzt.</I>
+                                </LA>
+                            </DD>
+                            <DT>
+                                <I>9.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>In § 6 Buchstabe B Ziffer II werden die Worte "bei höchstens 1.100 der nach Ziffer I erfaßten Unternehmen" durch die Worte "bei höchstens 1.700, ab 1. Januar 1993 bei höchstens 1.400 der nach Ziffer I erfaßten Unternehmen" ersetzt.</I>
+                                </LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNE002701301">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>030</gliederungskennzahl>
+                <gliederungsbez>Art 3</gliederungsbez>
+                <gliederungstitel/>
+            </gliederungseinheit>
+            <enbez>(XXXX) §§ 2 und 3</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNG000400307">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>040</gliederungskennzahl>
+                <gliederungsbez>Art 4</gliederungsbez>
+                <gliederungstitel>Handelsstatistikgesetz</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNE002900307">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>040</gliederungskennzahl>
+                <gliederungsbez>Art 4</gliederungsbez>
+            </gliederungseinheit>
+            <enbez>§ 1</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <I>Abweichend von § 2 des Handelsstatistikgesetzes vom 10. November 1978 (BGBl. I S. 1733) gilt:</I>
+                        <DL Font="normal" Type="arabic">
+                            <DT>
+                                <I>1.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>In Nummer 1 wird die Zahl "10.000" durch die Zahl "13.500" und die Zahl "20.000" durch die Zahl "27.000" ersetzt.</I>
+                                </LA>
+                            </DD>
+                            <DT>
+                                <I>2.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>In Nummer 2 wird die Zahl "25.000" durch die Zahl "35.000" ersetzt.</I>
+                                </LA>
+                            </DD>
+                            <DT>
+                                <I>3.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>In Nummer 3 wird die Zahl "10.000" durch die Zahl "13.500" ersetzt.</I>
+                                </LA>
+                            </DD>
+                            <DT>
+                                <I>4.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>In Nummer 4 wird die Zahl "8.000" durch die Zahl "11.500" ersetzt.</I>
+                                </LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNE003001301">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>040</gliederungskennzahl>
+                <gliederungsbez>Art 4</gliederungsbez>
+                <gliederungstitel/>
+            </gliederungseinheit>
+            <enbez>§ 2</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNG000500307">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>050</gliederungskennzahl>
+                <gliederungsbez>Art 5</gliederungsbez>
+                <gliederungstitel>Gesetz über die Durchführung laufender
+Statistiken im Handwerk</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNE003100307">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>050</gliederungskennzahl>
+                <gliederungsbez>Art 5</gliederungsbez>
+            </gliederungseinheit>
+            <enbez>§ 1</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <I>Abweichend von § 2 des Gesetzes über die Durchführung laufender Statistiken im Handwerk in der Fassung der Bekanntmachung vom 30. Mai 1980 (BGBl. I S. 648) gilt:</I>
+                        <BR/>
+                        <I>In § 2 Abs. 3 wird die Zahl "35.000" durch die Zahl "50.000" ersetzt.</I>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNE003201301">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>050</gliederungskennzahl>
+                <gliederungsbez>Art 5</gliederungsbez>
+                <gliederungstitel/>
+            </gliederungseinheit>
+            <enbez>§ 2</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNG000600307">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>060</gliederungskennzahl>
+                <gliederungsbez>Art 6</gliederungsbez>
+                <gliederungstitel>Gesetz über Kostenstrukturstatistik</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNE003300307">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>060</gliederungskennzahl>
+                <gliederungsbez>Art 6</gliederungsbez>
+            </gliederungseinheit>
+            <enbez>§ 1</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <I>Das Gesetz über Kostenstrukturstatistik in der im Bundesgesetzblatt Teil III, Gliederungsnummer 708-3, veröffentlichten bereinigten Fassung, zuletzt geändert durch § 13 Abs. 1 des Gesetzes vom 6. November 1975 (BGBl. I S. 2779), wird wie folgt ergänzt:</I>
+                        <BR/>
+                        <I>Nach § 5 wird folgende Übergangsvorschrift eingefügt:</I>
+                        <DL Font="normal" Type="arabic">
+                            <DT/>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <DL Font="normal" Type="arabic">
+                                        <DT/>
+                                        <DD Font="normal">
+                                            <LA Size="normal">
+                                                <DL Font="normal" Type="arabic">
+                                                    <DT/>
+                                                    <DD Font="normal">
+                                                        <LA Size="normal">
+                                                            <DL Font="normal" Type="arabic">
+                                                                <DT/>
+                                                                <DD Font="normal">
+                                                                    <LA Size="normal">
+                                                                        <DL Font="normal" Type="arabic">
+                                                                            <DT/>
+                                                                            <DD Font="normal">
+                                                                                <LA Size="normal">
+                                                                                    <DL Font="normal" Type="arabic">
+                                                                                        <DT/>
+                                                                                        <DD Font="normal">
+                                                                                            <LA Size="normal">
+                                                                                                <I>"§ 5a</I>
+                                                                                            </LA>
+                                                                                        </DD>
+                                                                                    </DL>
+                                                                                </LA>
+                                                                            </DD>
+                                                                        </DL>
+                                                                    </LA>
+                                                                </DD>
+                                                            </DL>
+                                                        </LA>
+                                                    </DD>
+                                                </DL>
+                                            </LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                        </DL>
+                        <I>(1) In dem in Artikel 3 des Einigungsvertrages genannten Gebiet wird die Zahl der nach § 5 Abs. 2 einzubeziehenden Erhebungseinheiten für die Jahre 1991 und 1992 um zusätzlich höchstens 5 vom Hundert der in diesem Gebiet ansässigen Unternehmen nach § 1 Nr. 1 bis 4 erhöht.</I>
+                    </P>
+                    <P>
+                        <I>(2) Diese Regelung tritt am 31. Dezember 1993 außer Kraft."</I>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNE003401301">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>060</gliederungskennzahl>
+                <gliederungsbez>Art 6</gliederungsbez>
+                <gliederungstitel/>
+            </gliederungseinheit>
+            <enbez>(XXXX) §§ 2 und 3</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNG000700307">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>070</gliederungskennzahl>
+                <gliederungsbez>Art 7</gliederungsbez>
+                <gliederungstitel>Gesetz über Umweltstatistiken</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <I>Abweichend von § 4 des Gesetzes über Umweltstatistiken in der Fassung der Bekanntmachung vom 14. März 1980 (BGBl. I S. 311), das gemäß Artikel 10 der Verordnung vom 26. November 1986 (BGBl. I S. 2089) geändert worden ist, gilt:</I>
+                        <BR/>
+                        <I>In § 4 Abs. 1 wird die Zahl "80.000" durch die Zahl "90.000" ersetzt.</I>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNG000800307">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>080</gliederungskennzahl>
+                <gliederungsbez>Art 8</gliederungsbez>
+                <gliederungstitel>Gesetz über die Lohnstatistik</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNE003600307">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>080</gliederungskennzahl>
+                <gliederungsbez>Art 8</gliederungsbez>
+            </gliederungseinheit>
+            <enbez>§ 1</enbez>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>
+                        <I>Abweichend von den §§ 2, 4, 6, 8 und 10 des Gesetzes über die Lohnstatistik in der im Bundesgesetzblatt Teil III, Gliederungsnummer 800-16, veröffentlichten bereinigten Fassung, das zuletzt durch das Gesetz vom 24. Oktober 1989 (BGBl. I S. 1912) geändert worden ist, gilt:</I>
+                        <DL Font="normal" Type="arabic">
+                            <DT>
+                                <I>1.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>In § 2 Abs. 2 wird die Zahl "3.500" durch die Zahl "6.500" ersetzt.</I>
+                                </LA>
+                            </DD>
+                            <DT>
+                                <I>2.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <DL Font="normal" Type="arabic">
+                                        <DT>
+                                            <I>a)</I>
+                                        </DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">
+                                                <I>In § 4 Abs. 2 wird die Zahl "18.000" durch die Zahl "27.000" ersetzt.</I>
+                                            </LA>
+                                        </DD>
+                                        <DT>
+                                            <I>b)</I>
+                                        </DT>
+                                        <DD Font="normal">
+                                            <LA Size="normal">
+                                                <I>In § 4 Abs. 2 wird die Zahl "28.000" durch die Zahl "40.500" ersetzt.</I>
+                                            </LA>
+                                        </DD>
+                                    </DL>
+                                </LA>
+                            </DD>
+                            <DT>
+                                <I>3.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>In § 6 Abs. 2 wird die Zahl "590.000" durch die Zahl "940.000" ersetzt.</I>
+                                </LA>
+                            </DD>
+                            <DT>
+                                <I>4.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>In § 8 Abs. 2 wird die Zahl "24.000" durch die Zahl "34.000" ersetzt.</I>
+                                </LA>
+                            </DD>
+                            <DT>
+                                <I>5.</I>
+                            </DT>
+                            <DD Font="normal">
+                                <LA Size="normal">
+                                    <I>Abweichend von § 10 Satz 2 gilt:</I>
+                                </LA>
+                                <LA Size="normal">
+                                    <I>"Dabei darf die Anzahl der durch die Auswahl einbezogenen Arbeiter im Falle des § 2 Abs. 2 um bis zu 300, für die Erhebungen ab 1992 um bis zu 800, die Anzahl der ausgewählten Betriebe im Falle des § 4 Abs. 2 für die Statistik nach § 4 Abs. 1 Nr. 1 um bis zu 2.000, für die Erhebungen ab 1992 um bis zu 4.000, sowie für die Statistik nach § 4 Abs. 1 Nr. 2 und 3 zusammen um bis zu 7.000, die Anzahl der durch die Auswahl einbezogenen Arbeiter und Angestellten im Falle des § 6 Abs. 2 um bis zu 60.000 sowie die Anzahl der ausgewählten Unternehmen im Falle des § 8 Abs. 2 um bis zu 2.000 überschritten werden, soweit dies zur Gewinnung einer zuverlässigen statistischen Grundlage erforderlich ist."</I>
+                                </LA>
+                            </DD>
+                        </DL>
+                    </P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNE003701301">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>080</gliederungskennzahl>
+                <gliederungsbez>Art 8</gliederungsbez>
+                <gliederungstitel/>
+            </gliederungseinheit>
+            <enbez>(XXXX) §§ 2 bis 4</enbez>
+            <titel format="XML">(weggefallen)</titel>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>-</P>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNG000901301">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>090</gliederungskennzahl>
+                <gliederungsbez>Art 9 bis 21</gliederungsbez>
+                <gliederungstitel/>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P/>
+                </Content>
+            </text>
+            <fussnoten/>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNG002200307">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>220</gliederungskennzahl>
+                <gliederungsbez>Art 22</gliederungsbez>
+                <gliederungstitel>Außerkrafttreten</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Mit Ablauf des 2. Oktober 1992 treten Artikel 3 §§ 2 und 3, Artikel 4 § 2, Artikel 5 § 2, Artikel 6 §§ 2 und 3, Artikel 8 §§ 2 bis 4 sowie die Artikel 9 bis 21 außer Kraft.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
+    <norm builddate="20120625151956" doknr="BJNR008469991BJNG002300307">
+        <metadaten>
+            <jurabk>StatAV</jurabk>
+            <gliederungseinheit>
+                <gliederungskennzahl>230</gliederungskennzahl>
+                <gliederungsbez>Art 23</gliederungsbez>
+                <gliederungstitel>Inkrafttreten</gliederungstitel>
+            </gliederungseinheit>
+        </metadaten>
+        <textdaten>
+            <text format="XML">
+                <Content>
+                    <P>Diese Verordnung tritt mit Ausnahme des Artikels 8 § 1 Nr. 1 und Nr. 2 Buchstabe a mit Wirkung vom 1. Januar 1991 in Kraft. Artikel 8 § 1 Nr. 1 und Nr. 2 Buchstabe a tritt am 1. Januar 1992 in Kraft.</P>
+                </Content>
+            </text>
+        </textdaten>
+    </norm>
 </dokumente>
