@@ -8,6 +8,22 @@
         </div>
     </form>
     <div class="app:search results">
-        <table class="app:search-result"/>
+        <p>Found <span class="app:hit-count"/> matches.</p>
+        <nav class="top">
+            <ul>
+                <li class="next">
+                    <a href="#" class="app:pagination-next">Next</a>
+                </li>
+                <li class="previous">
+                    <a href="#" class="app:pagination-previous">Previous</a>
+                </li>
+            </ul>
+        </nav>
+        <table class="app:search-result">
+            <tr>
+                <td colspan="3" class="app:result-title title"/>
+            </tr>
+            <tr class="app:result-kwic"/>
+        </table>
     </div>
 </div>

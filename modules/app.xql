@@ -147,9 +147,14 @@ declare function app:previous-page($node as node(), $model as map(*)) {
 
 declare 
     %templates:wrap
-function app:search($node as node(), $model as map(*), $query as xs:string?) {
-    if ($query) then
-        let $result := collection($config:data-root)//tei:div[ft:query(., $query)][not(tei:div)]
+function app:search($node as node(), $model as map(*), $query as xs:string?, $cached as item()*) {
+    if ($query or $cached) then
+        let $result := 
+            if ($query) then
+                collection($config:data-root)//tei:div[ft:query(., $query)][not(tei:div)]
+            else
+                $cached
+        let $stored := session:set-attribute("cached", $result)
         return
             map {
                 "result" := $result,
@@ -159,22 +164,74 @@ function app:search($node as node(), $model as map(*), $query as xs:string?) {
         ()
 };
 
+declare function app:hit-count($node as node(), $model as map(*)) {
+    count($model("result"))
+};
 
 declare
     %templates:wrap
-function app:search-result($node as node(), $model as map(*)) {
-    for $result in $model("result")
+    %templates:default("start", 1)
+    %templates:default("max", 20)
+function app:search-result($node as node(), $model as map(*), $start as xs:integer, $max as xs:integer) {
+    let $toDisplay := subsequence($model("result"), $start, $start + $max - 1)
+    for $result in $toDisplay
     group by $docId := $result/ancestor::tei:TEI/@xml:id
-    return (
-        <tr>
-            <td colspan="3" class="title">
-            {$result/ancestor::tei:TEI/tei:teiHeader//tei:titleStmt/tei:title[not(@type)]/text()}
-            </td>
-        </tr>,
-        for $item in $result
-        let $config :=
-            <config width="40" table="yes" link="norm.html?docId={$docId}&amp;id={$item/@xml:id}&amp;query={$model('query')}"/>
-        return
-            kwic:summarize($item, $config, ())
-    )
+    return
+        templates:process($node/node(), map:new(($model, map { "group" := $result, "doc-id" := $docId })))
+};
+
+declare
+    %templates:wrap 
+function app:result-title($node as node(), $model as map(*)) {
+    $model("group")/ancestor::tei:TEI/tei:teiHeader//tei:titleStmt/tei:title[not(@type)]/text()
+};
+
+declare function app:result-kwic($node as node(), $model as map(*)) {
+    for $item in $model("group")
+    let $config :=
+        <config width="40" table="yes" link="norm.html?docId={$model('doc-id')}&amp;id={$item/@xml:id}&amp;query={$model('query')}"/>
+    let $expanded := kwic:expand($item)
+    return
+        (: Only display the first match if there are multiple matches within a paragraph :)
+        kwic:get-summary($expanded, head($expanded//exist:match), $config)
+};
+
+declare 
+    %templates:default("start", 1)
+    %templates:default("max", 20)
+function app:pagination-next($node as node(), $model as map(*), $start as xs:integer, $max as xs:integer) {
+    let $total := count($model("result"))
+    return
+        if ($start + $max < $total) then
+            element { node-name($node) } {
+                $node/@* except $node/@href,
+                attribute href { "?start=" || $start + $max },
+                $node/node()
+            }
+        else
+            ()
+};
+
+declare 
+    %templates:default("start", 1)
+    %templates:default("max", 20)
+function app:pagination-previous($node as node(), $model as map(*), $start as xs:integer, $max as xs:integer) {
+    let $total := count($model("result"))
+    return
+        if ($start > 1) then
+            element { node-name($node) } {
+                $node/@* except $node/@href,
+                attribute href { "?start=" || $start - $max },
+                $node/node()
+            }
+        else
+            ()
+};
+
+declare %templates:wrap function app:playground($node as node(), $model as map(*)) {
+    let $htmlTemplate := collection($config:app-root)/*[@id='search5']
+    let $xformsMarkup := xforms:transform($htmlTemplate)
+    (:$htmlTemplate:)
+    return
+        $xformsMarkup
 };
