@@ -7,7 +7,8 @@ module namespace xforms="http://betterform.de/xquery/xforms";
 
 import module namespace config="http://exist-db.org/xquery/apps/config" at "config.xqm";
 
-declare namespace templates="http://exist-db.org/xquery/templates";
+import module namespace templates="http://exist-db.org/xquery/templates";
+
 declare namespace xf="http://www.w3.org/2002/xforms";
 declare namespace ev="http://www.w3.org/2001/xml-events";
 
@@ -115,6 +116,13 @@ declare function xforms:process-model($model as node()*) {
         </div>
 
 };
+
+declare %templates:wrap function xforms:expand($node as node(), $model as map(*)) {
+    let $expanded := xforms:transform($node)
+    return
+        templates:process($expanded/node(), $model)
+};
+
 
 declare function xforms:transform($node as node()) {
     let $xfModel := xforms:process-model($node)

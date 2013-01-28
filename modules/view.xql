@@ -13,6 +13,7 @@ import module namespace templates="http://exist-db.org/xquery/templates" ;
  :)
 import module namespace config="http://exist-db.org/xquery/apps/config" at "config.xqm";
 import module namespace app="http://exist-db.org/apps/gesetze/templates" at "app.xql";
+import module namespace xforms="http://betterform.de/xquery/xforms" at "xforms.xqm";
 
 declare option exist:serialize "method=html5 media-type=text/html";
 
