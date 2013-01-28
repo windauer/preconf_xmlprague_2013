@@ -178,11 +178,3 @@ function app:search-result($node as node(), $model as map(*)) {
             kwic:summarize($item, $config, ())
     )
 };
-
-declare %templates:wrap function app:playground($node as node(), $model as map(*)) {
-    let $htmlTemplate := collection($config:app-root)/*[@id='search5']
-    let $xformsMarkup := xforms:transform($htmlTemplate)
-    (:$htmlTemplate:)
-    return
-        $xformsMarkup
-};

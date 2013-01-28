@@ -109,7 +109,6 @@ let $earliestLatestNorm := local:get-earliest-and-latest-norm($normsByYear)
 
 
 
-
 return 
     <result>
         <normsBetweenDates>{$normsBetweenDates}</normsBetweenDates>
@@ -117,6 +116,5 @@ return
         <latestEarliestNorm>{$earliestLatestNorm}</latestEarliestNorm>
         <normsPerYear>{$normsPerYear}</normsPerYear>
     </result>
-    
 
     

@@ -48,10 +48,18 @@ declare function xforms:process-ui($nodes as node()*,$model as node()*) {
                             if(exists($node/@data-xf-label))
                             then (
                                 element xf:label { data($node/@data-xf-label)},
-                                for $child in $node/node() return xforms:process-ui($child,$model)
+                                for $child in $node/node() return xforms:process-ui($child,$model),
+                                <xf:trigger>
+                                    <xf:label>Send</xf:label>
+                                    <xf:send submission="s-submit"/>
+                                </xf:trigger>
                                 )
                             else (
-                                for $child in $node/node() return xforms:process-ui($child,$model)
+                                for $child in $node/node() return xforms:process-ui($child,$model),
+                                <xf:trigger>
+                                    <xf:label>Send</xf:label>
+                                    <xf:send submission="s-submit"/>
+                                </xf:trigger>
                             )                            
                         }
 
@@ -97,21 +105,17 @@ declare function xforms:process-model($model as node()*) {
                                             <xf:bind nodeset="{data($node/@data-ref)}" type="{data($node/@type)}"/>       
                         }
                 </xf:bind>,
-                {
-                    for $button at $index in $model//button
-                        return 
-                            <xf:submission id="s-{data($button/@data-submission)}" 
-                                method="post" 
-                                replace="embedHTML" 
-                                targetid="searchResultMount" 
-                                resource="modules/search.xql" 
-                                validate="false">                                
-                                <xf:action ev:event="xforms-submit-error">
-                                    <xf:message>Submission 'submit' failed</xf:message>
-                                </xf:action>
-                            </xf:submission>
 
-                }                
+                <xf:submission id="s-submit" 
+                    method="post" 
+                    replace="embedHTML" 
+                    targetid="searchResultMount" 
+                    resource="modules/search.xql" 
+                    validate="false">                                
+                    <xf:action ev:event="xforms-submit-error">
+                        <xf:message>Submission 'submit' failed</xf:message>
+                    </xf:action>
+                </xf:submission>              
             </xf:model>
         </div>
 
