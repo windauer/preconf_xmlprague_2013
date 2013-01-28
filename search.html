@@ -1,27 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div xmlns:xf="http://www.w3.org/2002/xforms" class="templates:surround?with=templates/xforms.xhtml&amp;at=main">
-    <h1 class="config:app-title">Generated page</h1>
-    <!-- <div class="config:searchform">Generated XForms</div> -->
-    <xf:group appearance="full">
-        <h2>Search Params:</h2>
-        <xf:input ref="startdate">
-            <xf:label>Start</xf:label>
-        </xf:input>
-        <xf:input ref="enddate">
-            <xf:label>End</xf:label>
-        </xf:input>
-        <xf:input ref="sortAscending">
-            <xf:label>Ascending</xf:label>
-        </xf:input>
-        <xf:input ref="term">
-            <xf:label>Search Term</xf:label>
-        </xf:input>
-        <xf:trigger>
-            <xf:label>Search</xf:label>
-            <xf:send submission="s-search"/>
-        </xf:trigger>
-    </xf:group>
-    <xf:group appearance="full">
-        <div id="searchResultMount"/>
-    </xf:group>
+    <h1 class="config:app-title"/>
+    <div class="app:playground"/>
 </div>

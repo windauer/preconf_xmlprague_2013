@@ -5,6 +5,7 @@ module namespace app="http://exist-db.org/apps/gesetze/templates";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 
 import module namespace config="http://exist-db.org/xquery/apps/config" at "config.xqm";
+import module namespace xforms="http://betterform.de/xquery/xforms" at "xforms.xqm";
 
 import module namespace templates="http://exist-db.org/xquery/templates" ;
 
@@ -176,4 +177,12 @@ function app:search-result($node as node(), $model as map(*)) {
         return
             kwic:summarize($item, $config, ())
     )
+};
+
+declare %templates:wrap function app:playground($node as node(), $model as map(*)) {
+    let $htmlTemplate := collection($config:app-root)/*[@id='search5']
+    let $xformsMarkup := xforms:transform($htmlTemplate)
+    (:$htmlTemplate:)
+    return
+        $xformsMarkup
 };
