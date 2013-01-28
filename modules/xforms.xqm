@@ -26,13 +26,28 @@ declare function xforms:process-ui-label($node as node()*,$model as node()*) {
     
 };
 
+declare function xforms:process-ui-hint($node as node()*,$model as node()*) {
+    let $hint := data($node/@placeholder)
+    return 
+        <xf:hint>{$hint}</xf:hint>
+};
+
 (: TRANSFORM HTML5 UI TO XFORMS USER INTERFACE MARKUP  :)
 declare function xforms:process-ui($nodes as node()*,$model as node()*) {
     for $node in $nodes
     return
         typeswitch($node)
             case element(input) return
-                <xf:input ref="{$node/@data-ref}">{ xforms:process-ui-label($node,$model) }</xf:input>
+                <xf:input ref="{$node/@data-ref}">
+                    { 
+                        xforms:process-ui-label($node,$model),
+                        if(exists($node/@placeholder))
+                        then (                            
+                            xforms:process-ui-hint($node,$model) 
+                        )
+                        else ()
+                    }                        
+                </xf:input>
             case element(button) return 
                 <xf:trigger>
                     <xf:label>{$node/text()}</xf:label>                        
@@ -122,9 +137,18 @@ declare function xforms:process-model($model as node()*) {
 };
 
 declare %templates:wrap function xforms:expand($node as node(), $model as map(*)) {
-    let $expanded := xforms:transform($node)
-    return
-        templates:process($expanded/node(), $model)
+    if(exists($node/@modelref))
+    then (
+        let $xfModel := doc(concat($config:app-root, "/", data($node/@modelref)))
+        let $xfUI := xforms:process-ui($node,$node)        
+        return
+            (templates:process(($xfModel/node(), $xfUI/node()), $model))
+    )
+    else (
+        let $expanded := xforms:transform($node)
+        return
+            templates:process($expanded/node(), $model)    
+    )
 };
 
 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xf:model xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xf="http://www.w3.org/2002/xforms">
+    <xf:instance id="i-default">
+        <data xmlns="">
+            <startdate>2000-01-10</startdate>
+            <enddate>2013-01-01</enddate>
+            <sortAscending>true</sortAscending>
+            <term/>
+        </data>
+    </xf:instance>
+    <xf:bind nodeset="instance('i-default')">
+        <xf:bind nodeset="startdate" type="date"/>
+        <xf:bind nodeset="enddate" type="date"/>
+        <xf:bind nodeset="sortAscending" type="boolean"/>
+    </xf:bind>
+    <xf:submission id="s-submit" method="post" replace="embedHTML" targetid="searchResultMount" resource="modules/search.xql" validate="false">
+        <xf:action ev:event="xforms-submit-error">
+            <xf:message>Submission 'submit' failed</xf:message>
+        </xf:action>
+    </xf:submission>
+</xf:model>
