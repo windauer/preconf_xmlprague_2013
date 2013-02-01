@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR008510980">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Siebentes Gesetz zur Änderung des Soldatenversorgungsgesetzes</title>
+                <title type="short">SVGÄndG 7</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1980-07-07</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 8.1980 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d386e20">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d386e30">
+                <head>Art 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d386e41">
+                <head>Art 2</head>
+                <p>Für die am Tage vor dem Inkrafttreten dieses Gesetzes vorhandenen Empfänger von Übergangsgebührnissen gilt § 11 Abs. 2 des Soldatenversorgungsgesetzes mit der Maßgabe, daß mindestens die Bezüge zu gewähren sind, die bei Fortgeltung des § 11 Abs. 2 des Soldatenversorgungsgesetzes in der vor dem Inkrafttreten dieses Gesetzes geltenden Fassung zustehen würden; dies gilt entsprechend für die Empfänger eines Ausbildungszuschusses nach § 5 Abs. 4 des Soldatenversorgungsgesetzes.</p>
+            </div>
+            <div xml:id="d386e53">
+                <head>(XXXX) Art 3 bis Art 8</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d386e66">
+                <head>Art 9</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d386e77">
+                <head>Art 10</head>
+                <p>(1) Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft.</p>
+                <p>(2) Abweichend von Absatz 1 treten in Kraft:</p>
+                <list>
+                    <item n="1.">Artikel 1 Nr. 32 Buchstabe b und Nr. 33 am 1. Januar 1981,</item>
+                    <item n="2.">Artikel 6, 7 und 8 mit Wirkung vom 1. Januar 1980.</item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

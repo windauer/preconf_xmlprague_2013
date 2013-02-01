@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR030150975">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sozialgesetzbuch (SGB) Erstes Buch (I) - Allgemeiner Teil - (Artikel I des Gesetzes vom 11. Dezember 1975, BGBl. I S. 3015)</title>
+                <title type="short">SGB 1</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1975-12-11</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1982 +++)(+++ Maßgaben aufgrund EinigVtr nicht mehr anzuwenden gem. Art. 109Nr. 3 Buchst. d DBuchst. aa G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)Das G wurde vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. II § 23 Abs. 1 G v. 11.12.1975 I 3015 (SGBAT) am 1.1.1976 in Kraft getreten.</p>
+        </front>
+        <body>
+            <div>
+                <head>Erster Abschnitt</head>
+                <head type="subtitle">Aufgaben des Sozialgesetzbuchs und soziale Rechte</head>
+                <div xml:id="d921e45">
+                    <head>§ 1</head>
+                    <p>(1) Das Recht des Sozialgesetzbuchs soll zur Verwirklichung sozialer Gerechtigkeit und sozialer Sicherheit Sozialleistungen einschließlich sozialer und erzieherischer Hilfen gestalten. Es soll dazu beitragen,</p>
+                    <list>
+                        <item n="">ein menschenwürdiges Dasein zu sichern, gleiche Voraussetzungen für die freie Entfaltung der Persönlichkeit, insbesondere auch für junge Menschen, zu schaffen, die Familie zu schützen und zu fördern, den Erwerb des Lebensunterhalts durch eine frei gewählte Tätigkeit zu ermöglichen und besondere Belastungen des Lebens, auch durch Hilfe zur Selbsthilfe, abzuwenden oder auszugleichen.</item>
+                    </list>
+                    <p>(2) Das Recht des Sozialgesetzbuchs soll auch dazu beitragen, daß die zur Erfüllung der in Absatz 1 genannten Aufgaben erforderlichen sozialen Dienste und Einrichtungen rechtzeitig und ausreichend zur Verfügung stehen.</p>
+                </div>
+                <div xml:id="d921e62">
+                    <head>§ 2</head>
+                    <p>(1) Der Erfüllung der in § 1 genannten Aufgaben dienen die nachfolgenden sozialen Rechte. Aus ihnen können Ansprüche nur insoweit geltend gemacht oder hergeleitet werden, als deren Voraussetzungen und Inhalt durch die Vorschriften der besonderen Teile dieses Gesetzbuchs im einzelnen bestimmt sind.</p>
+                    <p>(2) Die nachfolgenden sozialen Rechte sind bei der Auslegung der Vorschriften dieses Gesetzbuchs und bei der Ausübung von Ermessen zu beachten; dabei ist sicherzustellen, daß die sozialen Rechte möglichst weitgehend verwirklicht werden.</p>
+                </div>
+                <div xml:id="d921e76">
+                    <head>§ 3</head>
+                    <p>(1) Wer an einer Ausbildung teilnimmt, die seiner Neigung, Eignung und Leistung entspricht, hat ein Recht auf individuelle Förderung seiner Ausbildung, wenn ihm die hierfür erforderlichen Mittel nicht anderweitig zur Verfügung stehen.</p>
+                    <p>(2) Wer am Arbeitsleben teilnimmt oder teilnehmen will, hat ein Recht auf</p>
+                    <list>
+                        <item n="1.">Beratung bei der Wahl des Bildungswegs und des Berufs,</item>
+                        <item n="2.">individuelle Förderung seiner beruflichen Weiterbildung,</item>
+                        <item n="3.">Hilfe zur Erlangung und Erhaltung eines angemessenen Arbeitsplatzes und</item>
+                        <item n="4.">wirtschaftliche Sicherung bei Arbeitslosigkeit und bei Zahlungsunfähigkeit des Arbeitgebers.</item>
+                    </list>
+                </div>
+                <div xml:id="d921e100">
+                    <head>§ 4</head>
+                    <p>(1) Jeder hat im Rahmen dieses Gesetzbuchs ein Recht auf Zugang zur Sozialversicherung.</p>
+                    <p>(2) Wer in der Sozialversicherung versichert ist, hat im Rahmen der gesetzlichen Kranken-, Pflege-, Unfall- und Rentenversicherung einschließlich der Alterssicherung der Landwirte ein Recht auf</p>
+                    <list>
+                        <item n="1.">die notwendigen Maßnahmen zum Schutz, zur Erhaltung, zur Besserung und zur Wiederherstellung der Gesundheit und der Leistungsfähigkeit und</item>
+                        <item n="2.">wirtschaftliche Sicherung bei Krankheit, Mutterschaft, Minderung der Erwerbsfähigkeit und Alter.</item>
+                    </list>
+                    <p>Ein Recht auf wirtschaftliche Sicherung haben auch die Hinterbliebenen eines Versicherten.</p>
+                </div>
+                <div xml:id="d921e121">
+                    <head>§ 5</head>
+                    <p>Wer einen Gesundheitsschaden erleidet, für dessen Folgen die staatliche Gemeinschaft in Abgeltung eines besonderen Opfers oder aus anderen Gründen nach versorgungsrechtlichen Grundsätzen einsteht, hat ein Recht auf</p>
+                    <list>
+                        <item n="1.">die notwendigen Maßnahmen zur Erhaltung, zur Besserung und zur Wiederherstellung der Gesundheit und der Leistungsfähigkeit und</item>
+                        <item n="2.">angemessene wirtschaftliche Versorgung.</item>
+                    </list>
+                    <p>Ein Recht auf angemessene wirtschaftliche Versorgung haben auch die Hinterbliebenen eines Beschädigten.</p>
+                </div>
+                <div xml:id="d921e139">
+                    <head>§ 6</head>
+                    <p>Wer Kindern Unterhalt zu leisten hat oder leistet, hat ein Recht auf Minderung der dadurch entstehenden wirtschaftlichen Belastungen.</p>
+                </div>
+                <div xml:id="d921e151">
+                    <head>§ 7</head>
+                    <p>Wer für eine angemessene Wohnung Aufwendungen erbringen muß, die ihm nicht zugemutet werden können, hat ein Recht auf Zuschuß zur Miete oder zu vergleichbaren Aufwendungen.</p>
+                </div>
+                <div xml:id="d921e163">
+                    <head>§ 8</head>
+                    <p>Junge Menschen und Personensorgeberechtigte haben im Rahmen dieses Gesetzbuchs ein Recht, Leistungen der öffentlichen Jugendhilfe in Anspruch zu nehmen. Sie sollen die Entwicklung junger Menschen fördern und die Erziehung in der Familie unterstützen und ergänzen.</p>
+                </div>
+                <div xml:id="d921e176">
+                    <head>§ 9</head>
+                    <p>Wer nicht in der Lage ist, aus eigenen Kräften seinen Lebensunterhalt zu bestreiten oder in besonderen Lebenslagen sich selbst zu helfen, und auch von anderer Seite keine ausreichende Hilfe erhält, hat ein Recht auf persönliche und wirtschaftliche Hilfe, die seinem besonderen Bedarf entspricht, ihn zur Selbsthilfe befähigt, die Teilnahme am Leben in der Gemeinschaft ermöglicht und die Führung eines menschenwürdigen Lebens sichert. Hierbei müssen Leistungsberechtigte nach ihren Kräften mitwirken.</p>
+                </div>
+                <div xml:id="d921e190">
+                    <head>§ 10</head>
+                    <p>Menschen, die körperlich, geistig oder seelisch behindert sind oder denen eine solche Behinderung droht, haben unabhängig von der Ursache der Behinderung zur Förderung ihrer Selbstbestimmung und gleichberechtigten Teilhabe ein Recht auf Hilfe, die notwendig ist, um</p>
+                    <list>
+                        <item n="1.">die Behinderung abzuwenden, zu beseitigen, zu mindern, ihre Verschlimmerung zu verhüten oder ihre Folgen zu mildern,</item>
+                        <item n="2.">Einschränkungen der Erwerbsfähigkeit oder Pflegebedürftigkeit zu vermeiden, zu überwinden, zu mindern oder eine Verschlimmerung zu verhüten sowie den vorzeitigen Bezug von Sozialleistungen zu vermeiden oder laufende Sozialleistungen zu mindern,</item>
+                        <item n="3.">ihnen einen ihren Neigungen und Fähigkeiten entsprechenden Platz im Arbeitsleben zu sichern,</item>
+                        <item n="4.">ihre Entwicklung zu fördern und ihre Teilhabe am Leben in der Gesellschaft und eine möglichst selbständige und selbstbestimmte Lebensführung zu ermöglichen oder zu erleichtern sowie</item>
+                        <item n="5.">Benachteiligungen auf Grund der Behinderung entgegenzuwirken.</item>
+                    </list>
+                </div>
+            </div>
+            <div>
+                <head>Zweiter Abschnitt</head>
+                <head type="subtitle">Einweisungsvorschriften</head>
+                <div>
+                    <head>Erster Titel</head>
+                    <head type="subtitle">Allgemeines über Sozialleistungen und Leistungsträger</head>
+                    <div xml:id="d921e242">
+                        <head>§ 11</head>
+                        <p>Gegenstand der sozialen Rechte sind die in diesem Gesetzbuch vorgesehenen Dienst-, Sach- und Geldleistungen (Sozialleistungen). Die persönliche und erzieherische Hilfe gehört zu den Dienstleistungen.</p>
+                    </div>
+                    <div xml:id="d921e254">
+                        <head>§ 12</head>
+                        <p>Zuständig für die Sozialleistungen sind die in den §§ 18 bis 29 genannten Körperschaften, Anstalten und Behörden (Leistungsträger). Die Abgrenzung ihrer Zuständigkeit ergibt sich aus den besonderen Teilen dieses Gesetzbuchs.</p>
+                    </div>
+                    <div xml:id="d921e266">
+                        <head>§ 13</head>
+                        <p>Die Leistungsträger, ihre Verbände und die sonstigen in diesem Gesetzbuch genannten öffentlich-rechtlichen Vereinigungen sind verpflichtet, im Rahmen ihrer Zuständigkeit die Bevölkerung über die Rechte und Pflichten nach diesem Gesetzbuch aufzuklären.</p>
+                    </div>
+                    <div xml:id="d921e278">
+                        <head>§ 14</head>
+                        <p>Jeder hat Anspruch auf Beratung über seine Rechte und Pflichten nach diesem Gesetzbuch. Zuständig für die Beratung sind die Leistungsträger, denen gegenüber die Rechte geltend zu machen oder die Pflichten zu erfüllen sind.</p>
+                    </div>
+                    <div xml:id="d921e290">
+                        <head>§ 15</head>
+                        <p>(1) Die nach Landesrecht zuständigen Stellen, die Träger der gesetzlichen Krankenversicherung und der sozialen Pflegeversicherung sind verpflichtet, über alle sozialen Angelegenheiten nach diesem Gesetzbuch Auskünfte zu erteilen.</p>
+                        <p>(2) Die Auskunftspflicht erstreckt sich auf die Benennung der für die Sozialleistungen zuständigen Leistungsträger sowie auf alle Sach- und Rechtsfragen, die für die Auskunftsuchenden von Bedeutung sein können und zu deren Beantwortung die Auskunftsstelle imstande ist.</p>
+                        <p>(3) Die Auskunftsstellen sind verpflichtet, untereinander und mit den anderen Leistungsträgern mit dem Ziel zusammenzuarbeiten, eine möglichst umfassende Auskunftserteilung durch eine Stelle sicherzustellen.</p>
+                        <p>(4) Die Träger der gesetzlichen Rentenversicherung können über Möglichkeiten zum Aufbau einer nach § 10a oder Abschnitt XI des Einkommensteuergesetzes geförderten zusätzlichen Altersvorsorge Auskünfte erteilen, soweit sie dazu im Stande sind.</p>
+                    </div>
+                    <div xml:id="d921e309">
+                        <head>§ 16</head>
+                        <p>(1) Anträge auf Sozialleistungen sind beim zuständigen Leistungsträger zu stellen. Sie werden auch von allen anderen Leistungsträgern, von allen Gemeinden und bei Personen, die sich im Ausland aufhalten, auch von den amtlichen Vertretungen der Bundesrepublik Deutschland im Ausland entgegengenommen.</p>
+                        <p>(2) Anträge, die bei einem unzuständigen Leistungsträger, bei einer für die Sozialleistung nicht zuständigen Gemeinde oder bei einer amtlichen Vertretung der Bundesrepublik Deutschland im Ausland gestellt werden, sind unverzüglich an den zuständigen Leistungsträger weiterzuleiten. Ist die Sozialleistung von einem Antrag abhängig, gilt der Antrag als zu dem Zeitpunkt gestellt, in dem er bei einer der in Satz 1 genannten Stellen eingegangen ist.</p>
+                        <p>(3) Die Leistungsträger sind verpflichtet, darauf hinzuwirken, daß unverzüglich klare und sachdienliche Anträge gestellt und unvollständige Angaben ergänzt werden.</p>
+                    </div>
+                    <div xml:id="d921e325">
+                        <head>§ 17</head>
+                        <p>(1) Die Leistungsträger sind verpflichtet, darauf hinzuwirken, daß</p>
+                        <list>
+                            <item n="1.">jeder Berechtigte die ihm zustehenden Sozialleistungen in zeitgemäßer Weise, umfassend und zügig erhält,</item>
+                            <item n="2.">die zur Ausführung von Sozialleistungen erforderlichen sozialen Dienste und Einrichtungen rechtzeitig und ausreichend zur Verfügung stehen,</item>
+                            <item n="3.">der Zugang zu den Sozialleistungen möglichst einfach gestaltet wird, insbesondere durch Verwendung allgemein verständlicher Antragsvordrucke und</item>
+                            <item n="4.">ihre Verwaltungs- und Dienstgebäude frei von Zugangs- und Kommunikationsbarrieren sind und Sozialleistungen in barrierefreien Räumen und Anlagen ausgeführt werden.</item>
+                        </list>
+                        <p>(2) Hörbehinderte Menschen haben das Recht, bei der Ausführung von Sozialleistungen, insbesondere auch bei ärztlichen Untersuchungen und Behandlungen, Gebärdensprache zu verwenden. Die für die Sozialleistung zuständigen Leistungsträger sind verpflichtet, die durch die Verwendung der Gebärdensprache und anderer Kommunikationshilfen entstehenden Kosten zu tragen; § 19 Abs. 2 Satz 4 des Zehnten Buches gilt entsprechend.</p>
+                        <p>(3) In der Zusammenarbeit mit gemeinnützigen und freien Einrichtungen und Organisationen wirken die Leistungsträger darauf hin, daß sich ihre Tätigkeit und die der genannten Einrichtungen und Organisationen zum Wohl der Leistungsempfänger wirksam ergänzen. Sie haben dabei deren Selbständigkeit in Zielsetzung und Durchführung ihrer Aufgaben zu achten. Die Nachprüfung zweckentsprechender Verwendung bei der Inanspruchnahme öffentlicher Mittel bleibt unberührt. Im übrigen ergibt sich ihr Verhältnis zueinander aus den besonderen Teilen dieses Gesetzbuchs; § 97 Abs. 1 Satz 1 bis 4 und Abs. 2 des Zehnten Buches findet keine Anwendung.</p>
+                    </div>
+                </div>
+                <div>
+                    <head>Zweiter Titel</head>
+                    <head type="subtitle">Einzelne Sozialleistungen und zuständige Leistungsträger</head>
+                    <div xml:id="d921e365">
+                        <head>§ 18</head>
+                        <p>(1) Nach dem Recht der Ausbildungsförderung können Zuschüsse und Darlehen für den Lebensunterhalt und die Ausbildung in Anspruch genommen werden.</p>
+                        <p>(2) Zuständig sind die Ämter und die Landesämter für Ausbildungsförderung nach Maßgabe der §§ 39, 40, 40a und 45 des Bundesausbildungsförderungsgesetzes.</p>
+                    </div>
+                    <div xml:id="d921e380">
+                        <head>§ 19</head>
+                        <p>(1) Nach dem Recht der Arbeitsförderung können in Anspruch genommen werden:</p>
+                        <list>
+                            <item n="1.">Berufsberatung und Arbeitsmarktberatung,</item>
+                            <item n="2.">Ausbildungsvermittlung und Arbeitsvermittlung,</item>
+                            <item n="3.">Leistungen<list>
+                                    <item n="a)">zur Aktivierung und beruflichen Eingliederung,</item>
+                                    <item n="b)">zur Berufswahl und Berufsausbildung,</item>
+                                    <item n="c)">zur beruflichen Weiterbildung,</item>
+                                    <item n="d)">zur Aufnahme einer Erwerbstätigkeit,</item>
+                                    <item n="e)">zum Verbleib in Beschäftigung,</item>
+                                    <item n="f)">der Teilhabe behinderter Menschen am Arbeitsleben,</item>
+                                </list>
+                            </item>
+                            <item n="4.">Arbeitslosengeld, Teilarbeitslosengeld, Arbeitslosengeld bei Weiterbildung und Insolvenzgeld.</item>
+                        </list>
+                        <p>(2) Zuständig sind die Agenturen für Arbeit und die sonstigen Dienststellen der Bundesagentur für Arbeit.</p>
+                    </div>
+                    <div xml:id="d921e417">
+                        <head>§ 19a</head>
+                        <p>(1) Nach dem Recht der Grundsicherung für Arbeitsuchende können in Anspruch genommen werden</p>
+                        <list>
+                            <item n="1.">Leistungen zur Eingliederung in Arbeit,</item>
+                            <item n="2.">Leistungen zur Sicherung des Lebensunterhalts.</item>
+                        </list>
+                        <p>(2) Zuständig sind die Agenturen für Arbeit und die sonstigen Dienststellen der Bundesagentur für Arbeit, sowie die kreisfreien Städte und Kreise, soweit durch Landesrecht nicht andere Träger bestimmt sind. In den Fällen des § 6a des Zweiten Buches ist abweichend von Satz 1 der zugelassene kommunale Träger zuständig.</p>
+                    </div>
+                    <div xml:id="d921e437">
+                        <head>§ 19b</head>
+                        <p>(1) Nach dem Recht der Förderung eines gleitenden Übergangs älterer Arbeitnehmer in den Ruhestand können in Anspruch genommen werden:</p>
+                        <list>
+                            <item n="1.">Erstattung der Beiträge zur Höherversicherung in der gesetzlichen Rentenversicherung und der nicht auf das Arbeitsentgelt entfallenden Beiträge zur gesetzlichen Rentenversicherung für ältere Arbeitnehmer, die ihre Arbeitszeit verkürzt haben.</item>
+                            <item n="2.">Erstattung der Aufstockungsbeträge zum Arbeitsentgelt für die Altersteilzeitarbeit.</item>
+                        </list>
+                        <p>(2) Zuständig sind die Agenturen für Arbeit und die sonstigen Dienststellen der Bundesagentur für Arbeit.</p>
+                    </div>
+                    <div xml:id="d921e457">
+                        <head>§ 20</head>
+                        <p>(weggefallen)</p>
+                    </div>
+                    <div xml:id="d921e468">
+                        <head>§ 21</head>
+                        <p>(1) Nach dem Recht der gesetzlichen Krankenversicherung können in Anspruch genommen werden:</p>
+                        <list>
+                            <item n="1.">Leistungen zur Förderung der Gesundheit, zur Verhütung und zur Früherkennung von Krankheiten,</item>
+                            <item n="2.">bei Krankheit Krankenbehandlung, insbesondere<list>
+                                    <item n="a)">ärztliche und zahnärztliche Behandlung,</item>
+                                    <item n="b)">Versorgung mit Arznei-, Verband-, Heil- und Hilfsmitteln,</item>
+                                    <item n="c)">häusliche Krankenpflege und Haushaltshilfe,</item>
+                                    <item n="d)">Krankenhausbehandlung,</item>
+                                    <item n="e)">medizinische und ergänzende Leistungen zur Rehabilitation,</item>
+                                    <item n="f)">Betriebshilfe für Landwirte,</item>
+                                    <item n="g)">Krankengeld,</item>
+                                </list>
+                            </item>
+                            <item n="3.">bei Schwangerschaft und Mutterschaft ärztliche Betreuung, Hebammenhilfe, stationäre Entbindung, häusliche Pflege, Haushaltshilfe, Betriebshilfe für Landwirte, Mutterschaftsgeld,</item>
+                            <item n="4.">Hilfe zur Familienplanung und Leistungen bei durch Krankheit erforderlicher Sterilisation und bei nicht rechtswidrigem Schwangerschaftsabbruch.</item>
+                            <item n="5.">(weggefallen)</item>
+                        </list>
+                        <p>(2) Zuständig sind die Orts-, Betriebs- und Innungskrankenkassen, die landwirtschaftlichen Krankenkassen, die Deutsche Rentenversicherung Knappschaft-Bahn-See und die Ersatzkassen.</p>
+                    </div>
+                    <div xml:id="d921e509">
+                        <head>§ 21a</head>
+                        <p>(1) Nach dem Recht der sozialen Pflegeversicherung können in Anspruch genommen werden:</p>
+                        <list>
+                            <item n="1.">Leistungen bei häuslicher Pflege:<list>
+                                    <item n="a)">Pflegesachleistung,</item>
+                                    <item n="b)">Pflegegeld für selbst beschaffte Pflegehilfen,</item>
+                                    <item n="c)">häusliche Pflege bei Verhinderung der Pflegeperson,</item>
+                                    <item n="d)">Pflegehilfsmittel und technische Hilfen,</item>
+                                </list>
+                            </item>
+                            <item n="2.">teilstationäre Pflege und Kurzzeitpflege,</item>
+                            <item n="3.">Leistungen für Pflegepersonen, insbesondere<list>
+                                    <item n="a)">soziale Sicherung und</item>
+                                    <item n="b)">Pflegekurse,</item>
+                                </list>
+                            </item>
+                            <item n="4.">vollstationäre Pflege.</item>
+                        </list>
+                        <p>(2) Zuständig sind die bei den Krankenkassen errichteten Pflegekassen.</p>
+                    </div>
+                    <div xml:id="d921e547">
+                        <head>§ 21b</head>
+                        <p>(1) Nach dem Fünften Abschnitt des Schwangerschaftskonfliktgesetzes können bei einem nicht rechtswidrigen oder unter den Voraussetzungen des § 218a Abs. 1 des Strafgesetzbuches vorgenommenen Abbruch einer Schwangerschaft Leistungen in Anspruch genommen werden.</p>
+                        <p>(2) Zuständig sind die Orts-, Betriebs- und Innungskrankenkassen, die landwirtschaftliche Krankenkasse, die Deutsche Rentenversicherung Knappschaft-Bahn-See und die Ersatzkassen.</p>
+                    </div>
+                    <div xml:id="d921e562">
+                        <head>§ 22</head>
+                        <p>(1) Nach dem Recht der gesetzlichen Unfallversicherung können in Anspruch genommen werden:</p>
+                        <list>
+                            <item n="1.">Maßnahmen zur Verhütung von Arbeitsunfällen, Berufskrankheiten und arbeitsbedingten Gesundheitsgefahren und zur Ersten Hilfe sowie Maßnahmen zur Früherkennung von Berufskrankheiten und arbeitsbedingten Gesundheitsgefahren,</item>
+                            <item n="2.">Heilbehandlung, Leistungen zur Teilhabe am Arbeitsleben und andere Leistungen zur Erhaltung, Besserung und Wiederherstellung der Erwerbsfähigkeit sowie zur Erleichterung der Verletzungsfolgen einschließlich wirtschaftlicher Hilfen,</item>
+                            <item n="3.">Renten wegen Minderung der Erwerbsfähigkeit,</item>
+                            <item n="4.">Renten an Hinterbliebene, Sterbegeld und Beihilfen,</item>
+                            <item n="5.">Rentenabfindungen,</item>
+                            <item n="6.">Haushaltshilfe,</item>
+                            <item n="7.">Betriebshilfe für Landwirte.</item>
+                        </list>
+                        <p>(2) Zuständig sind die gewerblichen und die landwirtschaftlichen Berufsgenossenschaften, die Gemeindeunfallversicherungsverbände, die Feuerwehr-Unfallkassen, die Eisenbahn-Unfallkasse, die Unfallkasse Post und Telekom, die Unfallkassen der Länder und Gemeinden, die gemeinsamen Unfallkassen für den Landes- und kommunalen Bereich und die Unfallkasse des Bundes.</p>
+                    </div>
+                    <div xml:id="d921e593">
+                        <head>§ 23</head>
+                        <p>(1) Nach dem Recht der gesetzlichen Rentenversicherung einschließlich der Alterssicherung der Landwirte können in Anspruch genommen werden:</p>
+                        <list>
+                            <item n="1.">in der gesetzlichen Rentenversicherung:<list>
+                                    <item n="a)">Heilbehandlung, Leistungen zur Teilhabe am Arbeitsleben und andere Leistungen zur Erhaltung, Besserung und Wiederherstellung der Erwerbsfähigkeit einschließlich wirtschaftlicher Hilfen,</item>
+                                    <item n="b)">Renten wegen Alters, Renten wegen verminderter Erwerbsfähigkeit und Knappschaftsausgleichsleistung,</item>
+                                    <item n="c)">Renten wegen Todes,</item>
+                                    <item n="d)">Witwen- und Witwerrentenabfindungen sowie Beitragserstattungen,</item>
+                                    <item n="e)">Zuschüsse zu den Aufwendungen für die Krankenversicherung,</item>
+                                    <item n="f)">Leistungen für Kindererziehung,</item>
+                                </list>
+                            </item>
+                            <item n="2.">in der Alterssicherung der Landwirte:<list>
+                                    <item n="a)">Heilbehandlung und andere Leistungen zur Erhaltung, Besserung und Wiederherstellung der Erwerbsfähigkeit einschließlich Betriebs- oder Haushaltshilfe,</item>
+                                    <item n="b)">Renten wegen Erwerbsminderung und Alters,</item>
+                                    <item n="c)">Renten wegen Todes,</item>
+                                    <item n="d)">Beitragszuschüsse,</item>
+                                    <item n="e)">Betriebs- und Haushaltshilfe oder sonstige Leistungen zur Aufrechterhaltung des Unternehmens der Landwirtschaft.</item>
+                                </list>
+                            </item>
+                        </list>
+                        <p>(2) Zuständig sind</p>
+                        <list>
+                            <item n="1.">in der allgemeinen Rentenversicherung die Regionalträger, die Deutsche Rentenversicherung Bund und die Deutsche Rentenversicherung Knappschaft-Bahn-See,</item>
+                            <item n="2.">in der knappschaftlichen Rentenversicherung die Deutsche Rentenversicherung Knappschaft-Bahn-See,</item>
+                            <item n="3.">in der Alterssicherung der Landwirte die landwirtschaftlichen Alterskassen.</item>
+                        </list>
+                    </div>
+                    <div xml:id="d921e644">
+                        <head>§ 24</head>
+                        <p>(1) Nach dem Recht der sozialen Entschädigung bei Gesundheitsschäden können in Anspruch genommen werden:</p>
+                        <list>
+                            <item n="1.">Heil- und Krankenbehandlung sowie andere Leistungen zur Erhaltung, Besserung und Wiederherstellung der Leistungsfähigkeit einschließlich wirtschaftlicher Hilfen,</item>
+                            <item n="2.">besondere Hilfen im Einzelfall einschließlich Leistungen zur Teilhabe am Arbeitsleben,</item>
+                            <item n="3.">Renten wegen anerkannten Schädigungsfolgen,</item>
+                            <item n="4.">Renten an Hinterbliebene, Bestattungsgeld und Sterbegeld,</item>
+                            <item n="5.">Kapitalabfindung, insbesondere zur Wohnraumbeschaffung.</item>
+                        </list>
+                        <p>(2) Zuständig sind die Versorgungsämter, die Landesversorgungsämter und die orthopädischen Versorgungsstellen, für die besonderen Hilfen im Einzelfall die Kreise und kreisfreien Städte sowie die Hauptfürsorgestellen. Bei der Durchführung der Heil- und Krankenbehandlung wirken die Träger der gesetzlichen Krankenversicherung mit.</p>
+                    </div>
+                    <div xml:id="d921e670">
+                        <head>§ 25</head>
+                        <p>(1) Nach dem Bundeskindergeldgesetz kann nur dann Kindergeld in Anspruch genommen werden, wenn nicht der Familienleistungsausgleich nach § 31 des Einkommensteuergesetzes zur Anwendung kommt. Nach dem Bundeskindergeldgesetz können auch der Kinderzuschlag und Leistungen für Bildung und Teilhabe in Anspruch genommen werden.</p>
+                        <p>(2) Nach dem Recht des Erziehungsgelds kann grundsätzlich für jedes Kind Erziehungsgeld in Anspruch genommen werden. Anspruch auf Elterngeld besteht nach dem Recht des Bundeselterngeld- und Elternzeitgesetzes.</p>
+                        <p>(3) Für die Ausführung des Absatzes 1 sind die nach § 7 des Bundeskindergeldgesetzes bestimmten Stellen, für die Ausführung des Absatzes 2 Satz 1 die nach § 10 des Bundeserziehungsgeldgesetzes bestimmten Stellen und für die Ausführung des Absatzes 2 Satz 2 die nach § 12 des Bundeselterngeld- und Elternzeitgesetzes bestimmten Stellen zuständig.</p>
+                    </div>
+                    <div xml:id="d921e687">
+                        <head>§ 26</head>
+                        <p>(1) Nach dem Wohngeldrecht kann als Zuschuß zur Miete oder als Zuschuß zu den Aufwendungen für den eigengenutzten Wohnraum Wohngeld in Anspruch genommen werden.</p>
+                        <p>(2) Zuständig sind die durch Landesrecht bestimmten Behörden.</p>
+                    </div>
+                    <div xml:id="d921e702">
+                        <head>§ 27</head>
+                        <p>(1) Nach dem Recht der Kinder- und Jugendhilfe können in Anspruch genommen werden:</p>
+                        <list>
+                            <item n="1.">Angebote der Jugendarbeit, der Jugendsozialarbeit und des erzieherischen Jugendschutzes,</item>
+                            <item n="2.">Angebote zur Förderung der Erziehung in der Familie,</item>
+                            <item n="3.">Angebote zur Förderung von Kindern in Tageseinrichtungen und in Tagespflege,</item>
+                            <item n="4.">Hilfe zur Erziehung, Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche sowie Hilfe für junge Volljährige.</item>
+                        </list>
+                        <p>(2) Zuständig sind die Kreise und die kreisfreien Städte, nach Maßgabe des Landesrechts auch kreisangehörige Gemeinden; sie arbeiten mit der freien Jugendhilfe zusammen.</p>
+                    </div>
+                    <div xml:id="d921e726">
+                        <head>§ 28</head>
+                        <p>(1) Nach dem Recht der Sozialhilfe können in Anspruch genommen werden:</p>
+                        <list>
+                            <item n="1.">Hilfe zum Lebensunterhalt,</item>
+                            <item n="1a.">Grundsicherung im Alter und bei Erwerbsminderung,</item>
+                            <item n="2.">Hilfen zur Gesundheit,</item>
+                            <item n="3.">Eingliederungshilfe für behinderte Menschen,</item>
+                            <item n="4.">Hilfe zur Pflege,</item>
+                            <item n="5.">Hilfe zur Überwindung besonderer sozialer Schwierigkeiten,</item>
+                            <item n="6.">Hilfe in anderen Lebenslagen</item>
+                        </list>
+                        <p>sowie die jeweils gebotene Beratung und Unterstützung.</p>
+                        <p>(2) Zuständig sind die Kreise und kreisfreien Städte, die überörtlichen Träger der Sozialhilfe und für besondere Aufgaben die Gesundheitsämter; sie arbeiten mit den Trägern der freien Wohlfahrtspflege zusammen.</p>
+                    </div>
+                    <div xml:id="d921e757">
+                        <head>§ 28a</head>
+                        <p>(weggefallen)</p>
+                    </div>
+                    <div xml:id="d921e768">
+                        <head>§ 29</head>
+                        <p>(1) Nach dem Recht der Rehabilitation und Teilhabe behinderter Menschen können in Anspruch genommen werden</p>
+                        <list>
+                            <item n="1.">Leistungen zur medizinischen Rehabilitation, insbesondere<list>
+                                    <item n="a)">Frühförderung behinderter und von Behinderung bedrohter Kinder,</item>
+                                    <item n="b)">ärztliche und zahnärztliche Behandlung,</item>
+                                    <item n="c)">Arznei- und Verbandmittel sowie Heilmittel einschließlich physikalischer, Sprach- und Beschäftigungstherapie,</item>
+                                    <item n="d)">Körperersatzstücke, orthopädische und andere Hilfsmittel,</item>
+                                    <item n="e)">Belastungserprobung und Arbeitstherapie,</item>
+                                </list>
+                            </item>
+                            <item n="2.">Leistungen zur Teilhabe am Arbeitsleben, insbesondere<list>
+                                    <item n="a)">Hilfen zum Erhalten oder Erlangen eines Arbeitsplatzes,</item>
+                                    <item n="b)">Berufsvorbereitung, berufliche Anpassung, Ausbildung und Weiterbildung,</item>
+                                    <item n="c)">sonstige Hilfen zur Förderung der Teilhabe am Arbeitsleben,</item>
+                                </list>
+                            </item>
+                            <item n="3.">Leistungen zur Teilhabe am Leben in der Gemeinschaft, insbesondere Hilfen<list>
+                                    <item n="a)">zur Entwicklung der geistigen und körperlichen Fähigkeiten vor Beginn der Schulpflicht,</item>
+                                    <item n="b)">zur angemessenen Schulbildung,</item>
+                                    <item n="c)">zur heilpädagogischen Förderung,</item>
+                                    <item n="d)">zum Erwerb praktischer Kenntnisse und Fähigkeiten,</item>
+                                    <item n="e)">zur Ausübung einer angemessenen Tätigkeit, soweit Leistungen zur Teilhabe am Arbeitsleben nicht möglich sind,</item>
+                                    <item n="f)">zur Förderung der Verständigung mit der Umwelt,</item>
+                                    <item n="g)">zur Freizeitgestaltung und sonstigen Teilhabe am gesellschaftlichen Leben,</item>
+                                </list>
+                            </item>
+                            <item n="4.">unterhaltssichernde und andere ergänzende Leistungen, insbesondere<list>
+                                    <item n="a)">Krankengeld, Versorgungskrankengeld, Verletztengeld, Übergangsgeld, Ausbildungsgeld oder Unterhaltsbeihilfe,</item>
+                                    <item n="b)">Beiträge zur gesetzlichen Kranken-, Unfall-, Renten- und Pflegeversicherung sowie zur Bundesagentur für Arbeit,</item>
+                                    <item n="c)">Reisekosten,</item>
+                                    <item n="d)">Haushalts- oder Betriebshilfe und Kinderbetreuungskosten,</item>
+                                    <item n="e)">Rehabilitationssport und Funktionstraining,</item>
+                                </list>
+                            </item>
+                            <item n="5.">besondere Leistungen und sonstige Hilfen zur Teilhabe schwerbehinderter Menschen am Leben in der Gesellschaft, insbesondere am Arbeitsleben.</item>
+                        </list>
+                        <p>(2) Zuständig sind die in den §§ 19 bis 24, 27 und 28 genannten Leistungsträger und die Integrationsämter.</p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <head>Dritter Abschnitt</head>
+                <head type="subtitle">Gemeinsame Vorschriften für alle Sozialleistungsbereiche dieses Gesetzbuchs</head>
+                <div>
+                    <head>Erster Titel</head>
+                    <head type="subtitle">Allgemeine Grundsätze</head>
+                    <div xml:id="d921e866">
+                        <head>§ 30</head>
+                        <p>(1) Die Vorschriften dieses Gesetzbuchs gelten für alle Personen, die ihren Wohnsitz oder gewöhnlichen Aufenthalt in seinem Geltungsbereich haben.</p>
+                        <p>(2) Regelungen des über- und zwischenstaatlichen Rechts bleiben unberührt.</p>
+                        <p>(3) Einen Wohnsitz hat jemand dort, wo er eine Wohnung unter Umständen innehat, die darauf schließen lassen, daß er die Wohnung beibehalten und benutzen wird. Den gewöhnlichen Aufenthalt hat jemand dort, wo er sich unter Umständen aufhält, die erkennen lassen, daß er an diesem Ort oder in diesem Gebiet nicht nur vorübergehend verweilt.</p>
+                    </div>
+                    <div xml:id="d921e883">
+                        <head>§ 31</head>
+                        <p>Rechte und Pflichten in den Sozialleistungsbereichen dieses Gesetzbuchs dürfen nur begründet, festgestellt, geändert oder aufgehoben werden, soweit ein Gesetz es vorschreibt oder zuläßt.</p>
+                    </div>
+                    <div xml:id="d921e895">
+                        <head>§ 32</head>
+                        <p>Privatrechtliche Vereinbarungen, die zum Nachteil des Sozialleistungsberechtigten von Vorschriften dieses Gesetzbuchs abweichen, sind nichtig.</p>
+                    </div>
+                    <div xml:id="d921e907">
+                        <head>§ 33</head>
+                        <p>Ist der Inhalt von Rechten oder Pflichten nach Art oder Umfang nicht im einzelnen bestimmt, sind bei ihrer Ausgestaltung die persönlichen Verhältnisse des Berechtigten oder Verpflichteten, sein Bedarf und seine Leistungsfähigkeit sowie die örtlichen Verhältnisse zu berücksichtigen, soweit Rechtsvorschriften nicht entgegenstehen. Dabei soll den Wünschen des Berechtigten oder Verpflichteten entsprochen werden, soweit sie angemessen sind.</p>
+                    </div>
+                    <div xml:id="d921e919">
+                        <head>§ 33a</head>
+                        <p>(1) Sind Rechte oder Pflichten davon abhängig, daß eine bestimmte Altersgrenze erreicht oder nicht überschritten ist, ist das Geburtsdatum maßgebend, das sich aus der ersten Angabe des Berechtigten oder Verpflichteten oder seiner Angehörigen gegenüber einem Sozialleistungsträger oder, soweit es sich um eine Angabe im Rahmen des Dritten oder Sechsten Abschnitts des Vierten Buches handelt, gegenüber dem Arbeitgeber ergibt.</p>
+                        <p>(2) Von einem nach Absatz 1 maßgebenden Geburtsdatum darf nur abgewichen werden, wenn der zuständige Leistungsträger feststellt, daß</p>
+                        <list>
+                            <item n="1.">ein Schreibfehler vorliegt oder</item>
+                            <item n="2.">sich aus einer Urkunde, deren Original vor dem Zeitpunkt der Angabe nach Absatz 1 ausgestellt worden ist, ein anderes Geburtsdatum ergibt.</item>
+                        </list>
+                        <p>(3) Die Absätze 1 und 2 gelten für Geburtsdaten, die Bestandteil der Versicherungsnummer oder eines anderen in den Sozialleistungsbereichen dieses Gesetzbuchs verwendeten Kennzeichens sind, entsprechend.</p>
+                    </div>
+                    <div xml:id="d921e941">
+                        <head>§ 33b</head>
+                        <p>Lebenspartnerschaften im Sinne dieses Gesetzbuches sind Lebenspartnerschaften nach dem Lebenspartnerschaftsgesetz.</p>
+                    </div>
+                    <div xml:id="d921e954">
+                        <head>§ 33c</head>
+                        <p>Bei der Inanspruchnahme sozialer Rechte darf niemand aus Gründen der Rasse, wegen der ethnischen Herkunft oder einer Behinderung benachteiligt werden. Ansprüche können nur insoweit geltend gemacht oder hergeleitet werden, als deren Voraussetzungen und Inhalt durch die Vorschriften der besonderen Teile dieses Gesetzbuchs im Einzelnen bestimmt sind.</p>
+                    </div>
+                    <div xml:id="d921e967">
+                        <head>§ 34</head>
+                        <p>(1) Soweit Rechte und Pflichten nach diesem Gesetzbuch ein familienrechtliches Rechtsverhältnis voraussetzen, reicht ein Rechtsverhältnis, das gemäß Internationalem Privatrecht dem Recht eines anderen Staats unterliegt und nach diesem Recht besteht, nur aus, wenn es dem Rechtsverhältnis im Geltungsbereich dieses Gesetzbuchs entspricht.</p>
+                        <p>(2) Ansprüche mehrerer Ehegatten auf Witwenrente oder Witwerrente werden anteilig und endgültig aufgeteilt.</p>
+                    </div>
+                    <div xml:id="d921e982">
+                        <head>§ 35</head>
+                        <p>(1) Jeder hat Anspruch darauf, daß die ihn betreffenden Sozialdaten (§ 67 Abs. 1 Zehntes Buch) von den Leistungsträgern nicht unbefugt erhoben, verarbeitet oder genutzt werden (Sozialgeheimnis). Die Wahrung des Sozialgeheimnisses umfaßt die Verpflichtung, auch innerhalb des Leistungsträgers sicherzustellen, daß die Sozialdaten nur Befugten zugänglich sind oder nur an diese weitergegeben werden. Sozialdaten der Beschäftigten und ihrer Angehörigen dürfen Personen, die Personalentscheidungen treffen oder daran mitwirken können, weder zugänglich sein noch von Zugriffsberechtigten weitergegeben werden. Der Anspruch richtet sich auch gegen die Verbände der Leistungsträger, die Arbeitsgemeinschaften der Leistungsträger und ihrer Verbände, die Datenstelle der Träger der Rentenversicherung, die in diesem Gesetzbuch genannten öffentlich-rechtlichen Vereinigungen, gemeinsame Servicestellen, Integrationsfachdienste, die Künstlersozialkasse, die Deutsche Post AG, soweit sie mit der Berechnung oder Auszahlung von Sozialleistungen betraut ist, die Behörden der Zollverwaltung, soweit sie Aufgaben nach § 2 des Schwarzarbeitsbekämpfungsgesetzes und § 66 des Zehnten Buches durchführen, die Versicherungsämter und Gemeindebehörden sowie die anerkannten Adoptionsvermittlungsstellen (§ 2 Abs. 2 des Adoptionsvermittlungsgesetzes), soweit sie Aufgaben nach diesem Gesetzbuch wahrnehmen und die Stellen, die Aufgaben nach § 67c Abs. 3 des Zehnten Buches wahrnehmen. Die Beschäftigten haben auch nach Beendigung ihrer Tätigkeit bei den genannten Stellen das Sozialgeheimnis zu wahren.</p>
+                        <p>(2) Eine Erhebung, Verarbeitung und Nutzung von Sozialdaten ist nur unter den Voraussetzungen des Zweiten Kapitels des Zehnten Buches zulässig.</p>
+                        <p>(3) Soweit eine Übermittlung nicht zulässig ist, besteht keine Auskunftspflicht, keine Zeugnispflicht und keine Pflicht zur Vorlegung oder Auslieferung von Schriftstücken, nicht automatisierten Dateien und automatisiert erhobenen, verarbeiteten oder genutzten Sozialdaten.</p>
+                        <p>(4) Betriebs- und Geschäftsgeheimnisse stehen Sozialdaten gleich.</p>
+                        <p>(5) Sozialdaten Verstorbener dürfen nach Maßgabe des Zweiten Kapitels des Zehnten Buches verarbeitet oder genutzt werden. Sie dürfen außerdem verarbeitet oder genutzt werden, wenn schutzwürdige Interessen des Verstorbenen oder seiner Angehörigen dadurch nicht beeinträchtigt werden können.</p>
+                    </div>
+                    <div xml:id="d921e1004">
+                        <head>§ 36</head>
+                        <p>(1) Wer das fünfzehnte Lebensjahr vollendet hat, kann Anträge auf Sozialleistungen stellen und verfolgen sowie Sozialleistungen entgegennehmen. Der Leistungsträger soll den gesetzlichen Vertreter über die Antragstellung und die erbrachten Sozialleistungen unterrichten.</p>
+                        <p>(2) Die Handlungsfähigkeit nach Absatz 1 Satz 1 kann vom gesetzlichen Vertreter durch schriftliche Erklärung gegenüber dem Leistungsträger eingeschränkt werden. Die Rücknahme von Anträgen, der Verzicht auf Sozialleistungen und die Entgegennahme von Darlehen bedürfen der Zustimmung des gesetzlichen Vertreters.</p>
+                    </div>
+                    <div xml:id="d921e1018">
+                        <head>§ 36a</head>
+                        <p>(1) Die Übermittlung elektronischer Dokumente ist zulässig, soweit der Empfänger hierfür einen Zugang eröffnet.</p>
+                        <p>(2) Eine durch Rechtsvorschrift angeordnete Schriftform kann, soweit nicht durch Rechtsvorschrift etwas anderes bestimmt ist, durch die elektronische Form ersetzt werden. In diesem Fall ist das elektronische Dokument mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz zu versehen. Die Signierung mit einem Pseudonym, das die Identifizierung der Person des Signaturschlüsselinhabers nicht ermöglicht, ist nicht zulässig.</p>
+                        <p>(3) Ist ein der Behörde übermitteltes elektronisches Dokument für sie zur Bearbeitung nicht geeignet, teilt sie dies dem Absender unter Angabe der für sie geltenden technischen Rahmenbedingungen unverzüglich mit. Macht ein Empfänger geltend, er könne das von der Behörde übermittelte elektronische Dokument nicht bearbeiten, übermittelt sie es ihm erneut in einem geeigneten elektronischen Format oder als Schriftstück.</p>
+                        <p>(4) Die Träger der Sozialversicherung einschließlich der Bundesagentur für Arbeit, ihre Verbände und Arbeitsgemeinschaften verwenden unter Beachtung der Grundsätze der Wirtschaftlichkeit und Sparsamkeit im jeweiligen Sozialleistungsbereich Zertifizierungsdienste nach dem Signaturgesetz, die eine gemeinsame und bundeseinheitliche Kommunikation und Übermittlung der Daten und die Überprüfbarkeit der qualifizierten elektronischen Signatur auf Dauer sicherstellen. Diese Träger sollen über ihren jeweiligen Bereich hinaus Zertifizierungsdienste im Sinne des Satzes 1 verwenden. Die Sätze 1 und 2 gelten entsprechend für die Leistungserbringer nach dem Fünften und dem Elften Buch und die von ihnen gebildeten Organisationen.</p>
+                    </div>
+                    <div xml:id="d921e1037">
+                        <head>§ 37</head>
+                        <p>Das Erste und Zehnte Buch gelten für alle Sozialleistungsbereiche dieses Gesetzbuchs, soweit sich aus den übrigen Büchern nichts Abweichendes ergibt; § 68 bleibt unberührt. Der Vorbehalt gilt nicht für die §§ 1 bis 17 und 31 bis 36. Das Zweite Kapitel des Zehnten Buches geht dessen Erstem Kapitel vor, soweit sich die Ermittlung des Sachverhaltes auf Sozialdaten erstreckt.</p>
+                    </div>
+                </div>
+                <div>
+                    <head>Zweiter Titel</head>
+                    <head type="subtitle">Grundsätze des Leistungsrechts</head>
+                    <div xml:id="d921e1064">
+                        <head>§ 38</head>
+                        <p>Auf Sozialleistungen besteht ein Anspruch, soweit nicht nach den besonderen Teilen dieses Gesetzbuchs die Leistungsträger ermächtigt sind, bei der Entscheidung über die Leistung nach ihrem Ermessen zu handeln.</p>
+                    </div>
+                    <div xml:id="d921e1076">
+                        <head>§ 39</head>
+                        <p>(1) Sind die Leistungsträger ermächtigt, bei der Entscheidung über Sozialleistungen nach ihrem Ermessen zu handeln, haben sie ihr Ermessen entsprechend dem Zweck der Ermächtigung auszuüben und die gesetzlichen Grenzen des Ermessens einzuhalten. Auf pflichtgemäße Ausübung des Ermessens besteht ein Anspruch.</p>
+                        <p>(2) Für Ermessensleistungen gelten die Vorschriften über Sozialleistungen, auf die ein Anspruch besteht, entsprechend, soweit sich aus den Vorschriften dieses Gesetzbuchs nichts Abweichendes ergibt.</p>
+                    </div>
+                    <div xml:id="d921e1090">
+                        <head>§ 40</head>
+                        <p>(1) Ansprüche auf Sozialleistungen entstehen, sobald ihre im Gesetz oder auf Grund eines Gesetzes bestimmten Voraussetzungen vorliegen.</p>
+                        <p>(2) Bei Ermessensleistungen ist der Zeitpunkt maßgebend, in dem die Entscheidung über die Leistung bekanntgegeben wird, es sei denn, daß in der Entscheidung ein anderer Zeitpunkt bestimmt ist.</p>
+                    </div>
+                    <div xml:id="d921e1104">
+                        <head>§ 41</head>
+                        <p>Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung enthalten, werden Ansprüche auf Sozialleistungen mit ihrem Entstehen fällig.</p>
+                    </div>
+                    <div xml:id="d921e1116">
+                        <head>§ 42</head>
+                        <p>(1) Besteht ein Anspruch auf Geldleistungen dem Grunde nach und ist zur Feststellung seiner Höhe voraussichtlich längere Zeit erforderlich, kann der zuständige Leistungsträger Vorschüsse zahlen, deren Höhe er nach pflichtgemäßem Ermessen bestimmt. Er hat Vorschüsse nach Satz 1 zu zahlen, wenn der Berechtigte es beantragt; die Vorschußzahlung beginnt spätestens nach Ablauf eines Kalendermonats nach Eingang des Antrags.</p>
+                        <p>(2) Die Vorschüsse sind auf die zustehende Leistung anzurechnen. Soweit sie diese übersteigen, sind sie vom Empfänger zu erstatten. § 50 Abs. 4 des Zehnten Buches gilt entsprechend.</p>
+                        <p>(3) Für die Stundung, Niederschlagung und den Erlaß des Erstattungsanspruchs gilt § 76 Abs. 2 des Vierten Buches entsprechend.</p>
+                    </div>
+                    <div xml:id="d921e1133">
+                        <head>§ 43</head>
+                        <p>(1) Besteht ein Anspruch auf Sozialleistungen und ist zwischen mehreren Leistungsträgern streitig, wer zur Leistung verpflichtet ist, kann der unter ihnen zuerst angegangene Leistungsträger vorläufig Leistungen erbringen, deren Umfang er nach pflichtgemäßen Ermessen bestimmt. Er hat Leistungen nach Satz 1 zu erbringen, wenn der Berechtigte es beantragt; die vorläufigen Leistungen beginnen spätestens nach Ablauf eines Kalendermonats nach Eingang des Antrags.</p>
+                        <p>(2) Für die Leistungen nach Absatz 1 gilt § 42 Abs. 2 und 3 entsprechend. Ein Erstattungsanspruch gegen den Empfänger steht nur dem zur Leistung verpflichteten Leistungsträger zu.</p>
+                        <p>(3)</p>
+                    </div>
+                    <div xml:id="d921e1150">
+                        <head>§ 44</head>
+                        <p>(1) Ansprüche auf Geldleistungen sind nach Ablauf eines Kalendermonats nach dem Eintritt ihrer Fälligkeit bis zum Ablauf des Kalendermonats vor der Zahlung mit vier vom Hundert zu verzinsen.</p>
+                        <p>(2) Die Verzinsung beginnt frühestens nach Ablauf von sechs Kalendermonaten nach Eingang des vollständigen Leistungsantrags beim zuständigen Leistungsträger, beim Fehlen eines Antrags nach Ablauf eines Kalendermonats nach der Bekanntgabe der Entscheidung über die Leistung.</p>
+                        <p>(3) Verzinst werden volle Euro-Beträge. Dabei ist der Kalendermonat mit dreißig Tagen zugrunde zu legen.</p>
+                    </div>
+                    <div xml:id="d921e1167">
+                        <head>§ 45</head>
+                        <p>(1) Ansprüche auf Sozialleistungen verjähren in vier Jahren nach Ablauf des Kalenderjahrs, in dem sie entstanden sind.</p>
+                        <p>(2) Für die Hemmung, die Ablaufhemmung, den Neubeginn und die Wirkung der Verjährung gelten die Vorschriften des Bürgerlichen Gesetzbuchs sinngemäß.</p>
+                        <p>(3) Die Verjährung wird auch durch schriftlichen Antrag auf die Sozialleistung oder durch Erhebung eines Widerspruchs gehemmt. Die Hemmung endet sechs Monate nach Bekanntgabe der Entscheidung über den Antrag oder den Widerspruch.</p>
+                        <p>(4)</p>
+                    </div>
+                    <div xml:id="d921e1186">
+                        <head>§ 46</head>
+                        <p>(1) Auf Ansprüche auf Sozialleistungen kann durch schriftliche Erklärung gegenüber dem Leistungsträger verzichtet werden; der Verzicht kann jederzeit mit Wirkung für die Zukunft widerrufen werden.</p>
+                        <p>(2) Der Verzicht ist unwirksam, soweit durch ihn andere Personen oder Leistungsträger belastet oder Rechtsvorschriften umgangen werden.</p>
+                    </div>
+                    <div xml:id="d921e1201">
+                        <head>§ 47</head>
+                        <p>Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung enthalten, sollen Geldleistungen kostenfrei auf ein Konto des Empfängers bei einem Geldinstitut überwiesen oder, wenn der Empfänger es verlangt, kostenfrei an seinen Wohnsitz übermittelt werden.</p>
+                    </div>
+                    <div xml:id="d921e1213">
+                        <head>§ 48</head>
+                        <p>(1) Laufende Geldleistungen, die der Sicherung des Lebensunterhalts zu dienen bestimmt sind, können in angemessener Höhe an den Ehegatten oder die Kinder des Leistungsberechtigten ausgezahlt werden, wenn er ihnen gegenüber seiner gesetzlichen Unterhaltspflicht nicht nachkommt. Kindergeld, Kinderzuschläge und vergleichbare Rentenbestandteile (Geldleistungen für Kinder) können an Kinder, die bei der Festsetzung der Geldleistungen berücksichtigt werden, bis zur Höhe des Betrages, der sich bei entsprechender Anwendung des § 54 Abs. 5 Satz 2 ergibt, ausgezahlt werden. Für das Kindergeld gilt dies auch dann, wenn der Kindergeldberechtigte mangels Leistungsfähigkeit nicht unterhaltspflichtig ist oder nur Unterhalt in Höhe eines Betrages zu leisten braucht, der geringer ist als das für die Auszahlung in Betracht kommende Kindergeld. Die Auszahlung kann auch an die Person oder Stelle erfolgen, die dem Ehegatten oder den Kindern Unterhalt gewährt.</p>
+                        <p>(2) Absatz 1 Satz 1, 2 und 4 gilt entsprechend, wenn unter Berücksichtigung von Kindern, denen gegenüber der Leistungsberechtigte nicht kraft Gesetzes unterhaltspflichtig ist, Geldleistungen erbracht werden und der Leistungsberechtigte diese Kinder nicht unterhält.</p>
+                    </div>
+                    <div xml:id="d921e1228">
+                        <head>§ 49</head>
+                        <p>(1) Ist ein Leistungsberechtigter auf Grund richterlicher Anordnung länger als einen Kalendermonat in einer Anstalt oder Einrichtung untergebracht, sind laufende Geldleistungen, die der Sicherung des Lebensunterhalts zu dienen bestimmt sind, an die Unterhaltsberechtigten auszuzahlen, soweit der Leistungsberechtigte kraft Gesetzes unterhaltspflichtig ist und er oder die Unterhaltsberechtigten es beantragen.</p>
+                        <p>(2) Absatz 1 gilt entsprechend, wenn für Kinder, denen gegenüber der Leistungsberechtigte nicht kraft Gesetzes unterhaltspflichtig ist, Geldleistungen erbracht werden.</p>
+                        <p>(3) § 48 Abs. 1 Satz 4 bleibt unberührt.</p>
+                    </div>
+                    <div xml:id="d921e1245">
+                        <head>§ 50</head>
+                        <p>(1) Ist der Leistungsberechtigte untergebracht (§ 49 Abs. 1), kann die Stelle, der die Kosten der Unterbringung zur Last fallen, seine Ansprüche auf laufende Geldleistungen, die der Sicherung des Lebensunterhalts zu dienen bestimmt sind, durch schriftliche Anzeige an den zuständigen Leistungsträger auf sich überleiten.</p>
+                        <p>(2) Die Anzeige bewirkt den Anspruchsübergang nur insoweit, als die Leistung nicht an Unterhaltsberechtigte oder die in § 49 Abs. 2 genannten Kinder zu zahlen ist, der Leistungsberechtigte die Kosten der Unterbringung zu erstatten hat und die Leistung auf den für die Erstattung maßgebenden Zeitraum entfällt.</p>
+                        <p>(3) Die Absätze 1 und 2 gelten entsprechend, wenn für ein Kind (§ 56 Abs. 1 Satz 1 Nr. 2, Abs. 2), das untergebracht ist (§ 49 Abs. 1), ein Anspruch auf eine laufende Geldleistung besteht.</p>
+                    </div>
+                    <div xml:id="d921e1262">
+                        <head>§ 51</head>
+                        <p>(1) Gegen Ansprüche auf Geldleistungen kann der zuständige Leistungsträger mit Ansprüchen gegen den Berechtigten aufrechnen, soweit die Ansprüche auf Geldleistungen nach § 54 Abs. 2 und 4 pfändbar sind.</p>
+                        <p>(2) Mit Ansprüchen auf Erstattung zu Unrecht erbrachter Sozialleistungen und mit Beitragsansprüchen nach diesem Gesetzbuch kann der zuständige Leistungsträger gegen Ansprüche auf laufende Geldleistungen bis zu deren Hälfte aufrechnen, wenn der Leistungsberechtigte nicht nachweist, dass er dadurch hilfebedürftig im Sinne der Vorschriften des Zwölften Buches über die Hilfe zum Lebensunterhalt oder der Grundsicherung für Arbeitsuchende nach dem Zweiten Buch wird.</p>
+                    </div>
+                    <div xml:id="d921e1277">
+                        <head>§ 52</head>
+                        <p>Der für eine Geldleistung zuständige Leistungsträger kann mit Ermächtigung eines anderen Leistungsträgers dessen Ansprüche gegen den Berechtigten mit der ihm obliegenden Geldleistung verrechnen, soweit nach § 51 die Aufrechnung zulässig ist.</p>
+                    </div>
+                    <div xml:id="d921e1289">
+                        <head>§ 53</head>
+                        <p>(1) Ansprüche auf Dienst- und Sachleistungen können weder übertragen noch verpfändet werden.</p>
+                        <p>(2) Ansprüche auf Geldleistungen können übertragen und verpfändet werden</p>
+                        <list>
+                            <item n="1.">zur Erfüllung oder zur Sicherung von Ansprüchen auf Rückzahlung von Darlehen und auf Erstattung von Aufwendungen, die im Vorgriff auf fällig gewordene Sozialleistungen zu einer angemessenen Lebensführung gegeben oder gemacht worden sind oder,</item>
+                            <item n="2.">wenn der zuständige Leistungsträger feststellt, daß die Übertragung oder Verpfändung im wohlverstandenen Interesse des Berechtigten liegt.</item>
+                        </list>
+                        <p>(3) Ansprüche auf laufende Geldleistungen, die der Sicherung des Lebensunterhalts zu dienen bestimmt sind, können in anderen Fällen übertragen und verpfändet werden, soweit sie den für Arbeitseinkommen geltenden unpfändbaren Betrag übersteigen.</p>
+                        <p>(4) Der Leistungsträger ist zur Auszahlung an den neuen Gläubiger nicht vor Ablauf des Monats verpflichtet, der dem Monat folgt, in dem er von der Übertragung oder Verpfändung Kenntnis erlangt hat.</p>
+                        <p>(5) Eine Übertragung oder Verpfändung von Ansprüchen auf Geldleistungen steht einer Aufrechnung oder Verrechnung auch dann nicht entgegen, wenn der Leistungsträger beim Erwerb des Anspruchs von der Übertragung oder Verpfändung Kenntnis hatte.</p>
+                        <p>(6) Soweit bei einer Übertragung oder Verpfändung Geldleistungen zu Unrecht erbracht worden sind, sind sowohl der Leistungsberechtigte als auch der neue Gläubiger als Gesamtschuldner dem Leistungsträger zur Erstattung des entsprechenden Betrages verpflichtet. Der Leistungsträger hat den Erstattungsanspruch durch Verwaltungsakt geltend zu machen.</p>
+                    </div>
+                    <div xml:id="d921e1317">
+                        <head>§ 54</head>
+                        <p>(1) Ansprüche auf Dienst- und Sachleistungen können nicht gepfändet werden.</p>
+                        <p>(2) Ansprüche auf einmalige Geldleistungen können nur gepfändet werden, soweit nach den Umständen des Falles, insbesondere nach den Einkommens- und Vermögensverhältnissen des Leistungsberechtigten, der Art des beizutreibenden Anspruchs sowie der Höhe und der Zweckbestimmung der Geldleistung, die Pfändung der Billigkeit entspricht.</p>
+                        <p>(3) Unpfändbar sind Ansprüche auf</p>
+                        <list>
+                            <item n="1.">Erziehungsgeld und vergleichbare Leistungen der Länder sowie Elterngeld bis zur Höhe der nach § 10 des Bundeselterngeld- und Elternzeitgesetzes anrechnungsfreien Beträge,</item>
+                            <item n="2.">Mutterschaftsgeld nach § 13 Abs. 1 des Mutterschutzgesetzes, soweit das Mutterschaftsgeld nicht aus einer Teilzeitbeschäftigung während der Elternzeit herrührt, bis zur Höhe des Erziehungsgeldes nach § 5 Abs. 1 des Bundeserziehungsgeldgesetzes oder des Elterngeldes nach dem Bundeselterngeld- und Elternzeitgesetz, soweit es die anrechnungsfreien Beträge nach § 10 des Bundeselterngeld- und Elternzeitgesetzes nicht übersteigt,</item>
+                            <item n="2a.">Wohngeld, soweit nicht die Pfändung wegen Ansprüchen erfolgt, die Gegenstand der §§ 9 und 10 des Wohngeldgesetzes sind,</item>
+                            <item n="3.">Geldleistungen, die dafür bestimmt sind, den durch einen Körper- oder Gesundheitsschaden bedingten Mehraufwand auszugleichen.</item>
+                        </list>
+                        <p>(4) Im übrigen können Ansprüche auf laufende Geldleistungen wie Arbeitseinkommen gepfändet werden.</p>
+                        <p>(5) Ein Anspruch des Leistungsberechtigten auf Geldleistungen für Kinder (§ 48 Abs. 1 Satz 2) kann nur wegen gesetzlicher Unterhaltsansprüche eines Kindes, das bei der Festsetzung der Geldleistungen berücksichtigt wird, gepfändet werden. Für die Höhe des pfändbaren Betrages bei Kindergeld gilt:</p>
+                        <list>
+                            <item n="1.">Gehört das unterhaltsberechtigte Kind zum Kreis der Kinder, für die dem Leistungsberechtigten Kindergeld gezahlt wird, so ist eine Pfändung bis zu dem Betrag möglich, der bei gleichmäßiger Verteilung des Kindergeldes auf jedes dieser Kinder entfällt. Ist das Kindergeld durch die Berücksichtigung eines weiteren Kindes erhöht, für das einer dritten Person Kindergeld oder dieser oder dem Leistungsberechtigten eine andere Geldleistung für Kinder zusteht, so bleibt der Erhöhungsbetrag bei der Bestimmung des pfändbaren Betrages des Kindergeldes nach Satz 1 außer Betracht.</item>
+                            <item n="2.">Der Erhöhungsbetrag (Nummer 1 Satz 2) ist zugunsten jedes bei der Festsetzung des Kindergeldes berücksichtigten unterhaltsberechtigten Kindes zu dem Anteil pfändbar, der sich bei gleichmäßiger Verteilung auf alle Kinder, die bei der Festsetzung des Kindergeldes zugunsten des Leistungsberechtigten berücksichtigt werden, ergibt.</item>
+                        </list>
+                        <p>(6) In den Fällen der Absätze 2, 4 und 5 gilt § 53 Abs. 6 entsprechend.</p>
+                    </div>
+                    <div xml:id="d921e1354">
+                        <head>§ 55</head>
+                    </div>
+                    <div xml:id="d921e1366">
+                        <head>§ 56</head>
+                        <p>(1) Fällige Ansprüche auf laufende Geldleistungen stehen beim Tod des Berechtigten nacheinander</p>
+                        <list>
+                            <item n="1.">dem Ehegatten,</item>
+                            <item n="1a.">dem Lebenspartner,</item>
+                            <item n="2.">den Kindern,</item>
+                            <item n="3.">den Eltern,</item>
+                            <item n="4.">dem Haushaltsführer</item>
+                        </list>
+                        <p>zu, wenn diese mit dem Berechtigten zur Zeit seines Todes in einem gemeinsamen Haushalt gelebt haben oder von ihm wesentlich unterhalten worden sind. Mehreren Personen einer Gruppe stehen die Ansprüche zu gleichen Teilen zu.</p>
+                        <p>(2) Als Kinder im Sinne des Absatzes 1 Satz 1 Nr. 2 gelten auch</p>
+                        <list>
+                            <item n="1.">Stiefkinder und Enkel, die in den Haushalt des Berechtigten aufgenommen sind,</item>
+                            <item n="2.">Pflegekinder (Personen, die mit dem Berechtigten durch ein auf längere Dauer angelegtes Pflegeverhältnis mit häuslicher Gemeinschaft wie Kinder mit Eltern verbunden sind),</item>
+                            <item n="3.">Geschwister des Berechtigten, die in seinen Haushalt aufgenommen worden sind.</item>
+                        </list>
+                        <p>(3) Als Eltern im Sinne des Absatzes 1 Satz 1 Nr. 3 gelten auch</p>
+                        <list>
+                            <item n="1.">sonstige Verwandte der geraden aufsteigenden Linie,</item>
+                            <item n="2.">Stiefeltern,</item>
+                            <item n="3.">Pflegeeltern (Personen, die den Berechtigten als Pflegekind aufgenommen haben).</item>
+                        </list>
+                        <p>(4) Haushaltsführer im Sinne des Absatzes 1 Satz 1 Nr. 4 ist derjenige Verwandte oder Verschwägerte, der an Stelle des verstorbenen oder geschiedenen oder an der Führung des Haushalts aus gesundheitlichen Gründen dauernd gehinderten Ehegatten oder Lebenspartners den Haushalt des Berechtigten mindestens ein Jahr lang vor dessen Tod geführt hat und von diesem überwiegend unterhalten worden ist.</p>
+                    </div>
+                    <div xml:id="d921e1411">
+                        <head>§ 57</head>
+                        <p>(1) Der nach § 56 Berechtigte kann auf die Sonderrechtsnachfolge innerhalb von sechs Wochen nach ihrer Kenntnis durch schriftliche Erklärung gegenüber dem Leistungsträger verzichten. Verzichtet er innerhalb dieser Frist, gelten die Ansprüche als auf ihn nicht übergegangen. Sie stehen den Personen zu, die ohne den Verzichtenden nach § 56 berechtigt wären.</p>
+                        <p>(2) Soweit Ansprüche auf den Sonderrechtsnachfolger übergegangen sind, haftet er für die nach diesem Gesetzbuch bestehenden Verbindlichkeiten des Verstorbenen gegenüber dem für die Ansprüche zuständigen Leistungsträger. Insoweit entfällt eine Haftung des Erben. Eine Aufrechnung und Verrechnung nach den §§ 51 und 52 ist ohne die dort genannten Beschränkungen der Höhe zulässig.</p>
+                    </div>
+                    <div xml:id="d921e1426">
+                        <head>§ 58</head>
+                        <p>Soweit fällige Ansprüche auf Geldleistungen nicht nach den §§ 56 und 57 einem Sonderrechtsnachfolger zustehen, werden sie nach den Vorschriften des Bürgerlichen Gesetzbuchs vererbt. Der Fiskus als gesetzlicher Erbe kann die Ansprüche nicht geltend machen.</p>
+                    </div>
+                    <div xml:id="d921e1438">
+                        <head>§ 59</head>
+                        <p>Ansprüche auf Dienst- und Sachleistungen erlöschen mit dem Tod des Berechtigten. Ansprüche auf Geldleistungen erlöschen nur, wenn sie im Zeitpunkt des Todes des Berechtigten weder festgestellt sind noch ein Verwaltungsverfahren über sie anhängig ist.</p>
+                    </div>
+                </div>
+                <div>
+                    <head>Dritter Titel</head>
+                    <head type="subtitle">Mitwirkung des Leistungsberechtigten</head>
+                    <div xml:id="d921e1464">
+                        <head>§ 60</head>
+                        <p>(1) Wer Sozialleistungen beantragt oder erhält, hat</p>
+                        <list>
+                            <item n="1.">alle Tatsachen anzugeben, die für die Leistung erheblich sind, und auf Verlangen des zuständigen Leistungsträgers der Erteilung der erforderlichen Auskünfte durch Dritte zuzustimmen,</item>
+                            <item n="2.">Änderungen in den Verhältnissen, die für die Leistung erheblich sind oder über die im Zusammenhang mit der Leistung Erklärungen abgegeben worden sind, unverzüglich mitzuteilen,</item>
+                            <item n="3.">Beweismittel zu bezeichnen und auf Verlangen des zuständigen Leistungsträgers Beweisurkunden vorzulegen oder ihrer Vorlage zuzustimmen.</item>
+                        </list>
+                        <p>Satz 1 gilt entsprechend für denjenigen, der Leistungen zu erstatten hat.</p>
+                        <p>(2) Soweit für die in Absatz 1 Satz 1 Nr. 1 und 2 genannten Angaben Vordrucke vorgesehen sind, sollen diese benutzt werden.</p>
+                    </div>
+                    <div xml:id="d921e1487">
+                        <head>§ 61</head>
+                        <p>Wer Sozialleistungen beantragt oder erhält, soll auf Verlangen des zuständigen Leistungsträgers zur mündlichen Erörterung des Antrags oder zur Vornahme anderer für die Entscheidung über die Leistung notwendiger Maßnahmen persönlich erscheinen.</p>
+                    </div>
+                    <div xml:id="d921e1499">
+                        <head>§ 62</head>
+                        <p>Wer Sozialleistungen beantragt oder erhält, soll sich auf Verlangen des zuständigen Leistungsträgers ärztlichen und psychologischen Untersuchungsmaßnahmen unterziehen, soweit diese für die Entscheidung über die Leistung erforderlich sind.</p>
+                    </div>
+                    <div xml:id="d921e1511">
+                        <head>§ 63</head>
+                        <p>Wer wegen Krankheit oder Behinderung Sozialleistungen beantragt oder erhält, soll sich auf Verlangen des zuständigen Leistungsträgers einer Heilbehandlung unterziehen, wenn zu erwarten ist, daß sie eine Besserung seines Gesundheitszustands herbeiführen oder eine Verschlechterung verhindern wird.</p>
+                    </div>
+                    <div xml:id="d921e1523">
+                        <head>§ 64</head>
+                        <p>Wer wegen Minderung der Erwerbsfähigkeit, anerkannten Schädigungsfolgen oder wegen Arbeitslosigkeit Sozialleistungen beantragt oder erhält, soll auf Verlangen des zuständigen Leistungsträgers an Leistungen zur Teilhabe am Arbeitsleben teilnehmen, wenn bei angemessener Berücksichtigung seiner beruflichen Neigung und seiner Leistungsfähigkeit zu erwarten ist, daß sie seine Erwerbs- oder Vermittlungsfähigkeit auf Dauer fördern oder erhalten werden.</p>
+                    </div>
+                    <div xml:id="d921e1536">
+                        <head>§ 65</head>
+                        <p>(1) Die Mitwirkungspflichten nach den §§ 60 bis 64 bestehen nicht, soweit</p>
+                        <list>
+                            <item n="1.">ihre Erfüllung nicht in einem angemessenen Verhältnis zu der in Anspruch genommenen Sozialleistung oder ihrer Erstattung steht oder</item>
+                            <item n="2.">ihre Erfüllung dem Betroffenen aus einem wichtigen Grund nicht zugemutet werden kann oder</item>
+                            <item n="3.">der Leistungsträger sich durch einen geringeren Aufwand als der Antragsteller oder Leistungsberechtigte die erforderlichen Kenntnisse selbst beschaffen kann.</item>
+                        </list>
+                        <p>(2) Behandlungen und Untersuchungen,</p>
+                        <list>
+                            <item n="1.">bei denen im Einzelfall ein Schaden für Leben oder Gesundheit nicht mit hoher Wahrscheinlichkeit ausgeschlossen werden kann,</item>
+                            <item n="2.">die mit erheblichen Schmerzen verbunden sind oder</item>
+                            <item n="3.">die einen erheblichen Eingriff in die körperliche Unversehrtheit bedeuten,</item>
+                        </list>
+                        <p>können abgelehnt werden.</p>
+                        <p>(3) Angaben, die dem Antragsteller, dem Leistungsberechtigten oder ihnen nahestehende Personen (§ 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung) die Gefahr zuziehen würde, wegen einer Straftat oder einer Ordnungswidrigkeit verfolgt zu werden, können verweigert werden.</p>
+                    </div>
+                    <div xml:id="d921e1568">
+                        <head>§ 65a</head>
+                        <p>(1) Wer einem Verlangen des zuständigen Leistungsträgers nach den §§ 61 oder 62 nachkommt, kann auf Antrag Ersatz seiner notwendigen Auslagen und seines Verdienstausfalls in angemessenem Umfang erhalten. Bei einem Verlangen des zuständigen Leistungsträgers nach § 61 sollen Aufwendungen nur in Härtefällen ersetzt werden.</p>
+                        <p>(2) Absatz 1 gilt auch, wenn der zuständige Leistungsträger ein persönliches Erscheinen oder eine Untersuchung nachträglich als notwendig anerkennt.</p>
+                    </div>
+                    <div xml:id="d921e1583">
+                        <head>§ 66</head>
+                        <p>(1) Kommt derjenige, der eine Sozialleistung beantragt oder erhält, seinen Mitwirkungspflichten nach den §§ 60 bis 62, 65 nicht nach und wird hierdurch die Aufklärung des Sachverhalts erheblich erschwert, kann der Leistungsträger ohne weitere Ermittlungen die Leistung bis zur Nachholung der Mitwirkung ganz oder teilweise versagen oder entziehen, soweit die Voraussetzungen der Leistung nicht nachgewiesen sind. Dies gilt entsprechend, wenn der Antragsteller oder Leistungsberechtigte in anderer Weise absichtlich die Aufklärung des Sachverhalts erheblich erschwert.</p>
+                        <p>(2) Kommt derjenige, der eine Sozialleistung wegen Pflegebedürftigkeit, wegen Arbeitsunfähigkeit, wegen Gefährdung oder Minderung der Erwerbsfähigkeit, anerkannten Schädigungsfolgen oder wegen Arbeitslosigkeit beantragt oder erhält, seinen Mitwirkungspflichten nach den §§ 62 bis 65 nicht nach und ist unter Würdigung aller Umstände mit Wahrscheinlichkeit anzunehmen, daß deshalb die Fähigkeit zur selbständigen Lebensführung, die Arbeits-, Erwerbs- oder Vermittlungsfähigkeit beeinträchtigt oder nicht verbessert wird, kann der Leistungsträger die Leistung bis zur Nachholung der Mitwirkung ganz oder teilweise versagen oder entziehen.</p>
+                        <p>(3) Sozialleistungen dürfen wegen fehlender Mitwirkung nur versagt oder entzogen werden, nachdem der Leistungsberechtigte auf diese Folge schriftlich hingewiesen worden ist und seiner Mitwirkungspflicht nicht innerhalb einer ihm gesetzten angemessenen Frist nachgekommen ist.</p>
+                    </div>
+                    <div xml:id="d921e1600">
+                        <head>§ 67</head>
+                        <p>Wird die Mitwirkung nachgeholt und liegen die Leistungsvoraussetzungen vor, kann der Leistungsträger Sozialleistungen, die er nach § 66 versagt oder entzogen hat, nachträglich ganz oder teilweise erbringen.</p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <head>Vierter Abschnitt</head>
+                <head type="subtitle">Übergangs- und Schlussvorschriften</head>
+                <div xml:id="d921e1627">
+                    <head>§ 68</head>
+                    <p>Bis zu ihrer Einordnung in dieses Gesetzbuch gelten die nachfolgenden Gesetze mit den zu ihrer Ergänzung und Änderung erlassenen Gesetzen als dessen besondere Teile:</p>
+                    <list>
+                        <item n="1.">das Bundesausbildungsförderungsgesetz,</item>
+                        <item n="2.">(aufgehoben)</item>
+                        <item n="3.">die Reichsversicherungsordnung,</item>
+                        <item n="4.">das Gesetz über die Alterssicherung der Landwirte,</item>
+                        <item n="5.">(weggefallen)</item>
+                        <item n="6.">das Zweite Gesetz über die Krankenversicherung der Landwirte,</item>
+                        <item n="7.">das Bundesversorgungsgesetz, auch soweit andere Gesetze, insbesondere<list>
+                                <item n="a)">§ 80 des Soldatenversorgungsgesetzes,</item>
+                                <item n="b)">§ 59 Abs. 1 des Bundesgrenzschutzgesetzes,</item>
+                                <item n="c)">§ 47 des Zivildienstgesetzes,</item>
+                                <item n="d)">§ 60 des Infektionsschutzgesetzes,</item>
+                                <item n="e)">§§ 4 und 5 des Häftlingshilfegesetzes,</item>
+                                <item n="f)">§ 1 des Opferentschädigungsgesetzes,</item>
+                                <item n="g)">§§ 21 und 22 des Strafrechtlichen Rehabilitierungsgesetzes,</item>
+                                <item n="h)">§§ 3 und 4 des Verwaltungsrechtlichen Rehabilitierungsgesetzes,</item>
+                            </list>die entsprechende Anwendung der Leistungsvorschriften des Bundesversorgungsgesetzes vorsehen,</item>
+                        <item n="8.">das Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung,</item>
+                        <item n="9.">das Bundeskindergeldgesetz,</item>
+                        <item n="10.">das Wohngeldgesetz,</item>
+                        <item n="11.">(weggefallen)</item>
+                        <item n="12.">das Adoptionsvermittlungsgesetz,</item>
+                        <item n="13.">(aufgehoben)</item>
+                        <item n="14.">das Unterhaltsvorschussgesetz,</item>
+                        <item n="15.">der Erste Abschnitt des Bundeserziehungsgeldgesetzes,</item>
+                        <item n="15a.">der erste Abschnitt des Bundeselterngeld- und Elternzeitgesetzes,</item>
+                        <item n="16.">das Altersteilzeitgesetz,</item>
+                        <item n="17.">der Fünfte Abschnitt des Schwangerschaftskonfliktgesetzes.</item>
+                        <item n="18.">(weggefallen)</item>
+                    </list>
+                </div>
+                <div xml:id="d921e1698">
+                    <head>§ 69</head>
+                    <p>Die Senate der Länder Berlin, Bremen und Hamburg werden ermächtigt, die Vorschriften dieses Buches über die Zuständigkeit von Behörden dem besonderen Verwaltungsaufbau ihrer Länder anzupassen.</p>
+                </div>
+                <div xml:id="d921e1711">
+                    <head>§ 70</head>
+                    <p>Artikel 229 § 6 Abs. 1 und 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche gilt entsprechend bei der Anwendung des § 45 Abs. 2 und 3 in der seit dem 1. Januar 2002 geltenden Fassung.</p>
+                </div>
+                <div xml:id="d921e1724">
+                    <head>§ 71</head>
+                    <p>§ 53 Abs. 6 und § 54 Abs. 6 sind nur auf Geldleistungen anzuwenden, soweit diese nach dem 30. März 2005 ganz oder teilweise zu Unrecht erbracht werden.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

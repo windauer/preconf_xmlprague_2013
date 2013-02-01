@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR008690960">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung der beamteten Kapitäne im nautischen Dienst der landwirtschaftlichen Verwaltung des Bundes</title>
+                <title type="short">BPräsKldgKapLwDAnO</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1960-11-25</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d403e20">
+                <head>(XXXX)</head>
+                <p>Nach § 76 des Bundesbeamtengesetzes übertrage ich dem Bundesminister für Ernährung, Landwirtschaft und Forsten die Ausübung der Befugnis, Bestimmungen über die Dienstkleidung der beamteten Kapitäne im nautischen Dienst der landwirtschaftlichen Verwaltung des Bundes zu erlassen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

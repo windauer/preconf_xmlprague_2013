@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR015800003">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erlass über die Genehmigung einer Änderung des Erlasses über die Stiftung der Einsatzmedaille der Bundeswehr</title>
+                <title type="short">OrdenErl7ÄndGenErl</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>2003-01-28</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 14. 2.2003 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d813e22">
+                <head>(XXXX)</head>
+                <p>Der Bundesminister der Verteidigung hat am 6. November 2002 den Erlass über die Stiftung der Einsatzmedaille der Bundeswehr vom 25. April 1996 geändert. Danach kann die Einsatzmedaille der Bundeswehr in mehrstufiger Form - in Bronze, Silber und Gold, gestaffelt nach der Zeitdauer des Dienstes - und auch an Angehörige ausländischer Streitkräfte verliehen werden.Nach Artikel 4 des Siebten Erlasses über die Genehmigung der Stiftung und Verleihung von Orden und Ehrenzeichen vom 2. Mai 1996 (BGBl. I S. 668) genehmige ich diese Änderung.Der Bundesminister des Innern veröffentlicht den Erlass zur Änderung des Erlasses über die Stiftung der Einsatzmedaille der Bundeswehr im Bundesanzeiger.</p>
+            </div>
+            <div xml:id="d813e37">
+                <head>Schlussformel</head>
+                <p>Der Bundespräsident</p>
+            </div>
+        </body>
+    </text>
+</TEI>

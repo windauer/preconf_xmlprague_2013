@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR008489968">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fünftes Gesetz zur Änderung beamtenrechtlicher und besoldungsrechtlicher Vorschriften</title>
+                <title type="short">Beamt/BesRÄndG 5</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1968-07-19</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.4.1967 +++)</p>
+        </front>
+        <body>
+            <div>
+                <head>Erster Abschnitt</head>
+                <head type="subtitle">Regelung des Zusammentreffens von deutschen Dienst- und Versorgungsbezügen mit einer Versorgung aus der Verwendung bei einer zwischenstaatlichen oder überstaatlichen Einrichtung</head>
+                <div xml:id="d380e37">
+                    <head/>
+                </div>
+                <div xml:id="d380e51">
+                    <head/>
+                    <p>(1) Bei der Anwendung des § 8 des Bundesbesoldungsgesetzes und des § 56 des Beamtenversorgungsgesetzes sowie des § 55b Abs. 1 des Soldatenversorgungsgesetzes bleibt die Zeit, die ein Beamter, Soldat oder Versorgungsempfänger vor Inkrafttreten dieses Gesetzes im Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung tätig war, bis zu sechs Jahren außer Betracht.</p>
+                    <p>(2) Auf die bei Inkrafttreten dieses Gesetzes vorhandenen Versorgungsempfänger findet § 56 des Beamtenversorgungsgesetzes und § 55b Abs. 1 Satz 2 des Soldatenversorgungsgesetzes mit der Maßgabe Anwendung, daß ihnen zwölf vom Hundert der ruhegehaltfähigen Dienstbezüge als Versorgung verbleiben.</p>
+                    <p>(3) Hat ein Beamter, Soldat oder Versorgungsempfänger vor Inkrafttreten dieses Gesetzes bei seinem Ausscheiden aus dem öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung anstelle einer Versorgung einen Kapitalbetrag als Abfindung oder Zahlung aus einem Versorgungsfonds erhalten, finden Absatz 1 sowie § 56 des Beamtenversorgungsgesetzes und § 55b Abs. 3 des Soldatenversorgungsgesetzes Anwendung. Der Lauf der in § 56 des Beamtenversorgungsgesetzes und § 55b Abs. 3 Satz 4 des Soldatenversorgungsgesetzes enthaltenen Frist beginnt frühestens mit dem Tag des Inkrafttretens dieses Gesetzes.</p>
+                </div>
+                <div xml:id="d380e71">
+                    <head/>
+                </div>
+                <div xml:id="d380e83">
+                    <head>§ 1</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d380e100">
+                    <head>§ 2</head>
+                    <p>(weggefallen)</p>
+                </div>
+            </div>
+            <div>
+                <head>Zweiter Abschnitt</head>
+                <head type="subtitle">Witwerversorgung</head>
+                <div xml:id="d380e131">
+                    <head/>
+                </div>
+                <div xml:id="d380e145">
+                    <head/>
+                    <p>(weggefallen)</p>
+                </div>
+            </div>
+            <div>
+                <head>Dritter Abschnitt</head>
+                <head type="subtitle">Sonstige Änderungen des Beamtenrechts</head>
+                <div xml:id="d380e174">
+                    <head/>
+                </div>
+            </div>
+            <div>
+                <head>Vierter Abschnitt</head>
+                <head type="subtitle">Schlußvorschriften</head>
+                <div xml:id="d380e202">
+                    <head/>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d380e217">
+                    <head/>
+                    <p>Es treten in Kraft:</p>
+                    <list>
+                        <item n="a)">Der Erste Abschnitt am 1. Juli 1968;</item>
+                        <item n="b)">der Zweite Abschnitt mit Wirkung vom 1. April 1967;</item>
+                        <item n="c)">die übrigen Vorschriften am Tage nach der Verkündung dieses Gesetzes.</item>
+                    </list>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

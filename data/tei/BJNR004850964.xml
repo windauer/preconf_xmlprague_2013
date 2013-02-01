@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004850964">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung zu § 4 des Warenzeichengesetzes</title>
+                <title type="short">WZG§4BIRPIBek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1964-06-25</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 21.7.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1512e20">
+                <head>(XXXX)</head>
+                <p>Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der Fassung vom 9. Mai 1961 (Bundesgesetzbl. I S. 549, 574) wird bekanntgemacht, daß die in der Anlage wiedergegebenen Bezeichnungen der Vereinigten Internationalen Büros für den Schutz des geistigen Eigentums (BIRPI) von der Eintragung als Warenzeichen ausgeschlossen sind.</p>
+            </div>
+            <div xml:id="d1512e30">
+                <head>Schlussformel</head>
+                <p>Der Bundesminister der Justiz</p>
+            </div>
+            <div xml:id="d1512e40">
+                <head>Anlage</head>1. Kennzeichen und Siegel:(Inhalt: Nicht darstellbares Kennzeichen und Siegel,Fundstelle: BGBl. I 1964, 486)2. Sonstige Bezeichnungen:<list>
+                    <item n="">Vereinigte Internationale Büros für den Schutz des geistigen Eigentums Bureaux InternationauxReunis pour la Protection de laPropriete Intellectuelle United International Bureaux for the Protection of Intellectual Property BIRPI</item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

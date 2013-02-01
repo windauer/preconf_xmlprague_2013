@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR008600986">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Durchführung des Seesicherheits-Untersuchungs-Gesetzes</title>
+                <title type="short">SeeUGDV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1986-06-05</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 12.6.1986 +++)(+++ Maßgaben aufgrund des EinigVtr vgl. SeeUGDV Anhang EV; nicht mehranzuwenden gem. Art. 109 Nr. 5 Buchst. d DBuchst. cc G v. 8.12.2010 I 1864 +++)Überschrift: IdF d. Art. 3 Nr. 1 G v. 16.6.2002 I 1815 mWv 20.6.2002</p>
+        </front>
+        <body>
+            <div>
+                <head>Abschnitt 1</head>
+                <head type="subtitle">Örtliche Zuständigkeit der Seeämter</head>
+                <div xml:id="d396e50">
+                    <head>§ 1</head>
+                    <p>Das Seeamt Kiel ist zuständig im Sinne des § 43 des Seesicherheits-Untersuchungs-Gesetzes, wenn die Berechtigung oder Befugnis von der Wasser- und Schifffahrtsdirektion Nord oder vom oder im Land Schleswig-Holstein erteilt worden ist oder wenn in besonderem Maße die Sicherheit der Seefahrt im Zuständigkeitsbereich der Wasser- und Schifffahrtsämter Lübeck, Kiel-Holtenau, Brunsbüttel oder Tönning oder in den angrenzenden Häfen berührt ist.</p>
+                </div>
+                <div xml:id="d396e65">
+                    <head>§ 2</head>
+                    <p>Das Seeamt Hamburg ist zuständig im Sinne des § 43 des Seesicherheits-Untersuchungs-Gesetzes, wenn die Berechtigung oder Befugnis vom oder im Land Hamburg erteilt worden ist oder wenn in besonderem Maße die Sicherheit der Seefahrt im Zuständigkeitsbereich der Wasser- und Schifffahrtsämter Hamburg oder Cuxhaven oder in den angrenzenden Häfen berührt ist.</p>
+                </div>
+                <div xml:id="d396e80">
+                    <head>§ 3</head>
+                    <p>Das Seeamt Bremerhaven ist zuständig im Sinne des § 43 des Seesicherheits-Untersuchungs-Gesetzes, wenn die Berechtigung oder Befugnis vom oder im Land Bremen erteilt worden ist oder wenn in besonderem Maße die Sicherheit der Seefahrt im Zuständigkeitsbereich der Wasser- und Schifffahrtsämter Bremen oder Bremerhaven oder in den angrenzenden Häfen berührt ist.</p>
+                </div>
+                <div xml:id="d396e95">
+                    <head>§ 4</head>
+                    <p>Das Seeamt Emden ist zuständig im Sinne des § 43 des Seesicherheits-Untersuchungs-Gesetzes, wenn die Berechtigung oder Befugnis von der Wasser- und Schifffahrtsdirektion Nordwest oder vom oder im Land Niedersachsen erteilt worden ist oder wenn in besonderem Maße die Sicherheit der Seefahrt im Zuständigkeitsbereich der Wasser- und Schifffahrtsämter Emden oder Wilhelmshaven oder in den angrenzenden Häfen berührt ist.</p>
+                </div>
+                <div xml:id="d396e110">
+                    <head>§ 4a</head>
+                    <p>Das Seeamt Rostock ist zuständig im Sinne des § 43 des Seesicherheits-Untersuchungs-Gesetzes, wenn die Berechtigung oder Befugnis vom oder im Land Mecklenburg-Vorpommern oder von einer Dienststelle der ehemaligen Deutschen Demokratischen Republik erteilt worden ist oder wenn in besonderem Maße die Sicherheit der Seefahrt im Zuständigkeitsbereich des Wasser- und Schifffahrtsamts Stralsund oder in den angrenzenden Häfen berührt ist.</p>
+                </div>
+                <div xml:id="d396e125">
+                    <head>§ 4b</head>
+                    <p>Mehrere Verfahren, denen ein gleicher Sachverhalt zugrunde liegt, sollen nicht von unterschiedlichen Seeämtern durchgeführt werden. Zuständig ist das Seeamt, das als erstes den Sachverhalt zugrunde gelegt hat, sonst das Seeamt, das der Vorsitzende bestimmt.</p>
+                </div>
+            </div>
+            <div>
+                <head>Abschnitt 2</head>
+                <head type="subtitle">Auswahl der ehrenamtlichen Beisitzer</head>
+                <div xml:id="d396e156">
+                    <head>§ 5</head>
+                    <p>(1) Die ehrenamtlichen Beisitzer bei den Seeämtern sind aus folgenden Personengruppen auszuwählen:</p>
+                    <list>
+                        <item n="-">Kapitäne und Schiffsoffiziere des nautischen und technischen Dienstes sowie Funkoffiziere,</item>
+                        <item n="-">See- und Hafenlotsen sowie Kanalsteurer,</item>
+                        <item n="-">Schiffsführer von Binnenschiffen, die auf Seeschiffahrtstraßen oder in Seehäfen fahren,</item>
+                        <item n="-">erfahrene Wassersportler, die mindestens Inhaber des Amtlichen Sportbootführerscheins sind,</item>
+                        <item n="-">Offiziere der Marine, Beamte der Bundespolizei, des Wasserzolldienstes und der Wasserschutzpolizei,</item>
+                        <item n="-">Bedienstete der Wasser- und Schiffahrtsverwaltung des Bundes und der Länder mit besonderen Fachkenntnissen insbesondere auf den Gebieten des Wasserbaus und der Seezeichen-Technik sowie des Hafenbetriebes,</item>
+                        <item n="-">Bedienstete des Bundesamtes für Seeschifffahrt und Hydrographie,</item>
+                        <item n="-">Technische Aufsichtsbeamte und ihnen fachlich gleichgestellte Bedienstete der Berufsgenossenschaft für Transport und Verkehrswirtschaft,</item>
+                        <item n="-">Bedienstete der Arbeitsschutzbehörden (§ 102 Seemannsgesetz),</item>
+                        <item n="-">Technische Mitarbeiter anerkannter Organisationen, mit denen ein Auftragsverhältnis nach der in Abschnitt D Nummer 7 der Anlage zum Schiffssicherheitsgesetz genannten Richtlinie 2009/15/EG begründet worden ist,</item>
+                        <item n="-">Mitglieder von Schiffsuntersuchungskommissionen,</item>
+                        <item n="-">Mitarbeiter des Such- und Rettungsdienstes der Deutschen Gesellschaft zur Rettung Schiffbrüchiger,</item>
+                        <item n="-">Reeder und Schiffsmakler sowie ihre Mitarbeiter,</item>
+                        <item n="-">Inhaber oder Mitarbeiter von Werft- und Hafenbetrieben,</item>
+                        <item n="-">Dozenten an Technischen Universitäten (Hochschulen), Universitäten und an Fach- oder Fachhochschulen.</item>
+                    </list>
+                    <p>(2) Die Beisitzer müssen über eine mehrjährige, möglichst zeitnahe fachliche Erfahrung im Sinne des Absatzes 1 verfügen.</p>
+                    <p>(3) Personen, die das 61. Lebensjahr vollendet haben, sollen nicht zum Beisitzer bestellt werden.</p>
+                </div>
+                <div xml:id="d396e207">
+                    <head>§ 6</head>
+                    <p>Die Beisitzerliste muß enthalten:</p>
+                    <list>
+                        <item n="-">Namen, Geburtstag und Wohnsitz des Beisitzers,</item>
+                        <item n="-">Angaben über Art und Dauer seiner bisherigen beruflichen Tätigkeit, gegebenenfalls auch den Arbeitgeber, sowie</item>
+                        <item n="-">im Einvernehmen mit dem Beisitzer auch Angaben über seine besonderen fachlichen Qualifikationen und Erfahrungen.</item>
+                    </list>
+                    <p>Befähigungszeugnisse, Bestallungen als Seelotse und Fahrerlaubnisse sind zu bezeichnen. Die Stelle, die den Beisitzer benannt hat, ist anzugeben.</p>
+                </div>
+            </div>
+            <div>
+                <head>Abschnitt 3</head>
+                <head type="subtitle">Kosten der Seeunfalluntersuchung</head>
+                <div xml:id="d396e245">
+                    <head>§ 7</head>
+                    <p>Die Seeämter erheben für Amtshandlungen auf dem Gebiet der Untersuchung von Seeunfällen Gebühren nach der Anlage zu dieser Verordnung.</p>
+                </div>
+            </div>
+            <div>
+                <head>Abschnitt 4</head>
+                <head type="subtitle">Schlußvorschriften</head>
+                <div xml:id="d396e276">
+                    <head>§ 8</head>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d396e289">
+                    <head>§ 9</head>
+                    <p>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</p>
+                </div>
+                <div xml:id="d396e303">
+                    <head>Anlage</head>
+                    <p>(Fundstelle: BGBl. I 2002, 1827;bzgl. der einzelnen Änderungen vgl. Fußnote)</p>
+                    <p>Nr.Gebührentatbestand/RechtsgrundlageGebühr Euro1Entzug einer Berechtigung im Sinne des § 39 Nummer 1 SUG oder Untersagung der Ausübung von Befugnissen hieraus (§ 50 Absatz 1, 2 und 4 SUG)2502Entzug einer Fahrerlaubnis für Sportboote Sportboote oder sonstige Fahrzeuge im Sinne des § 39 Nummer 2 SUG oder Untersagung der Ausübung von Befugnissen hieraus (§ 50 Absatz 1, 2 und 4 SUG)2003Erfolgloser Widerspruch gegen die Anordnung der Herausgabe von für die Untersuchung erheblichen Unterlagen und Gegenständen (§ 47 Absatz 1 Satz 2 SUG)75</p>
+                </div>
+                <div xml:id="d396e362">
+                    <head>Anhang EV</head>
+                    <p>Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:1. und 2. ...<list>
+                            <item n="3.">Verordnung zur Durchführung des Seeunfalluntersuchungsgesetzes vom 5. Juni 1986 (BGBl. I S. 860) mit folgender Maßgabe: Bei der Anwendung der §§ 5 und 6 werden auch die Personen berücksichtigt, die in der "Liste der Beisitzer der Seekammern" der Deutschen Demokratischen Republik erfaßt sind.</item>
+                        </list>...</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

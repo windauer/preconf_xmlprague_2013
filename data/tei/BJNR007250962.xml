@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR007250962">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rechtsverordnung über die Beteiligung sachverständiger Stellen der gewerblichen Wirtschaft an dem Verfahren der Erteilung von Leistungsbescheiden</title>
+                <title type="short">LeistBeschV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1962-12-13</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d237e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 3 Abs. 3 Satz 3 des Bundesleistungsgesetzes in der Fassung vom 27. September 1961 (Bundesgesetzbl. I S. 1769) verordnet die Bundesregierung mit Zustimmung des Bundesrates:</p>
+            </div>
+            <div xml:id="d237e30">
+                <head>§ 1</head>
+                <p>Sachverständige Stellen der gewerblichen Wirtschaft im Sinne des § 3 Abs. 3 Satz 3 des Bundesleistungsgesetzes sind die Industrie- und Handelskammern und die Handwerkskammern.</p>
+            </div>
+            <div xml:id="d237e40">
+                <head>§ 2</head>
+                <p>Die Industrie- und Handelskammern und die Handwerkskammern beraten die Anforderungsbehörden bei der Vorbereitung und Durchführung von Anforderungen nach dem Bundesleistungsgesetz. Sie können sich hierbei vor allem über die Leistungsfähigkeit eines Unternehmens oder einzelner Gewerbezweige gutachtlich äußern und Vorschläge unterbreiten. Sie können ferner von den Anforderungsbehörden um gutachtliche Äußerung darüber ersucht werden, ob im Einzelfall durch eine Anforderung</p>
+                <list>
+                    <item n="a)">die Leistungsfähigkeit des Unternehmens überfordert oder die Erfüllung der in Krisenzeiten oder im Verteidigungsfall notwendigen Leistungen wesentlich beeinträchtigt wird;</item>
+                    <item n="b)">die Versorgung der Bevölkerung oder der Streitkräfte mit Gütern und Leistungen oder die notwendige Lagerhaltung und Bevorratung gefährdet werden.</item>
+                </list>
+            </div>
+            <div xml:id="d237e55">
+                <head>§ 3</head>
+                <p>Für die Durchführung der in § 2 bezeichneten Aufgaben ist diejenige Industrie- und Handelskammer oder Handwerkskammer zuständig, in deren Bezirk das Unternehmen, das zu einer Leistung herangezogen wurde oder werden soll, seinen Sitz oder eine gewerbliche Niederlassung, Betriebstätte oder Verkaufsstelle hat.</p>
+            </div>
+            <div xml:id="d237e65">
+                <head>§ 4</head>
+                <p>Diese Verordnung tritt mit ihrer Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

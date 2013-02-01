@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004019979">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über die Änderung des Ehenamens</title>
+                <title type="short">EheNÄndG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1979-03-27</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 4.1979 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1410e24">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d1410e39">
+                <head/>
+            </div>
+            <div xml:id="d1410e53">
+                <head>§ 1</head>
+                <p>(1) Haben Ehegatten vor dem 1. Juli 1976 die Ehe geschlossen, so können sie vor Ablauf eines Jahres nach dem Inkrafttreten dieses Gesetzes gemeinsam erklären, daß sie den Geburtsnamen der Frau als Ehenamen führen wollen.</p>
+                <p>(2) Absatz 1 gilt nicht, wenn die Ehe aufgelöst oder für nichtig erklärt ist.</p>
+            </div>
+            <div xml:id="d1410e70">
+                <head>§ 2</head>
+                <p>(1) Die Namensänderung erstreckt sich auf den Geburtsnamen eines Abkömmlings, welcher das vierzehnte Lebensjahr vollendet hat, nur dann, wenn er sich der Namensänderung seiner Eltern durch Erklärung anschließt. Ein in der Geschäftsfähigkeit beschränkter Abkömmling kann die Erklärung nur selbst abgeben; er bedarf hierzu der Zustimmung seines gesetzlichen Vertreters.</p>
+                <p>(2) Ist der frühere Geburtsname zum Ehenamen eines Abkömmlings geworden, so erstreckt sich die Namensänderung auf den Ehenamen nur dann, wenn die Ehegatten die Erklärung nach Absatz 1 gemeinsam abgeben.</p>
+                <p>(3) Die Erklärungen nach Absatz 1 und 2 sind innerhalb eines Jahres abzugeben; die Frist beginnt mit der Abgabe der Erklärung nach § 1.</p>
+            </div>
+            <div xml:id="d1410e89">
+                <head>§ 3</head>
+                <p>(1) Die Erklärungen bedürfen der öffentlichen Beglaubigung. Sie sind dem für ihre Entgegennahme zuständigen Standesbeamten zu übersenden.</p>
+                <p>(2) Die Erklärungen können auch von den Standesbeamten beglaubigt oder beurkundet werden.</p>
+            </div>
+            <div xml:id="d1410e106">
+                <head>§ 4</head>
+                <p>(1) Zur Entgegennahme der Erklärung über die Änderung des Ehenamens ist der Standesbeamte zuständig, der das Familienbuch der Ehegatten führt; wird ein Familienbuch nicht geführt, so ist der Standesbeamte zuständig, der die Eheschließung beurkundet hat. Der Standesbeamte nimmt auf Grund der Erklärung die Eintragung in das von ihm geführte Personenstandsbuch vor.</p>
+                <p>(2) Zur Entgegennahme der Erklärung über die Änderung des Geburtsnamens ist der Standesbeamte zuständig, der die Geburt des Abkömmlings beurkundet hat; er nimmt auf Grund der Erklärung die Eintragung in das Geburtenbuch vor.</p>
+                <p>(3) Haben die Ehegatten die Ehe außerhalb des Geltungsbereichs dieses Gesetzes geschlossen und wird ein Familienbuch nicht geführt, so ist der Standesbeamte des Standesamts I in Berlin (West) zuständig. Er erteilt, falls er kein Personenstandsbuch führt, in das auf Grund der Erklärung eine Eintragung vorzunehmen wäre, dem Erklärenden und den weiter von der Erklärung Betroffenen eine Bescheinigung über die Entgegennahme und die Wirkungen der Erklärung. Gleiches gilt, wenn die Geburt des Abkömmlings nicht im Geltungsbereich dieses Gesetzes beurkundet ist.</p>
+                <p>(4) Der Bundesminister des Innern wird ermächtigt, in Benehmen mit dem Bundesminister der Justiz und mit Zustimmung des Bundesrates zur Durchführung dieses Gesetzes Verwaltungsvorschriften über die nähere Behandlung der Erklärungen und die Mitteilungspflichten der Standesbeamten zu erlassen.</p>
+            </div>
+            <div xml:id="d1410e127">
+                <head/>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d1410e142">
+                <head/>
+                <p>(1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 am 1. Juli 1979 in Kraft.</p>
+                <p>(2) § 4 Abs. 4 tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

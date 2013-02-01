@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR003150965">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über die Berechnung strafrechtlicher Verjährungsfristen</title>
+                <title type="short">StrVerjFrG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1965-04-13</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.4.1970 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1334e23">
+                <head>§ 1</head>
+                <p>(1) Bei der Berechnung der Verjährungsfrist für die Verfolgung von Verbrechen, die mit lebenslanger Freiheitsstrafe bedroht sind, bleibt die Zeit vom 8. Mai 1945 bis zum 31. Dezember 1949 außer Ansatz. In dieser Zeit hat die Verjährung der Verfolgung dieser Verbrechen geruht.</p>
+                <p>(2) Absatz 1 gilt nicht für Taten, deren Verfolgung beim Inkrafttreten dieses Gesetzes bereits verjährt ist.</p>
+                <p>§ 1 Abs. 1: Mit dem GG vereinbar, BVerfGE v. 26.2.1969 I 342 - 2 BvL 15/68, 2 BvL 23/68 -</p>
+            </div>
+            <div xml:id="d1334e41">
+                <head>§ 2</head>
+                <p>Soweit die Verjährung der Strafverfolgung nach § 1 ruht, findet § 5 Abs. 1 des Ersten Gesetzes zur Aufhebung des Besatzungsrechts vom 30. Mai 1956 (Bundesgesetzbl. I S. 437) keine Anwendung.</p>
+            </div>
+            <div xml:id="d1334e53">
+                <head>§ 3</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d1334e65">
+                <head>§ 4</head>
+                <p>Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

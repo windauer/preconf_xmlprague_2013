@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR001270975">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark</title>
+                <title type="short">Münz5DMBek 1975-01-08</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1975-01-08</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div xml:id="d1115e17">
+                <head>(XXXX)</head>
+                <p>(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzbl. S. 323) gibt der Bund nachfolgend beschriebene, für den Zahlungsverkehr bestimmte Bundesmünze im Nennwert von 5 Deutschen Mark heraus. Die neue Münze wird in hoher Auflage von den vier Münzstätten der Bundesrepublik Deutschland (Münzzeichen: D, F, G, J) geprägt und vom 1. Februar 1975 an in den Verkehr gegeben. Sie soll die derzeitige 5 DM-Umlaufmünze aus Silber ersetzen, die voraussichtlich am 1. August 1975 außer Kurs gesetzt werden wird.</p>
+                <p>(2) Die Bildseite der Münze trägt - in Relief-Prägung - den Bundesadler, die jeweilige Jahreszahl, beginnend mit 1975, und eines der vorgenannten Münzzeichen.</p>
+                <p>(3) Die Wertseite der Münze zeigt als beherrschenden Bildteil die große Wertziffer 5, die vertieft in einem erhaben ausgeführten Rechteck mit stark abgerundeten Ecken liegt. Die auf dem vertieften Feld stehende, erhaben ausgeprägte Umschrift paßt sich in ihrem Verlauf der Form des Mittelteils an und lautet:</p>
+                <list>
+                    <item n="">"BUNDESREPUBLIK DEUTSCHLAND<list>
+                            <item n="">. DEUTSCHE MARK .".</item>
+                        </list>
+                    </item>
+                </list>
+                <p>(4) Die Prägung auf beiden Seiten der Münze wird von einem das Gepräge schützenden glatten, gleichmäßig breiten Randstab umgeben.</p>
+                <p>(5) Der glatte Münzrand trägt die vertiefte Inschrift:</p>
+                <list>
+                    <item n="">"EINIGKEIT UND RECHT UND FREIHEIT".</item>
+                </list>
+                <p>Zwischen den Worten "FREIHEIT" und "EINIGKEIT" sind zwei Ornamente, zwischen den übrigen Worten ist je ein Ornament eingeprägt.</p>
+                <p>(6) Die Münze hat ein Gewicht von 10 Gramm und einen Durchmesser von 29 Millimetern. Sie besteht überwiegend aus einer Kupfer-Nickel-Legierung (75 Prozent Kupfer und 25 Prozent Nickel) und hat einen Reinnickelkern.</p>
+                <p>(7) Der Entwurf der Münze stammt von Herrn Wolfgang Doehm, Stuttgart.</p>
+                <p>(8) Dies wird namens der Bundesregierung bekanntgemacht.</p>
+            </div>
+            <div xml:id="d1115e51">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister der Finanzen</p>
+            </div>
+            <div xml:id="d1115e62">
+                <head>(XXXX)</head>
+                <p>(Inhalt: nicht darstellbare Abbildung)Fundstelle: BGBl I 1975, 127</p>
+            </div>
+        </body>
+    </text>
+</TEI>

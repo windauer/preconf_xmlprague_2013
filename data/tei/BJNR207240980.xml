@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR207240980">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Protokoll zum Internationalen Übereinkommen von 1969 über die zivilrechtliche Haftung für Ölverschmutzungsschäden</title>
+                <title type="short">ÖlHaftÜbkProt</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1976-11-19</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>G v. 9.6.1980 II 721Inkraft gem. Bek. v. 19.2.1981 II 122 mWv 8.4.1981</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

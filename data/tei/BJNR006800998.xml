@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006800998">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung des Organisationserlasses des Bundeskanzlers</title>
+                <title type="short">BKOrgErl1997Bek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1997-12-17</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 17.12.1997 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d198e20">
+                <head>Eingangsformel</head>
+                <p>Nachstehend mache ich den Organisationserlaß des Bundeskanzlers vom 17. Dezember 1997 bekannt, der mit Wirkung vom gleichen Tage in Kraft tritt:</p>
+            </div>
+            <div xml:id="d198e30">
+                <head>I.</head>
+                <p>Das Bundesministerium für Post und Telekommunikation wird mit dem Ablauf des 31. Dezember 1997 aufgelöst.</p>
+            </div>
+            <div xml:id="d198e40">
+                <head>II.</head>
+                <p>Mit Wirkung vom 1. Januar 1998 tritt folgendes in Kraft:</p>
+                <list>
+                    <item n="1.">Dem Bundesministerium der Finanzen werden aus dem Geschäftsbereich des Bundesministeriums für Post und Telekommunikation übertragen:<list>
+                            <item n="-">die Zuständigkeit für die Bundesanstalt für Post und Telekommunikation Deutsche Bundespost, die Museumsstiftung Post und Telekommunikation und die Unfallkasse Post und Telekom,</item>
+                            <item n="-">die beamten- und personalvertretungsrechtlichen Zuständigkeiten für die Beamten der Aktiengesellschaften Deutsche Telekom AG, Deutsche Post AG und Deutsche Postbank AG,</item>
+                            <item n="-">die Befugnis zur Herausgabe von Postwertzeichen.</item>
+                        </list>Die der Bundesdruckerei GmbH durch Dienstleistungsüberlassungsvertrag zugeordneten Beamten werden in den Geschäftsbereich des Bundesministeriums der Finanzen übergeleitet.</item>
+                    <item n="2.">Dem Bundesministerium für Wirtschaft werden alle übrigen Zuständigkeiten aus dem Geschäftsbereich des Bundesministeriums für Post und Telekommunikation übertragen.</item>
+                </list>
+            </div>
+            <div xml:id="d198e63">
+                <head>III.</head>
+                <p>Die Einzelheiten des Überganges werden zwischen den beteiligten Bundesministern geregelt und dem Chef des Bundeskanzleramtes mitgeteilt.</p>
+            </div>
+            <div xml:id="d198e73">
+                <head>Schlußformel</head>
+                <p>Der Chef des Bundeskanzleramtes</p>
+            </div>
+        </body>
+    </text>
+</TEI>

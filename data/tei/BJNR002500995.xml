@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002500995">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Achtzehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des Auslandsunterhaltsgesetzes</title>
+                <title type="short">AUG§1Abs2Bek 18</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1994-12-08</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 18. 1.1995 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1268e20">
+                <head>(XXXX)</head>
+                <p>Auf Grund des § 1 Abs. 2 des Auslandsunterhaltsgesetzes vom 19. Dezember 1986 (BGBl. I S. 2563) wird bekanntgemacht, daß die Gegenseitigkeit im Sinne dieses Gesetzes verbürgt ist im Verhältnis zu der kanadischen Provinz</p>
+                <list>
+                    <item n="">Alberta.</item>
+                </list>
+                <p>Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 24. November 1993 (BGBl. I S. 2045).</p>
+                <p>Bundesministerium der Justiz</p>
+            </div>
+        </body>
+    </text>
+</TEI>

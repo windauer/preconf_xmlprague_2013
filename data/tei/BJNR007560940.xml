@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR007560940">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Mündelsicherheit der Pfandbriefe und verwandten Schuldverschreibungen</title>
+                <title type="short">MündelPfandBrV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1940-05-07</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1964 +++)Überschrift: Abkürzung eingef. durch Art. 35 Nr. 1 G v. 8.12.2010 I 1864 mWv 15.12.2010</p>
+        </front>
+        <body>
+            <div xml:id="d280e29">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 1807 Abs. 1 Nr. 4 des Bürgerlichen Gesetzbuchs wird verordnet:</p>
+            </div>
+            <div xml:id="d280e39">
+                <head>§ 1</head>
+                <p>(1) Zur Anlegung von Mündelgeld sind geeignet:</p>
+                <list>
+                    <item n="1.">Schuldverschreibungen, welche von einer Hypothekenbank auf Grund des Hypothekenbankgesetzes in der Fassung der Bekanntmachung vom 9. September 1998 (BGBl. I S. 2674), zuletzt geändert durch Artikel 8 des Gesetzes vom 5. April 2004 (BGBl. I S. 502) und aufgehoben durch Artikel 18 Nr. 5 des Gesetzes vom 22. Mai 2005 (BGBl. I S. 1373), ausgegeben sind;</item>
+                    <item n="2.">Schuldverschreibungen, welche auf Grund des Gesetzes über die Pfandbriefe und verwandten Schuldverschreibungen öffentlich-rechtlicher Kreditanstalten in Fassung der Bekanntmachung vom 9. September 1998 (BGBl. I S. 2772, 2000 I S. 440), zuletzt geändert durch Artikel 8a des Gesetzes vom 5. April 2004 (BGBl. I S. 502) und aufgehoben durch Artikel 18 Nr. 2 des Gesetzes vom 22. Mai 2005 (BGBl. I S. 1373), ausgegeben sind oder auf welche dieses Gesetz Anwendung findet;</item>
+                    <item n="3.">Schuldverschreibungen, welche von einer Schiffspfandbriefbank auf Grund des Schiffsbankgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 7628-2, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 8b des Gesetzes vom 5. April 2004 (BGBl. I S. 502) und aufgehoben durch Artikel 18 Nr. 7 des Gesetzes vom 22. Mai 2005 (BGBl. I S. 1373), ausgegeben sind;</item>
+                    <item n="3a.">Schuldverschreibungen, die nach den Vorschriften des Pfandbriefgesetzes als Pfandbriefe ausgegeben werden oder auf welche dieses Gesetz Anwendung findet.</item>
+                    <item n="4.">(weggefallen)</item>
+                </list>
+                <p>(2) Absatz 1 gilt nicht für Schuldverschreibungen, die auf ausländische Zahlungsmittel lauten.</p>
+            </div>
+            <div xml:id="d280e63">
+                <head>§ 2</head>
+                <p>Das Bundesministerium der Justiz kann im Einvernehmen mit dem Bundesministerium der Finanzen Ausnahmen bestimmen. Die Bestimmung ist im Bundesgesetzblatt bekanntzumachen. Sie wird mit der Bekanntmachung wirksam.</p>
+            </div>
+            <div xml:id="d280e74">
+                <head>Schlußformel</head>
+                <p>Der Reichsminister der Justiz</p>
+            </div>
+        </body>
+    </text>
+</TEI>

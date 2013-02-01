@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR009130967">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung der Beamten im Wach- und Pförtnerdienst im Geschäftsbereich des Bundesministers der Verteidigung</title>
+                <title type="short">BPräsKldgPfBMVgAnO</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1967-08-02</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 23. 8.1967 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d442e20">
+                <head>(XXXX)</head>
+                <p>Gemäß § 76 des Bundesbeamtengesetzes übertrage ich dem Bundesminister der Verteidigung die Ausübung der Befugnis, Bestimmungen über die Dienstkleidung der Beamten im Wach- und Pförtnerdienst seines Geschäftsbereichs zu erlassen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR010170989">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung</title>
+                <title type="short">BPräsAmtsbezAnO 1989</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1989-05-22</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 31. 5.1989 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d524e20">
+                <head>(XXXX)</head>
+                <p>Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende Amtsbezeichnung fest:</p>
+                <list>
+                    <item n="">"Direktor des Bundesinstituts für ostdeutsche Kultur und Geschichte"</item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

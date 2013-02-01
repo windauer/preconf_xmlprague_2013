@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000010886">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung betreffend die Bestimmung der Form des Stempelzeichens zur Angabe des Feingehalts auf goldenen und silbernen Geräten</title>
+                <title type="short">FeinGehStempG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1886-01-07</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d983e20">
+                <head>(XXXX)</head>Auf Grund des § 3 des Gesetzes über den Feingehalt der Gold- und Silberwaren vom 16. Juli 1884 (Reichsgesetzbl. S. 120) hat der Bundesrat folgende Bestimmung getroffen:Das Stempelzeichen für die Gold- und Silbergeräte muß enthalten:<list>
+                    <item n="1.">die Reichs-Krone,</item>
+                    <item n="2.">das Sonnenzeichen... für Gold oder das Mondsichelzeichen... für Silber,</item>
+                    <item n="3.">die Angabe des Feingehalts in Tausendteilen und</item>
+                    <item n="4.">die Firma oder die in Gemäßheit desGesetzes vom 30. November 1874eingetragene Schutzmarke des Geschäfts, für welches die Stempelung bewirkt ist.</item>
+                </list>Die Krone muß<list>
+                    <item n="">bei Goldgeräten in dem Sonnenzeichen..., bei Silbergeräten rechts neben dem Mondsichelzeichen...</item>
+                </list>sich befinden.<list>
+                    <item n="">Gold... Silber...</item>
+                </list>(... = nicht darstellbare Abbildungen,Fundstelle: BGBl. Teil III)<p>Nr. 4 Kursivdruck: Jetzt des Warenzeichengesetzes 423-1</p>
+            </div>
+        </body>
+    </text>
+</TEI>

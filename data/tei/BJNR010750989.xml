@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR010750989">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Vergütung für Soldaten mit besonderer zeitlicher Belastung</title>
+                <title type="short">SzBelVergV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1989-06-02</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.6.1989 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d574e25">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des durch Artikel 1 Nr. 1 des Gesetzes vom 21. Februar 1989 (BGBl. I S. 240) neu gefaßten § 50a des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 21. Februar 1989 (BGBl. I S. 261) wird im Einvernehmen mit dem Bundesminister der Verteidigung und dem Bundesminister der Finanzen verordnet:</p>
+            </div>
+            <div xml:id="d574e35">
+                <head>§ 1</head>
+                <p>(1) Soldaten mit Dienstbezügen aus der Besoldungsordnung A, die</p>
+                <list>
+                    <item n="1.">mehr als 12 und höchstens 16 Stunden,</item>
+                    <item n="2.">mehr als 16 und höchstens 24 Stunden</item>
+                </list>
+                <p>zusammenhängenden Dienst leisten, erhalten eine Vergütung.</p>
+                <p>(2) Die Vergütung wird nur gewährt, wenn</p>
+                <list>
+                    <item n="1.">der Dienst angeordnet oder genehmigt wurde,</item>
+                    <item n="2.">eine Freistellung vom Dienst nicht gewährt werden kann und</item>
+                    <item n="3.">die wöchentliche Rahmendienstzeit oder bei Schichtdienst eine entsprechende Dienstzeit überschritten wurde.</item>
+                </list>
+                <p>Während des vierten bis sechsten Dienstmonats seit dem Dienstantritt wird in der Regel die Vergütung gewährt.</p>
+            </div>
+            <div xml:id="d574e64">
+                <head>§ 2</head>
+                <p>(1) Vom Beginn des vierten bis zum Ablauf des sechsten Dienstmonats seit dem Dienstantritt beträgt die Vergütung für jede Dienstleistung nach § 1 Abs. 1- Nummer 112,78 Euro,- Nummer 225,56 Euro.</p>
+                <p>(2) Vom Beginn des siebten Dienstmonats seit dem Dienstantritt an beträgt die Vergütung für jede Dienstleistung nach § 1 Abs. 1- Nummer 117,90 Euro,- Nummer 235,79 Euro.</p>
+            </div>
+            <div xml:id="d574e111">
+                <head>§ 3</head>
+                <p>Die Vergütung wird nicht gewährt</p>
+                <list>
+                    <item n="1.">für Dienste in den ersten drei Monaten seit dem Dienstantritt,</item>
+                    <item n="2.">neben Auslandsdienstbezügen oder Auslandsverwendungszuschlag nach dem 5. Abschnitt des Bundesbesoldungsgesetzes,</item>
+                    <item n="3.">neben einer Stellenzulage nach Nummer 7 oder Nummer 8 der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B,</item>
+                    <item n="4.">für zusätzlichen Dienst als erzieherische Maßnahme sowie für Dienst während der Vollstreckung von gerichtlichen Freiheitsentziehungen, Disziplinararrest und Ausgangsbeschränkung,</item>
+                    <item n="5.">mit Feststellung des Spannungs- oder Verteidigungsfalles, nach einem Beschluss nach Artikel 80a Abs. 3 Satz 1 des Grundgesetzes oder der Anordnung von Wehrübungen als Bereitschaftsdienst nach § 6 Abs. 6 des Wehrpflichtgesetzes,</item>
+                    <item n="6.">für Dienste zur Erhöhung der Bereitschaft der Streitkräfte, die das Bundesministerium der Verteidigung anordnet, um die notwendige Reaktionsfähigkeit der Streitkräfte zur Wahrnehmung ihrer Aufgaben herzustellen und</item>
+                    <item n="7.">neben einer Vergütung nach der Sanitätsoffiziersvergütungsverordnung.</item>
+                </list>
+            </div>
+            <div xml:id="d574e139">
+                <head>§ 4</head>
+                <p>Diese Verordnung tritt mit Wirkung vom 1. Juni 1989 in Kraft.</p>
+            </div>
+            <div xml:id="d574e151">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister des Innern</p>
+            </div>
+        </body>
+    </text>
+</TEI>

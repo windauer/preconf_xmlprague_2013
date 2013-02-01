@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR011220967">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung zu § 4 des Warenzeichengesetzes</title>
+                <title type="short">WZG§4HUNBek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1967-10-30</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 10.11.1967 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d601e20">
+                <head>(XXXX)</head>
+                <p>(1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung vom 9. Mai 1961 (Bundesgesetzbl. I S. 549, 574), zuletzt geändert durch Gesetz vom 4. September 1967 (Bundesgesetzbl. I S. 953), werden in der Anlage amtliche Prüf- und Gewährzeichen bekanntgemacht, die in der Volksrepublik Ungarn für Erzeugnisse aus Edelmetallen eingeführt sind.</p>
+                <p>(2) Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 17. Mai 1967 (Bundesgesetzblatt I S. 574).</p>
+            </div>
+            <div xml:id="d601e32">
+                <head>Schlussformel</head>
+                <p>Der Bundesminister der Justiz</p>
+            </div>
+            <div xml:id="d601e42">
+                <head>Anlage</head>
+                <p>(Fundstelle: BGBl. I 1967, 1123 - 1124)(Inhalt: nicht darstellbare Prüf- und Gewährzeichen)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

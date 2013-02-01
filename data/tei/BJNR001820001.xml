@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR001820001">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vierte Verordnung über die Inkraftsetzung von Änderungen internationaler Vorschriften über den Umweltschutz im Seeverkehr</title>
+                <title type="short">UmwSeeInkrV 4</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>2001-01-10</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:Beachtung derEGRL 34/98 (CELEX Nr: 398L0034) +++)Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen Parlaments und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften (ABl. EG Nr. L 204 S. 37), zuletzt geändert durch die Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20. Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

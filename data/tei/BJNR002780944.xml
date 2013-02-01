@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002780944">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die steuerliche Begünstigung von Wasserkraftwerken</title>
+                <title type="short">WasKwV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1944-10-26</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 21.8.1977 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1297e25">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 12 der Reichsabgabenordnung wird im Einvernehmen mit dem Reichsminister des Innern und dem Generalinspektor für Wasser und Energie verordnet:</p>
+            </div>
+            <div xml:id="d1297e35">
+                <head>§ 1</head>
+                <p>Unternehmen, die elektrische Arbeit durch Wasserkräfte erzeugen, werden nach Maßgabe dieser Verordnung steuerlich begünstigt.</p>
+            </div>
+            <div xml:id="d1297e47">
+                <head>§ 2</head>
+                <p>(1) Die steuerliche Begünstigung erstreckt sich nur auf die Anlagen zur Erzeugung elektrischer Arbeit durch Wasserkräfte (Wasserkraftwerke). Zu den Wasserkraftwerken gehören auch die Anlagen zur Fortleitung der erzeugten elektrischen Arbeit bis zu den Abspannketten der Fernleitungen.</p>
+                <p>(2) Die steuerliche Begünstigung kann auf Antrag auch für die Anlagen zur Fortleitung des Stroms aus steuerbegünstigten Wasserkraftwerken gewährt werden.</p>
+            </div>
+            <div xml:id="d1297e61">
+                <head>§ 3</head>
+                <p>Die steuerliche Begünstigung tritt nur ein, wenn der Baubeginn der Anlagen in die Zeit vom 1. Januar 1938 bis zum 31. Dezember 1990 fällt.</p>
+            </div>
+            <div xml:id="d1297e74">
+                <head>§ 4</head>
+                <p>(1) Die Einkommensteuer oder die Körperschaftsteuer, die auf den Gewinn aus den steuerbegünstigten Anlagen entfällt, ermäßigt sich ab dem Betriebsbeginn für die Dauer von zwanzig Jahren auf die Hälfte der gesetzlichen Beträge.</p>
+                <p>(2) Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Vorschriften über die Ermittlung des steuerbegünstigten Gewinns für den Fall zu erlassen, daß ein Unternehmen steuerbegünstigte und nicht steuerbegünstigte Anlagen unterhält.</p>
+            </div>
+            <div xml:id="d1297e89">
+                <head>§ 5</head>
+                <p>Die Vermögensteuerund die Aufbringungsumlage,die auf die steuerbegünstigten Anlagen entfallen, sind während der Bauzeit nicht zu entrichten. Sie ermäßigen sich ab dem Betriebsbeginn für die Dauer von zwanzig Jahren auf die Hälfte der gesetzlichen Beträge.</p>
+            </div>
+            <div xml:id="d1297e105">
+                <head>§ 6</head>
+                <p>(1) Die einheitlichen Gewerbesteuermeßbeträge, die auf die steuerbegünstigten Anlagen entfallen, ermäßigen sich ab dem Betriebsbeginn für die Dauer von zwanzig Jahren auf die Hälfte der gesetzlichen Beträge.</p>
+                <p>(2) (weggefallen)</p>
+            </div>
+            <div xml:id="d1297e120">
+                <head>§ 7</head>
+                <p>(1) Die Summe der Absetzungen für Abnutzung auf die Wirtschaftsgüter, die zu den steuerbegünstigten Anlagen gehören, muß für die gesamte Dauer der Steuerbegünstigung bei den Wasserkraftwerken mindestens 25 vom Hundert, bei den Fortleitungsanlagen (§ 2 Abs. 2) mindestens 40 vom Hundert der Anschaffungs- oder Herstellungskosten betragen.</p>
+                <p>(2) Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung zu bestimmen, wie der Gesamtbetrag der Absetzung für Abnutzung auf die einzelnen Jahre zu verteilen ist. Bleibt die Summe der Absetzungen für Abnutzung eines Jahres hinter dem danach maßgebenden Betrag zurück, so tritt die steuerliche Begünstigung für dieses Jahr nicht ein.</p>
+            </div>
+            <div xml:id="d1297e135">
+                <head>§ 8</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1297e147">
+                <head>§ 9</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1297e160">
+                <head>§ 10</head>
+                <p>(1) Die Bestimmungen dieser Verordnung sind erstmalig anzuwenden:</p>
+                <list>
+                    <item n="a)">bei der Veranlagung zur Einkommensteuer und zur Körperschaftsteuer für das Kalenderjahr 1943;</item>
+                    <item n="b)">bei der Veranlagung zur Vermögensteuer und zur Aufbringungsumlage für das Rechnungsjahr 1943;</item>
+                    <item n="c)">bei der Festsetzung der einheitlichen Gewerbesteuermeßbeträge für das Kalenderjahr 1943.</item>
+                </list>
+                <p>(2) ...</p>
+                <p>(3) § 8 in der im Bundesgesetzblatt Teil III, Gliederungsnummer 610-6-2, veröffentlichten bereinigten Fassung ist letztmals für Wirtschaftsjahre anzuwenden, die vor dem 1. Januar 1984 enden.</p>
+            </div>
+            <div xml:id="d1297e184">
+                <head>Schlußformel</head>
+                <p>Der Reichsminister der Finanzen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

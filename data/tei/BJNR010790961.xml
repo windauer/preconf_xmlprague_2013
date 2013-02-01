@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR010790961">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung zu § 35 des Warenzeichengesetzes</title>
+                <title type="short">WZG§35THABek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1961-07-25</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d578e20">
+                <head>(XXXX)</head>
+                <p>Auf Grund des § 35 Abs. 3 Satz 2 des Warenzeichengesetzes in der Fassung vom 9. Mai 1961 (Bundesgesetzbl. I S. 549, 574) wird gemäß einer Erklärung des Generaldirektors des thailändischen Amtes für gewerbliche Registrierungen bekanntgemacht:Deutsche Staatsangehörige, die ein Warenzeichen in dem Königreich Thailand anmelden, brauchen nicht den Nachweis zu erbringen, daß sie für das Zeichen in dem Staat, in dem sich ihre Niederlassung befindet, den Markenschutz gesucht und erhalten haben.</p>
+            </div>
+            <div xml:id="d578e33">
+                <head>Schlussformel</head>
+                <p>Der Bundesminister der Justiz</p>
+            </div>
+        </body>
+    </text>
+</TEI>

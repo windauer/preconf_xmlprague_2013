@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR202200990">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Europäisches Übereinkommen über die Anerkennung und Vollstreckung von Entscheidungen über das Sorgerecht für Kinder und die Wiederherstellung des Sorgeverhältnisses</title>
+                <title type="short">EuSorgeRÜbk</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1980-05-20</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>G v. 5.4.1990 II 206Inkraft gem. und nach Maßgabe der Bek. v. 19.12.1990 II 392 mWv 1.2.1991</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

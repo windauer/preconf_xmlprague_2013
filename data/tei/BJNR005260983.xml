@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR005260983">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung zu § 35 des Warenzeichengesetzes</title>
+                <title type="short">WZG§35BRBBek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1983-04-27</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 5. 5.1983 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d47e20">
+                <head>(XXXX)</head>
+                <p>Auf Grund des § 35 Abs. 1 des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird gemäß einer Erklärung des Außenministeriums von Barbados bekanntgemacht:Deutsche Warenbezeichnungen werden in Barbados in demselben Umfang wie inländische zum gesetzlichen Schutz zugelassen.</p>
+            </div>
+            <div xml:id="d47e33">
+                <head>Schlussformel</head>
+                <p>Der Bundesminister der Justiz</p>
+            </div>
+        </body>
+    </text>
+</TEI>

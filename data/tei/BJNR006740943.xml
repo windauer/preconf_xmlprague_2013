@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006740943">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über die erweiterte Zulassung von Schadenersatzansprüchen bei Dienst- und Arbeitsunfällen</title>
+                <title type="short">ErwZulG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1943-12-07</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Überschrift: Soweit es Arbeitsunfälle betrifft, ist das G aufgeh. durch Art. 4 § 16 Abs. 2 Nr. 8 UVNG v. 30.3.1963 I 241(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d194e23">
+                <head>Eingangsformel</head>
+                <p>In den Versorgungsgesetzen und in der Reichsversicherungsordnung sind bei Dienst-und Arbeitsunfällen Schadenersatzansprüche gegen öffentliche Verwaltungen oder gegen Unternehmer grundsätzlich ausgeschlossen. Diese Regelung hat bei Unfällen, die sich bei der Teilnahme am allgemeinen Verkehr ereignet haben, häufig dazu geführt, daß die Geschädigten im Rahmen der genannten Gesetze schlechter gestellt wurden als andere Verkehrsteilnehmer. Um diese Unbilligkeit zu beseitigen und den Schutz der Verletzten und ihrer Hinterbliebenen zu verstärken, hat die Reichsregierung das folgende Gesetz beschlossen, das hiermit verkündet wird:</p>
+            </div>
+            <div xml:id="d194e37">
+                <head>§ 1</head>
+                <p>(1) Ist ein Dienstunfall bei der Teilnahme am allgemeinen Verkehr eingetreten, so können der Verletzte und seine Hinterbliebenen Schadenersatzansprüche gegen eine öffentliche Verwaltung oder ihre Dienstkräfte auch dann geltend machen, wenn die Ansprüche nach den Vorschriften des Versorgungsrechts bisher ausgeschlossen waren.</p>
+                <p>(2) ...</p>
+            </div>
+            <div xml:id="d194e50">
+                <head>§ 2</head>
+                <p>§ 1 gilt nicht, wenn der Schaden im Zusammenhang mit einer Kampfhandlung entstandenoder sonst ein Personenschaden im Sinne des § 2 der Personenschädenverordnungist.</p>
+                <p>§ 2 Kursivdruck: PersonenschädenV v. 1.9.1939 I 1623 idF d. Bek. v. 10.11.1940 I 1482 aufgeh. mWv 1.10.1950 durch § 84 Abs. 2 Nr. 2 Buchst. h BVG v. 20.12.1950 S. 791</p>
+            </div>
+            <div xml:id="d194e66">
+                <head>§ 3</head>
+                <p>Die Leistungen, die der Verletzte oder seine Hinterbliebenen nach den Vorschriften des Versorgungs-...rechts erhalten, sind auf den Schadenersatzanspruch (§ 1) anzurechnen.</p>
+            </div>
+            <div xml:id="d194e77">
+                <head>§ 4</head>
+                <p>(1) Die öffentliche Verwaltung, die nach den Vorschriften des Versorgungsrechts Leistungen gewährt, hat keinen Anspruch auf Ersatz dieser Leistungen gegen die öffentliche Verwaltung, die zum Schadenersatz verpflichtet ist.</p>
+                <p>(2) ...</p>
+            </div>
+            <div xml:id="d194e90">
+                <head>(XXXX) §§ 5 bis 7</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d194e103">
+                <head>§ 8</head>
+                <p>(1) DerReichsminister der Justizwird ermächtigt, im Einvernehmen mit den beteiligtenReichsministernVorschriften zur Durchführung ... dieses Gesetzes zu erlassen.</p>
+                <p>(2) ...</p>
+            </div>
+            <div xml:id="d194e122">
+                <head>§ 9</head>
+                <p>Das Gesetz tritt mit Wirkung vom 26. August 1939 in Kraft.</p>
+            </div>
+            <div xml:id="d194e132">
+                <head>§ 10</head>
+                <p>-</p>
+            </div>
+        </body>
+    </text>
+</TEI>

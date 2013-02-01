@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR009060967">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Durchführung des § 55 Abs. 8 des Bewertungsgesetzes</title>
+                <title type="short">BewG§55Abs8DV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1967-08-11</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 19.8.1967 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d436e23">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 55 Abs. 8 und des § 123 Abs. 1 des Bewertungsgesetzes in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861) verordnet die Bundesregierung mit Zustimmung des Bundesrates:</p>
+            </div>
+            <div xml:id="d436e33">
+                <head>§ 1</head>
+                <p>(1) Die Vergleichswerte der Hauptbewertungsstützpunkte für den forstwirtschaftlichen Nutzungsteil Hochwald werden auf den 1. Januar 1964 in der nachstehenden Höhe festgesetzt:Lfd. Nr.HauptbewertungsstützpunkteVergleichswerte der Hauptbewertungsstützpunkte DMBelegenheitsfinanzamtBewertungsgebiet Nr.1Meschede310168.8112Geldern320216.8753Gummersbach3301123.9224Schopfheim72021.820.7515Freudenstadt73031.034.7486Öhringen7304897.0247Wunsiedel81072.001.1188Krumbach82041.547.012</p>
+                <p>(2) Die in der Tabelle bezeichneten Bewertungsgebiete ergeben sich aus der Anlage 2 der Verordnung zur Durchführung des § 55 Abs. 3 und 4 des Bewertungsgesetzes vom 27. Juli 1967 (Bundesgesetzbl. I S. 805).</p>
+            </div>
+            <div xml:id="d436e138">
+                <head>§ 2</head>
+                <p>Die in dieser Verordnung genannten Beträge in Deutscher Mark gelten nach dem 31. Dezember 2001 als Berechnungsgrößen fort.</p>
+            </div>
+            <div xml:id="d436e149">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

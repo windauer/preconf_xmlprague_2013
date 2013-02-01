@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR005380942">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über vitaminisierte Lebensmittel</title>
+                <title type="short">LMvitV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1942-09-01</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 31.12.1981 +++)(+++ Maßgaben aufgrund EinigVtr nicht mehr anzuwenden gem. Art. 109 Nr. 4Buchst. d G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d737e29">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 5 Nr. 2, 4, 5 und des § 20 des Lebensmittelgesetzes in der Fassung vom 17. Januar 1936 (Reichsgesetzbl. I S. 17) wird verordnet:</p>
+            </div>
+            <div xml:id="d737e39">
+                <head>§ 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d737e50">
+                <head>§ 1a</head>
+                <p>(1) Die nachstehenden Zusatzstoffe werden zur Vitaminisierung von Lebensmitteln allgemein zugelassen:Natrium-L-ascorbat (E 301), Kalium-L-ascorbatund Calcium-L-ascorbat (E 302);6-Palmitoyl-L-ascorbinsäure (E 304);Thiamin-chlorid-hydrochlorid;Thiamin-nitrat;Riboflavin-5-phosphat-Natrium;Pyridoxin-hydrochlorid;Natrium- und Calcium-D-pantothenat;alpha- und beta-Tocopherylacetat;alpha- und beta-Tocopherylsuccinat;Nicotinsäure;Nicotinsäureamid.</p>
+                <p>(2) Die Vorschriften der Verordnung über Nahrungsergänzungsmittel bleiben unberührt.</p>
+                <p>(3) Unberührt bleiben Rechtsvorschriften, die den Zusatz von in Absatz 1 genannten Zusatzstoffen zu bestimmten Lebensmitteln verbieten oder einschränken.</p>
+            </div>
+            <div xml:id="d737e91">
+                <head>§ 1b</head>
+                <p>(1) Mit nachstehenden Beschränkungen werden zur Vitaminisierung zugelassen:</p>
+                <list>
+                    <item n="1.">Vitamin A-acetat und Vitamin A-palmitat für<list>
+                            <item n="a)">Margarine- und Mischfetterzeugnisse bis zu insgesamt 10 Milligramm auf ein Kilogramm, b) (weggefallen)</item>
+                            <item n="c)">Lebensmittel im Sinne des § 6 Abs. 3 der Nährwert-Kennzeichnungsverordnung bis zu insgesamt 0,9 Milligramm pro Mahlzeit,</item>
+                        </list>berechnet als Retinol (Vitamin A-Alkohol);</item>
+                    <item n="2.">Ergocalciferol, Cholecalciferol und Cholecalciferol-Cholesterin für<list>
+                            <item n="a)">Margarine- und Mischfetterzeugnisse bis zu insgesamt 25 Mikrogramm auf ein Kilogramm, b) (weggefallen)</item>
+                            <item n="c)">Lebensmittel im Sinne des § 6 Abs. 3 der Nährwert-Kennzeichnungsverordnung bis zu insgesamt 1,6 Mikrogramm pro Mahlzeit,</item>
+                        </list>berechnet als Calciferol.</item>
+                </list>
+                <p>(2) Die Vorschriften der Verordnung über Nahrungsergänzungsmittel bleiben unberührt.</p>
+            </div>
+            <div xml:id="d737e121">
+                <head>§ 2</head>
+                <p>Vitaminisierte Lebensmittel dürfen mit einem Hinweis auf ihren Vitamingehalt gewerbsmäßig nur in Fertigpackungen in den Verkehr gebracht werden.</p>
+            </div>
+            <div xml:id="d737e132">
+                <head>§ 2a</head>
+                <p>(1) (weggefallen)</p>
+                <p>(2) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer bei dem gewerbsmäßigen Herstellen von vitaminisierten Lebensmitteln, die dazu bestimmt sind, in den Verkehr gebracht zu werden, Zusatzstoffe über die in § 1b Abs. 1 festgesetzten Höchstmengen hinaus verwendet.</p>
+                <p>(3) (weggefallen)</p>
+                <p>(4) Wer eine in Absatz 2 bezeichnete Handlung fahrlässig begeht, handelt nach § 60 Absatz 1 Nummer 2 des Lebensmittel- und Futtermittelgesetzbuches ordnungswidrig.</p>
+                <p>(5) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig vitaminisierte Lebensmittel entgegen § 2 nicht in Fertigpackungen gewerbsmäßig in den Verkehr bringt.</p>
+            </div>
+            <div xml:id="d737e151">
+                <head>§ 3</head>
+                <p>(1) Diese Verordnung tritt am 1. Oktober 1942 in Kraft.</p>
+                <p>(2) Lebensmittel, die den Vorschriften dieser Verordnung in der vom 30. Oktober 1999 an geltenden Fassung nicht entsprechen, dürfen noch bis zum 31. Dezember 2000 nach den bis zum 29. Oktober 1999 geltenden Vorschriften gekennzeichnet und auch nach dem 31. Dezember 2000 noch bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.</p>
+            </div>
+            <div xml:id="d737e164">
+                <head>Schlußformel</head>
+                <p>Der Reichsminister des InnernDer Reichsminister für Ernährung und Landwirtschaft</p>
+            </div>
+        </body>
+    </text>
+</TEI>

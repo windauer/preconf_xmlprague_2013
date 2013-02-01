@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004000955">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Erstreckung des Anleihe-Gesetzes von 1950 auf das Land Berlin</title>
+                <title type="short">AnlGBlnV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1955-07-01</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Überschrift: Für Berlin vgl. GVBl. 1955 S. 757(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1408e23">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 15 Abs. 2 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) verordnet die Bundesregierung mit Zustimmung des Bundesrates:</p>
+            </div>
+            <div xml:id="d1408e33">
+                <head>§ 1</head>
+                <p>Das Anleihe-Gesetz von 1950 vom 29. März 1951 (Bundesgesetzbl. I S. 218) gilt auch im Land Berlin, sofern es im Land Berlin in Kraft gesetzt wird. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.</p>
+            </div>
+            <div xml:id="d1408e44">
+                <head>§ 2</head>
+                <p>Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

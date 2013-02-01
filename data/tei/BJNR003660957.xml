@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR003660957">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung von Beamten der Deutschen Bundespost</title>
+                <title type="short">BPräsKldgDBPAnO</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1957-03-30</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1381e20">
+                <head>(XXXX)</head>
+                <p>Gemäß § 76 des Bundesbeamtengesetzes übertrage ich dem Bundesminister für das Post- und Fernmeldewesen für den Bereich der Deutschen Bundespost die Ausübung der Befugnis, Bestimmungen über die Dienstkleidung der Beamten zu erlassen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

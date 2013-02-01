@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR205500986">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zu dem Abkommen vom 25. März 1981 zwischen der Bundesrepublik Deutschland und dem Königreich Marokko über Soziale Sicherheit und zu der Vereinbarung vom 19. April 1984 zur Durchführung dieses Abkommens</title>
+                <title type="short">SozSichAbkMARG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1986-04-10</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 19.4.1986 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1543e25">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d1543e35">
+                <head>Art 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1543e46">
+                <head>Art 2</head>
+                <p>(weggefallen)</p>
+            </div>
+            <div xml:id="d1543e57">
+                <head>Art 3</head>
+                <p>Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vereinbarungen zur Durchführung des Abkommens in Kraft zu setzen oder in Ermangelung solcher Vereinbarungen das Nähere zu regeln. Dabei können zur Anwendung und Durchführung des Abkommens insbesondere über folgende Gegenstände Regelungen getroffen werden:</p>
+                <list>
+                    <item n="1.">Aufklärungs-, Anzeige- und Mitteilungspflichten sowie das Bereitstellen von Beweismitteln zwischen den in Artikel 27 Abs. 1 des Abkommens genannten Stellen sowie zwischen diesen und den betroffenen Personen,</item>
+                    <item n="2.">das Ausstellen, die Vorlage und Übermittlung von Bescheinigungen sowie die Verwendung von Vordrucken,</item>
+                    <item n="3.">das Verfahren beim Erbringen von Geld- und Sachleistungen,</item>
+                    <item n="4.">die Zuständigkeit der Versicherungsträger oder anderer in Artikel 27 Abs. 1 des Abkommens genannter Stellen,</item>
+                    <item n="5.">die gegenseitige Umrechnung von Versicherungszeiten nach den Rechtsvorschriften beider Vertragsstaaten.</item>
+                </list>
+            </div>
+            <div xml:id="d1543e78">
+                <head>Art 4</head>
+                <p>Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.</p>
+            </div>
+            <div xml:id="d1543e88">
+                <head>Art 5</head>
+                <p>(1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.</p>
+                <p>(2)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

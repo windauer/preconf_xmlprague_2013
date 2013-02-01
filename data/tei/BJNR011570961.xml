@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR011570961">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Viertes Gesetz zur Änderung des Güterkraftverkehrsgesetzes</title>
+                <title type="short">GüKGÄndG 4</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1961-08-01</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d632e20">
+                <head>Art 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d632e31">
+                <head>Art 2</head>
+                <p>Die bis zum Inkrafttreten dieses Gesetzes von den Landesverkehrsbehörden bestimmten Ortsmittelpunkte gelten als auf Grund des § 2 Abs. 3 des Güterkraftverkehrsgesetzes in der Fassung dieses Gesetzes bestimmt. Sie sind neu zu bestimmen, wenn sie nicht mit § 2 Abs. 2 Satz 4 bis 6 des Güterkraftverkehrsgesetzes in der Fassung dieses Gesetzes vereinbar sind.</p>
+            </div>
+            <div xml:id="d632e41">
+                <head>Art 3</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d632e51">
+                <head>Art 4</head>
+                <p>Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

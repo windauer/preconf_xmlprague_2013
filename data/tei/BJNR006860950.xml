@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006860950">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Pfennig</title>
+                <title type="short">Münz2PfBek 1950</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1950-09-08</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 11.12.1968 +++)</p>
+            <p>Überschrift: Im Saarland eingeführt durch § 4 Nr. 1 G v. 29.6.1959 I 402; für Berlin vgl. Bek. v. 5.11.1955 GVBl. S. 966</p>
+        </front>
+        <body>
+            <div xml:id="d207e26">
+                <head>(XXXX)</head>
+                <p>(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzblatt S. 323) werden Bundesmünzen im Nennwert von 2 Deutschen Pfennig ausgeprägt und demnächst in den Verkehr gebracht.</p>
+                <p>(2) Die mit glattem Rand geprägten Münzen bestehen aus einem Stahlkern mit einer beiderseitigen Kupferplattierung. Sie haben einen Durchmesser von 19,25 mm und ein Gewicht von 2,9 g.</p>
+                <p>(3) Auf der Wertseite tragen die Münzen innerhalb des erhabenen Randes in der oberen Hälfte beiderseits je eine Ähre, zwischen deren oberen Enden sich das Münzzeichen befindet. In der Mitte der Wertseite steht in arabischer Ziffer die Wertbezeichnung "2", darunter am unteren Rand in Antiqua das Wort "PFENNIG".</p>
+                <p>(4) Auf der Schauseite zeigen die Münzen innerhalb des erhabenen Randes in Antiqua die Umschrift "BUNDESREPUBLIK DEUTSCHLAND" und am unteren Rand, durch je einen Punkt vom Beginn und Ende der Umschrift getrennt, die Jahreszahl. Die Mitte zeigt einen aufrecht stehenden fünfblättrigen Eichenzweig, der mit seinem unteren Ende auf einem waagerecht angebrachten Stäbchen ruht.</p>
+            </div>
+            <div xml:id="d207e43">
+                <head>Schlußformel</head>
+                <p>Der BundeskanzlerDer Bundesminister der Finanzen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

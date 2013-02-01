@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006000998">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über den Gesamtbeitrag der Wehrdienstleistenden und der Zivildienstleistenden zur Arbeitsförderung</title>
+                <title type="short">GesamtBeitrV 1998</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1998-01-08</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.1.1998 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d122e27">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 352 Abs. 2 Nr. 1 des Dritten Buches Sozialgesetzbuch - Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I S. 594), der durch Artikel 1 Nr. 90 des Gesetzes vom 16. Dezember 1997 (BGBl. I S. 2970) geändert worden ist, verordnet das Bundesministerium für Arbeit und Sozialordnung im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium der Verteidigung und dem Bundesministerium für Familie, Senioren, Frauen und Jugend:</p>
+            </div>
+            <div xml:id="d122e37">
+                <head>§ 1</head>
+                <p>Der Bund entrichtet für die versicherungspflichtigen Wehrdienstleistenden und für die versicherungspflichtigen Zivildienstleistenden (§ 25 Abs. 2 Satz 2 und 3, § 26 Abs. 1 Nr. 2 des Dritten Buches Sozialgesetzbuch) je einen Gesamtbeitrag für das Kalenderjahr, in dem der Dienst geleistet worden ist (Beitragsjahr).</p>
+            </div>
+            <div xml:id="d122e50">
+                <head>§ 2</head>(1) Für die Berechnung des Gesamtbeitrages sind zugrunde zu legen:<list>
+                    <item n="1.">als Beitragssatz die Hälfte des Beitragssatzes im</item>
+                </list>BSDurchschnitt des Kalenderjahres (----)100<list>
+                    <item n="2.">als beitragspflichtige Einnahme (BE) ein Betrag in Höhe von 40 Prozent der monatlichen Bezugsgröße der Sozialversicherung sowie</item>
+                    <item n="3.">die Summe der Diensttage (DT) der versicherungspflichtigen Wehrdienstleistenden und Zivildienstleistenden im Beitragsjahr.</item>
+                </list>
+                <p>(2) Der Gesamtbeitrag der versicherungspflichtigen Wehrdienstleistenden und Zivildienstleistenden wird nach folgender Formel berechnet:BE BS-- x --- DT = Euro.30 100</p>
+            </div>
+            <div xml:id="d122e89">
+                <head>§ 3</head>
+                <p>(weggefallen)</p>
+            </div>
+            <div xml:id="d122e100">
+                <head>§ 4</head>
+                <p>(1) Der Gesamtbeitrag für das Beitragsjahr ist jeweils bis zum 31. März des folgenden Kalenderjahres an die von der Bundesagentur für Arbeit bestimmte Dienststelle zu zahlen. Bis zum Fünfzehnten des zweiten Monats eines jeden Beitragsvierteljahres sind angemessene Abschläge auf den Gesamtbeitrag zu leisten.</p>
+                <p>(2) Abweichend von Absatz 1 Satz 1 ist der Gesamtbeitrag für das Beitragsjahr 2002 bis zum 31. März 2004 zu zahlen.</p>
+            </div>
+            <div xml:id="d122e115">
+                <head>§ 5</head>
+                <p>Diese Verordnung tritt mit Wirkung vom 1. Januar 1998 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

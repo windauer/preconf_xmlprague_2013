@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR008270934">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zweite Durchführungs- und Ergänzungsverordnung über die vereinfachte Abwicklung von Bausparverträgen</title>
+                <title type="short">BauSparVetrAbwV 2</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1934-09-07</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1964 +++)(+++ Diese V ist gem. § 20 Abs. 6 G v. 16.11.1972 I 2097 nichtanzuwenden auf nach dem 1.1.1973 abgeschlossene Bausparverträge +++)</p>
+        </front>
+        <body>
+            <div xml:id="d364e27">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 7 des - nachstehend Notverordnung genannten - Kapitels V des Ersten Teils der Verordnung des Reichspräsidenten über Maßnahmen auf dem Gebiete der Rechtspflege und Verwaltung vom 14. Juni 1932 (Reichsgesetzbl. I S. 285, 288) wird verordnet:</p>
+            </div>
+            <div xml:id="d364e37">
+                <head>Art 1</head>
+                <p>Die Vorschriften des § 1 Abs. 2 der Notverordnung sowie des Artikels 3 Satz 2 der - Ersten - Durchführungs- und Ergänzungsverordnung vom 9. Juni 1933 (Reichsgesetzbl. I S. 372) gelten auch, wenn Ansprüche eines Bausparers aus einem Bausparvertrag, besonders solche auf Rückzahlung des Bausparguthabens, vor Anordnung der vereinfachten Abwicklung fällig geworden sind.</p>
+            </div>
+            <div xml:id="d364e47">
+                <head>Art 2</head>
+                <p>Diese Verordnung tritt mit Wirkung vom 16. Juni 1932 in Kraft. Unberührt durch diese Rückwirkung bleiben nur Urteile, die nach Anordnung der vereinfachten Abwicklung ergangen sind; Entsprechendes gilt für Vergleiche und Anerkenntnisse.</p>
+            </div>
+            <div xml:id="d364e57">
+                <head>Schlußformel</head>
+                <p>Der Reichswirtschaftsminister</p>
+            </div>
+        </body>
+    </text>
+</TEI>

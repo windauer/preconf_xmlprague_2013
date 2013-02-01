@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR003540934">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zweites Gesetz über Bergmannssiedlungen</title>
+                <title type="short">BergMSdlgG 2</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1934-05-02</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1371e20">
+                <head>Eingangsformel</head>
+                <p>Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit verkündet wird:</p>
+            </div>
+            <div xml:id="d1371e30">
+                <head>Art I</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1371e41">
+                <head>Art II</head>
+                <p>1. Die Geschäftsanteile der Gesellschafter an den im Artikel I Nr. 2 unter a bis g aufgeführten Treuhandstellen gehen auf das Reich über; ... . Ein Entschädigungsanspruch besteht nicht. Das Nähere, insbesondere den Zeitpunkt des Übergangs, bestimmt derReichsarbeitsministerim Einvernehmen mit demReichswirtschaftsminister.</p>
+                <p>2.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR007580956">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Drittes Gesetz zur Ergänzung des Gesetzes zur Ausführung des Abkommens vom 27. Februar 1953 über deutsche Auslandsschulden</title>
+                <title type="short">AuslSchuldAbkAGErG 3</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1956-08-23</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d286e20">
+                <head>Art 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d286e31">
+                <head>Art 2</head>
+                <p>Die Frist des § 71 Abs. 3 beginnt mit dem Tage des Inkrafttretens dieses Gesetzes, wenn die Oberfinanzdirektion bereits vor diesem Zeitpunkt über den Entschädigungsanspruch entschieden hat.</p>
+            </div>
+            <div xml:id="d286e42">
+                <head>Art 3</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d286e53">
+                <head>Art 4</head>
+                <p>Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

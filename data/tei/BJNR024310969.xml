@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR024310969">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung zur Durchführung der Bundesdisziplinarordnung für die Stiftung Preußischer Kulturbesitz</title>
+                <title type="short">PrKultbBDOAnO</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1969-12-22</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 1.1970 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d895e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 35 Abs. 1 Satz 1 Nr. 3 der Bundesdisziplinarordnung in der Fassung der Bekanntmachung vom 20. Juli 1967 (Bundesgesetzbl. I S. 750, 984),zuletzt geändert durch das Fünfte Gesetz zur Änderung beamtenrechtlicher und besoldungsrechtlicher Vorschriften vom 19. Juli 1968 (Bundesgesetzblatt I S. 848),ordne ich an:</p>
+            </div>
+            <div xml:id="d895e33">
+                <head>I.</head>
+                <p>Für die Beamten der Stiftung "Preußischer Kulturbesitz" sind im Sinne der Bundesdisziplinarordnung Einleitungsbehörden:</p>
+                <list>
+                    <item n="1.">für den Präsidenten der Stiftung Preußischer Kulturbesitz (als Kurator) und den Direktor bei der Stiftung Preußischer Kulturbesitz (als Stellvertreter des Kurators):<list>
+                            <item n="">der Bundesminister des Innern,</item>
+                        </list>
+                    </item>
+                    <item n="2.">für die übrigen Beamten der Stiftung:<list>
+                            <item n="">der Präsident der Stiftung Preußischer Kulturbesitz (als Kurator).</item>
+                        </list>
+                    </item>
+                </list>
+            </div>
+            <div xml:id="d895e54">
+                <head>II.</head>
+                <p>Diese Anordnung tritt am 1. Januar 1970 in Kraft.</p>
+            </div>
+            <div xml:id="d895e64">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister des Innern</p>
+            </div>
+        </body>
+    </text>
+</TEI>

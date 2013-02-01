@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR001980972">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung</title>
+                <title type="short">BPräsAmtsbezAnO 1972-02-04</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1972-02-04</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 25. 2.1972 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1200e20">
+                <head>(XXXX)</head>
+                <p>Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende Amtsbezeichnung fest</p>
+                <list>
+                    <item n="">Präsident des Amtes für Wehrgeophysik.</item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

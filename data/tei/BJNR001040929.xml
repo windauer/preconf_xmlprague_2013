@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR001040929">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über Träger der Unfallversicherung</title>
+                <title type="short">UVTrägerV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1929-05-17</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Überschrift: Gem. § 3 Abs. 2 G v. 10.7.1958 114-2 nur mit der Überschrift aufgenommen</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

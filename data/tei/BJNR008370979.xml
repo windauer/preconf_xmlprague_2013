@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR008370979">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Berufsausbildung zum Berg- und Maschinenmann</title>
+                <title type="short">BergMAusbV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1979-06-22</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 5. 7.1979 +++)(+++ Maßgaben aufgrund des EinigVtr vgl. BergMAusbV Anhang EV +++)</p>
+        </front>
+        <body>
+            <div xml:id="d372e23">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:</p>
+            </div>
+            <div xml:id="d372e33">
+                <head>§ 1</head>
+                <p>Der Ausbildungsberuf Berg- und Maschinenmann wird staatlich anerkannt.</p>
+            </div>
+            <div xml:id="d372e45">
+                <head>§ 2</head>
+                <p>Die Ausbildung dauert zwei Jahre. Es kann zwischen den Fachrichtungen</p>
+                <list>
+                    <item n="1.">Vortrieb und Gewinnung und</item>
+                    <item n="2.">Transport und Instandhaltung</item>
+                </list>
+                <p>gewählt werden.</p>
+            </div>
+            <div xml:id="d372e63">
+                <head>§ 3</head>
+                <p>(1) Gegenstand der für beide Fachrichtungen gemeinsamen Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:</p>
+                <list>
+                    <item n="1.">Arbeitsschutz, Unfallverhütung und Gesundheitsschutz;</item>
+                    <item n="2.">Kenntnisse der Betriebs- und Arbeitsorganisation;</item>
+                    <item n="3.">Lesen technischer Zeichnungen;</item>
+                    <item n="4.">Grundfertigkeiten der Metallbe- und -verarbeitung:<list>
+                            <item n="a)">Messen und Prüfen,</item>
+                            <item n="b)">Anreißen, Körnen, Kennzeichnen,</item>
+                            <item n="c)">Meißeln, Sägen, Feilen,</item>
+                            <item n="d)">Schneiden, Biegen und Richten,</item>
+                            <item n="e)">Bohren, Senken und Gewindeschneiden,</item>
+                            <item n="f)">Fügen;</item>
+                        </list>
+                    </item>
+                    <item n="5.">Bergmännische Grundfertigkeiten:<list>
+                            <item n="a)">Verarbeiten von Baustoffen,</item>
+                            <item n="b)">Bearbeiten und Fügen von Holz,</item>
+                            <item n="c)">Sichern und Herrichten des Arbeitsplatzes,</item>
+                            <item n="d)">Einbringen von Ausbau,</item>
+                            <item n="e)">Geben von Signalen und Erstatten von Meldungen,</item>
+                            <item n="f)">Umgehen mit Einrichtungen der Wetterführung,</item>
+                            <item n="g)">Fördern und Transportieren,</item>
+                            <item n="h)">Handhaben von Grubensicherheitseinrichtungen;</item>
+                        </list>
+                    </item>
+                    <item n="6.">Maschinentechnische Grundfertigkeiten:<list>
+                            <item n="a)">Umgehen mit Hebezeugen,</item>
+                            <item n="b)">Umgehen mit Fördermitteln,</item>
+                            <item n="c)">Umgehen mit Transporteinrichtungen,</item>
+                            <item n="d)">Umgehen mit elektrischen Anlagen.</item>
+                        </list>
+                    </item>
+                </list>
+                <p>(2) Gegenstand der Berufsausbildung in den Fachrichtungen sind mindestens die folgenden Fertigkeiten und Kenntnisse:</p>
+                <list>
+                    <item n="1.">in der Fachrichtung Vortrieb und Gewinnung:<list>
+                            <item n="a)">Bohren in Mineral und Nebengestein,</item>
+                            <item n="b)">Gewinnen, Lösen, Laden und Abfördern von Mineral und Nebengestein,</item>
+                            <item n="c)">Ausbauen,</item>
+                            <item n="d)">Unterhalten von Grubenbauen,</item>
+                            <item n="e)">Umgehen mit Einrichtungen der Wetterführung;</item>
+                        </list>
+                    </item>
+                    <item n="2.">in der Fachrichtung Transport und Instandhaltung:<list>
+                            <item n="a)">Transportieren,</item>
+                            <item n="b)">Montieren, Demontieren und Instandhalten von Transporteinrichtungen,</item>
+                            <item n="c)">Montieren, Demontieren und Instandhalten von Fördereinrichtungen,</item>
+                            <item n="d)">Instandhalten von Rohr- und Schlauchleitungen.</item>
+                        </list>
+                    </item>
+                </list>
+            </div>
+            <div xml:id="d372e154">
+                <head>§ 4</head>
+                <p>Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.</p>
+            </div>
+            <div xml:id="d372e166">
+                <head>§ 5</head>
+                <p>Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.</p>
+            </div>
+            <div xml:id="d372e178">
+                <head>§ 6</head>
+                <p>Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.</p>
+            </div>
+            <div xml:id="d372e190">
+                <head>§ 7</head>
+                <p>(1) Während der Berufsausbildung ist eine Zwischenprüfung durchzuführen. Sie soll nach dem ersten Ausbildungsjahr stattfinden.</p>
+                <p>(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage zu § 4 für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse und auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.</p>
+                <p>(3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens 6 Stunden Grundfertigkeiten in der Metallbe- und -verarbeitung und bergmännische Grundfertigkeiten nachweisen.</p>
+                <p>(4) Zum Nachweis der Kenntnisse soll der Prüfling praxisbezogene Aufgaben aus den Prüfungsfächern Technologie und Technische Mathematik in insgesamt höchstens 90 Minuten schriftlich lösen. Soweit die schriftliche Kenntnisprüfung programmiert durchgeführt wird, kann von dieser Prüfungsdauer abgewichen werden.</p>
+            </div>
+            <div xml:id="d372e208">
+                <head>§ 8</head>
+                <p>(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage zu § 4 genannten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.</p>
+                <p>(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens 8 Stunden 4 Arbeitsproben, davon mindestens je eine als Einzelarbeit und eine als Gruppenarbeit ausführen. Als Arbeitsproben kommen insbesondere in Betracht:</p>
+                <list>
+                    <item n="1.">in der Fachrichtung Vortrieb und Gewinnung:<list>
+                            <item n="a)">Bohren nach Angabe in Mineral und Nebengestein,</item>
+                            <item n="b)">Einbringen von Ausbau im Abbau und in der Strecke, Ausführen von Arbeiten,</item>
+                            <item n="c)">Ausführen von Arbeiten an Fördermitteln,</item>
+                            <item n="d)">Ausführen von Arbeiten in der Streckenunterhaltung;</item>
+                        </list>
+                    </item>
+                    <item n="2.">in der Fachrichtung Transport und Instandhaltung:<list>
+                            <item n="a)">Transportieren von Lasten,</item>
+                            <item n="b)">Ausführen von Arbeiten an<list>
+                                    <item n="aa)">Transporteinrichtungen,</item>
+                                    <item n="bb)">Fördereinrichtungen,</item>
+                                    <item n="cc)">Rohr- und Schlauchleitungen.</item>
+                                </list>
+                            </item>
+                        </list>
+                    </item>
+                </list>
+                <p>(3) Zum Nachweis der Kenntnisse soll der Prüfling in den Prüfungsfächern Technologie, Technische Mathematik, Technisches Zeichnen sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. Es kommen Fragen und Aufgaben insbesondere aus den folgenden Gebieten in Betracht:</p>
+                <list>
+                    <item n="1.">im Prüfungsfach Technologie:<list>
+                            <item n="a)">für die Fachrichtung Vortrieb und Gewinnung:<list>
+                                    <item n="aa)">Grundkenntnisse des Grubengebäudes,</item>
+                                    <item n="bb)">Abbau und Streckenvortrieb,</item>
+                                    <item n="cc)">Ausbau,</item>
+                                    <item n="dd)">Sicherheitsbestimmungen;</item>
+                                </list>
+                            </item>
+                            <item n="b)">für die Fachrichtung Transport und Instandhaltung:<list>
+                                    <item n="aa)">Grundkenntnisse des Grubengebäudes und der Wetterführung,</item>
+                                    <item n="bb)">Transport,</item>
+                                    <item n="cc)">Montage und Instandhaltung,</item>
+                                    <item n="dd)">Sicherheitsbestimmungen;</item>
+                                </list>
+                            </item>
+                        </list>
+                    </item>
+                    <item n="2.">im Prüfungsfach Technische Mathematik:<list>
+                            <item n="a)">für die Fachrichtung Vortrieb und Gewinnung:<list>
+                                    <item n="aa)">Berechnen von Querschnitten,</item>
+                                    <item n="bb)">Berechnen von Volumen und Gewichten,</item>
+                                    <item n="cc)">Berechnen von Geschwindigkeiten und Übersetzungsverhältnissen,</item>
+                                    <item n="dd)">Berechnen des Lohnes;</item>
+                                </list>
+                            </item>
+                            <item n="b)">für die Fachrichtung Transport und Instandhaltung:<list>
+                                    <item n="aa)">Berechnen von Querschnitten,</item>
+                                    <item n="bb)">Berechnen von Drücken und Kräften,</item>
+                                    <item n="cc)">Berechnen von Geschwindigkeiten,</item>
+                                    <item n="dd)">Berechnen des Lohnes;</item>
+                                </list>
+                            </item>
+                        </list>
+                    </item>
+                    <item n="3.">im Prüfungsfach Technisches Zeichnen:<list>
+                            <item n="a)">für die Fachrichtung Vortrieb und Gewinnung:<list>
+                                    <item n="aa)">Zuordnen von Ansichten ebenflächig begrenzter Körper,</item>
+                                    <item n="bb)">Lesen von markscheiderischen Darstellungen,</item>
+                                    <item n="cc)">Lesen von Ausbautafeln,</item>
+                                    <item n="dd)">Lesen von Sprengbildern;</item>
+                                </list>
+                            </item>
+                            <item n="b)">für die Fachrichtung Transport und Instandhaltung:<list>
+                                    <item n="aa)">Zuordnen von Ansichten ebenflächig begrenzter Körper,</item>
+                                    <item n="bb)">Lesen von markscheiderischen Darstellungen,</item>
+                                    <item n="cc)">Lesen von Sinnbildern für Armaturen,</item>
+                                    <item n="dd)">Lesen von Montagezeichnungen und Bedienungsplänen;</item>
+                                </list>
+                            </item>
+                        </list>
+                    </item>
+                    <item n="4.">im Prüfungsfach Wirtschafts- und Sozialkunde: Wirtschafts- und Sozialkunde.</item>
+                </list>
+                <p>(4) Für die schriftliche Kenntnisprüfung ist von folgenden zeitlichen Richtwerten auszugehen:1.im Prüfungsfach Technologie60 Minuten,2.im Prüfungsfach Technische Mathematik60 Minuten,3.im Prüfungsfach Technisches Zeichnen30 Minuten,4.im Prüfungsfach Wirtschafts- und Sozialkunde30 Minuten.</p>
+                <p>(5) Soweit die schriftliche Kenntnisprüfung in programmierter Form durchgeführt wird, können die in Absatz 4 genannten Prüfungszeiten unterschritten werden.</p>
+                <p>(6) Für die Ermittlung des Prüfungsergebnisses hat die Fertigkeitsprüfung gegenüber der Kenntnisprüfung und innerhalb der Kenntnisprüfung das Prüfungsfach Technologie gegenüber den übrigen Prüfungsfächern das doppelte Gewicht.</p>
+                <p>(7) Die schriftliche Prüfung ist nach Ermessen des Prüfungsausschusses in den einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für die Feststellung eines für den Prüfungsteilnehmer günstigeren Ergebnisses von wesentlicher Bedeutung ist und wenn die an der Berufsschule oder im Betrieb gezeigten Leistungen in erheblichem Widerspruch zum bisherigen Prüfungsergebnis stehen.</p>
+                <p>(8) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und der Kenntnisprüfung mindestens ausreichende Leistungen erbracht sind.</p>
+            </div>
+            <div xml:id="d372e374">
+                <head>§ 9</head>
+                <p>(1)</p>
+                <p>(2)</p>
+                <p>(3)</p>
+                <p>(4)</p>
+                <p>(5) Die auf der Grundlage der Verordnung über die Erprobung der Ausbildungsberufe Berg- und Maschinenmann - Vortrieb und Gewinnung -, Berg- und Maschinenmann - Montage und Wartung -, Berg- und Maschinenmann - Förderung und Transport - vom 4. Mai 1977 (BGBl. I S. 676) erworbenen Abschlüsse gelten als Abschluß in dem Ausbildungsberuf Berg- und Maschinenmann dieser Verordnung.</p>
+            </div>
+            <div xml:id="d372e395">
+                <head>§ 10</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d372e407">
+                <head>§ 11</head>
+                <p>Diese Verordnung tritt am Tag nach der Verkündung in Kraft.</p>
+            </div>
+            <div xml:id="d372e420">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Wirtschaft</p>
+            </div>
+            <div xml:id="d372e431">
+                <head>Anlage</head>
+                <p>(Fundstelle: BGBl. I 1979, 841 - 848)I. Gemeinsame Fertigkeiten und Kenntnisse:Lfd. Nr.Teil des Ausbildungsberufsbildszu vermittelnde Fertigkeiten und Kenntnissezu vermitteln im Ausbildungsjahrzeitliche Richtwerte in Wochen12123451Arbeitsschutz, Unfallverhütung und Gesundheitsschutz (§ 3 Abs. 1 Nr. 1<list>
+                        <item n="a)">einschlägige Arbeitsschutzvorschriften für den Bergbau in Gesetzen und Verordnungen beachten</item>
+                        <item n="b)">Aufgaben und Organisation der betrieblichen Dienste nennen, die sich besonders mit Arbeitsschutz, Unfallverhütung und Gesundheitsschutz befassen</item>
+                        <item n="c)">einschlägige Vorschriften der Träger der gesetzlichen Unfallversicherung, insbesondere Unfallverhütungsvorschriften, Richtlinien und Merkblätter, beachten</item>
+                        <item n="d)">persönliche Arbeitsschutzausrüstung nennen und verwenden</item>
+                        <item n="e)">Unfallquellen und unfallverursachendes menschliches Fehlverhalten beschreiben und Möglichkeiten zur Vermeidung von Unfällen nennen</item>
+                        <item n="f)">die Gefahren des elektrischen Stroms beschreiben und beachten</item>
+                        <item n="g)">Vorschriften über den Brand- und Explosionsschutz beachten</item>
+                        <item n="h)">Verhalten bei Unfällen und Bränden beschreiben und Maßnahmen zur Ersten Hilfe einleiten</item>
+                    </list>xxwährend der gesamten Ausbildung zu vermitteln2Kenntnisse der Betriebs- und Arbeitsorganisation (§ 3 Abs. 1 Nr. 2)<list>
+                        <item n="a)">den organisatorischen Aufbau und die Funktion des Ausbildungsbetriebs beschreiben</item>
+                        <item n="b)">die Aufgaben des Über- und des Untertagebetriebs und ihr Zusammenwirken erklären</item>
+                        <item n="c)">Lohnberechnungen einfacher Art erklären</item>
+                    </list>xx&#160;3Lesen technischer Zeichnungen (§ 3 Abs. 1 Nr. 3)<list>
+                        <item n="a)">Linienarten, Bemaßung, Toleranzen, Ansichten, Schnittdarstellungen, Oberflächenzeichen und Maßstäbe erklären</item>
+                        <item n="b)">Sinnbilder lesen</item>
+                        <item n="c)">technische Zeichnungen und markscheiderische Darstellungen lesen</item>
+                    </list>xx&#160;4Grundfertigkeiten der Metallbe- und -verarbeitung (§ 3 Abs. 1 Nr. 4)&#160;&#160;&#160;264.1Messen und Prüfen (§ 3 Abs. 1 Nr. 4 Buchstabe a)<list>
+                        <item n="a)">den Aufbau von Prüf- und Meßzeugen und ihre Anwendung beschreiben sowie Prüf- und Meßzeuge auswählen</item>
+                        <item n="b)">Maßbezugslinien und Toleranzen erklären</item>
+                        <item n="c)">Flächen auf Ebenheit und Werkstücke auf Formgenauigkeit mit Lineal, Meßschieber, Winkel- und Radienschablonen prüfen</item>
+                        <item n="d)">Ursachen und Auswirkungen von Meßfehlern beschreiben</item>
+                        <item n="e)">Längen bis zu 0,1 mm Genauigkeit mit Strichmeßzeugen und Meßschiebern für Außen-, Innen- und Tiefenmaße messen und prüfen</item>
+                        <item n="f)">Winkel mit Winkelmesser und Winkellehre bis zu einer Genauigkeit von einem Grad messen und prüfen</item>
+                        <item n="g)">Meß- und Prüfzeuge pflegen und lagern</item>
+                    </list>x&#160;&#160;4.2Anreißen, Körnen, Kennzeichnen (§ 3 Abs. 1 Nr. 4 Buchstabe b)<list>
+                        <item n="a)">Arten und Anwendung von Anreiß- und Hilfswerkzeugen beschreiben</item>
+                        <item n="b)">Bohrungsmitten und Umrisse körnen</item>
+                        <item n="c)">Anreißfehler nennen sowie ihre Ursachen und Auswirkungen beschreiben</item>
+                        <item n="d)">Werkstücke funktionsgerecht kennzeichnen</item>
+                        <item n="e)">Maße von der Zeichnung durch Anreißen auf das Werkstück übertragen</item>
+                        <item n="f)">Bezugslinien, Bohrungsmitten, Umrisse, Schnitt- und Biegelinien nach Zeichnung unter Beachtung von Bearbeitungszugaben anreißen und Kontrollkörner einschlagen</item>
+                        <item n="g)">Anreißwerkzeuge und Körner schärfen</item>
+                    </list>x&#160;&#160;4.3Meißeln, Sägen, Feilen (§ 3 Abs. 1 Nr. 4 Buchstabe c)<list>
+                        <item n="a)">Arten und Anwendung von Meißeln, Sägeblättern und Feilen für verschiedene Werkstoffe beschreiben</item>
+                        <item n="b)">zerteilend meißeln</item>
+                        <item n="c)">Feilen nach Werkstoff, Werkstückform und Oberflächengüte auswählen</item>
+                        <item n="d)">Werkstück und Werkzeug spannen</item>
+                        <item n="e)">Werkstücke aus verschiedenen Werkstoffen von Hand sägen</item>
+                        <item n="f)">Werkstücke aus verschiedenen Werkstoffen auf Maß, eben, winklig und parallel bis zu einer Genauigkeit von einem Millimeter feilen</item>
+                        <item n="g)">Kanten entgraten</item>
+                    </list>x&#160;&#160;4.4Schneiden, Biegen und Richten (§ 3 Abs. 1 Nr. 4 Buchstabe d)<list>
+                        <item n="a)">Werkstücke mit Hebel- und Handblechscheren trennen</item>
+                        <item n="b)">Arten von Biegewerkzeugen und Hilfseinrichtungen nennen und anwenden</item>
+                        <item n="c)">Bleche und Profilteile, insbesondere Flachprofile im Schraubstock und mit Biegevorrichtungen, kalt biegen</item>
+                        <item n="d)">Arten von Richtwerkzeugen nennen und ihre Anwendung beschreiben</item>
+                        <item n="e)">Blechplatten, Rundstahl, Flachstahl und Winkelprofile kalt richten</item>
+                    </list>x&#160;&#160;4.5Bohren, Senken und Gewindeschneiden (§ 3 Abs. 1 Nr. 4 Buchstabe e)<list>
+                        <item n="a)">Bohrer und Senker im Hinblick auf Form und Werkstoff des zu bearbeitenden Werkstücks auswählen</item>
+                        <item n="b)">unterschiedliche Werkstoffe mit Wendelbohrer und Senker bearbeiten</item>
+                        <item n="c)">Kühlschmierstoffe nennen und ihre Anwendung beschreiben</item>
+                        <item n="d)">Werkstück und Werkzeug spannen</item>
+                        <item n="e)">mit ortsfesten und handgeführten Bohrmaschinen bohren und senken</item>
+                        <item n="f)">Außen- und Innengewinde von Hand schneiden</item>
+                    </list>x&#160;&#160;4.6Fügen (§ 3 Abs. 1 Nr. 4 Buchstabe f)<list>
+                        <item n="a)">Schrauben, Muttern, Schlauch- und Rohrverbindungen sowie Scheiben und Sicherungselemente beschreiben</item>
+                        <item n="b)">Bolzen mit den dazugehörigen Sicherungselementen beschreiben</item>
+                        <item n="c)">gebräuchliche Werkzeuge beschreiben, insbesondere Schraubendreher, Schraubenschlüssel und Zangen</item>
+                        <item n="d)">Schrauben-, Schlauch- und Rohrverbindungen herstellen und sichern</item>
+                        <item n="e)">Gelenkverbindungen mit Bolzen herstellen</item>
+                        <item n="f)">lösbare Verbindungen sichern</item>
+                    </list>x&#160;&#160;5Bergmännische Grundfertigkeiten (§ 3 Abs. 1 Nr. 5)&#160;&#160;&#160;265.1Verarbeiten von Baustoffen (§ 3 Abs. 1 Nr. 5 Buchstabe a)<list>
+                        <item n="a)">Anwendung im Bergbau gebräuchlicher Baustoffe beschreiben</item>
+                        <item n="b)">einfache Schalungs- und Betonarbeiten ausführen</item>
+                        <item n="c)">einfache Mauerverbände herstellen</item>
+                    </list>x&#160;&#160;5.2Bearbeiten und Fügen von Holz (§ 3 Abs. 1 Nr. 5 Buchstabe b)<list>
+                        <item n="a)">Arten und Eigenschaften der im Bergbau gebräuchlichen Hölzer beschreiben und deren Verwendungsbereich erläutern</item>
+                        <item n="b)">Maße aus der Zeichnung entnehmen oder vor Ort aufnehmen, auf das Werkstück übertragen und anreißen</item>
+                        <item n="c)">sägen und behauen</item>
+                        <item n="d)">im Bergbau gebräuchliche Holzverbindungen herstellen</item>
+                    </list>x&#160;&#160;5.3Sichern und Herrichten des Arbeitsplatzes (§ 3 Abs. 1 Nr. 5 Buchstabe c)<list>
+                        <item n="a)">Maßnahmen gegen Stein- und Mineralfall und fallende Gegenstände ergreifen</item>
+                        <item n="b)">Maßnahmen gegen Ausgleiten und Abstürzen ergreifen</item>
+                    </list>x&#160;&#160;5.4Einbringen von Ausbau (§ 3 Abs. 1 Nr. 5 Buchstabe d)<list>
+                        <item n="a)">Aufgaben des Ausbaus beschreiben</item>
+                        <item n="b)">vorläufigen, endgültigen und zusätzlichen Ausbau erklären</item>
+                        <item n="c)">vorläufigen, endgültigen und zusätzlichen Ausbau einbringen</item>
+                    </list>x&#160;&#160;5.5Geben von Signalen und Erstatten von Meldungen (§ 3 Abs. 1 Nr. 5 Buchstabe e)<list>
+                        <item n="a)">optische und akustische Signale erklären, geben und beachten</item>
+                        <item n="b)">Meldungen erstatten</item>
+                    </list>x&#160;&#160;5.6Umgehen mit Einrichtungen der Wetterführung (§ 3 Abs. 1 Nr. 5 Buchstabe f)<list>
+                        <item n="a)">Aufgaben der Wetterführung nennen</item>
+                        <item n="b)">Einrichtungen der Wetterführung erklären</item>
+                        <item n="c)">Sonderbewetterungseinrichtungen einbauen und instandhalten</item>
+                    </list>x&#160;&#160;5.7Fördern und Transportieren (§ 3 Abs. 1 Nr. 5 Buchstabe g)<list>
+                        <item n="a)">Material von Hand transportieren, umschlagen und lagern</item>
+                        <item n="b)">mit Fördermitteln fördern und transportieren</item>
+                        <item n="c)">Sicherheitsvorschriften beim Fördern und Transportieren beachten</item>
+                    </list>x&#160;&#160;5.8Handhaben von Grubensicherheitseinrichtungen (§ 3 Abs. 1 Nr. 5 Buchstabe h)<list>
+                        <item n="a)">Explosions-, Brandschutz- und Staubbekämpfungseinrichtungen einbauen</item>
+                        <item n="b)">Feuerlöscheinrichtungen anwenden</item>
+                        <item n="c)">im Bergbau gebräuchliche Absperrungen errichten</item>
+                    </list>x&#160;&#160;6Maschinentechnische Grundfertigkeiten (§ 3 Abs. 1 Nr. 6)&#160;&#160;&#160;186.1Umgehen mit Hebezeugen (§ 3 Abs. 1 Nr. 6 Buchstabe a)<list>
+                        <item n="a)">das Gewicht von Lasten abschätzen</item>
+                        <item n="b)">geeignete Anschlagpunkte, Anschlaggeschirre und Hebezeuge auswählen</item>
+                        <item n="c)">Lasten anschlagen, ziehen, heben und senken</item>
+                        <item n="d)">Hebezeuge pflegen</item>
+                        <item n="e)">Sicherheitsvorschriften beim Umgehen mit Hebezeugen beachten</item>
+                    </list>&#160;x&#160;6.2Umgehen mit Fördermitteln (§ 3 Abs. 1 Nr. 6 Buchstabe b)<list>
+                        <item n="a)">Aufbau und Wirkungsweise von Fördermitteln beschreiben</item>
+                        <item n="b)">Sicherheitsvorschriften beim Umgehen mit Fördermitteln beachten</item>
+                        <item n="c)">Fördermittel montieren und demontieren</item>
+                    </list>&#160;x&#160;6.3Umgehen mit Transporteinrichtungen (§ 3 Abs. 1 Nr. 6 Buchstabe c)<list>
+                        <item n="a)">Aufbau und Wirkungsweise von Transporteinrichtungen beschreiben</item>
+                        <item n="b)">Sicherheitsvorschriften beim Umgehen mit Transporteinrichtungen beachten</item>
+                        <item n="c)">Transporteinrichtungen montieren und demontieren</item>
+                    </list>&#160;x&#160;6.4Umgehen mit elektrischen Anlagen (§ 3 Abs. 1 Nr. 6 Buchstabe d)<list>
+                        <item n="a)">die Bedeutung der Kennfarben elektrischer Kabel und Leitungen erklären</item>
+                        <item n="b)">elektrische Betriebsmittel handhaben</item>
+                        <item n="c)">die elektrischen Betriebsmittel vor Beschädigungen durch äußere Einwirkungen schützen</item>
+                        <item n="d)">Beschädigungen an elektrischen Betriebsmitteln feststellen und melden</item>
+                        <item n="e)">Sicherheitsvorschriften beim Umgehen mit elektrischen Anlagen nennen und beachten</item>
+                    </list>&#160;x&#160;&#160;II. Fertigkeiten und Kenntnisse in der Fachrichtung Vortrieb und Gewinnung:1Bohren in Mineral und Nebengestein (§ 3 Abs. 2 Nr. 1 Buchstabe a)<list>
+                        <item n="a)">den Arbeitsplatz insbesondere durch Abtreiben von Firsten, Stößen und Ortsbrust sowie durch Vorpfänden sichern</item>
+                        <item n="b)">Arbeitsschutzmittel bei der Bohr- und Sprengarbeit beschreiben und anwenden</item>
+                        <item n="c)">Bohrverfahren beschreiben und anwenden</item>
+                        <item n="d)">Bohrgezähe rüsten und Bohrbühne errichten</item>
+                        <item n="e)">Bohrlöcher ansetzen und nach Angabe bohren</item>
+                        <item n="f)">beim Vorbereiten der Sprengarbeit helfen</item>
+                        <item n="g)">die Sicherheitsvorschriften bei der Sprengarbeit beachten</item>
+                    </list>&#160;x142Gewinnen, Lösen, Laden und Abfördern von Mineral und Nebengestein (§ 3 Abs. 2 Nr. 1 Buchstabe b)<list>
+                        <item n="a)">den Arbeitsplatz sichern, insbesondere Sprengversager erkennen und melden</item>
+                        <item n="b)">Mineral und Nebengestein von Hand lösen und laden</item>
+                        <item n="c)">Mineral mit der Maschine lösen</item>
+                        <item n="d)">Mineral und Nebengestein mit der Maschine laden</item>
+                        <item n="e)">Signale erfassen, geben und beachten</item>
+                        <item n="f)">Mineral und Nebengestein mit Fördermitteln und Transportanlagen abfördern</item>
+                        <item n="g)">Fördermittel rücken, verlängern, verkürzen und warten</item>
+                    </list>&#160;x&#160;3Ausbauen (§ 3 Abs. 2 Nr. 1 Buchstabe c)<list>
+                        <item n="a)">den Arbeitsplatz, insbesondere durch Abtreiben von Firsten, Stößen und Ortsbrust sowie durch Vorpfänden, sichern</item>
+                        <item n="b)">im Abbau den Ausbau einbringen und umsetzen</item>
+                        <item n="c)">im Abbau den Ausbau verstärken</item>
+                        <item n="d)">Pfeiler setzen</item>
+                        <item n="e)">Begleitdämme einbringen</item>
+                        <item n="f)">in Strecken den Ausbau einbringen</item>
+                        <item n="g)">Streckenausbau verstärken</item>
+                        <item n="h)">Arbeitsbühne errichten</item>
+                    </list>&#160;x204Unterhalten von Grubenbauen (§ 3 Abs. 2 Nr. 1 Buchstabe d)<list>
+                        <item n="a)">den Arbeitsplatz sichern, insbesondere Baustelle durch Warnschilder kennzeichnen und durch Warnblinkleuchten absichern</item>
+                        <item n="b)">Arbeitsbühne errichten</item>
+                        <item n="c)">Stoß, Sohle und Firste nachreißen</item>
+                        <item n="d)">Vorpfändung einbringen</item>
+                        <item n="e)">Ausbau einbringen</item>
+                    </list>&#160;x&#160;5Umgehen mit Einrichtungen der Wetterführung (§ 3 Abs. 2 Nr. 1 Buchstabe e)Einrichtungen der Wetterführung einbauen und warten&#160;x&#160;&#160;III. Fertigkeiten und Kenntnisse in der Fachrichtung Transport und Instandhaltung:1Transportieren (§ 3 Abs. 2 Nr. 2 Buchstabe a)<list>
+                        <item n="a)">Arbeitsplatz und Transportweg sichern</item>
+                        <item n="b)">Transportgut umschlagen und transportieren</item>
+                        <item n="c)">sperriges Gut von Hand und mit maschinellen Einrichtungen transportieren</item>
+                        <item n="d)">schwere Lasten transportieren</item>
+                        <item n="e)">Sicherheitsvorschriften für den Transport sperriger und schwerer Güter beachten</item>
+                        <item n="f)">Mängel und Schäden am Transportgut und Transportweg feststellen und melden</item>
+                    </list>&#160;x172Montieren, Demontieren und Instandhalten von Transporteinrichtungen (§ 3 Abs. 2 Nr. 2 Buchstabe b)<list>
+                        <item n="a)">Transporteinrichtungen montieren und demontieren</item>
+                        <item n="b)">Transporteinrichtungen instandhalten</item>
+                        <item n="c)">Sicherheitsvorschriften für die Reparatur von Transporteinrichtungen beachten</item>
+                        <item n="d)">Mängel und Schäden an Transporteinrichtungen feststellen, beseitigen und melden</item>
+                    </list>&#160;x&#160;3Montieren, Demontieren und Instandhalten von Fördereinrichtungen (§ 3 Abs. 2 Nr. 2 Buchstabe c)<list>
+                        <item n="a)">Fördereinrichtungen montieren und demontieren</item>
+                        <item n="b)">Fördereinrichtungen instandhalten</item>
+                        <item n="c)">Sicherheitsvorschriften für die Reparatur an Fördereinrichtungen beachten</item>
+                        <item n="d)">Mängel und Schäden an Fördereinrichtungen feststellen, beseitigen und melden</item>
+                    </list>&#160;x174Instandhalten von Rohr- und Schlauchleitungen (§ 3 Abs. 2 Nr. 2 Buchstabe d)<list>
+                        <item n="a)">Rohr- und Schlauchleitungen verlegen, anschließen und ausbauen</item>
+                        <item n="b)">Armaturen ein- und ausbauen</item>
+                        <item n="c)">Rohre, Schläuche und Armaturen auswechseln</item>
+                        <item n="d)">Schlauchverbindungen herstellen</item>
+                        <item n="e)">Mängel und Schäden an Rohr- und Schlauchleitungen und Armaturen feststellen, beseitigen und melden</item>
+                        <item n="f)">Sicherheitsvorschriften für die Reparatur von Rohr- und Schlauchleitungen beachten</item>
+                    </list>&#160;x&#160;</p>
+            </div>
+            <div xml:id="d372e1210">
+                <head>Anhang EV</head>
+                <p>Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:<list>
+                        <item n="1.">Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt geändert durch § 19 des Gesetzes vom 23. Dezember 1981 (BGBl. I S. 1692), und auf Grund § 21 Abs. 1 und 2, §§ 25, 29 Abs. 1, § 43 Abs. 1 und 2, § 46 Abs. 2, § 47 Abs. 3, § 76 Abs. 2, § 77 Abs. 5, § 80 Abs. 2, § 81 Abs. 4, § 82 Abs. 2, §§ 93, 95 Abs. 4, § 96 Abs. 2 erlassene Rechtsverordnungen mit folgenden Maßgaben:<list>
+                                <item n="a)">Rechtsverordnungen nach § 21 Abs. 1 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Rechtsverordnungen nach § 29 Abs. 1 und § 43 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Wirtschaft oder den sonst zuständigen Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.</item>
+                                <item n="b)">Die zuständige Stelle kann bis zum 31. Dezember 1995 Ausnahmen von den Ausbildungsverordnungen nach § 25 des Gesetzes zulassen, wenn die durch technische Regeln gesetzten Anforderungen noch nicht erfüllt werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister kann im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Befugnis nach Satz 1 einschränken oder aufheben.</item>
+                                <item n="c)">Die Regelungen in Ausbildungsverordnungen nach § 25 des Gesetzes über die Ausbildung in überbetrieblichen Ausbildungsstätten (§ 27 des Gesetzes) werden nicht angewendet, wenn die zuständige Stelle feststellt, daß eine solche Ausbildung nicht möglich ist.</item>
+                                <item n="d)">Bei Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - IGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) bestehende Ausbildungsverhältnisse werden nach den neuen Vorschriften zu Ende geführt, es sei denn, daß eine Ausbildung nach den neuen Vorschriften nicht möglich ist oder der Lehrling eine Fortsetzung nach den bisherigen Vorschriften ausdrücklich wünscht. Sofern die Beendigung des Lehrverhältnisses nach den neuen Ausbildungsverordnungen im bisherigen Betrieb nicht möglich ist, sind das zuständige Arbeitsamt und die zuständige Stelle verpflichtet, den Lehrling zu unterstützen, einen neuen Ausbildungsbetrieb zu finden, der die Ausbildung nach den neuen Ausbildungsverordnungen fortsetzt.</item>
+                                <item n="e)">Die Ausbildungszeit soll nach § 29 Abs. 3 des Gesetzes verlängert werden, soweit eine Berufsausbildung mit Abitur durchgeführt wird.</item>
+                                <item n="f)">Die Anwendung der §§ 76, 77, 80 bis 82, 86, 88, 90, 92 bis 96 des Gesetzes und der auf Grund dieser Bestimmungen erlassenen Verordnungen bestimmt der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.</item>
+                                <item n="g)">Die Betriebe sind verpflichtet, die praktische Berufsausbildung zweckentsprechend aufrecht zu erhalten, soweit dies zur Erfüllung von Lehrverträgen erforderlich ist, die vor Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - JGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) abgeschlossen worden sind. Für Betriebsakademien und andere der beruflichen Bildung dienende Einrichtungen ist dies mindestens bis zum 31. Dezember 1990 zu gewährleisten. Auf Antrag der Handwerkskammern und der Industrie- und Handelskammern ist durch die Betriebe zu prüfen, inwieweit vorhandene Kapazitäten der praktischen Berufsausbildung (insbesondere Lehrwerkstätten) als überbetriebliche Ausbildungsstätten genutzt werden oder als Treuhandvermögen an die vorgenannten Kammern zur Nutzung übertragen werden können.</item>
+                                <item n="h)">Solange die in §§ 79, 87, 89 und 91 des Gesetzes genannten zuständigen Stellen nicht bestehen, bestimmt das Land die zuständige Stelle.</item>
+                                <item n="i)">Lehrlinge, die gemäß der Systematik der Facharbeiterberufe ausgebildet werden, werden nach den bisherigen Rechtsvorschriften geprüft, soweit nicht der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften für Verfahren und Zuständigkeiten erläßt.</item>
+                                <item n="k)">Die am Tage des Wirksamwerdens des Beitritts laufenden Prüfungsverfahren in der beruflichen Fortbildung und beruflichen Umschulung werden nach den bisherigen Vorschriften zu Ende geführt.</item>
+                            </list>
+                        </item>
+                    </list>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

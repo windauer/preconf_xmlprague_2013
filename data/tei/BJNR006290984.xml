@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006290984">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Erhebung von Kosten für die Inanspruchnahme von Streckennavigations-Diensten und Streckennavigations-Einrichtungen der Flugsicherung</title>
+                <title type="short">FSStreckenGV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1984-04-14</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1986 +++)(+++ Maßgaben aufgrund des EinigVtr vgl. FSStreckenGV Anhang EV; nicht mehr anzuwenden gem. Art. 109 Nr. 5 Buchst. c DBuchst. cc G v. 8.12.2010 I 1864 +++)</p>
+            <p>Überschrift: IdF d. Art. 1 Nr. 1 u. 2 V v. 10.9.1986 I 1524 mWv 1.1.1986</p>
+        </front>
+        <body>
+            <div xml:id="d146e38">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 32 Abs. 1 Satz 1 Nr. 14 und Satz 4 des Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 14. Januar 1981 (BGBl. I S. 61), zuletzt geändert durch Artikel 4 des Gesetzes vom 2. Februar 1984 zu dem Protokoll vom 12. Februar 1981 zur Änderung des Internationalen Übereinkommens über Zusammenarbeit zur Sicherung der Luftfahrt "EUROCONTROL" vom 13. Dezember 1960 und zu der Mehrseitigen Vereinbarung vom 12. Februar 1981 über Flugsicherungs-Streckengebühren (BGBl. 1984 II S. 69), wird im Einvernehmen mit dem Bundesminister für Wirtschaft und mit Zustimmung des Bundesrates verordnet:</p>
+            </div>
+            <div xml:id="d146e48">
+                <head>§ 1</head>
+                <p>Für die Inanspruchnahme von Streckennavigations-Diensten und Streckennavigations-Einrichtungen der Flugsicherung bei der Benutzung des Luftraums der Fluginformationsgebiete der Bundesrepublik Deutschland werden Kosten (Gebühren und Auslagen) erhoben. Dies gilt nicht für</p>
+                <list>
+                    <item n="1.">Flüge militärischer Luftfahrzeuge der NATO-Mitgliedstaaten;</item>
+                    <item n="2.">Flüge militärischer Luftfahrzeuge anderer als NATO-Mitgliedstaaten, wenn auch von dem betreffenden Staat für militärische Luftfahrzeuge der Bundesrepublik Deutschland eine entsprechende Kostenbefreiung gewährt wird.</item>
+                </list>
+                <p>(2) Für die Inanspruchnahme der Flugsicherung bei Übungsflügen, die ausschließlich zum Zwecke des Erwerbs eines Pilotenscheins oder einer Berechtigung für Luftfahrzeugführer durchgeführt werden, wird befristet bis zum 31. Dezember 2000 eine Kostenermäßigung von 40 vom Hundert gewährt, wenn</p>
+                <list>
+                    <item n="1.">diese Flüge nicht zur Beförderung von Fluggästen oder Fracht oder zur Abstellung oder Überführung von Luftfahrzeugen dienen,</item>
+                    <item n="2.">diese Flüge nur im Luftraum der Bundesrepublik Deutschland durchgeführt werden und</item>
+                    <item n="3.">im Flugplan Angaben zum Zweck des Übungsfluges eingetragen werden.</item>
+                </list>
+            </div>
+            <div xml:id="d146e73">
+                <head>§ 2</head>
+                <p>(1) Für die Festlegung der Gebühren und die Einziehung der Kosten bedient sich die Bundesrepublik Deutschland der Dienste der Organisation EUROCONTROL. Die Gebühren werden von der Organisation EUROCONTROL nach Maßgabe der Mehrseitigen Vereinbarung über Flugsicherungs-Streckengebühren erhoben.</p>
+                <p>(2) Einzelheiten der Gebührenberechnung und -erhebung sowie des -einziehungsverfahrens werden durch Beschlüsse der Erweiterten Kommission der Organisation EUROCONTROL festgelegt.</p>
+                <p>(3) Zu den nach § 10 Abs. 1 des Verwaltungskostengesetzes zu erhebenden Auslagen ist die auf die Kosten nach § 1 Satz 1 entfallende, gesetzlich geschuldete Umsatzsteuer hinzuzurechnen.</p>
+            </div>
+            <div xml:id="d146e88">
+                <head>§ 3</head>
+                <p>(1) Diese Verordnung tritt an dem Tage in Kraft, an dem die Mehrseitige Vereinbarung über Flugsicherungs-Streckengebühren vom 12. Februar 1981 in Kraft tritt.</p>
+                <p>(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem die Vereinbarung außer Kraft tritt.</p>
+                <p>(3) Der Tag des Inkrafttretens und des Außerkrafttretens sind im Bundesgesetzblatt bekanntzugeben.</p>
+            </div>
+            <div xml:id="d146e103">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Verkehr</p>
+            </div>
+            <div xml:id="d146e114">
+                <head>Anhang EV</head>
+                <p>Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:1. und 2. ...<list>
+                        <item n="3.">Flugsicherungs-Streckengebührenverordnung vom 14. April 1984 (BGBl. I S. 629), zuletzt geändert durch Verordnung vom 10. September 1986 (BGBl. I S. 1524) und</item>
+                        <item n="4.">... jeweils mit folgender Maßgabe: Bei den unter Nummern 3 und 4 genannten Rechtsvorschriften sind Flüge militärischer Luftfahrzeuge der Warschauer Vertragsstaaten denen der NATO-Mitgliedstaaten gebührenrechtlich gleichgestellt.</item>
+                    </list>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

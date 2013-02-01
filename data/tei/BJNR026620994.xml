@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR026620994">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abkommen zwischen der Bundesrepublik Deutschland und der Republik Polen über Erleichterungen der Grenzabfertigung</title>
+                <title type="short">GrAbfErlPolAbk</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1992-07-29</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>G v. 3.2.1994 II 265.</p>
+            <p>Inkraft gem. Bek. v. 11.7.1994 II 1258 mWv 4.8.1994</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

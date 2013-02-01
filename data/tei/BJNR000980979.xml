@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000980979">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Änderung von örtlichen Zuständigkeiten der Landesversicherungsanstalten in Niedersachsen und zur Änderung des Bundesversorgungsgesetzes</title>
+                <title type="short">LVANDZustÄndG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1979-01-19</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 26. 1.1979 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1088e20">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d1088e30">
+                <head>§ 1</head>
+                <p>Im Land Niedersachsen sind örtlich zuständig:</p>
+                <list>
+                    <item n="1.">Die Landesversicherungsanstalt Braunschweig für das Gebiet des Regierungsbezirks Braunschweig mit Ausnahme der Landkreise Gifhorn, Göttingen, Northeim, Osterode am Harz und der kreisfreien Stadt Wolfsburg,</item>
+                    <item n="2.">die Landesversicherungsanstalt Oldenburg-Bremen für den Regierungsbezirk Weser-Ems mit Ausnahme der Landkreise Aurich, Emsland, Grafschaft Bentheim, Leer, Osnabrück und der kreisfreien Städte Emden und Osnabrück,</item>
+                    <item n="3.">die Landesversicherungsanstalt Hannover für die Regierungsbezirke Hannover und Lüneburg und<list>
+                            <item n="a)">die Landkreise Aurich, Emsland, Gifhorn, Göttingen, Grafschaft Bentheim, Leer, Northeim, Osnabrück, Osterode am Harz und</item>
+                            <item n="b)">die kreisfreien Städte Emden, Osnabrück und Wolfsburg.</item>
+                        </list>
+                    </item>
+                </list>
+            </div>
+            <div xml:id="d1088e52">
+                <head>§ 2</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1088e63">
+                <head>§ 3</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d1088e73">
+                <head>§ 4</head>
+                <p>Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR007680984">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Galvaniseur- und Metallschleifer-Handwerk</title>
+                <title type="short">GalvMstrV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1984-06-25</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.1.1985 +++)</p>
+        </front>
+        <body>
+            <div>
+                <head>1. Abschnitt</head>
+                <head type="subtitle">Berufsbild</head>
+                <div xml:id="d296e38">
+                    <head>§ 1</head>
+                    <p>(1) Dem Galvaniseur- und Metallschleifer-Handwerk sind folgende Tätigkeiten zuzurechnen:</p>
+                    <list>
+                        <item n="1.">Herstellung metallischer Schichten durch Abscheidung auf Gegenstände insbesondere durch chemische und elektrolytische Verfahren,</item>
+                        <item n="2.">Herstellung chemischer Schichten insbesondere durch Chromatieren, Phosphatieren und Metallfärben,</item>
+                        <item n="3.">Herstellung anodischer Oxidationsschichten,</item>
+                        <item n="4.">Schleifen und Polieren von Gegenständen aus Metallen und Kunststoffen.</item>
+                    </list>
+                    <p>(2) Dem Galvaniseur- und Metallschleifer-Handwerk sind folgende Kenntnisse und Fertigkeiten zuzurechnen:</p>
+                    <list>
+                        <item n="1.">Kenntnisse über Physik, Chemie und Elektrotechnik,</item>
+                        <item n="2.">Kenntnisse der Elektrochemie,</item>
+                        <item n="3.">Kenntnisse der galvanischen Einrichtungen,</item>
+                        <item n="4.">Kenntnisse der Verfahren für die chemische und elektrolytische Oberflächenbehandlung,</item>
+                        <item n="5.">Kenntnisse der Elektrolyte, ihrer Betriebsbedingungen und ihres betrieblichen Einsatzes,</item>
+                        <item n="6.">Kenntnisse der Werk- und Hilfsstoffe sowie der gebräuchlichen Chemikalien,</item>
+                        <item n="7.">Kenntnisse der Berechnung chemischer, physikalischer und elektrischer Größen,</item>
+                        <item n="8.">Kenntnisse der Berechnung von Schichtdicken, Galvanisierungszeiten und Elektrolytzusammensetzungen,</item>
+                        <item n="9.">Kenntnisse der Korrosionsschutzprüfungen und der Schichtdickenmessungen,</item>
+                        <item n="10.">Kenntnisse der Arten der manuellen Oberflächenbearbeitung,</item>
+                        <item n="11.">Kenntnisse der Schleif- und Polierscheiben sowie der Schleif- und Poliermittel,</item>
+                        <item n="12.">Kenntnisse über Energie- und Rohstoffeinsparung in der Galvanotechnik,</item>
+                        <item n="13.">Kenntnisse der berufsbezogenen Vorschriften der Unfallverhütung, des Arbeitsschutzes und der Arbeitssicherheit,</item>
+                        <item n="14.">Kenntnisse der Bestimmungen über die Lagerung und den Umgang mit Chemikalien,</item>
+                        <item n="15.">Kenntnisse der berufsbezogenen DIN-Normen und über die Vorschriften des Immissionsschutzes,</item>
+                        <item n="16.">Kenntnisse der Ersten Hilfe in der Galvanotechnik,</item>
+                        <item n="17.">Lesen und Anfertigen von Schaltplänen galvanischer Bäder,</item>
+                        <item n="18.">Lesen und Anfertigen von Skizzen und technischen Zeichnungen,</item>
+                        <item n="19.">Anfertigen von Gestellen und Vorrichtungen für das Galvanisieren,</item>
+                        <item n="20.">Bearbeiten von Oberflächen insbesondere durch Schleifen, Bürsten, Kratzen und Polieren,</item>
+                        <item n="21.">Ansetzen von Elektrolyten,</item>
+                        <item n="22.">analytisches Untersuchen und Instandhalten der Elektrolyte,</item>
+                        <item n="23.">Vor- und Nachbehandeln, insbesondere Entfetten, Beizen, Brennen, Dekapieren, Spülen und Trocknen,</item>
+                        <item n="24.">Abscheiden von Metallen insbesondere durch chemische und elektrolytische Verfahren,</item>
+                        <item n="25.">Färben von Metallen durch chemische und elektrolytische Verfahren,</item>
+                        <item n="26.">Messen und Prüfen metallischer und chemischer Schichten sowie anodischer Oxidationsschichten,</item>
+                        <item n="27.">Entfernen metallischer und nichtmetallischer Schichten durch chemische und elektrolytische Verfahren,</item>
+                        <item n="28.">Behandeln von Abluft, Abwasser und chemischen Rückständen der Galvanotechnik unter Berücksichtigung der verantwortlichen Entsorgung und des vorbeugenden Umweltschutzes,</item>
+                        <item n="29.">Pflegen und Instandhalten von Bädern, Vorrichtungen, Werkzeugen, Geräten, Maschinen und Anlagen.</item>
+                    </list>
+                </div>
+            </div>
+            <div>
+                <head>2. Abschnitt</head>
+                <head type="subtitle">Prüfungsanforderungen in den Teilen I und II der Meisterprüfung</head>
+                <div xml:id="d296e136">
+                    <head>§ 2</head>
+                    <p>(1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.</p>
+                    <p>(2) Die Anfertigung der Meisterprüfungsarbeit soll nicht länger als vier Arbeitstage, die Ausführung der Arbeitsprobe nicht länger als acht Stunden dauern.</p>
+                    <p>(3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.</p>
+                </div>
+                <div xml:id="d296e152">
+                    <head>§ 3</head>
+                    <p>Als Meisterprüfungsarbeit sind zwei der nachstehenden Arbeiten, davon eine nach den Nummern 1 bis 3 und eine nach den Nummern 4 bis 6, anzufertigen:</p>
+                    <list>
+                        <item n="1.">Herstellen einer Maßhartverchromung mit einer Schicht von 12+- 3 Mikrometern auf den Artikelflächen einer Spritzgußform mit einer Mindestgröße von 200 x 200 x 150 mm und Brünieren der verbleibenden Flächen. Die hierfür erforderliche Vorrichtung ist nach eigener Zeichnung anzufertigen.</item>
+                        <item n="2.">Anodisieren eines Aluminium-U-Profils von mindestens 40 x 100 x 40 mm und 400 bis 500 mm Länge. Das U-Profil ist innen zu beizen, außen zu schleifen und zu bürsten sowie mit einer organischen, anorganischen und elektrolytischen Einfärbung zu versehen.</item>
+                        <item n="3.">Abscheiden einer 90-g-Versilberung nach RAL auf einem 24teiligen Menübesteck und auf 6 Vorlegeteilen aus Edelstahl. Diese Teile sind mit einer Altsilber-Einfärbung zu versehen; die Kellen sind zu polieren.</item>
+                        <item n="4.">Abscheiden von 3 bis 6 sichtbaren dekorativen metallischen Schichten auf einer Metallplatte von mindestens 10qdm Gesamtfläche. Die Platte ist vorher, beginnend mit Körnung 120, zu schleifen und danach zu bürsten oder zu polieren.</item>
+                        <item n="5.">Abscheiden von 3 bis 6 sichtbaren dekorativen metallischen Schichten und einer Färbung auf einer Vase, Schale oder einem Pokal mit Motiven.</item>
+                        <item n="6.">Abscheiden einer Kupferschicht von 12+- 3 Mikrometern, einer Hochglanznickelschicht von 22+- 3 Mikrometern und einer Chromschicht von 0,7+- 0,3 Mikrometern auf einem Stahlring mit einem Außendurchmesser von 200 mm, einem Innendurchmesser von 50 mm und einer Höhe von 40 mm sowie 4 gleichmäßig angeordneten Gewindebohrungen M 8 x 30 mm. Der Stahlring ist vorher allseitig zu schleifen und zu polieren.</item>
+                    </list>
+                </div>
+                <div xml:id="d296e187">
+                    <head>§ 4</head>
+                    <p>(1) Als Arbeitsprobe sind fünf der nachstehenden Arbeiten, davon in jedem Fall die nach den Nummern 1, 2 und 3, auszuführen:</p>
+                    <list>
+                        <item n="1.">Durchführen von drei quantitativen Analysen von Elektrolyten,</item>
+                        <item n="2.">Durchführen einer Korrosionsschutzprüfung und einer Schichtdickenmessung,</item>
+                        <item n="3.">Schleifen und Polieren eines Stahlteils von 80 x 10 x 200 mm,</item>
+                        <item n="4.">Verkupfern, Hochglanz-Vernickeln und Verchromen eines Stahlteils von 80 x 10 x 200 mm,</item>
+                        <item n="5.">Verkupfern, Hochglanz-Vernickeln und Verchromen eines Zinkdruckgußteils,</item>
+                        <item n="6.">Verzinken und Chromatieren eines Stahlteils von 2 bis 4qdm Gesamtfläche,</item>
+                        <item n="7.">Galvanisieren eines Kunststoffteils,</item>
+                        <item n="8.">Versilbern eines Buntmetallteils mit einer Schichtdicke von 30 Mikrometern oder Vergolden mit einer Schichtdicke von 1 Mikrometer,</item>
+                        <item n="9.">Hartverchromen eines teilweise abgedeckten Werkstücks von 2 bis 4qdm Gesamtfläche mit einer Schichtdicke von 17+- 3 Mikrometern,</item>
+                        <item n="10.">Anodisieren, Einfärben und Verdichten eines Aluminiumteils von 80 x 10 x 200 mm,</item>
+                        <item n="11.">Färben oder Phosphatieren eines Metallteils von 2 bis 4qdm Gesamtfläche.</item>
+                    </list>
+                    <p>(2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.</p>
+                </div>
+                <div xml:id="d296e232">
+                    <head>§ 5</head>
+                    <p>(1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:</p>
+                    <list>
+                        <item n="1.">Technische Mathematik:<list>
+                                <item n="a)">Berechnung chemischer, physikalischer und elektrischer Größen,</item>
+                                <item n="b)">Berechnung von Schichtdicken, Galvanisierungszeiten und Elektrolytzusammensetzungen;</item>
+                            </list>
+                        </item>
+                        <item n="2.">Technisches Zeichnen:<list>
+                                <item n="a)">Lesen und Anfertigen von Schaltplänen galvanischer Bäder,</item>
+                                <item n="b)">Lesen und Anfertigen von Skizzen und technischen Zeichnungen;</item>
+                            </list>
+                        </item>
+                        <item n="3.">Technologie:<list>
+                                <item n="a)">Physik, Chemie und Elektrotechnik,</item>
+                                <item n="b)">Elektrochemie,</item>
+                                <item n="c)">Verfahren für die chemische und elektrolytische Oberflächenbehandlung,</item>
+                                <item n="d)">Arten der manuellen Oberflächenbearbeitung,</item>
+                                <item n="e)">galvanische Einrichtungen,</item>
+                                <item n="f)">Elektrolyte, ihre Betriebsbedingungen und ihr betrieblicher Einsatz,</item>
+                                <item n="g)">Korrosionsschutzprüfungen und Schichtdickenmessungen,</item>
+                                <item n="h)">Energie- und Rohstoffeinsparung in der Galvanotechnik,</item>
+                                <item n="i)">Bestimmungen über die Lagerung und den Umgang mit Chemikalien,</item>
+                                <item n="k)">Erste Hilfe in der Galvanotechnik,</item>
+                                <item n="l)">berufsbezogene Vorschriften der Unfallverhütung, des Arbeitsschutzes und der Arbeitssicherheit,</item>
+                                <item n="m)">berufsbezogene DIN-Normen und Vorschriften des Immissionsschutzes, insbesondere Entsorgung galvanischer Bäder unter Berücksichtigung eines vorbeugenden Umweltschutzes;</item>
+                            </list>
+                        </item>
+                        <item n="4.">Werkstoffkunde:<list>
+                                <item n="a)">Arten, Eigenschaften, Bezeichnungen, Verwendung, Verarbeitung und Lagerung der Werk- und Hilfsstoffe,</item>
+                                <item n="b)">Chemikalien,</item>
+                                <item n="c)">Schleif- und Polierscheiben sowie Poliermittel;</item>
+                            </list>
+                        </item>
+                        <item n="5.">Kalkulation: Kostenermittlung mit allen für die Preisbildung wesentlichen Faktoren und Berechnung für die Angebots- und die Nachkalkulation.</item>
+                    </list>
+                    <p>(2) Die Prüfung ist in allen Fächern schriftlich und im Fach Technologie auch mündlich durchzuführen.</p>
+                    <p>(3) Die schriftliche Prüfung soll nicht länger als zehn Stunden, die mündliche je Prüfling nicht länger als eine halbe Stunde dauern. In der schriftlichen Prüfung soll an einem Tag nicht länger als sechs Stunden geprüft werden.</p>
+                    <p>(4) Mindestvoraussetzung für das Bestehen des Teils II sind jeweils ausreichende Leistungen in den Prüfungsfächern nach Absatz 1 Nr. 1, 3, 4 und 5.</p>
+                </div>
+            </div>
+            <div>
+                <head>3. Abschnitt</head>
+                <head type="subtitle">Übergangs- und Schlußvorschriften</head>
+                <div xml:id="d296e318">
+                    <head>§ 6</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d296e329">
+                    <head>§ 7</head>
+                    <p>Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.</p>
+                </div>
+                <div xml:id="d296e341">
+                    <head>§ 8</head>
+                    <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.</p>
+                </div>
+                <div xml:id="d296e353">
+                    <head>§ 9</head>
+                    <p>(1) Diese Verordnung tritt am 1. Januar 1985 in Kraft.</p>
+                    <p>(2) Die auf Grund des § 122 der Handwerksordnung weiter anzuwendenden Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.</p>
+                </div>
+                <div xml:id="d296e367">
+                    <head>Schlußformel</head>
+                    <p>Der Bundesminister für Wirtschaft</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

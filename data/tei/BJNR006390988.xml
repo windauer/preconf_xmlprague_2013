@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006390988">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über Aufzeichnungen über Versuchstiere und deren Kennzeichnung</title>
+                <title type="short">VersTierAufzKennzV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1988-05-20</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.6.1988 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d153e23">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 11a Abs. 3 in Verbindung mit § 16b Abs. 1 Satz 2 des Tierschutzgesetzes in der Fassung der Bekanntmachung vom 18. August 1986 (BGBl. I S. 1319) wird nach Anhörung der Tierschutzkommission mit Zustimmung des Bundesrates verordnet:</p>
+            </div>
+            <div xml:id="d153e33">
+                <head>§ 1</head>
+                <p>(1) Für die Aufzeichnungen nach § 11a Abs. 1 des Tierschutzgesetzes ist in den Betriebs- oder Geschäftsräumen ein Kontrollbuch zu führen. In dieses ist jede Bestandsveränderung unverzüglich nach folgendem Muster dauerhaft einzutragen:Lfd. Nr.HerkunftVerbleib&#160;EingangstagBezeichnung der geborenen, vom Muttertier abgesetzten oder erworbenen Wirbeltiere nach Art und Zahl sowie Angabe der besonderen Merkmale oder einer vorgeschriebenen KennzeichnungName und genaue Anschrift des Veräußerers, Angabe der sonstigen Bezugsquelle oder Angabe, ob aus eigener Zucht stammendAbgangstagName und genaue Anschrift des Erwerbers oder Art des sonstigen Abgangs</p>
+                <p>(2) Affen, Hunde und Katzen sind einzeln aufzuführen.</p>
+                <p>(3) Die §§ 239 und 261 des Handelsgesetzbuchs gelten sinngemäß.</p>
+            </div>
+            <div xml:id="d153e80">
+                <head>§ 2</head>
+                <p>Die Kennzeichnung von Hunden und Katzen nach § 11a Abs. 2 des Tierschutzgesetzes ist durch Tätowierung vorzunehmen. Das Kennzeichen besteht, von links nach rechts gelesen, aus den Buchstaben des amtlichen Kraftfahrzeugkennzeichens des Kreises, in dem oder der kreisfreien Stadt, in der die Kennzeichnung vorgenommen werden muß, sowie einer Nummernkombination, die sich aus der Betriebsnummer, dem Kennzeichnungsjahr und der laufenden Tiernummer zusammensetzt. Die Betriebsnummer wird von der zuständigen Behörde zugeteilt. Die Buchstaben sind im linken, die Nummernkombination im rechten Ohr anzubringen. Ist eine Ohrtätowierung nicht möglich, muß die Tätowierung auf der linken Innenschenkelseite erfolgen. Die zuständige Behörde kann in bestimmten Fällen gestatten, daß eine andere geeignete Kennzeichnung verwendet wird. Werden bereits ausreichend gekennzeichnete Tiere in den Geltungsbereich dieser Verordnung verbracht, so genügt diese Kennzeichnung. Die zuständige Behörde kann verlangen, daß die Tiere unter ihrer Aufsicht gekennzeichnet werden.</p>
+            </div>
+            <div xml:id="d153e92">
+                <head>§ 3</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d153e105">
+                <head>§ 4</head>
+                <p>Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft.</p>
+            </div>
+            <div xml:id="d153e117">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Ernährung, Landwirtschaft und Forsten</p>
+            </div>
+        </body>
+    </text>
+</TEI>

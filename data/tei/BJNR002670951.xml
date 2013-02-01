@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002670951">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Sammlung von Nachrichten über Kriegsgefangene, festgehaltene oder verschleppte Zivilpersonen und Vermißte</title>
+                <title type="short">VermSammlG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1951-04-23</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Überschrift: Gilt in Berlin idF v. 10.8.1951 GVBl. Berlin S. 577(+++ Textnachweis Geltung ab: 1. 1.1975 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1286e23">
+                <head>§ 1</head>
+                <p>Wer Kenntnis von dem Verbleib eines Kriegsgefangenen, einer festgehaltenen oder verschleppten Zivilperson oder eines Vermißten hat, ist verpflichtet, dem Bundeskanzleramt, der von ihm bestimmten Bundesbehörde oder der jeweiligen obersten Landesbehörde für das Flüchtlingswesen auf Aufforderung die Angaben zu machen, die auf dem als Anlage zu diesem Gesetz veröffentlichten Formblatt vorgesehen sind. Die Aufforderung erfolgt durch Übersendung des Formblattes.</p>
+            </div>
+            <div xml:id="d1286e33">
+                <head>§ 2</head>
+                <p>Wer im Besitz von Unterlagen ist, die Angaben über den Verbleib von Kriegsgefangenen, festgehaltenen oder verschleppten Zivilpersonen oder Vermißten enthalten, ist den in § 1 bestimmten Dienststellen zur Auskunft über diese Unterlagen verpflichtet. Auf Verlangen ist ihnen Einsicht in die Unterlagen zu gewähren.</p>
+            </div>
+            <div xml:id="d1286e43">
+                <head>§ 3</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1286e54">
+                <head>§ 4</head>
+                <p>Das Gesetz tritt am Tag nach der Verkündung in Kraft.</p>
+            </div>
+            <div xml:id="d1286e64">
+                <head>Anlage</head>
+                <p>(Inhalt: Nicht darstellbare Anlage,Fundstelle: BGBl I 1951, 268)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

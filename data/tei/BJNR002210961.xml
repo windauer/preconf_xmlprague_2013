@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002210961">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Änderung des Bundesjagdgesetzes</title>
+                <title type="short">BJagdGÄndG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1961-03-16</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1230e20">
+                <head>Art I</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1230e31">
+                <head>Art II</head>
+                <p>Entgegen der Vorschrift des Artikels I Nr. 5 vor dem Inkrafttreten dieses Gesetzes über Teile von gemeinschaftlichen Jagdbezirken rechtswirksam abgeschlossene Jagdpachtverträge bleiben bis zu ihrem vertraglichen Ablauf gültig.</p>
+            </div>
+            <div xml:id="d1230e41">
+                <head>Art III</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1230e52">
+                <head>Art IV</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d1230e63">
+                <head>Art V</head>
+                <p>Dieses Gesetz tritt am 1. April 1961 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

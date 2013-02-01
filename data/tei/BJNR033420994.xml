@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR033420994">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zu dem Übereinkommen vom 16. November 1989 gegen Doping</title>
+                <title type="short">DopingÜbkG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1994-03-02</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body/>
+    </text>
+</TEI>

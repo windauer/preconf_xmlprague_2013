@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR005320967">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten gegenüber den Angehörigen des Königreichs Dänemark</title>
+                <title type="short">BeamtHaftDNKBek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1967-04-28</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 19. 5.1967 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d836e20">
+                <head>(XXXX)</head>
+                <p>Auf Grund des § 7 des Gesetzes über die Haftung des Reichs für seine Beamten vom 22. Mai 1910 (Reichsgesetzbl. S. 798) wird bekanntgemacht, daß durch die Gesetzgebung des Königreichs Dänemark die Gegenseitigkeit verbürgt ist.Der Bundesminister der Justiz</p>
+            </div>
+        </body>
+    </text>
+</TEI>

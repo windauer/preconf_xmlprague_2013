@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR010730940">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erlaß über die Ermächtigung des Präsidenten der Deutschen Reichsbank zur Bestellung von ständigen Vertretern</title>
+                <title type="short">RBkPräsErl</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1940-08-02</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Verkündet als "Erlaß des Führers und Reichskanzlers über die Ermächtigung des Präsidenten der Deutschen Reichsbank zur Bestellung von ständigen Vertretern"; im Hinblick auf das RBankLiquG 7620-6 nur mit der Überschrift aufgenommen</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

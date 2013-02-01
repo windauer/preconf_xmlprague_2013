@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006720970">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung der beamteten Besatzungsangehörigen auf Hilfsschiffen der Bundeswehr</title>
+                <title type="short">BPräsKldgBWSchAnO</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1970-05-15</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 4. 6.1970 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d192e20">
+                <head>(XXXX)</head>
+                <p>Gemäß § 76 des Bundesbeamtengesetzes übertrage ich dem Bundesminister der Verteidigung die Ausübung der Befugnis, Bestimmungen über die Dienstkleidung der beamteten Besatzungsangehörigen auf Hilfsschiffen der Bundeswehr zu erlassen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR011920987">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Holzbildhauer-Handwerk</title>
+                <title type="short">HolzbhMstrV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1987-04-10</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.10.1987 +++)</p>
+        </front>
+        <body>
+            <div>
+                <head>1. Abschnitt</head>
+                <head type="subtitle">Berufsbild</head>
+                <div xml:id="d664e38">
+                    <head>§ 1</head>
+                    <p>(1) Dem Holzbildhauer-Handwerk sind folgende Tätigkeiten zuzurechnen:</p>
+                    <list>
+                        <item n="1.">Entwurf, Gestaltung, Ausführung, Oberflächenbehandlung, Rekonstruierung und Restaurierung handwerklicher und künstlerischer Bildhauerarbeiten in und an Gebäuden sowie in der Bau-, Friedhofs- und Landschaftsgestaltung,</item>
+                        <item n="2.">Entwurf, Gestaltung, Ausführung, Oberflächenbehandlung, Rekonstruierung und Restaurierung von bildhauerisch gearbeiteten sakralen und profanen Plastiken, Möbeln, Inneneinrichtungen und Raumbekleidungen,</item>
+                        <item n="3.">Planung, Gestaltung, Herstellung und Aufstellung von Spiel- und Freizeiteinrichtungen,</item>
+                        <item n="4.">Entwurf, Gestaltung, Herstellung, Aufstellung, Rekonstruierung und Restaurierung von Gedenktafeln und Grabmalen,</item>
+                        <item n="5.">Entwurf, bildhauerische Gestaltung und Anfertigung von Spielzeug und Spielgerät,</item>
+                        <item n="6.">Entwurf, Gestaltung und Ausführung von Schriften, Ornamenten, Zeichen und Reliefs,</item>
+                        <item n="7.">Anfertigen von Modellen und Formen bildhauerischer Art.</item>
+                    </list>
+                    <p>(2) Dem Holzbildhauer-Handwerk sind folgende Kenntnisse und Fertigkeiten zuzurechnen:</p>
+                    <list>
+                        <item n="1.">Kenntnisse der physikalischen und chemischen Eigenschaften von Holz, Stein, Metall und Kunststoff,</item>
+                        <item n="2.">Kenntnisse über den Körperbau von Mensch und Tier sowie über figürliches und ornamentales Gestalten,</item>
+                        <item n="3.">Kenntnisse des Aufmaßes und des Einschnitts sowie der Güteklassen von Holz,</item>
+                        <item n="4.">Kenntnisse der Fundamentierungs-, Verdübelungs- und Verankerungstechnik für Holz,</item>
+                        <item n="5.">Kenntnisse der Schriftarten,</item>
+                        <item n="6.">Kenntnisse über Kunstgeschichte, Bau- und Möbelstile, Zeichen, Ornamentik, Heraldik und Mythologie,</item>
+                        <item n="7.">Kenntnisse über Entwurfs- und Gestaltungslehre, Formgebung und Farbenlehre,</item>
+                        <item n="8.">Kenntnisse über Skizzieren, freies und gebundenes Zeichnen sowie über die Auswertung von Zeichnungen,</item>
+                        <item n="9.">Kenntnisse der Funktionsweise der berufsbezogenen Maschinen und Geräte,</item>
+                        <item n="10.">Kenntnisse der Arten, Eigenschaften, der Verarbeitung, Herstellung und Verwendung der Werk- und Hilfsstoffe, insbesondere der Holzarten sowie der natürlichen und künstlichen Steine, Metalle, Kunststoffe, Bindemittel, Zuschläge sowie der Isolier- und Dämmstoffe,</item>
+                        <item n="11.">Kenntnisse der Oberflächenbehandlung und des Holzschutzes,</item>
+                        <item n="12.">Kenntnisse der Lagerung und Trocknung, Auswahl, Bestimmung, Zurichtung, Verleimung und der konstruktiven Verbindungen von Hölzern,</item>
+                        <item n="13.">Kenntnisse der berufsbezogenen Vorschriften der Arbeitssicherheit und des Arbeitsschutzes,</item>
+                        <item n="14.">Kenntnisse über die Vorschriften des Umwelt-, insbesondere des Immissionsschutzes sowie die jeweils hierzu geltenden VDI-Richtlinien, der Vorschriften der Bauaufsicht, der Verdingungsordnung für Bauleistungen, der Gerüstordnung und der jeweils geltenden DIN-Normen,</item>
+                        <item n="15.">Anfertigen und Lesen von Skizzen, Zeichnungen, Versetz- und Verlegeplänen sowie von Leistungsverzeichnissen,</item>
+                        <item n="16.">Prüfen der Werkstücke auf Materialfehler,</item>
+                        <item n="17.">Messen, Anreißen, Aufreißen und Anfertigen von Schablonen,</item>
+                        <item n="18.">Herstellen von Fundamenten und Unterkonstruktionen sowie Torkretieren von Plastiken und von Formen in Beton,</item>
+                        <item n="19.">Be- und Verarbeiten sowie Formgeben von Hölzern, natürlichen und künstlichen Steinen, insbesondere durch Schnitzen, Anlegen, Sauberschneiden, Hobeln, Fügen, Schleifen, Bohren und Fräsen,</item>
+                        <item n="20.">Verladen, Transportieren und Lagern von Werkstücken und Baustoffen,</item>
+                        <item n="21.">Versetzen, Verlegen und Verankern von Werkstücken,</item>
+                        <item n="22.">Verarbeiten von Kunststoffen,</item>
+                        <item n="23.">Reinigen, Beschichten, Versiegeln und Imprägnieren,</item>
+                        <item n="24.">Bleichen, Beizen, Räuchern, Grundieren, Schleifen, Wachsen, Mattieren, Polieren und Lackieren,</item>
+                        <item n="25.">manuelles und maschinelles Gestalten, insbesondere durch Tönen und Vergolden,</item>
+                        <item n="26.">Modellieren und Abgießen, Punktieren, Vergrößern und Verkleinern,</item>
+                        <item n="27.">Instandhalten von Maschinen, Geräten und Werkzeugen.</item>
+                    </list>
+                </div>
+            </div>
+            <div>
+                <head>2. Abschnitt</head>
+                <head type="subtitle">Prüfungsanforderungen in den Teilen I und II der Meisterprüfung</head>
+                <div xml:id="d664e138">
+                    <head>§ 2</head>
+                    <p>(1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.</p>
+                    <p>(2) Die Anfertigung der Meisterprüfungsarbeit soll nicht länger als 15 Arbeitstage, die Ausführung der Arbeitsprobe nicht länger als acht Stunden dauern.</p>
+                    <p>(3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.</p>
+                </div>
+                <div xml:id="d664e157">
+                    <head>§ 3</head>
+                    <p>(1) Als Meisterprüfungsarbeit ist eine der nachstehend genannten Arbeiten zu entwerfen und anzufertigen:</p>
+                    <list>
+                        <item n="1.">ein architekturbezogenes Objekt, insbesondere ein Portal, ein Wandschmuck, eine Kragge, eine Konsole, ein Kopfstück am Fachwerk, eine Skulptur, eine Deckenbekleidung, ein Geländer oder eine Gedenktafel,</item>
+                        <item n="2.">ein Bauteil, insbesondere ein Grabmal, ein Denkmal, ein Brunnen, eine Plastik, ein Relief oder ein Wappen mit bildhauerischem Schmuck,</item>
+                        <item n="3.">ein Stilmöbel mit überwiegender Schnitzarbeit, insbesondere ein Sessel, ein Stuhl, ein Tisch, eine Konsole, ein Schrank oder ein Spiegel mit Beitisch,</item>
+                        <item n="4.">eine Spiel- oder eine Freizeiteinrichtung.</item>
+                    </list>
+                    <p>(2) Der Prüfling hat vor Anfertigung der Meisterprüfungsarbeit dem Meisterprüfungsausschuß den Entwurf und die Werkzeichnung mit Maßangaben und mit Vorkalkulation vorzulegen. Anstelle des Entwurfs kann er auch ein maßstabgetreues Modell einreichen.</p>
+                    <p>(3) Mit der Meisterprüfungsarbeit hat er den Arbeitsbericht und die Nachkalkulation abzugeben.</p>
+                </div>
+                <div xml:id="d664e182">
+                    <head>§ 4</head>
+                    <p>(1) Als Arbeitsprobe ist eine der nachstehend genannten Arbeiten auszuführen:</p>
+                    <list>
+                        <item n="1.">Herstellen eines Werkstückes mit Profilen oder Ornamenten,</item>
+                        <item n="2.">Anlegen einer figürlichen Arbeit,</item>
+                        <item n="3.">Entwerfen und bildhauerisches Ausführen einer Schrift oder eines Zeichens auf eine Holztafel.</item>
+                    </list>
+                    <p>(2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.</p>
+                </div>
+                <div xml:id="d664e203">
+                    <head>§ 5</head>
+                    <p>(1) In Teil II sind Kenntnisse in den folgenden sechs Prüfungsfächern nachzuweisen:</p>
+                    <list>
+                        <item n="1.">Technische Mathematik: Berechnen<list>
+                                <item n="a)">des Materials, des Gewichts, des Verschnitts, der Kräfte und der Hebel,</item>
+                                <item n="b)">der Fundamente, der Verdübelungen und der Verankerungen;</item>
+                            </list>
+                        </item>
+                        <item n="2.">Fachzeichnen:<list>
+                                <item n="a)">Anfertigen von Skizzen,</item>
+                                <item n="b)">Anfertigen und Auswerten von Zeichnungen sowie von Versetz- und Verlegeplänen;</item>
+                            </list>
+                        </item>
+                        <item n="3.">Fachtechnologie:<list>
+                                <item n="a)">physikalische und chemische Eigenschaften von Holz, Stein, Metall und Kunststoff,</item>
+                                <item n="b)">Lagern, Trocknen und Verleimen von Holz,</item>
+                                <item n="c)">Oberflächenbehandlung,</item>
+                                <item n="d)">Funktionsweise der berufsbezogenen Maschinen und Geräte,</item>
+                                <item n="e)">berufsbezogene Vorschriften der Arbeitssicherheit und des Arbeitsschutzes,</item>
+                                <item n="f)">Vorschriften des Umwelt-, insbesondere des Immissionsschutzes sowie die jeweils hierzu geltenden VDI-Richtlinien, die Vorschriften der Bauaufsicht, die Verdingungsordnung für Bauleistungen, die Gerüstordnung und die jeweils geltenden DIN-Normen;</item>
+                            </list>
+                        </item>
+                        <item n="4.">Gestaltung und Formgebung:<list>
+                                <item n="a)">Entwurfslehre,</item>
+                                <item n="b)">Schriftarten,</item>
+                                <item n="c)">figürliches und ornamentales Gestalten,</item>
+                                <item n="d)">Kunstgeschichte und Stilkunde,</item>
+                                <item n="e)">Formgebung und Farbenlehre;</item>
+                            </list>
+                        </item>
+                        <item n="5.">Werkstoffkunde: Arten, Eigenschaften, Verarbeitung, Herstellung und Verwendung der Werk- und Hilfsstoffe, insbesondere der Holzarten sowie der natürlichen und künstlichen Steine, Metalle, Kunststoffe, Bindemittel, Zuschläge sowie Isolier- und Dämmstoffe;</item>
+                        <item n="6.">Kalkulation: Kostenermittlung unter Einbeziehung aller für die Preisbildung wesentlichen Faktoren und Berechnung für die Angebotskalkulation.</item>
+                    </list>
+                    <p>(2) Die Prüfung ist schriftlich und mündlich durchzuführen.</p>
+                    <p>(3) Die schriftliche Prüfung soll nicht länger als zwölf Stunden, die mündliche je Prüfling nicht länger als eine halbe Stunde dauern. In der schriftlichen Prüfung soll an einem Tag nicht länger als sechs Stunden geprüft werden.</p>
+                    <p>(4) Der Prüfling ist auf Antrag von der mündlichen Prüfung zu befreien, wenn er im Durchschnitt mindestens gute schriftliche Leistungen erbracht hat.</p>
+                    <p>(5) Mindestvoraussetzung für das Bestehen des Teils II sind ausreichende Leistungen in jedem der Prüfungsfächer nach Absatz 1 Nr. 3 und 4.</p>
+                </div>
+            </div>
+            <div>
+                <head>3. Abschnitt</head>
+                <head type="subtitle">Übergangs- und Schlußvorschriften</head>
+                <div xml:id="d664e287">
+                    <head>§ 6</head>
+                    <p>Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.</p>
+                </div>
+                <div xml:id="d664e299">
+                    <head>§ 7</head>
+                    <p>Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.</p>
+                </div>
+                <div xml:id="d664e311">
+                    <head>§ 8</head>
+                    <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.</p>
+                </div>
+                <div xml:id="d664e323">
+                    <head>§ 9</head>
+                    <p>(1) Diese Verordnung tritt am 1. Oktober 1987 in Kraft.</p>
+                    <p>(2) Auf Grund des § 122 der Handwerksordnung weiter anzuwendende Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.</p>
+                </div>
+                <div xml:id="d664e337">
+                    <head>Schlußformel</head>
+                    <p>Der Bundesminister für Wirtschaft</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

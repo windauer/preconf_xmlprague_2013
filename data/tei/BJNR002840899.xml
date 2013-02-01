@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002840899">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Mexiko</title>
+                <title type="short">WZMEXBek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1899-05-16</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1306e20">
+                <head>(XXXX)</head>
+                <p>Auf Grund einer Vereinbarung mit der Regierung der Vereinigten Staaten von Mexiko wird hierdurch unter Hinweis auf § 23 des Gesetzes zum Schutz der Warenbezeichnungen vom 12. Mai 1894 (Reichsgesetzbl. S. 441) bekanntgemacht, daß in Mexiko deutsche Warenbezeichnungen in gleichem Umfang wie inländische Warenbezeichnungen zum gesetzlichen Schutz zugelassen werden.Der Reichskanzler</p>
+            </div>
+        </body>
+    </text>
+</TEI>

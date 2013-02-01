@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004050928">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Drittes Gesetz über Änderungen in der Unfallversicherung</title>
+                <title type="short">UVGÄndG 3</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1928-12-20</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Überschrift: Gem. § 3 Abs. 2 G v. 10.7.1958 114-2 nur mit der Überschrift aufgenommen</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

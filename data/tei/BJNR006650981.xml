@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006650981">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Ausführung des Europäischen Übereinkommens vom 24. November 1977 über die Zustellung von Schriftstücken in Verwaltungssachen im Ausland und des Europäischen Übereinkommens vom 15. März 1978 über die Erlangung von Auskünften und Beweisen in Verwaltungssachen im Ausland</title>
+                <title type="short">EuAuslVwZ/AuskÜbkAG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1981-07-20</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 26. 7.1981 +++)</p>
+        </front>
+        <body>
+            <div>
+                <head>Erster Teil</head>
+                <head type="subtitle">Vorschriften zur Ausführung des Europäischen Übereinkommens vom 24. November 1977 über die Zustellung von Schriftstücken in Verwaltungssachen im Ausland</head>
+                <div xml:id="d185e34">
+                    <head>§ 1</head>
+                    <p>Die Aufgaben der zentralen Behörde (Artikel 2 des Übereinkommens) nehmen die von den Landesregierungen bestimmten Stellen wahr. Jedes Land kann nur eine zentrale Behörde einrichten.</p>
+                </div>
+                <div xml:id="d185e44">
+                    <head>§ 2</head>
+                    <p>Eine förmliche Zustellung nach Artikel 6 Abs. 1 Buchstabe b des Übereinkommens ist nur zulässig, wenn das zuzustellende Schriftstück in deutscher Sprache abgefaßt oder in diese Sprache übersetzt ist.</p>
+                </div>
+                <div xml:id="d185e54">
+                    <head>§ 3</head>
+                    <p>Soll nach Artikel 6 Abs. 1 Buchstabe a und Abs. 2 des Übereinkommens ein ausländisches Schriftstück zugestellt werden, das weder in deutscher Sprache abgefaßt noch von einer Übersetzung in die deutsche Sprache begleitet ist, so ersucht die zentrale Behörde die von der Landesregierung bestimmte Stelle, eine einfache Übergabe an den Empfänger zu bewirken. Dabei ist der Empfänger darauf hinzuweisen, daß er die Annahme des Schriftstücks mit der Begründung ablehnen kann, daß er die Sprache, in der es abgefaßt ist, nicht verstehe. Im Falle der Annahmeverweigerung leitet die nach Satz 1 zuständige Behörde das Schriftstück an die zentrale Behörde zurück. Diese veranlaßt die Übersetzung des Schriftstücks in die deutsche Sprache oder fordert die ersuchende Behörde auf, das Schriftstück in die deutsche Sprache zu übersetzen oder eine Übersetzung in diese Sprache beifügen zu lassen.</p>
+                </div>
+                <div xml:id="d185e64">
+                    <head>§ 4</head>
+                    <p>(1) Die zentrale Behörde kann das ausländische Schriftstück durch die Post mit Postzustellungsurkunde zustellen, wenn es in deutscher Sprache abgefaßt oder von einer Übersetzung in die deutsche Sprache begleitet ist. In diesem Falle händigt die zentrale Behörde das zu übergebende Schriftstück der Post zur Zustellung aus.</p>
+                    <p>(2) Die §§ 3 und 7 des Verwaltungszustellungsgesetzes finden Anwendung.</p>
+                </div>
+                <div xml:id="d185e76">
+                    <head>§ 5</head>
+                    <p>Das Zustellungszeugnis (Artikel 8 Abs. 1 des Übereinkommens) erteilt im Falle des § 4 die zentrale Behörde.</p>
+                </div>
+                <div xml:id="d185e86">
+                    <head>§ 6</head>
+                    <p>Eine Zustellung durch diplomatische oder konsularische Vertreter (Artikel 10 des Übereinkommens) ist nur zulässig, wenn das Schriftstück einem Angehörigen des Absendestaates zuzustellen ist. Eine Zustellung nach Artikel 11 des Übereinkommens findet nicht statt.</p>
+                </div>
+            </div>
+            <div>
+                <head>Zweiter Teil</head>
+                <head type="subtitle">Vorschriften zur Ausführung des Europäischen Übereinkommens vom 15. März 1978 über die Erlangung von Auskünften und Beweisen in Verwaltungssachen im Ausland</head>
+                <div xml:id="d185e110">
+                    <head>§ 7</head>
+                    <p>Die Aufgaben der zentralen Behörde (Artikel 2 des Übereinkommens) nehmen die von den Landesregierungen bestimmten Stellen wahr. Jedes Land kann nur eine zentrale Behörde einrichten.</p>
+                </div>
+                <div xml:id="d185e120">
+                    <head>§ 8</head>
+                    <p>Die zentrale Behörde kann der Entgegennahme eines Amtshilfeersuchens widersprechen, wenn es weder in deutscher Sprache abgefaßt noch von einer Übersetzung in die deutsche Sprache begleitet ist.</p>
+                </div>
+            </div>
+            <div>
+                <head>Dritter Teil</head>
+                <head type="subtitle">Schlußvorschriften</head>
+                <div xml:id="d185e144">
+                    <head>§ 9</head>
+                    <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.</p>
+                </div>
+                <div xml:id="d185e154">
+                    <head>§ 10</head>
+                    <p>Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

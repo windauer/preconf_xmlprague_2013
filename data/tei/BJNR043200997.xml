@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR043200997">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über das Verbot der Verwendung bestimmter Stoffe zur Herstellung von Arzneimitteln</title>
+                <title type="short">FrischZV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1997-03-04</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 8. 3.1997 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d947e22">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 6 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 19. Oktober 1994 (BGBl. I S. 3018) verordnet das Bundesministerium für Gesundheit:</p>
+            </div>
+            <div xml:id="d947e32">
+                <head>§ 1</head>
+                <p>(1) Es ist verboten, bei der Herstellung von Arzneimitteln, die zur Injektion oder Infusion bestimmt sind, Frischzellen zu verwenden.</p>
+                <p>(2) Es ist verboten, Arzneimittel, die zur Injektion oder Infusion bestimmt und unter Verwendung von Frischzellen hergestellt sind, in den Verkehr zu bringen.</p>
+                <p>(3) Frischzellen im Sinne der Absätze 1 und 2 sind tierische Zellen oder Gemische von tierischen Zellen oder Zellbruchstücken in bearbeitetem oder unbearbeitetem Zustand, die zur Anwendung beim Menschen bestimmt sind.</p>
+                <p>(4) Von den Verboten nach den Absätzen 1 und 2 ausgenommen sind Fertigarzneimittel im Sinne des § 4 Abs. 1 des Arzneimittelgesetzes, die gemäß § 25 des Arzneimittelgesetzes zugelassen sind, gemäß § 39 des Arzneimittelgesetzes registriert sind oder gemäß § 105 Abs. 1 des Arzneimittelgesetzes als zugelassen gelten.</p>
+                <p>(5) Von den Verboten nach den Absätzen 1 und 2 ausgenommen sind ferner Arzneimittel zur Anwendung im Rahmen der klinischen Prüfung nach § 40 des Arzneimittelgesetzes.</p>
+                <p>§ 1 Abs. 1: Nach Maßgabe der Entscheidungsformel nichtig gem. BVerfGE v. 16.2.2000 I 199 - 1 BvR 420/97 -</p>
+            </div>
+            <div xml:id="d947e55">
+                <head>§ 2</head>
+                <p>(1) Nach § 95 Abs. 1 Nr. 2, Abs. 2 bis 4 des Arzneimittelgesetzes wird bestraft, wer vorsätzlich oder fahrlässig entgegen § 1 Abs. 2 Arzneimittel in den Verkehr bringt.</p>
+                <p>(2) Nach § 96 Nr. 1 des Arzneimittelgesetzes wird bestraft, wer entgegen § 1 Abs. 1 Frischzellen verwendet.</p>
+                <p>(3) Wer eine in Absatz 2 bezeichnete Handlung fahrlässig begeht, handelt nach § 97 Abs. 1 des Arzneimittelgesetzes ordnungswidrig.</p>
+                <p>§ 2 Abs. 2: Nach Maßgabe der Entscheidungsformel nichtig gem. BVerfGE v. 16.2.2000 I 199 - 1 BvR 420/97 -</p>
+            </div>
+            <div xml:id="d947e74">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+            <div xml:id="d947e86">
+                <head>Schlußformel</head>
+                <p>Der Bundesrat hat zugestimmt.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

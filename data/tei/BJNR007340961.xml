@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR007340961">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung des Bundespräsidenten über die Festsetzung von Amtsbezeichnungen</title>
+                <title type="short">BPräsAmtsbezAnO 1961-06</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1961-06-12</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d250e20">
+                <head>(XXXX)</head>
+                <p>Gemäß § 2 des Bundespolizeibeamtengesetzes vom 19. Juli 1960 (Bundesgesetzbl. I S. 569) in Verbindung mit § 81 Abs. 1 des Bundesbeamtengesetzes setze ich die Amtsbezeichnung</p>
+                <list>
+                    <item n="">Leitender Regierungskriminaldirektor</item>
+                </list>
+                <p>fest.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

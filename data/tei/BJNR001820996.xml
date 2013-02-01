@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR001820996">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zu dem Vertrag vom 19. Mai 1995 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über Erleichterungen der Grenzabfertigung im Eisenbahn-, Straßen- und Schiffsverkehr</title>
+                <title type="short">GrAbfertCESVtrG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1996-01-10</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 24. 1.1996 +++)</p>
+            <p>Der Vertrag ist gem. Art. 3 Abs. 2 iVm Bek. v. 17.2.1997 I 727 mWv 1.6.1996 in Kraft getreten</p>
+        </front>
+        <body>
+            <div xml:id="d1180e23">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d1180e33">
+                <head>Art 1</head>
+                <p>Dem in Furth im Wald am 19. Mai 1995 unterzeichneten Vertrag zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über Erleichterungen der Grenzabfertigung im Eisenbahn-, Straßen- und Schiffsverkehr wird zugestimmt. Der Vertrag wird nachstehend veröffentlicht.</p>
+            </div>
+            <div xml:id="d1180e43">
+                <head>Art 2</head>
+                <p>Die Bundesministerien des Innern und der Finanzen werden jeweils für ihren Geschäftsbereich ermächtigt, ohne Zustimmung des Bundesrates die Rechtsverordnungen zu erlassen, die zur Durchführung der Vereinbarungen nach Artikel 1 Abs. 3 des Vertrags über</p>
+                <list>
+                    <item n="a)">die Errichtung zusammenliegender und vorgeschobener Grenzdienststellen einschließlich ihres Amtsbereichs,</item>
+                    <item n="b)">die Strecken, auf denen die Bediensteten beider Vertragsparteien in den Verkehrsmitteln während der Fahrt die Grenzabfertigung vornehmen,</item>
+                </list>
+                <p>erforderlich sind.</p>
+            </div>
+            <div xml:id="d1180e59">
+                <head>Art 3</head>
+                <p>(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.</p>
+                <p>(2) Der Tag, an dem der Vertrag nach seinem Artikel 28 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

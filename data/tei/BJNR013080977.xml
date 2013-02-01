@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR013080977">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Regelung von Zuständigkeiten im Außenwirtschaftsverkehr</title>
+                <title type="short">AWZustV 1977</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1977-07-18</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 11.5.1983 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d743e26">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 28 Abs. 3 des Außenwirtschaftsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 7400-1, veröffentlichten bereinigten Fassung, der zuletzt durch § 24 des Gesetzes vom 23. Juni 1976 (BGBl. I S. 1608, 2902) geändert worden ist, verordnet die Bundesregierung mit Zustimmung des Bundesrates:</p>
+            </div>
+            <div xml:id="d743e36">
+                <head>§ 1</head>
+                <p>(1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) ist zuständig für die Erteilung von Verwaltungsakten und sonstige Amtshandlungen im Bereich des Waren- und Dienstleistungsverkehrs</p>
+                <list>
+                    <item n="1.">auf Grund von Rechtsakten der Europäischen Gemeinschaften im Bereich des Außenwirtschaftsrechts,</item>
+                    <item n="2.">auf Grund von Rechtsverordnungen nach § 7 des Außenwirtschaftsgesetzes und</item>
+                    <item n="3.">auf Grund von Rechtsverordnungen nach § 5 des Außenwirtschaftsgesetzes, soweit diese der Erfüllung von Verpflichtungen aus<list>
+                            <item n="a)">Beschlüssen des Sicherheitsrates der Vereinten Nationen nach Kapitel VII der Charta der Vereinten Nationen,</item>
+                            <item n="b)">gemeinsamen Standpunkten oder gemeinsamen Aktionen, die nach den Bestimmungen des Vertrages über die Europäische Union betreffend die gemeinsame Außen- und Sicherheitspolitik angenommen worden sind, oder</item>
+                            <item n="c)">Sofortmaßnahmen nach Artikel 228a des Vertrages zur Gründung der Europäischen Gemeinschaft</item>
+                        </list>
+                    </item>
+                    <item n="4.">in den Bereichen der Warenausfuhr (Kapitel II der Außenwirtschaftsverordnung), der Wareneinfuhr (§ 10 Abs. 1 des Außenwirtschaftsgesetzes und Kapitel III der Außenwirtschaftsverordnung), wenn es sich um Waren der gewerblichen Wirtschaft handelt.</item>
+                </list>
+                <p>dienen.</p>
+                <p>(2) (weggefallen)</p>
+                <p>(3) (weggefallen)</p>
+            </div>
+            <div xml:id="d743e68">
+                <head>§ 2</head>
+                <p>(weggefallen)</p>
+            </div>
+            <div xml:id="d743e79">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

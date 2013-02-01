@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR027600995">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen Paderborn/Lippstadt</title>
+                <title type="short">FluLärmPadV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1995-03-01</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 15. 3.1995 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d913e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 4 Abs. 1 des Gesetzes zum Schutz gegen Fluglärm vom 30. März 1971 (BGBl. I S. 282), der gemäß Artikel 3 Abs. 1 der Verordnung vom 26. November 1986 (BGBl. I S. 2089) geändert worden ist, verordnet das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit im Einvernehmen mit dem Bundesministerium für Verkehr:</p>
+            </div>
+            <div xml:id="d913e30">
+                <head>§ 1</head>
+                <p>Zum Schutz der Allgemeinheit vor Gefahren, erheblichen Nachteilen und erheblichen Belästigungen durch Fluglärm in der Umgebung des Verkehrsflughafens Paderborn/Lippstadt wird der in § 2 bestimmte Lärmschutzbereich festgesetzt.</p>
+            </div>
+            <div xml:id="d913e40">
+                <head>§ 2</head>
+                <p>Der Lärmschutzbereich wird nach Anlage 1 bestimmt durch die interpolierten Verbindungslinien zwischen den Kurvenpunkten, soweit diese Linien außerhalb des Flugplatzgeländes verlaufen.</p>
+            </div>
+            <div xml:id="d913e50">
+                <head>§ 3</head>
+                <p>(1) Liegt eine bauliche Anlage zu einem Teil im Lärmschutzbereich, so gilt sie als ganz im Lärmschutzbereich gelegen.</p>
+                <p>(2) Auf die Errichtung einer baulichen Anlage ist Absatz 1 entsprechend anzuwenden.</p>
+            </div>
+            <div xml:id="d913e62">
+                <head>§ 4</head>
+                <p>Der nach § 2 bestimmte Lärmschutzbereich ist in einer topographischen Karte im Maßstab 1 : 50.000 und in Karten im Maßstab 1 : 5.000 dargestellt. Die topographische Karte ist dieser Verordnung als Anlage 2 beigefügt. Die topographische Karte und die Karten im Maßstab 1 : 5.000 sind bei dem Oberkreisdirektor des Kreises Paderborn, Aldegreverstraße 10 - 14, 33102 Paderborn, zu jedermanns Einsicht archivmäßig gesichert niedergelegt.</p>
+            </div>
+            <div xml:id="d913e72">
+                <head>§ 5</head>
+                <p>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+            <div xml:id="d913e82">
+                <head>Schlußformel</head>
+                <p>Der Bundesrat hat zugestimmt.</p>
+            </div>
+            <div xml:id="d913e92">
+                <head>Anlage 1</head>
+                <p>(Fundstelle des Originaltextes: BGBl. I 1995, 277)Koordinatensystem:Gauß - Krüger:Y = Rechtswert&#160;&#160;&#160;&#160;&#160;X = HochwertInterpolation:Polynom 3. Grades mit stetigem Tangentenübergang&#160;Kurvenpunkte der Schutzzone 2 (Verkehrsflughafen Paderborn/Lippstadt)Nr.YXNr.YXNr.YX&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;13473497.25720509.8413475003.85720504.0813471117.35718494.323473559.65720559.8423474967.75720432.7823471106.75718511.433473682.55720662.3433474925.65720364.6833471101.15718530.643473799.15720771.9443474877.45720300.8843471099.55718550.653473913.25720884.0453474822.95720242.2853471104.95718590.363474023.15721000.3463474761.85720190.5863471117.05718628.573474076.95721059.5473474692.15720151.4873471132.55718665.483474103.65721089.3483474616.25720126.3883471168.85718736.793474135.95721112.8493474540.55720100.3893471208.55718806.1103474170.75721132.6503474390.35720045.1903471298.65718938.3&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;113474243.65721165.4513474242.15719984.8913471348.55719000.8123474319.95721189.5523474096.05719919.6923471404.55719058.0133474398.35721205.4533473953.45719847.2933471462.35719113.3143474477.85721214.3543473814.65719767.5943471577.85719224.0153474557.85721216.5553473679.55719673.4953471693.95719334.1163474637.85721213.5563473551.75719585.1963471807.35719447.0173474797.55721207.3573473421.15719492.6973471919.65719561.0183474877.45721211.8583473294.05719395.4983472040.65719665.6193474956.75721222.5593473169.35719295.3993472165.95719765.2203475035.95721233.9603473047.55719191.51003472230.75719812.0&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;213475163.45721263.3613472929.15719083.91013472298.25719855.0223475343.15721322.3623472867.85719032.51023472369.65719891.2233475418.65721348.8633472802.55718986.21033472442.25719924.7243475456.65721361.1643472733.65718945.51043472589.25719988.0253475495.55721370.7653472663.25718907.61053472733.15720057.9263475534.95721377.4663472520.45718835.51063472875.95720129.9273475554.75721374.7673472373.95718771.11073473020.35720199.0283475561.65721367.5683472223.45718716.71083473161.25720274.7293475562.05721357.5693472074.15718659.31093473294.75720362.9303475559.05721348.0703471925.15718601.01103473425.65720455.0&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;313475549.45721330.4713471775.85718543.31113473497.25720509.8323475526.45721297.7723471623.95718493.1&#160;&#160;&#160;333475473.05721238.1733471546.95718471.5&#160;&#160;&#160;343475417.85721180.1743471467.85718459.8&#160;&#160;&#160;353475310.05721061.9753471388.05718454.0&#160;&#160;&#160;363475213.65720934.3763471308.05718451.7&#160;&#160;&#160;373475129.65720798.0773471228.15718454.9&#160;&#160;&#160;383475094.05720726.4783471188.45718460.4&#160;&#160;&#160;393475063.65720652.4793471150.15718471.7&#160;&#160;&#160;403475034.85720577.8803471132.45718481.2&#160;&#160;</p>
+            </div>
+            <div xml:id="d913e1009">
+                <head>Anlage 2</head>
+                <p>(Fundstelle: BGBl I 1995, 278 - 279)</p>
+                <p>1 : 50&#160;000Lärmschutzbereichfür den Verkehrsflughafen Paderborn/Lippstadt(Gesetz zum Schutz gegen Fluglärm vom 30. März 1971, BGBl. I S. 282)</p>
+                <p>Das rechtwinklige Koordinatengitter entspricht dem Gauß-Krüger-System mit 3° breitem Meridianstreifen. Es zeigt zugleich die Begrenzung der zugehörigen Blätter der Deutschen Grundkarte 1 : 5&#160;000.</p>
+                <p>Kartengrundlage:Topographische Karte 1 : 50&#160;000(mit Genehmigung des Landesvermessungsamtes Nordrhein-Westfalen).</p>
+                <p>Gravur der Lärmschutzgrenzen und Druck:Landesvermessungsamt Nordrhein-Westfalen, 1994</p>
+            </div>
+        </body>
+    </text>
+</TEI>

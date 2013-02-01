@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BBNR002700003">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brandenburgisches Gesetz zur Ausführung des Personenstandsgesetzes</title>
+                <title type="short">PStGAG BB</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>2003-10-09</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body/>
+    </text>
+</TEI>

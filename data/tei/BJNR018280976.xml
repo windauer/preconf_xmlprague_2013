@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR018280976">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Gewährung einer Unterrichtsvergütung für Lehramtsanwärter</title>
+                <title type="short">LehrVergV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1976-07-18</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Texnachweis ab: 1.8.1976 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d843e25">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 64 des Bundesbesoldungsgesetzes in der Fassung des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern vom 23. Mai 1975 (Bundesgesetzbl. I S. 1173), zuletzt geändert durch das Gesetz über die Personalstruktur im Bundesgrenzschutz vom 3. Juni 1976 (Bundesgesetzbl. I S. 1357), wird mit Zustimmung des Bundesrates verordnet:</p>
+            </div>
+            <div xml:id="d843e35">
+                <head>§ 1</head>
+                <p>Anwärtern für ein Lehramt an öffentlichen Schulen kann für selbständig erteilten Unterricht eine Unterrichtsvergütung gewährt werden.</p>
+            </div>
+            <div xml:id="d843e45">
+                <head>§ 2</head>
+                <p>(1) Unterrichtsvergütung darf für Unterrichtsstunden gewährt werden, die über zehn Wochenstunden beziehungsweise im Kalendermonat über dreiundvierzig Stunden des im Rahmen der Ausbildung oder selbständig erteilten Unterrichts hinaus zusätzlich selbständig erteilt werden. Ist nach Landesrecht eine höhere Anzahl von Unterrichtsstunden im Rahmen der Ausbildung festgesetzt, darf Unterrichtsvergütung nur für die darüber hinausgehenden Unterrichtsstunden gewährt werden.</p>
+                <p>(2) Unterrichtsvergütung wird für höchstens vierundzwanzig im Kalendermonat tatsächlich geleistete Unterrichtsstunden gewährt.</p>
+                <p>(3) Zu den im Rahmen der Ausbildung nach Absatz 1 zu erteilenden Unterrichtsstunden, für die eine Unterrichtsvergütung nicht gewährt wird, zählen Hospitationen, Unterricht unter Anleitung und, soweit dies gefordert wird, Unterricht in eigener Verantwortung des Anwärters.</p>
+            </div>
+            <div xml:id="d843e59">
+                <head>§ 3</head>
+                <p>Die Unterrichtsvergütung darf die für das angestrebte Lehramt festgesetzten Beträge der Mehrarbeitsvergütung nicht überschreiten. Die oberste Dienstbehörde bestimmt im Einvernehmen mit der für das Besoldungsrecht zuständigen obersten Landesbehörde die Höhe der Unterrichtsvergütung.</p>
+            </div>
+            <div xml:id="d843e69">
+                <head>§ 4</head>
+                <p>(weggefallen)</p>
+            </div>
+            <div xml:id="d843e80">
+                <head>§ 5</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 82 des Bundesbesoldungsgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d843e90">
+                <head>§ 6</head>
+                <p>(weggefallen)</p>
+            </div>
+            <div xml:id="d843e101">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister des Innern</p>
+            </div>
+        </body>
+    </text>
+</TEI>

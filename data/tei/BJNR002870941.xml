@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002870941">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über den weiteren Ausbau der knappschaftlichen Versicherung</title>
+                <title type="short">KnVAusbauV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1941-05-19</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1984 +++)</p>
+            <p>V aufgeh. mit Ausnahme des § 2 Abs. 1 durch Art. 22 Nr. 1 G 63-19 v. 22.12.1983 mWv 1.1.1984</p>
+        </front>
+        <body>
+            <div>
+                <head>Abschnitt I</head>
+                <head type="subtitle">Neuordnung der Krankenversicherung der Bergleute</head>
+                <div xml:id="d1311e40">
+                    <head>§ 1</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d1311e51">
+                    <head>§ 2</head>
+                    <p>(1) Über die Zuständigkeit ... der besonderen Krankenkassen sowie über die Berechnung des Grundlohns bestimmt die Satzung das Nähere. Sie stellt Richtlinien auf für die Gewährung der Mehrleistungen. Diese können für Arbeiter, Angestellte und Rentner verschieden festgesetzt werden. Bestandteil der Satzung bildet auch die Krankenordnung.</p>
+                    <p>(2)</p>
+                    <p>(3) u. (4) ...</p>
+                </div>
+                <div xml:id="d1311e66">
+                    <head>§ 3</head>
+                    <p>-</p>
+                </div>
+            </div>
+            <div>
+                <head>Abschnitt II</head>
+                <head type="subtitle">Gesundheitsfürsorge</head>
+                <div xml:id="d1311e91">
+                    <head>§ 4</head>
+                    <p>-</p>
+                </div>
+            </div>
+            <div>
+                <head>Abschnitt III</head>
+                <head type="subtitle">Krankenversicherung der Rentner</head>
+                <div xml:id="d1311e116">
+                    <head>§ 5</head>
+                    <p>-</p>
+                </div>
+            </div>
+            <div>
+                <head>Abschnitt IV</head>
+                <head type="subtitle">Gemeinschaftshilfe des Reichsstocks für Arbeitseinsatz</head>
+                <div xml:id="d1311e141">
+                    <head>§ 6</head>
+                    <p>-</p>
+                </div>
+            </div>
+            <div>
+                <head>Abschnitt V</head>
+                <head type="subtitle">Umfang der Versicherung</head>
+                <div xml:id="d1311e166">
+                    <head>§ 7</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d1311e177">
+                    <head>§ 8</head>
+                    <p>-</p>
+                </div>
+            </div>
+            <div>
+                <head>Abschnitt VI</head>
+                <head type="subtitle">Übergangs- und Schlußvorschriften</head>
+                <div xml:id="d1311e202">
+                    <head>(XXXX) §§ 9 u. 10</head>
+                </div>
+                <div xml:id="d1311e214">
+                    <head>§ 11</head>
+                    <p>Diese Verordnung tritt mit dem 1. Mai 1941 in Kraft.</p>
+                </div>
+                <div xml:id="d1311e224">
+                    <head>§ 12</head>
+                    <p>-</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

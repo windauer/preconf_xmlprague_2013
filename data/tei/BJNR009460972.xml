@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR009460972">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektion Düsseldorf</title>
+                <title type="short">AufgÜbertrV OFD Düsseld</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1972-06-21</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 7.1972 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d466e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 8 Abs. 3 des Finanzverwaltungsgesetzes in der Fassung des Artikels 5 des Finanzanpassungsgesetzes vom 30. August 1971 (Bundesgesetzbl. I S. 1426) wird verordnet:</p>
+            </div>
+            <div xml:id="d466e30">
+                <head>§ 1</head>
+                <p>Die Aufgaben der Bundesvermögensabteilung der Oberfinanzdirektion Düsseldorf werden auf die Bundesvermögensabteilung der Oberfinanzdirektion Köln übertragen. Sitz und Bezirk der örtlichen Behörden ändern sich hierdurch nicht.</p>
+            </div>
+            <div xml:id="d466e40">
+                <head>§ 2</head>
+                <p>Diese Verordnung gilt nach Maßgabe des § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 23 des Finanzverwaltungsgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d466e50">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am 1. Juli 1972 in Kraft.</p>
+            </div>
+            <div xml:id="d466e60">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Wirtschaft und Finanzen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

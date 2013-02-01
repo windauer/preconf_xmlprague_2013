@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000520997">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vertrag über die Energiecharta</title>
+                <title type="short">ECHVertr</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1994-12-17</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>G v. 20.12.1996 II 1997, 4In Kraft gem. Bek. v. 25.11.1998 II 3009 mWv 16.4.1998</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

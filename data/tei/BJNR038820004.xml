@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR038820004">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Übereinkommen auf Grund von Artikel K.3 des Vertrags über die Europäische Union über den Einsatz der Informationstechnologie im Zollbereich</title>
+                <title type="short">ZISÜbk</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1995-07-26</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>G v. 31.3.2004 I 386</p>
+            <p>In Kraft gem. Bek. v. 1.6.2006 II 570 mWv 25.12.2005</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

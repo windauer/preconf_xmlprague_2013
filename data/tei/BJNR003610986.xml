@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR003610986">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Aussetzung der statistischen Erhebungen im Bereich der Filmwirtschaft</title>
+                <title type="short">FWiStatV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1986-03-20</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 5.4.1986 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1377e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 72 Abs. 4 Nr. 2 des Filmförderungsgesetzes vom 25. Juni 1979 (BGBl. I S. 803) wird verordnet:</p>
+            </div>
+            <div xml:id="d1377e30">
+                <head>§ 1</head>
+                <p>Die Durchführung der statistischen Erhebungen im Bereich der Filmwirtschaft gemäß § 72 des Filmförderungsgesetzes wird für das Jahr 1985 ausgesetzt.</p>
+            </div>
+            <div xml:id="d1377e40">
+                <head>§ 2</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 76 Satz 2 des Filmförderungsgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d1377e50">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+            <div xml:id="d1377e60">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Wirtschaft</p>
+            </div>
+        </body>
+    </text>
+</TEI>

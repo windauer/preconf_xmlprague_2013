@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR007960965">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über die Anwendung unmittelbaren Zwanges und die Ausübung besonderer Befugnisse durch Soldaten der Bundeswehr und verbündeter Streitkräfte sowie zivile Wachpersonen</title>
+                <title type="short">UZwBwG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1965-08-12</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1975 +++)</p>
+            <p>Überschrift: IdF d. Art. 2 Nr. 1 G v. 11.9.1998 II 2405 mWv 23.9.1998</p>
+        </front>
+        <body>
+            <div>
+                <head>1. Abschnitt</head>
+                <head type="subtitle">Allgemeine Vorschriften</head>
+                <div xml:id="d332e42">
+                    <head>§ 1</head>
+                    <p>(1) Soldaten der Bundeswehr, denen militärische Wach- oder Sicherheitsaufgaben übertragen sind, sind befugt, in rechtmäßiger Erfüllung dieser Aufgaben nach den Vorschriften dieses Gesetzes Personen anzuhalten, zu überprüfen, vorläufig festzunehmen und zu durchsuchen, Sachen sicherzustellen und zu beschlagnahmen und unmittelbaren Zwang gegen Personen und Sachen anzuwenden.</p>
+                    <p>(2) Soldaten verbündeter Streitkräfte, die im Einzelfall mit der Wahrnehmung militärischer Wach- oder Sicherheitsaufgaben betraut werden können, unterstehen vom Bundesminister der Verteidigung bestimmten und diesem für die Wahrnehmung des Wach- oder Sicherheitsdienstes verantwortlichen Vorgesetzten; sie können dann die Befugnisse nach diesem Gesetz ausüben.</p>
+                    <p>(3) Wer, ohne Soldat zu sein, mit militärischen Wachaufgaben der Bundeswehr beauftragt ist (zivile Wachperson), hat in rechtmäßiger Erfüllung dieser Aufgaben die Befugnisse nach diesem Gesetz, soweit sie ihm durch das Bundesministerium der Verteidigung oder eine von diesem bestimmte Stelle übertragen werden. Zivile Wachpersonen, denen Befugnisse nach diesem Gesetz übertragen werden, müssen daraufhin überprüft werden, ob sie persönlich zuverlässig, körperlich geeignet und im Wachdienst ausreichend vorgebildet sind sowie gute Kenntnisse der Befugnisse nach diesem Gesetz besitzen. Sie sollen das 20. Lebensjahr vollendet und das 65. Lebensjahr nicht überschritten haben.</p>
+                </div>
+                <div xml:id="d332e59">
+                    <head>§ 2</head>
+                    <p>(1) Militärische Bereiche im Sinne dieses Gesetzes sind Anlagen, Einrichtungen und Schiffe der Bundeswehr und der verbündeten Streitkräfte in der Bundesrepublik.</p>
+                    <p>(2) Militärische Sicherheitsbereiche im Sinne dieses Gesetzes sind militärische Bereiche (Absatz 1), deren Betreten durch die zuständigen Dienststellen verboten worden ist, und sonstige Örtlichkeiten, die das Bundesministerium der Verteidigung oder eine von ihm bestimmte Stelle vorübergehend gesperrt hat. Sonstige Örtlichkeiten dürfen vorübergehend gesperrt werden, wenn dies aus Gründen der militärischen Sicherheit zur Erfüllung dienstlicher Aufgaben der Bundeswehr unerläßlich ist; die nächst erreichbare Polizeidienststelle ist hiervon unverzüglich zu unterrichten. Militärische Sicherheitsbereiche müssen entsprechend gekennzeichnet werden.</p>
+                    <p>(3) Die zuständigen Dienststellen der Bundeswehr können zur Wahrung der Sicherheit oder Ordnung in militärischen Sicherheitsbereichen für das Verhalten von Personen allgemeine Anordnungen erlassen und die nach diesem Gesetz befugten Personen ermächtigen, Einzelweisungen zu erteilen.</p>
+                </div>
+                <div xml:id="d332e76">
+                    <head>§ 3</head>
+                    <p>(1) Straftaten gegen die Bundeswehr im Sinne dieses Gesetzes sind Straftaten gegen</p>
+                    <list>
+                        <item n="1.">Angehörige der Bundeswehr, zivile Wachpersonen oder Angehörige der verbündeten Streitkräfte<list>
+                                <item n="a)">während der rechtmäßigen Ausübung ihres Dienstes, wenn die Handlungen die Ausübung des Dienstes stören oder tätliche Angriffe sind,</item>
+                                <item n="b)">während ihres Aufenthalts in militärischen Bereichen oder Sicherheitsbereichen (§ 2), wenn die Handlungen tätliche Angriffe sind,</item>
+                            </list>
+                        </item>
+                        <item n="2.">militärische Bereiche oder Gegenstände der Bundeswehr oder der verbündeten Streitkräfte in der Bundesrepublik,</item>
+                        <item n="3.">die militärische Geheimhaltung in der Bundeswehr oder in den verbündeten Streitkräften.</item>
+                    </list>
+                    <p>(2) Angehörige der verbündeten Streitkräfte im Sinne des Absatzes 1 sind Soldaten sowie Beamte und mit militärischen Aufgaben, insbesondere mit Wach- oder Sicherheitsaufgaben beauftragte sonstige Zivilbedienstete der verbündeten Streitkräfte in der Bundesrepublik.</p>
+                </div>
+            </div>
+            <div>
+                <head>2. Abschnitt</head>
+                <head type="subtitle">Anhalten, Personenüberprüfung, vorläufige Festnahme, Durchsuchung, Beschlagnahme und Voraussetzungen des unmittelbaren Zwanges</head>
+                <div xml:id="d332e117">
+                    <head>§ 4</head>
+                    <p>(1) Zur Feststellung seiner Person und seiner Berechtigung zum Aufenthalt in einem militärischen Sicherheitsbereich (§ 2 Abs. 2) kann angehalten und überprüft werden, wer</p>
+                    <list>
+                        <item n="1.">sich in einem solchen Bereich aufhält,</item>
+                        <item n="2.">einen solchen Bereich betreten oder verlassen will.</item>
+                    </list>
+                    <p>(2) Angehalten und überprüft werden kann auch, wer unmittelbar nach dem Verlassen des militärischen Sicherheitsbereichs oder dem Versuch, ihn zu betreten, verfolgt wird, wenn den Umständen nach anzunehmen ist, daß er nicht berechtigt ist, sich in diesem Bereich aufzuhalten.</p>
+                </div>
+                <div xml:id="d332e136">
+                    <head>§ 5</head>
+                    <p>(1) Wer nach § 4 der Personenüberprüfung unterliegt, kann zum Wachvorgesetzten oder zur nächsten Dienststelle der Bundeswehr gebracht werden, wenn</p>
+                    <list>
+                        <item n="1.">seine Person oder Aufenthaltsberechtigung nicht sofort festgestellt werden kann oder</item>
+                        <item n="2.">er einer Straftat gegen die Bundeswehr dringend verdächtigt ist und Gefahr im Verzug ist.</item>
+                    </list>
+                    <p>(2) Wer nach Absatz 1 zum Wachvorgesetzten oder zu einer Dienststelle der Bundeswehr gebracht worden ist, ist sofort zu überprüfen. Er darf nur weiter festgehalten werden, wenn die Voraussetzungen der vorläufigen Festnahme vorliegen und die Festnahme erklärt wird; andernfalls ist er sofort freizulassen.</p>
+                </div>
+                <div xml:id="d332e155">
+                    <head>§ 6</head>
+                    <p>(1) Wer nach § 5 zum Wachvorgesetzten oder zu einer Dienststelle der Bundeswehr gebracht worden ist und einer Straftat gegen die Bundeswehr dringend verdächtigt ist, kann bei Gefahr im Verzug vom Wachvorgesetzten oder vom Leiter der Dienststelle oder dessen Beauftragten vorläufig festgenommen werden, wenn die Voraussetzungen eines Haftbefehls oder eines Unterbringungsbefehls nach der Strafprozeßordnung vorliegen.</p>
+                    <p>(2) Der Festgenommene ist, sofern er nicht wieder in Freiheit gesetzt wird, unverzüglich der Polizei zu überstellen. Er kann unmittelbar dem Amtsrichter des Bezirks, in dem er festgenommen worden ist, vorgeführt werden, wenn die Frist nach § 128 Abs. 1 Strafprozeßordnung abzulaufen droht oder wenn dies aus Gründen besonderer militärischer Geheimhaltung geboten ist.</p>
+                </div>
+                <div xml:id="d332e169">
+                    <head>§ 7</head>
+                    <p>(1) Wer nach § 4 der Personenüberprüfung unterliegt, kann bei Gefahr im Verzug durchsucht werden, wenn gegen ihn der Verdacht einer Straftat gegen die Bundeswehr besteht und zu vermuten ist, daß die Durchsuchung zur Auffindung von Beweismitteln führen werde. Die von einer solchen Person mitgeführten Gegenstände können gleichfalls durchsucht werden.</p>
+                    <p>(2) Im Gewahrsam einer durchsuchten Person stehende Gegenstände können sichergestellt oder vorläufig beschlagnahmt werden, wenn sie durch eine vorsätzliche Straftat gegen die Bundeswehr hervorgebracht oder zur Begehung einer solchen Straftat geeignet sind oder als Beweismittel für die Untersuchung von Bedeutung sein können. Die Vorschriften der §§ 96, 97 und 110 Abs. 1 und 2 der Strafprozeßordnung sind anzuwenden.</p>
+                    <p>(3) Sichergestellte oder beschlagnahmte Gegenstände sind unverzüglich, spätestens binnen drei Tagen, der Polizei oder der Staatsanwaltschaft zu übergeben. Die Pflicht zur Weitergabe dieser Gegenstände entfällt, wenn sie der überprüften Person vor Ablauf der Frist zurückgegeben oder zur Verfügung gestellt werden. Gleiches gilt, wenn über diese Gegenstände der Bund oder die verbündeten Streitkräfte in der Bundesrepublik zu verfügen haben. In diesem Fall ist der Polizei oder der Staatsanwaltschaft ein Verzeichnis dieser Gegenstände zu übersenden.</p>
+                </div>
+                <div xml:id="d332e186">
+                    <head>§ 8</head>
+                    <p>(1) Wenn es aus Gründen militärischer Sicherheit unerläßlich ist, kann das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle allgemein anordnen, daß Personen, die bestimmte militärische Sicherheitsbereiche (§ 2 Abs. 2) betreten oder verlassen, und die von ihnen mitgeführten Gegenstände durchsucht werden.</p>
+                    <p>(2) Eine Anordnung nach Absatz 1 darf nur zur Feststellung von Gegenständen getroffen werden, die durch ein vorsätzliches Verbrechen oder Vergehen gegen die Bundeswehr hervorgebracht oder zur Begehung einer solchen Straftat geeignet sind oder als Beweismittel für die Untersuchung von Bedeutung sein können.</p>
+                    <p>(3) § 7 Abs. 2 und 3 gilt entsprechend.</p>
+                </div>
+                <div xml:id="d332e203">
+                    <head>§ 9</head>
+                    <p>Unmittelbarer Zwang darf nach Maßgabe der Vorschriften des 3. Abschnitts nur angewandt werden, wenn dies den Umständen nach erforderlich ist und geschieht,</p>
+                    <list>
+                        <item n="1.">um die unmittelbar bevorstehende Ausführung oder die Fortsetzung einer Straftat gegen die Bundeswehr zu verhindern,</item>
+                        <item n="2.">um sonstige rechtswidrige Störungen der dienstlichen Tätigkeit der Bundeswehr zu beseitigen, wenn sie die Einsatzbereitschaft, Schlagkraft oder Sicherheit der Truppe gefährden,</item>
+                        <item n="3.">um eine nach diesem Gesetz zulässige Maßnahme oder eine vorläufige Festnahme nach § 127 Abs. 1 der Strafprozeßordnung wegen einer Straftat gegen die Bundeswehr zu erzwingen.</item>
+                    </list>
+                </div>
+            </div>
+            <div>
+                <head>3. Abschnitt</head>
+                <head type="subtitle">Anwendung des unmittelbaren Zwanges</head>
+                <div xml:id="d332e236">
+                    <head>§ 10</head>
+                    <p>(1) Unmittelbarer Zwang ist die Einwirkung auf Personen oder Sachen durch körperliche Gewalt, ihre Hilfsmittel und durch Waffen.</p>
+                    <p>(2) Körperliche Gewalt ist jede unmittelbare körperliche Einwirkung auf Personen oder Sachen.</p>
+                    <p>(3) Hilfsmittel der körperlichen Gewalt sind insbesondere Fesseln, technische Sperren und Dienstfahrzeuge.</p>
+                    <p>(4) Waffen sind die dienstlich zugelassenen Hieb- und Schußwaffen, Reizstoffe und Explosivmittel.</p>
+                </div>
+                <div xml:id="d332e254">
+                    <head>§ 11</head>
+                    <p>Die Anwendung einer Maßnahme des unmittelbaren Zwanges ist anzudrohen, außer wenn es die Lage nicht zuläßt.</p>
+                </div>
+                <div xml:id="d332e266">
+                    <head>§ 12</head>
+                    <p>(1) Bei der Anwendung unmittelbaren Zwanges ist von mehreren möglichen und geeigneten Maßnahmen diejenige zu treffen, die den einzelnen und die Allgemeinheit am wenigsten beeinträchtigt.</p>
+                    <p>(2) Eine Maßnahme des unmittelbaren Zwanges darf nicht durchgeführt werden, wenn der durch sie zu erwartende Schaden erkennbar außer Verhältnis zu dem beabsichtigten Erfolg steht. Die Maßnahme darf nur so lange und so weit durchgeführt werden, wie ihr Zweck es erfordert.</p>
+                </div>
+                <div xml:id="d332e280">
+                    <head>§ 13</head>
+                    <p>Wird unmittelbarer Zwang angewandt, ist Verletzten, soweit es nötig ist und die Lage es zuläßt, beizustehen und ärztliche Hilfe zu verschaffen.</p>
+                </div>
+                <div xml:id="d332e292">
+                    <head>§ 14</head>
+                    <p>Wer der weiteren Überprüfung nach § 5 Abs. 1 unterliegt oder vorläufig festgenommen worden ist, darf gefesselt werden, wenn</p>
+                    <list>
+                        <item n="1.">die Gefahr besteht, daß er Personen angreift, oder wenn er Widerstand leistet,</item>
+                        <item n="2.">er zu fliehen versucht, oder wenn bei Würdigung aller Tatsachen, besonders der persönlichen Verhältnisse, die einer Flucht entgegenstehen, zu befürchten ist, daß er sich aus dem Gewahrsam befreien wird,</item>
+                        <item n="3.">Selbstmordgefahr besteht.</item>
+                    </list>
+                </div>
+                <div xml:id="d332e311">
+                    <head>§ 15</head>
+                    <p>(1) Schußwaffen dürfen gegen einzelne Personen nur gebraucht werden, wenn dies den Umständen nach erforderlich ist und geschieht,</p>
+                    <list>
+                        <item n="1.">um die unmittelbar bevorstehende Ausführung oder die Fortsetzung einer Straftat gegen die Bundeswehr zu verhindern, die sich darstellt als<list>
+                                <item n="a)">Verbrechen,</item>
+                                <item n="b)">Vergehen, das unter Anwendung oder Mitführung von Schußwaffen oder Explosivmitteln begangen werden soll oder ausgeführt wird,</item>
+                                <item n="c)">tätlicher Angriff gegen Leib oder Leben von Angehörigen der Bundeswehr, zivilen Wachpersonen oder Angehörigen der verbündeten Streitkräfte während der rechtmäßigen Ausübung ihres Dienstes oder ihres Aufenthalts in militärischen Bereichen oder Sicherheitsbereichen (§ 2),</item>
+                                <item n="d)">vorsätzliche unbefugte Zerstörung, Beschädigung, Veränderung, Unbrauchbarmachung oder Beseitigung eines Wehrmittels oder einer Anlage, einer Einrichtung oder eines Schiffes der Bundeswehr oder der verbündeten Streitkräfte, wenn dadurch die Sicherheit der Bundesrepublik Deutschland oder eines Entsendestaats einer verbündeten Streitkraft oder die Schlagkraft der deutschen oder der verbündeten Truppe oder Menschenleben gefährdet werden;</item>
+                            </list>
+                        </item>
+                        <item n="2.">um eine Person anzuhalten, die sich der Personenüberprüfung nach diesem Gesetz trotz wiederholter Weisung, zu halten oder diese Überprüfung zu dulden, durch Flucht zu entziehen sucht;</item>
+                        <item n="3.">um eine Person anzuhalten, die sich der vorläufigen Festnahme durch Flucht zu entziehen sucht, wenn sie bei einer Straftat im Sinne der Nummer 1 auf frischer Tat getroffen oder verfolgt wird;</item>
+                        <item n="4.">um eine Person an der Flucht zu hindern oder sofort wiederzuergreifen, die sich zur Personenüberprüfung nach § 5 oder wegen dringenden Verdachts einer Straftat im Sinne der Nummer 1 im Gewahrsam der Bundeswehr befindet oder befand.</item>
+                    </list>
+                    <p>(2) Schußwaffen dürfen gegen eine Menschenmenge nur gebraucht werden, wenn von ihr oder aus ihr heraus Straftaten gegen die Bundeswehr unter Gewaltanwendung begangen werden oder solche Straftaten unmittelbar bevorstehen und Zwangsmaßnahmen gegen einzelne nicht zum Ziele führen oder offensichtlich keinen Erfolg versprechen.</p>
+                </div>
+                <div xml:id="d332e343">
+                    <head>§ 16</head>
+                    <p>(1) Schußwaffen dürfen nur gebraucht werden, wenn andere Maßnahmen des unmittelbaren Zwanges erfolglos angewandt sind oder offensichtlich keinen Erfolg versprechen. Gegen Personen ist ihr Gebrauch nur zulässig, wenn der Zweck nicht durch Waffenwirkung gegen Sachen erreicht wird oder offensichtlich keinen Erfolg verspricht.</p>
+                    <p>(2) Zweck des Schußwaffengebrauchs darf nur sein, angriffs- oder fluchtunfähig zu machen. Es ist verboten, zu schießen, wenn durch den Schußwaffengebrauch für den Handelnden erkennbar Unbeteiligte mit hoher Wahrscheinlichkeit gefährdet werden, außer wenn es sich beim Einschreiten gegen eine Menschenmenge (§ 15 Abs. 2) nicht vermeiden läßt.</p>
+                    <p>(3) Gegen Personen, die sich dem äußeren Eindruck nach im Kindesalter befinden, dürfen Schußwaffen nicht gebraucht werden.</p>
+                </div>
+                <div xml:id="d332e359">
+                    <head>§ 17</head>
+                    <p>(1) Der Gebrauch von Schußwaffen ist anzudrohen. Als Androhung gilt auch die Abgabe eines Warnschusses. Einer Menschenmenge gegenüber ist die Androhung zu wiederholen.</p>
+                    <p>(2) Schußwaffen dürfen ohne Androhung nur in den Fällen des § 15 Abs. 1 Nr. 1 Buchstaben a bis c und nur dann gebraucht werden, wenn der sofortige Gebrauch ohne Androhung das einzige Mittel ist, um eine Gefahr für Leib oder Leben eines Menschen oder die Gefahr eines besonders schweren Nachteils für Anlagen, Einrichtungen, Schiffe oder Wehrmittel der Bundeswehr oder der verbündeten Streitkräfte von bedeutendem Wert oder für die Sicherheit der Bundesrepublik Deutschland abzuwenden.</p>
+                </div>
+                <div xml:id="d332e373">
+                    <head>§ 18</head>
+                    <p>Die Vorschriften der §§ 15 bis 17 gelten entsprechend für den Gebrauch von Explosivmitteln.</p>
+                </div>
+            </div>
+            <div>
+                <head>4. Abschnitt</head>
+                <head type="subtitle">Schlußvorschriften</head>
+                <div xml:id="d332e399">
+                    <head>§ 19</head>
+                    <p>Die in Artikel 2 Abs. 2 Satz 1 und 2 des Grundgesetzes für die Bundesrepublik Deutschland geschützten Grundrechte auf Leben, körperliche Unversehrtheit und Freiheit der Person werden nach Maßgabe dieses Gesetzes eingeschränkt.</p>
+                </div>
+                <div xml:id="d332e411">
+                    <head>§ 20</head>
+                    <p>(1) Wird durch die vorübergehende Sperrung einer sonstigen Örtlichkeit nach § 2 Abs. 2 Satz 2 die gewöhnliche Nutzung des betroffenen Grundstücks derart beeinträchtigt, daß dadurch eine Ertragsminderung oder ein sonstiger Nutzungsausfall verursacht wird, so ist eine Entschädigung in Geld zu gewähren, die diesen Nachteil angemessen ausgleicht.</p>
+                    <p>(2) Für die Entschädigung nach Absatz 1 gelten die Vorschriften des § 23 Abs. 4, des § 29, des § 32 Abs. 2 und der §§ 34, 49, 58, 61, 62, 64 und 65 des Bundesleistungsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 54-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 12 Abs. 33 des Postneuordnungsgesetzes vom 14. September 1994 (BGBl. I S 2325), entsprechend mit der Maßgabe, daß an die Stelle der Anforderungsbehörde die Wehrbereichsverwaltung tritt, in deren Wehrbereich das Grundstück belegen ist. § 58 Abs. 2 gilt mit der Maßgabe, daß das Landgericht, in dessen Bezirk das Grundstück belegen ist, örtlich ausschließlich zuständig ist.</p>
+                </div>
+                <div xml:id="d332e426">
+                    <head>§ 21</head>
+                    <p>Dieses Gesetz tritt drei Monate nach seiner Verkündung in Kraft.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

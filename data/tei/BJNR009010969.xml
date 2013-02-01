@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR009010969">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Änderung von Kostenermächtigungen und zur Überleitung gebührenrechtlicher Vorschriften</title>
+                <title type="short">KErmÄndG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1969-07-22</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 26. 7.1969 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d431e20">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d431e30">
+                <head>Art 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d431e41">
+                <head>Art 2</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d431e52">
+                <head>Art 3</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d431e63">
+                <head>Art 4</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d431e74">
+                <head>Art 5</head>
+                <p>Rechtsverordnungen über solche Kosten, Abgaben und Entgelte, die nur von Behörden des Bundes erhoben werden, bedürfen nicht der Zustimmung des Bundesrates.</p>
+            </div>
+            <div xml:id="d431e84">
+                <head>Art 6</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d431e95">
+                <head>Art 7</head>Am Tage des Inkrafttretens dieses Gesetzes (Artikel 9) verlieren ihre Gültigkeit<list>
+                    <item n="1.">die Verordnung zur Änderung der Gebührenordnung für das Zoll-, Verbrauchsteuer- und Branntweinmonopolverfahren vom 12. Juli 1948 (Bayerisches Gesetz- und Verordnungsblatt S. 129),</item>
+                    <item n="2.">die Verordnung zur Änderung der Gebührenordnung für das Zoll-, Verbrauchsteuer- und Branntweinmonopolverfahren vom 2. Mai 1949 (Gesetzblatt der Freien Hansestadt Bremen S. 88),</item>
+                    <item n="3.">die Verordnung über die Aufhebung der Verordnung zur Änderung der Gebührenordnung für das Zoll-, Verbrauchsteuer- und Branntweinmonopolverfahren vom 24. Januar 1949 (Gesetz- und Verordnungsblatt für das Land Hessen S. 14),</item>
+                    <item n="4.">die Verordnung zur Änderung der Gebührenordnung für das Zoll-, Verbrauchsteuer- und Branntweinmonopolverfahren vom 30. März 1949 (Niedersächsisches Gesetz- und Verordnungsblatt S. 99),</item>
+                    <item n="5.">die Verordnung zur Änderung der Gebührenordnung für das Zoll-, Verbrauchsteuer- und Branntweinmonopolverfahren vom 14. Juli 1949 (Gesetz- und Verordnungsblatt für das Land Nordrhein-Westfalen S. 189),</item>
+                    <item n="6.">die Verordnung zur Änderung der Gebührenordnung für das Zoll-, Verbrauchsteuer- und Branntweinmonopolverfahren vom 31. März 1949 (Gesetz- und Verordnungsblatt für Schleswig-Holstein S. 68).</item>
+                </list>
+            </div>
+            <div xml:id="d431e126">
+                <head>Art 8</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.</p>
+            </div>
+            <div xml:id="d431e137">
+                <head>Art 9</head>
+                <p>(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft. Es tritt mit Ausnahme der Artikel 1, 2 und 5 am 1. Juli 1970 außer Kraft.</p>
+                <p>(2) Artikel 1 findet auch Anwendung auf Verfahren vor der Kartellbehörde, die bei Inkrafttreten dieses Gesetzes bereits abgeschlossen waren und in denen Gebühren noch nicht erhoben worden sind.</p>
+                <p>(3) Artikel 2 findet auch Anwendung auf Tätigkeiten der See-Berufs-Genossenschaft, die bei Inkrafttreten dieses Gesetzes bereits abgeschlossen waren und für die Gebühren noch nicht erhoben worden sind.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

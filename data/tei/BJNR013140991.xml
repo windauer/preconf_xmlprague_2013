@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR013140991">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über Maßnahmen zur Entlastung der öffentlichen Haushalte sowie über strukturelle Anpassungen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet</title>
+                <title type="short">HBeglG 1991</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1991-06-24</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.7.1991 +++)Art. 2: KredAAG 105-8</p>
+        </front>
+        <body>
+            <div xml:id="d750e28">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d750e38">
+                <head>Art 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d750e49">
+                <head>Art 2</head>
+                <p>(Text siehe: KredAAG)</p>
+            </div>
+            <div xml:id="d750e61">
+                <head>(XXXX) Art 3 bis 8</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d750e72">
+                <head>Art 9</head>
+                <p>§ 4 Abs. 1 Satz 3 des Artikels 8 der Anlage I des Vertrages vom 18. Mai 1990 über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik in Verbindung mit Artikel 1 des Gesetzes vom 25. Juni 1990 (BGBl. 1990 II S. 518, 550) ist mit folgender Maßgabe anzuwenden:Für die Verzinsung der Ausgleichsforderungen gilt der am zweiten Geschäftstag vor dem Beginn einer Zinsperiode in Frankfurt am Main von Telerate im FIBOR-Fixing ermittelte und auf der Telerate Bildschirmseite 22000 veröffentlichte Satz. Im Falle höherer Gewalt, die eine Eingabe und Ermittlung über Telerate ausschließt, werden die Quotierungen an die Deutsche Bundesbank gemeldet, die für eine entsprechend zeitnahe Veröffentlichung sorgt.</p>
+            </div>
+            <div xml:id="d750e87">
+                <head>Art 10</head>
+                <p>Dieses Gesetz tritt vorbehaltlich des Satzes 2 mit Wirkung von 1. Januar 1991 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

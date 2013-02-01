@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR010140992">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fernverkehrswegebestimmungsverordnung</title>
+                <title type="short">FVerkWBV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1992-06-03</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 18.6.1992 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d522e23">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 1 Abs. 2 des Verkehrswegeplanungsbeschleunigungsgesetzes vom 16. Dezember 1991 (BGBl. I S. 2174) verordnet der Bundesminister für Verkehr:</p>
+            </div>
+            <div xml:id="d522e33">
+                <head>§ 1</head>
+                <p>Fernverkehrswege im Sinne des § 1 Abs. 1 Nr. 5 des Verkehrswegeplanungsbeschleunigungsgesetzes sind die folgenden Verkehrswege der Eisenbahnen des Bundes:</p>
+                <list>
+                    <item n="1.">Stralsund-Rostock-Lübeck zwischen der Landesgrenze Mecklenburg-Vorpommern und Lübeck,</item>
+                    <item n="2.">Berlin-Büchen-Hamburg zwischen der Landesgrenze Mecklenburg-Vorpommern und Hamburg,</item>
+                    <item n="3.">Stendal-Uelzen-Hamburg und Langwedel-Bremen zwischen der Landesgrenze Sachsen-Anhalt und Hamburg und Bremen,</item>
+                    <item n="4.">Berlin-Stendal-Oebisfelde-Hannover mit Abzweig nach Hildesheim zwischen der Landesgrenze Sachsen-Anhalt und Hannover und Hildesheim,</item>
+                    <item n="5.">Berlin-Magdeburg-Helmstedt-Braunschweig zwischen der Landesgrenze Sachsen-Anhalt und Braunschweig,</item>
+                    <item n="6.">Halberstadt-Goslar zwischen der Landesgrenze Sachsen-Anhalt und Goslar,</item>
+                    <item n="7.">Halle-Nordhausen-Eichenberg-Kassel zwischen der Landesgrenze Thüringen und Kassel,</item>
+                    <item n="8.">Erfurt-Bebra-Kassel zwischen der Landesgrenze Thüringen und Kassel,</item>
+                    <item n="9.">Eisenach-Frankfurt/Main zwischen der Landesgrenze Thüringen und Frankfurt/Main,</item>
+                    <item n="10.">Erfurt-Lichtenfels-Nürnberg zwischen der Landesgrenze Thüringen und Nürnberg,</item>
+                    <item n="11.">Camburg-Jena - Hochstadt-Marktzeuln - Nürnberg zwischen der Landesgrenze Thüringen und Nürnberg,</item>
+                    <item n="12.">Dresden-Chemnitz-Plauen-Hof-Nürnberg zwischen der Landesgrenze Sachsen und Nürnberg.</item>
+                </list>
+            </div>
+            <div xml:id="d522e73">
+                <head>§ 2</head>
+                <p>Fernverkehrswege im Sinne des § 1 Abs. 1 Nr. 5 des Verkehrswegeplanungsbeschleunigungsgesetzes sind die folgenden Bundesfernstraßen:</p>
+                <list>
+                    <item n="1.">B 104 zwischen der Landesgrenze Mecklenburg-Vorpommern und der B 75 bei Lübeck,</item>
+                    <item n="2.">A 20 zwischen der Landesgrenze Mecklenburg-Vorpommern und der A 1 bei Hamberge,</item>
+                    <item n="3.">B 5 zwischen der Landesgrenze Mecklenburg-Vorpommern und der A 25 bei Geesthacht,</item>
+                    <item n="4.">B 209 zwischen der Landesgrenze Mecklenburg-Vorpommern und der A 250 bei Lüneburg,</item>
+                    <item n="5.">B 191/B 3 zwischen der Landesgrenze Mecklenburg-Vorpommern und der B 216/B 248 bei Dannenberg,</item>
+                    <item n="6.">B 248 zwischen der Landesgrenze Sachsen-Anhalt und der B 493 bei Lüchow,</item>
+                    <item n="7.">B 71 zwischen der Landesgrenze Sachsen-Anhalt und der B 4/B 191 bei Uelzen,</item>
+                    <item n="8.">B 248 zwischen der Landesgrenze Sachsen-Anhalt und der A 39/B 188 bei Wolfsburg,</item>
+                    <item n="9.">B 188 zwischen der Landesgrenze Sachsen-Anhalt und der A 39 bei Wolfsburg,</item>
+                    <item n="10.">A 2 zwischen der Landesgrenze Sachsen-Anhalt und der A 7 bei Hannover-Ost,</item>
+                    <item n="11.">B 1 zwischen der Landesgrenze Sachsen-Anhalt und der B 244 bei Helmstedt,</item>
+                    <item n="12.">B 244 zwischen der Landesgrenze Sachsen-Anhalt und der A 2 bei Helmstedt,</item>
+                    <item n="13.">B 79 zwischen der Landesgrenze Sachsen-Anhalt und der A 395 bei Wolfenbüttel,</item>
+                    <item n="14.">A 80 zwischen der Landesgrenze Sachsen-Anhalt und der A 395 bei Bad Harzburg,</item>
+                    <item n="15.">B 243 zwischen der Landesgrenze Thüringen und der B 27 bei Bad Lauterberg,</item>
+                    <item n="16.">B 247 zwischen der Landesgrenze Thüringen und der B 446 bei Duderstadt,</item>
+                    <item n="17.">A 82 zwischen der Landesgrenze Thüringen und der A 7 bei Friedland,</item>
+                    <item n="18.">B 80 zwischen der Landesgrenze Thüringen und der B 27 bei Eichenberg,</item>
+                    <item n="19.">B 249 zwischen der Landesgrenze Thüringen und der B 250 in Wanfried,</item>
+                    <item n="20.">B 250 zwischen der Landesgrenze Thüringen und der B 249 bei Wanfried,</item>
+                    <item n="21.">B 7 zwischen der Landesgrenze Thüringen und der B 27 bei Wichmannshausen,</item>
+                    <item n="22.">A 4/A 44 zwischen der Landesgrenze Thüringen und der A 7 bei Kassel,</item>
+                    <item n="23.">(weggefallen)</item>
+                    <item n="24.">B 62 zwischen der Landesgrenze Thüringen und der A 4 bei Friedewald,</item>
+                    <item n="25.">B 84 zwischen der Landesgrenze Thüringen und der B 27 bei Hünfeld,</item>
+                    <item n="26.">B 278 zwischen der Landesgrenze Thüringen und der B 458 bei Hilders,</item>
+                    <item n="27.">B 285 zwischen der Landesgrenze Thüringen und der A 81 bei Mellrichstadt,</item>
+                    <item n="28.">B 19 zwischen der Landesgrenze Thüringen und der B 285 bei Mellrichstadt,</item>
+                    <item n="29.">A 81 zwischen der Landesgrenze Thüringen und der A 70 bei Schweinfurt,</item>
+                    <item n="30.">A 73 zwischen der Landesgrenze Thüringen und der A 73 bei Bamberg,</item>
+                    <item n="31.">B 4 zwischen der Landesgrenze Thüringen und der A 70 bei Bamberg,</item>
+                    <item n="32.">B 89/B 85/B 173 zwischen der Landesgrenze Thüringen und der A 9 bei Hof,</item>
+                    <item n="33.">B 85/B 173 zwischen der Landesgrenze Thüringen und der A 70 bei Bamberg,</item>
+                    <item n="34.">A 9 zwischen der Landesgrenze Thüringen und der A 6 bei Nürnberg,</item>
+                    <item n="35.">B 2 zwischen der Landesgrenze Thüringen und der A 72 bei Hof,</item>
+                    <item n="36.">A 72/A 93 zwischen der Landesgrenze Sachsen und der A 3 bei Regensburg,</item>
+                    <item n="37.">B 173 zwischen der Landesgrenze Sachsen und der A 9 bei Hof.</item>
+                </list>
+            </div>
+            <div xml:id="d522e164">
+                <head>§ 3</head>
+                <p>Fernverkehrswege im Sinne des § 1 Abs. 1 Nr. 5 des Verkehrswegeplanungsbeschleunigungsgesetzes sind die folgenden Bundeswasserstraßen:</p>
+                <list>
+                    <item n="1.">Elbe zwischen der Landesgrenze Mecklenburg-Vorpommern und der Einmündung des Elbe-Seitenkanals,</item>
+                    <item n="2.">Mittellandkanal zwischen der Landesgrenze Sachsen-Anhalt und dem Wasserstraßenkreuz Minden.</item>
+                </list>
+            </div>
+            <div xml:id="d522e181">
+                <head>§ 4</head>
+                <p>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+            <div xml:id="d522e193">
+                <head>Schlußformel</head>
+                <p>Der Bundesrat hat zugestimmt.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

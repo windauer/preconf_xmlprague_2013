@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR003690957">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung von Beamten der Bundeszollverwaltung</title>
+                <title type="short">BPräsKldgZollVwAnO</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1957-04-04</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1387e20">
+                <head>(XXXX)</head>
+                <p>Gemäß § 76 des Bundesbeamtengesetzes übertrage ich dem Bundesminister der Finanzen für den Bereich der Bundeszollverwaltung die Ausübung der Befugnis, Bestimmungen über die Dienstkleidung der Beamten zu erlassen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

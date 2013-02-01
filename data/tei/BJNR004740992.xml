@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004740992">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektion Hamburg</title>
+                <title type="short">OFDHambAufgV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1992-03-03</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 5.1992 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1503e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 8 Abs. 3 des Finanzverwaltungsgesetzes vom 30. August 1971 (BGBl. I S. 1426, 1427) verordnet der Bundesminister der Finanzen:</p>
+            </div>
+            <div xml:id="d1503e30">
+                <head>§ 1</head>
+                <p>Die Aufgaben der Bundesvermögensabteilung der Oberfinanzdirektion Hamburg im Land Bremen werden auf die Bundesvermögensabteilung der Oberfinanzdirektion Hannover übertragen. Im übrigen werden die Aufgaben der Bundesvermögensabteilung der Oberfinanzdirektion Hamburg auf die Bundesvermögensabteilung der Oberfinanzdirektion Kiel übertragen. Sitz und Bezirk der örtlichen Behörden ändern sich hierdurch nicht.</p>
+            </div>
+            <div xml:id="d1503e40">
+                <head>§ 2</head>
+                <p>Diese Verordnung tritt am 1. Mai 1992 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

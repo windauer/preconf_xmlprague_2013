@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR013310957">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Änderung des Zollgesetzes</title>
+                <title type="short">ZGÄndG 4 1957</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1957-09-10</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Überschrift: Ursprüngliche Überschrift "Gesetz zur Änderung des Zollgesetzes (Viertes Zolländerungsgesetz)" gem. § 2 Abs. 4 G v. 10.7.1958 114-2 vereinfacht in "Viertes Zolländerungsgesetz 1957"(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d763e25">
+                <head>(XXXX) Art 1 bis 4</head>
+            </div>
+            <div xml:id="d763e35">
+                <head>Art 5</head>
+                <p>(1) Es wird eine Kleiderkasse als Körperschaft des öffentlichen Rechts errichtet, die den Namen "Zollkleiderkasse" trägt.</p>
+                <p>(2) Die Zollkleiderkasse hat die Aufgabe, die zum Tragen von Dienstkleidung verpflichteten Beamten der Zollverwaltung mit einheitlicher, guter und preiswerter Dienstkleidung zu versorgen. Sie ist diesem Zweck entsprechend nach kaufmännischen Grundsätzen ohne Gewinnabsicht zu führen.</p>
+                <p>(3) Der Bundesminister der Finanzen übt die Dienstaufsicht über die Zollkleiderkasse aus. Er wird ermächtigt, die Satzung der Zollkleiderkasse zu bestimmen und die zur Durchführung erforderlichen Verwaltungsvorschriften zu erlassen.</p>
+            </div>
+            <div xml:id="d763e50">
+                <head>Art 6</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.</p>
+            </div>
+            <div xml:id="d763e60">
+                <head>Art 7</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d763e71">
+                <head>Art 8</head>
+                <p>Dieses Gesetz tritt mit dem Beginn des auf seine Verkündung folgenden Kalendermonats in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

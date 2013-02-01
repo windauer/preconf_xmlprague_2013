@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR001800950">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Erstreckung von Recht der Verwaltung des Vereinigten Wirtschaftsgebiets auf dem Gebiet der Wertpapierbereinigung und des Kapitalverkehrs auf die Länder Baden, Rheinland-Pfalz, Württemberg-Hohenzollern und den bayerischen Kreis Lindau</title>
+                <title type="short">WPapBerErstrV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1950-05-12</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1964 +++)Gilt nicht im Saarland, vgl. § 2 Abschn. VII Nr. 2 G v. 30.6.1959 I 313</p>
+        </front>
+        <body>
+            <div xml:id="d1174e24">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des Artikels 127 des Grundgesetzes für die Bundesrepublik Deutschland verordnet die Bundesregierung mit Zustimmung der Regierungen der Länder Baden, Rheinland-Pfalz, Württemberg-Hohenzollern und des Kreispräsidenten von Lindau:</p>
+            </div>
+            <div xml:id="d1174e34">
+                <head>§ 1</head>
+                <p>Das Gesetz der Verwaltung des Vereinigten Wirtschaftsgebiets zur Bereinigung des Wertpapierwesens (Wertpapierbereinigungsgesetz) vom 19. August 1949 (WiGBl. S. 295) wird in den Ländern Baden, Rheinland-Pfalz und Württemberg-Hohenzollern sowie im bayerischen Kreis Lindau mit der Maßgabe in Kraft gesetzt, daß auch Wertpapiere in Kraft bleiben, für die eine Lieferbarkeitsbescheinigung nach</p>
+                <list>
+                    <item n="a)">der Landesverordnung des Landes Baden über die Lieferbarkeit von Wertpapieren vom 17. Dezember 1949 (Badisches Gesetz- und Verordnungsblatt, Regierungsblatt der Landesregierung Baden, S. 513),</item>
+                    <item n="b)">der Landesverordnung des Landes Rheinland-Pfalz über die Lieferbarkeit von Wertpapieren vom 2. September 1949 (Gesetz- und Verordnungsblatt der Landesregierung Rheinland-Pfalz, Teil I, S. 418) oder</item>
+                    <item n="c)">der Verordnung des Finanzministeriums des Landes Württemberg-Hohenzollern über die Lieferbarkeit von Wertpapieren vom 1. Juni 1949 (Regierungsblatt für das Land Württemberg-Hohenzollern, Teil B, S. 341, 342)</item>
+                </list>
+                <p>bis zum 1. Oktober 1949 ausgestellt worden ist oder auf Grund eines bis zum 31. Januar 1950 gestellten Antrags bis zum 30. September 1950 ausgestellt wird.</p>
+            </div>
+            <div xml:id="d1174e52">
+                <head>§ 2</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1174e63">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

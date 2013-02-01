@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR008890981">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur verstärkten Förderung deutsch-französischer Filmvorhaben</title>
+                <title type="short">FilmFöFRAV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1981-08-10</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 29. 8.1981 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1388e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 32 Abs. 6 Satz 3 des Filmförderungsgesetzes vom 25. Juni 1979 (BGBl. I S. 803) wird nach Anhörung der Filmförderungsanstalt verordnet:</p>
+            </div>
+            <div xml:id="d1388e30">
+                <head>§ 1</head>
+                <p>(1) Zur verstärkten Förderung deutsch-französischer Filmvorhaben, die in Gemeinschaftsproduktion im Sinne des Filmförderungsgesetzes hergestellt werden, gewährt die Filmförderungsanstalt zinslose Darlehen von mindestens 100.000 Deutsche Mark und höchstens 200.000 Deutsche Mark. Diese können auch zusätzlich zu einer Förderung nach § 32 Abs. 1 des Filmförderungsgesetzes gewährt werden.</p>
+                <p>(2) Zur Förderung nach Absatz 1 stellt die Filmförderungsanstalt jährlich einen Gesamtbetrag von 750.000 Deutsche Mark bereit. Falls nach § 68 Abs. 3 des Filmförderungsgesetzes nur ein geringerer Betrag verwendet werden darf, ist der höchstmögliche Betrag bereitzustellen.</p>
+                <p>(3) Ein Filmvorhaben darf nur gefördert werden, wenn es in annähernd gleicher Höhe auch von französischer Seite gefördert wird.</p>
+                <p>(4) Im übrigen richtet sich die Förderung der Filmvorhaben nach den Vorschriften des Filmförderungsgesetzes.</p>
+            </div>
+            <div xml:id="d1388e48">
+                <head>§ 2</head>
+                <p>Gefördert werden jährlich bis zu sechs Filmvorhaben. Die Anzahl der im Jahr geförderten Filmvorhaben mit deutscher und mit französischer Mehrheitsbeteiligung muß gleich sein. Dabei wird für jede Seite je ein Filmvorhaben pro Jahr mit Minderheitsbeteiligung wie ein Filmvorhaben mit Mehrheitsbeteiligung behandelt, wenn</p>
+                <list>
+                    <item n="1.">der Regisseur des Films dem Staat der Minderheitsbeteiligung angehört und</item>
+                    <item n="2.">die Voraussetzungen des Satzes 2 sonst nicht erfüllt werden könnten.</item>
+                </list>
+            </div>
+            <div xml:id="d1388e65">
+                <head>§ 3</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 76 des Filmförderungsgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d1388e77">
+                <head>§ 4</head>
+                <p>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+            <div xml:id="d1388e89">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Wirtschaft</p>
+            </div>
+        </body>
+    </text>
+</TEI>

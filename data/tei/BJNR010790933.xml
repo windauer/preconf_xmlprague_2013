@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR010790933">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Durchführung des Ersten Abkommens zur Vereinheitlichung des Luftprivatrechts</title>
+                <title type="short">LuftRAAbkDG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1933-12-15</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Überschrift: Abkommen v. 12.10.1929 RGBl. 1933 II S. 1039 jetzt idF von Den Haag gem. Bek. v. 7.8.1958 II 312(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d577e23">
+                <head>Eingangsformel</head>
+                <p>Die Reichsregierung hat zur Durchführung des Ersten Abkommens zur Vereinheitlichung des Luftprivatrechts (Reichsgesetzbl. II S. 1039) das folgende Gesetz beschlossen, das hiermit verkündet wird:</p>
+            </div>
+            <div xml:id="d577e34">
+                <head>§ 1</head>
+                <p>(1) Bei Tötung, Körperverletzung oder Gesundheitsbeschädigung von Reisenden bestimmen sich der Kreis der Ersatzberechtigten, der Gegenstand der Ersatzpflicht und die Art der Ersatzleistung in den Fällen des Artikels 17 des Ersten Abkommens zur Vereinheitlichung des Luftprivatrechts nach den§§ 21, 22 und 24des Luftverkehrsgesetzes, in den Fällen des Artikels 25 nach den Vorschriften des Bürgerlichen Gesetzbuchs.</p>
+                <p>(2) Übersteigen im Falle der Ersatzleistung nach Artikel 17 des Abkommens die Entschädigungen, die mehreren wegen der Tötung, Körperverletzung oder Gesundheitsbeschädigung eines Reisenden zu leisten sind, insgesamt den in Artikel 22 des Abkommens festgesetzten Höchstbetrag, so verringern sich die einzelnen Entschädigungen in dem Verhältnis, wie ihr Gesamtbetrag zum Höchstbetrag steht.</p>
+                <p>§ 1: Kursivdruck vgl. jetzt §§ 35, 36 u. 38 des Luftverkehrsgesetzes 96-1; Art. 17, 22 u. 25 in der Fassung von Den Haag 1955 BGBl. 1958 II 312 lauten:</p>
+            </div>
+            <div xml:id="d577e52">
+                <head>§ 2</head>
+                <p>(1) An Stelle der in Artikel 22 des Abkommens in französischer Währung festgesetzten Höchstbeträge treten die entsprechenden Beträge in deutscherReichswährung.</p>
+                <p>(2) Der Bundesminister der Justiz wird ermächtigt, durch eine Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, den Umrechnungssatz für französische Franken entsprechend dem amtlich festgestellten Goldpreis in deutsche Mark vorzuschreiben.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR001560991">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Künstlersozialversicherungs-Entgeltverordnung</title>
+                <title type="short">KSVEntgV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1991-01-22</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 1.1991 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1152e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 25 Abs. 2 Satz 3 des Künstlersozialversicherungsgesetzes vom 27. Juli 1981 (BGBl. I S. 705), der durch Gesetz vom 20. Dezember 1988 (BGBl. I S. 2606) eingefügt worden ist, und unter Berücksichtigung von Anlage I Kapitel VIII Sachgebiet F Abschnitt III Nr. 5 Buchstabe b des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1047) verordnet der Bundesminister für Arbeit und Sozialordnung:</p>
+            </div>
+            <div xml:id="d1152e30">
+                <head>§ 1</head>
+                <p>Dem Entgelt im Sinne des § 25 Abs. 2 Satz 1 des Gesetzes sind nicht zuzurechnen:</p>
+                <list>
+                    <item n="1.">Aufwendungen für nachgewiesene Reisekosten des selbständigen Künstlers oder Publizisten, die der zur Abgabe Verpflichtete übernimmt, soweit sie die in § 3 Nr. 16 des Einkommensteuergesetzes genannten Grenzen nicht übersteigen,</item>
+                    <item n="2.">übliche Aufwendungen für die Bewirtung des selbständigen Künstlers oder Publizisten.</item>
+                </list>
+            </div>
+            <div xml:id="d1152e45">
+                <head>§ 2</head>
+                <p>Diese Verordnung tritt mit Wirkung vom 1. Januar 1991 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

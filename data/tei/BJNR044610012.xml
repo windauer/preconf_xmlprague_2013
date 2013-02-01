@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR044610012">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Europäischen Bürgerinitiative</title>
+                <title type="short">EBIG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>2012-03-07</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.4.2012 +++)Das G wurde als Artikel 1 des G v. 7.3.3012 I 446 vom Bundestag beschlossen. Es tritt gem. Art. 3 dieses G am 1.4.2012 in Kraft.</p>
+        </front>
+        <body>
+            <div xml:id="d949e24">
+                <head>§ 1</head>
+                <p>(1) Das Bundesverwaltungsamt ist zuständige Behörde im Sinne von Artikel 15 Absatz 2 in Verbindung mit Artikel 8 Absatz 2 der Verordnung (EU) Nr. 211/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 über die Bürgerinitiative (ABl. L 65 vom 11.3.2011, S. 1) für</p>
+                <list>
+                    <item n="1.">die Koordinierung der Überprüfung der Unterstützungsbekundungen der Europäischen Bürgerinitiative sowie</item>
+                    <item n="2.">das Ausstellen der Bescheinigung über die Zahl der gültigen Unterstützungsbekundungen.</item>
+                </list>
+                <p>Gebühren und Auslagen werden für die in den Nummern 1 und 2 genannten Tätigkeiten nicht erhoben.</p>
+                <p>(2) Das Bundesamt für die Sicherheit in der Informationstechnik ist zuständige Behörde im Sinne von Artikel 15 Absatz 1 in Verbindung mit Artikel 6 Absatz 3 der Verordnung (EU) Nr. 211/2011 für das Ausstellen der Bescheinigung über die Übereinstimmung eines Online-Sammelsystems mit der Verordnung (EU) Nr. 211/2011. Die Organisatoren und Organisatorinnen Europäischer Bürgerinitiativen sind verpflichtet, dem Bundesamt für Sicherheit in der Informationstechnik die Unterlagen vorzulegen sowie die Auskünfte zu erteilen, die für das Ausstellen der Bescheinigung über die Übereinstimmung eines Online-Sammelsystems mit der Verordnung (EU) Nr. 211/2011 erforderlich sind. Die Frist nach Artikel 6 Absatz 3 der Verordnung (EU) Nr. 211/2011 zum Ausstellen der Bescheinigung über die Übereinstimmung eines Online-Sammelsystems mit der Verordnung (EU) Nr. 211/2011 beginnt mit Eingang der vollständigen Unterlagen. Für die Prüfung der Unterlagen und das Ausstellen der Bescheinigung werden keine Gebühren oder Auslagen erhoben.</p>
+            </div>
+            <div xml:id="d949e44">
+                <head>§ 2</head>
+                <p>(1) Für das Sammeln von Unterstützungsbekundungen sind ausschließlich Formulare nach Artikel 5 Absatz 1 Unterabsatz 2 in Verbindung mit Anhang III, Artikel 6 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 211/2011 zu verwenden.</p>
+                <p>(2) Deutsche mit Wohnsitz im Ausland können Unterstützungsbekundungen auf Formularen abgeben, die nach Artikel 8 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 211/2011 der in § 1 Absatz 1 genannten Behörde vorgelegt werden, wenn sie ihren Wohnsitz bei der örtlich zuständigen Auslandsvertretung registriert haben.</p>
+            </div>
+            <div xml:id="d949e58">
+                <head>§ 3</head>
+                <p>(1) Das Bundesverwaltungsamt überprüft die Gültigkeit der Unterstützungsbekundungen anhand der in den Formularen angegebenen Daten nach den in § 4 genannten Kriterien.</p>
+                <p>(2) Die Überprüfung erfolgt anhand von Stichproben. Die Zahl der Stichproben wird durch das Bundesverwaltungsamt unter Verwendung eines 95-Prozent-Konfidenzintervalls bestimmt. Als Zahl der in Deutschland gesammelten gültigen Unterstützungsbekundungen im Sinne von Anhang VI der Verordnung (EU) Nr. 211/2011 wird die Zahl gewertet, die der Obergrenze des 95-Prozent-Konfidenzintervalls des Schätzwertes entspricht.</p>
+                <p>(3) Zur Überprüfung auf unrichtige Angaben im Sinne von § 4 Nummer 5 kann das Bundesverwaltungsamt bei zentralen Meldedatenbeständen der Länder, sofern solche nicht vorhanden sind, bei sonstigen Stellen, die durch Landesrecht dazu bestimmt sind, oder bei den Meldebehörden sowie bei den Auslandsvertretungen folgende Daten abrufen und mit den Daten der ihm vorliegenden Unterstützungsbekundungen abgleichen:</p>
+                <list>
+                    <item n="1.">Familienname,</item>
+                    <item n="2.">frühere Namen,</item>
+                    <item n="3.">Vornamen,</item>
+                    <item n="4.">Tag und Ort der Geburt,</item>
+                    <item n="5.">Staatsangehörigkeiten,</item>
+                    <item n="6.">derzeitige und frühere Anschriften.</item>
+                </list>
+            </div>
+            <div xml:id="d949e87">
+                <head>§ 4</head>
+                <p>Eine Unterstützungsbekundung ist ungültig, wenn</p>
+                <list>
+                    <item n="1.">die unterzeichnende Person nicht Unionsbürgerin oder Unionsbürger ist,</item>
+                    <item n="2.">die unterzeichnende Person noch nicht 18 Jahre alt ist,</item>
+                    <item n="3.">sie nicht auf dem nach Artikel 5 Absatz 1 in Verbindung mit Anhang III, Artikel 6 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 211/2011 vorgesehenen Formular abgegeben wurde,</item>
+                    <item n="4.">sie unleserliche oder unvollständige Angaben in den Pflichtfeldern des Formulars enthält, die die unterzeichnende Person nicht zweifelsfrei erkennen lassen,</item>
+                    <item n="5.">sie unrichtige Angaben in den Pflichtfeldern des Formulars enthält, die die unterzeichnende Person nicht zweifelsfrei erkennen lassen,</item>
+                    <item n="6.">sie einen Vorbehalt enthält,</item>
+                    <item n="7.">sie mehrfach abgegeben wurde oder</item>
+                    <item n="8.">sie nicht innerhalb von zwölf Monaten nach Registrierung der Bürgerinitiative gesammelt wurde.</item>
+                </list>
+                <p>Für die Gültigkeit einer Unterstützungsbekundung ist der Tag ihrer Abgabe maßgeblich.</p>
+            </div>
+            <div xml:id="d949e117">
+                <head>§ 5</head>
+                <p>(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 12 Absatz 3 der Verordnung (EU) Nr. 211/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 über die Bürgerinitiative (ABl. L 65 vom 11.3.2011, S. 1) nicht sicherstellt, dass die Daten für keinen anderen als den dort genannten Zweck verwendet werden oder eine Unterstützungsbekundung oder eine Kopie nicht oder nicht rechtzeitig vernichtet wird.</p>
+                <p>(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig eine in Anhang V Nummer 1 bis 4 oder Nummer 5 oder Anhang VII Nummer 1 bis 6 oder Nummer 7 der Verordnung (EU) Nr. 211/2011 genannte Angabe nicht richtig macht.</p>
+                <p>(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

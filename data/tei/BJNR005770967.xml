@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR005770967">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung zu § 4 des Warenzeichengesetzes</title>
+                <title type="short">WZG§4CERNBek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1967-05-17</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 26.7.1977 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d94e23">
+                <head>(XXXX)</head>
+                <p>(1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der Fassung vom 9. Mai 1961 (Bundesgesetzbl. I S. 549, 574) wird bekanntgemacht, daß die in der Anlage 1 wiedergegebenen Bezeichnungen der Lateinamerikanischen Freihandelszone und die in der Anlage 2 wiedergegebenen Bezeichnungen und Kennzeichen der Europäischen Organisation für Kernforschung von der Eintragung als Warenzeichen ausgeschlossen sind.</p>
+                <p>(2) Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 16. Juni 1966 (Bundesgesetzbl. I S. 390).</p>
+            </div>
+            <div xml:id="d94e35">
+                <head>Schlussformel</head>
+                <p>Der Bundesminister der Justiz</p>
+            </div>
+            <div xml:id="d94e45">
+                <head>Anlage 1</head>
+                <p>(Fundstelle: BGBl. I 1967, 578)Lateinamerikanische FreihandelszoneAssociationLatino-Americaine de Libre EchangeLatin American Free Trade AssociationAsociacion Latinoamericana de Libre ComercioAssociacao Latino-Americana de LivreComercioALALELAFTAALALC</p>
+            </div>
+            <div xml:id="d94e84">
+                <head>Anlage 2</head>
+                <p>Europäische Organisation für KernforschungOrganisationEuropeenne pour la RechercheNucleaireEuropean Organization for Nuclear ResearchCERN(Inhalt: Nicht darstellbares Kennzeichen,Fundstelle: BGBl. I 1967, 578,bzgl. der einzelnen Änderungen vgl. Fußnote)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

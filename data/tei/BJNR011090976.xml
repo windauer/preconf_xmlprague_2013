@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR011090976">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Viertes Gesetz zur Änderung des Wasserhaushaltsgesetzes</title>
+                <title type="short">WHGÄndG 4</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1976-04-26</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.10.1976 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d598e20">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d598e30">
+                <head>Art 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d598e41">
+                <head>Art 2</head>
+                <p>Dieses Gesetz findet im Land Berlin keine Anwendung, soweit es sich um Benutzungen von Gewässern bei Übungen und Erprobungen für Zwecke der Verteidigung einschließlich des Schutzes der Zivilbevölkerung handelt.</p>
+            </div>
+            <div xml:id="d598e51">
+                <head>Art 3</head>
+                <p>Der Bundesminister des Innern wird ermächtigt, den Wortlaut des Wasserhaushaltgesetzes in der geltenden Fassung bekanntzumachen und dabei Unstimmigkeiten des Wortlauts zu beseitigen.</p>
+            </div>
+            <div xml:id="d598e62">
+                <head>Art 4</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.</p>
+            </div>
+            <div xml:id="d598e72">
+                <head>Art 5</head>
+                <p>Dieses Gesetz tritt am 1. Oktober 1976 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

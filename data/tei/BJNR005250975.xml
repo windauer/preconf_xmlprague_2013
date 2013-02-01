@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR005250975">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Änderung des Einkommensteuergesetzes und des Investitionszulagengesetzes</title>
+                <title type="short">StÄndG 1975</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1975-02-21</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 26. 2.1975 +++) *P (+++ Stand: Geändert durch Art. 11 V v. 26.11.1986 I 2089 +++) *PE</p>
+        </front>
+        <body>
+            <div xml:id="d45e25">
+                <head>Art 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d45e36">
+                <head>Art 2</head>
+                <p>Die zuständigen obersten Landesbehörden unterrichten den Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit jeweils bis zum 31. März eines jeden Jahres über die im vorangegangenen Kalenderjahr von den zuständigen Stellen gemäß § 7d Abs. 2 Ziff. 2 des Einkommensteuergesetzes insgesamt erteilten Bescheinigungen, aufgegliedert nach Industriezweigen sowie nach Art und Höhe der begünstigten Investitionen.</p>
+            </div>
+            <div xml:id="d45e49">
+                <head>Art 3</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d45e60">
+                <head>Art 4</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d45e70">
+                <head>Art 5</head>
+                <p>Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

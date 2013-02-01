@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR039400993">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften</title>
+                <title type="short">StVRAusnV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1993-03-26</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 28.2.1993 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d941e25">
+                <head>Eingangsformel</head>
+                <p>Auf Grund</p>
+                <list>
+                    <item n="-">des § 6 Abs. 1 Nr. 1, 1a Buchstabe a und Nr. 3 Buchstabe a in Verbindung mit Abs. 3 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9231-1, veröffentlichten bereinigten Fassung, Absatz 1 Nr. 1 geändert und Nummer 1a eingefügt durch Artikel 1 Nr. 3 des Gesetzes vom 13. Mai 1986 (BGBl. I S. 700) und Absatz 3 eingefügt durch § 70 Abs. 1 Nr. 3 des Gesetzes vom 15. März 1974 (BGBl. I S. 721), verordnet das Bundesministerium für Verkehr,</item>
+                    <item n="-">des § 6 Abs. 1 Nr. 3 Buchstabe d und Nr. 5a jeweils in Verbindung mit Abs. 2a und 3 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9231-1, veröffentlichten bereinigten Fassung, zuletzt geändert gemäß Artikel 22 der Zuständigkeitsanpassungs-Verordnung vom 26. November 1986 (BGBl. I S. 2089) sowie Nummer 5a und Absatz 3 eingefügt durch § 70 Abs. 1 des Gesetzes vom 15. März 1974 (BGBl. I S. 721), verordnen das Bundesministerium für Verkehr und das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit nach Anhörung der zuständigen obersten Landesbehörden:</item>
+                </list>
+            </div>
+            <div xml:id="d941e40">
+                <head>§ 1</head>
+                <p>Mofas, die den in der Anlage aufgeführten Merkmalen entsprechen (Leichtmofas), dürfen abweichend von § 50 Abs. 6a und § 53 der Straßenverkehrs-Zulassungs-Ordnung lichttechnische Einrichtungen haben, wie sie für Fahrräder nach § 67 der Straßenverkehrs-Zulassungs-Ordnung vorgeschrieben sind. Dies gilt nur, wenn die in der Anlage Nummer 1.7 genannten Auflagen erfüllt sind.</p>
+            </div>
+            <div xml:id="d941e51">
+                <head>§ 2</head>
+                <p>Abweichend von § 21a Abs. 2 der Straßenverkehrs-Ordnung brauchen die Führer der Leichtmofas während der Fahrt keinen Schutzhelm zu tragen.</p>
+            </div>
+            <div xml:id="d941e61">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt mit Wirkung vom 28. Februar 1993 in Kraft.</p>
+            </div>
+            <div xml:id="d941e71">
+                <head>Anlage</head>
+                <p>(Fundstelle des Originaltextes: BGBl. I 1993, 395)1Fahrrad-Merkmale&#160;1.1Leergewicht:nicht mehr als 30 kg1.2Felgendurchmesser für Vorder- und Hinterrad:mindestens 559 mm (entspricht 26 Zoll), aber nicht mehr als 640 mm (entspricht 28 Zoll)1.3Reifenbreite:nicht mehr als 47 mm (entspricht 1,75 Zoll)1.4Länge der Tretkurbel:mehr als 169 mm1.5Fahrweg im größten Gang je Kurbelumdrehung:mehr als 4,4 m1.6Abstand Oberkante Sitzrohrmuffe bis Mitte Tretlagerachse:mehr als 530 mm1.7Lichttechnische Einrichtungen:müssen in amtlich genehmigter Bauart ausgeführt sein; folgende Auflagen müssen erfüllt sein:a)Ein Antrieb der Lichtmaschine, der auch nur eine kurzzeitige Unterbrechung der Stromerzeugung nicht erwarten läßt.b)Eine Schaltung, die selbsttätig bei geringer Geschwindigkeit von Lichtmaschinen- auf Batteriebetrieb umschaltet (Standbeleuchtung).c)Ein Großflächen-Rückstrahler, der mit dem Buchstabe "Z" gekennzeichnet ist.d)Ein Scheinwerfer, der der Nummer 23 Abs. 5 Ziffer 2 der Technischen Anforderungen an Fahrzeugteile bei der Bauartprüfung nach § 22a StVZO (VkBl. 1983 S. 617) entspricht.1.8Abweichungen von den Merkmalen 1.2 bis 1.6:andere Werte sind zugelassen, wenn diese die Benutzung des Leichtmofas als Fahrrad (Pedalantrieb) auf ebener Strecke von mindestens 10 km Länge in einer Zeit von höchstens 30 Minuten bei einer höchsten Leistungsabgabe zwischen 80 und 100 Watt sicherstellen2Mofa-Merkmale&#160;2.1Hubraum:nicht mehr als 30 ccm2.2Leistung:nicht mehr als 0,5 kW2.3Durch die Bauart bestimmte Höchstgeschwindigkeit:nicht mehr als 20 km/h2.4Bremsen:es gilt § 41 StVZO2.5Übersetzung zwischen Kurbelwelle und Antriebsrad:keine Änderungsmöglichkeit2.6Leistungscharakteristik:derart ausgelegt, daß oberhalb einer Geschwindigkeit, die nicht mehr als 24 km/h betragen darf, keine Überschußleistung zum Antrieb des Fahrzeugs abgegeben werden kann2.7maximaler Geräuschpegel bei Vorbeifahrt in 7,5 m Entfernung mit Höchstgeschwindigkeit65 dB (A)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

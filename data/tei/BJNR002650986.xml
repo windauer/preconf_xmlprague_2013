@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002650986">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erstes Gesetz zur Bereinigung des Verwaltungsverfahrensrechts</title>
+                <title type="short">VwVfRBerG 1</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1986-02-18</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.5.1986 +++)</p>
+        </front>
+        <body>
+            <div>
+                <head>1. Abschnitt bis 9. Abschnitt</head>
+                <head type="subtitle"/>
+                <div xml:id="d1284e33">
+                    <head>(XXXX) Art 1 bis 49</head>
+                    <p>-</p>
+                </div>
+            </div>
+            <div>
+                <head>10. Abschnitt</head>
+                <head type="subtitle">Übergangs- und Schlußvorschriften</head>
+                <div xml:id="d1284e60">
+                    <head>Art 50</head>
+                    <p>Die durch dieses Gesetz geänderten Rechtsverordnungen können im Rahmen der jeweils einschlägigen Ermächtigung weiterhin durch Rechtsverordnung geändert oder aufgehoben werden.</p>
+                </div>
+                <div xml:id="d1284e72">
+                    <head>Art 51</head>
+                    <p>Der Bundesminister des Innern kann die durch die Artikel 7 und 10 bis 13 geänderten Gesetze und Rechtsverordnungen in der vom Inkrafttreten dieses Gesetzes an geltenden Fassung im Bundesgesetzblatt bekanntgeben.</p>
+                </div>
+                <div xml:id="d1284e84">
+                    <head>Art 52</head>
+                    <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.</p>
+                </div>
+                <div xml:id="d1284e96">
+                    <head>Art 53</head>
+                    <p>Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden dritten Kalendermonats in Kraft.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

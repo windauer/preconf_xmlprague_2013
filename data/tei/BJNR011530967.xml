@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR011530967">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung der Justizwachtmeister im Bundesdienst</title>
+                <title type="short">BPräsKldgJWAnO</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1967-11-09</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 25.11.1967 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d629e20">
+                <head>(XXXX)</head>
+                <p>Nach § 76 des Bundesbeamtengesetzes übertrage ich dem Bundesminister des Innern die Befugnis, Bestimmungen über die Dienstkleidung der Justizwachtmeister im Bundesdienst zu erlassen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

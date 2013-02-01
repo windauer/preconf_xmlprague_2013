@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR200470988">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vereinbarung zur Durchführung des Abkommens zwischen der Bundesrepublik Deutschland und Kanada über Soziale Sicherheit</title>
+                <title type="short">SozSichAbk1985DVbg CAN</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1985-11-14</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>G v. 12.1.1988 II 26Inkraft gem. Bek. v. 21.11.1988 II 1166 mWv 6.5.1988</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

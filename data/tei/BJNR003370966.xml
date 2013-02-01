@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR003370966">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung über Staatsbegräbnisse und Staatsakte</title>
+                <title type="short">StaatsbegrAnO</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1966-06-02</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 8. 6.1966 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1352e20">
+                <head>Eingangsformel</head>
+                <p>Auf Vorschlag der Bundesregierung bestimme ich:</p>
+            </div>
+            <div xml:id="d1352e30">
+                <head>I.</head>
+                <p>Persönlichkeiten des öffentlichen Lebens, die sich um das deutsche Volk hervorragend verdient gemacht haben, kann von der Bundesrepublik Deutschland ein Staatsbegräbnis gewährt werden.</p>
+            </div>
+            <div xml:id="d1352e40">
+                <head>II.</head>
+                <p>Neben oder an Stelle eines Staatsbegräbnisses kann zur Ehrung eines Verstorbenen ein Staatsakt angeordnet werden.</p>
+            </div>
+            <div xml:id="d1352e50">
+                <head>III.</head>
+                <p>Anordnungen nach I und II trifft der Bundespräsident.</p>
+            </div>
+            <div xml:id="d1352e60">
+                <head>IV.</head>
+                <p>Die Durchführung von Staatsbegräbnissen und Staatsakten obliegt dem Bundesminister des Innern; für Mitglieder des Bundestages, des Bundesrates und des Bundesverfassungsgerichts kann der Bundespräsident den Präsidenten dieser Verfassungsorgane die Durchführung übertragen.</p>
+            </div>
+            <div xml:id="d1352e70">
+                <head>V.</head>
+                <p>Staatsbegräbnisse und Staatsakte auf Grund landesrechtlicher Anordnung bleiben unberührt.</p>
+            </div>
+            <div xml:id="d1352e80">
+                <head>Schlußformel</head>
+                <p>Der BundespräsidentDer BundeskanzlerDer Bundesminister des Innern</p>
+            </div>
+        </body>
+    </text>
+</TEI>

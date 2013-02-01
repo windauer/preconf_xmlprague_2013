@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR011620986">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung nach Artikel 6 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuch</title>
+                <title type="short">IntKonnBek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1986-07-25</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 30.7.1986 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d640e20">
+                <head>(XXXX)</head>Nach Artikel 6 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuch in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4101-1, veröffentlichten bereinigten Fassung, Artikel 6 jedoch eingefügt durch Artikel 5 Nr. 1 des Gesetzes vom 25. Juli 1986 (BGBl. I S. 1120), wird die Liste der Vertragsstaaten des Internationalen Abkommens vom 25. August 1924 zur Vereinheitlichung von Regeln über Konnossemente in der Fassung des Änderungsprotokolls vom 23. Februar 1968 bekanntgegeben:<list>
+                    <item n="">Deutsche Demokratische Republik</item>
+                </list>sowie<list>
+                    <item n="">Ägypten Argentinien Belgien Dänemark<list>
+                            <item n="">mit Ausnahme der Färöer</item>
+                        </list>Ecuador Finnland Frankreich Italien Libanon Niederlande Norwegen Polen Schweden Schweiz Singapur Spanien Sri Lanka Syrien Tonga Vereinigtes Königreich<list>
+                            <item n="">mit Erstreckung auf Bermuda Britisches Antarktis-Territorium Britische Jungferninseln Falklandinseln und Nebengebiete Gibraltar Hongkong Kaimaninseln die Insel Man Montserrat Turks- und Caicosinseln.</item>
+                        </list>
+                    </item>
+                </list>Der Bundesminister der Justiz</div>
+        </body>
+    </text>
+</TEI>

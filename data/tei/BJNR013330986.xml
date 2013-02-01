@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR013330986">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Abänderung der Reihenfolge der Kostenstrukturerhebungen</title>
+                <title type="short">KoStrukStatRflgV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1986-08-20</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 27.8.1986 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d767e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 2 des Gesetzes über Kostenstrukturstatistik in der im Bundesgesetzblatt Teil III, Gliederungsnummer 708-3, veröffentlichten bereinigten Fassung wird verordnet:</p>
+            </div>
+            <div xml:id="d767e30">
+                <head>§ 1</head>
+                <p>Die Erhebungen nach § 1 Nr. 2 des Gesetzes über Kostenstrukturstatistik bei den übrigen, in den Nummern 1, 3 und 4 nicht genannten Arbeitsstätten werden mit Ausnahme von Arbeitsstätten von Ärzten, Zahnärzten, Tierärzten, Rechtsanwälten und Notaren, Steuerberatern, Steuerbevollmächtigten und Wirtschaftsprüfern sowie Architekten und Beratenden Ingenieuren im gleichen Erhebungsjahr wie die Erhebungen nach § 1 Nr. 1 des Gesetzes durchgeführt.</p>
+            </div>
+            <div xml:id="d767e40">
+                <head>§ 2</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 8 des Gesetzes über Kostenstrukturstatistik auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d767e50">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+            <div xml:id="d767e60">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Wirtschaft</p>
+            </div>
+        </body>
+    </text>
+</TEI>

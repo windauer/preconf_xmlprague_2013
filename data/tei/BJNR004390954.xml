@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004390954">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Überleitung der Beteiligung des ehemaligen Landes Preußen am Grundkapital der Deutschen Pfandbriefanstalt auf den Bund</title>
+                <title type="short">PfandBrÜblG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1954-12-16</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1466e25">
+                <head>§ 1</head>
+                <p>Die Beteiligung des ehemaligen Landes Preußen am Grundkapital der Deutschen Pfandbriefanstalt (ehemals Preußischen Landespfandbriefanstalt) geht mit dem Inkrafttreten dieses Gesetzes auf den Bund über.</p>
+            </div>
+            <div xml:id="d1466e35">
+                <head>§ 2</head>
+                <p>Der Bund erstattet den Ländern die von ihnen für die Zeit nach dem Inkrafttreten des Gesetzes zu leistenden Aufwendungen (Zinsen und etwaige Tilgungsraten) für die Ausgleichsforderungen der Deutschen Pfandbriefanstalt.</p>
+            </div>
+            <div xml:id="d1466e45">
+                <head>§ 3</head>
+                <p>Die Deutsche Pfandbriefanstalt untersteht als bundesunmittelbare Körperschaft des öffentlichen Rechts der Aufsicht des zuständigen Bundesministers.</p>
+            </div>
+            <div xml:id="d1466e55">
+                <head>§ 4</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d1466e66">
+                <head>§ 5</head>
+                <p>Dieses Gesetz tritt am ersten Tage des zweiten Kalendermonats nach seiner Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

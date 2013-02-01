@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR011900992">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Regelung der Aufnahme von Krediten durch die Treuhandanstalt</title>
+                <title type="short">THAKredG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1992-07-03</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 1.1992 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d662e29">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d662e39">
+                <head>§ 1</head>
+                <p>(1) Die Treuhandanstalt wird ermächtigt, in den Wirtschaftsjahren 1992 bis 1994 Kredite bis zur Höhe von 30 Milliarden Deutsche Mark je Wirtschaftsjahr aufzunehmen. Die Übernahme von Altkrediten von Unternehmen, an denen die Treuhandanstalt direkt oder indirekt beteiligt ist, ist nicht auf den Kreditrahmen nach Satz 1 anzurechnen. Altkredite sind alle in der Mark-Schlußbilanz zum 30. Juni 1990 ausgewiesenen Kredite, die im Verhältnis 2 zu 1 in die DM-Eröffnungsbilanz übernommen wurden. Dem Kreditrahmen nach Satz 1 wachsen die Beträge zu, die zur Tilgung von in den Wirtschaftsjahren 1992 bis 1994 fällig werdenden Krediten erforderlich sind.</p>
+                <p>(2) Die Inanspruchnahme des Kreditrahmens nach Absatz 1 Satz 1 für die Wirtschaftsjahre 1993 und 1994 bedarf der Einwilligung des Haushaltsausschusses des Deutschen Bundestages, die vom Bundesminister der Finanzen eingeholt wird.</p>
+            </div>
+            <div xml:id="d662e51">
+                <head>§ 2</head>
+                <p>(1) Die Treuhandanstalt wird ermächtigt, ab Oktober eines Wirtschaftsjahres im Vorgriff auf den Kreditrahmen des nächsten Wirtschaftsjahres Kredite bis zur Höhe von fünf Milliarden Deutsche Mark aufzunehmen. Die danach aufgenommenen Kredite sind auf den Kreditrahmen des nächsten Wirtschaftsjahres anzurechnen. § 1 Abs. 2 findet keine Anwendung.</p>
+                <p>(2) Auf den Kreditrahmen nach § 1 Abs. 1 Satz 1 ist bei Schuldverschreibungen in abgezinster Form der Nettobetrag anzurechnen.</p>
+                <p>(3) Die Treuhandanstalt wird ermächtigt, zum Ankauf ihrer Schuldtitel im Wege der Marktpflege Kredite ohne Anrechnung auf den Kreditrahmen nach § 1 Abs. 1 Satz 1 aufzunehmen.</p>
+            </div>
+            <div xml:id="d662e65">
+                <head>§ 3</head>
+                <p>Der Bundesminister der Finanzen kann den nicht ausgenutzten Kreditrahmen eines Wirtschaftsjahres auf das folgende Wirtschaftsjahr übertragen. Bei unabweisbarem Mehrbedarf kann er mit Einwilligung des Haushaltsausschusses des Deutschen Bundestages eine Überschreitung des jährlichen Kreditrahmens nach § 1 Abs. 1 Satz 1 um bis zu 8 Milliarden Deutsche Mark zulassen.</p>
+            </div>
+            <div xml:id="d662e75">
+                <head>§ 4</head>
+                <p>Der Bund haftet für die von der Treuhandanstalt aufgenommenen Kredite.</p>
+            </div>
+            <div xml:id="d662e85">
+                <head>§ 5</head>
+                <p>§ 1 Absatz 2 Nummer 2 des Wertpapierprospektgesetzes gilt auch für Schuldverschreibungen der Treuhandanstalt.</p>
+            </div>
+            <div xml:id="d662e96">
+                <head>§ 6</head>
+                <p>Dieses Gesetz tritt mit Wirkung vom 1. Januar 1992 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

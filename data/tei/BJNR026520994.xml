@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR026520994">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zu dem Abkommen vom 29. Juli 1992 zwischen der Bundesrepublik Deutschland und der Republik Polen über Erleichterungen der Grenzabfertigung</title>
+                <title type="short">GrAbfErlPolAbkG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1994-02-03</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 11. 2.1994 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d908e20">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d908e30">
+                <head>Art 1</head>
+                <p>Dem in Warschau am 29. Juli 1992 unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und der Republik Polen über Erleichterungen der Grenzabfertigung wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.</p>
+            </div>
+            <div xml:id="d908e40">
+                <head>Art 2</head>
+                <p>Die Bundesministerien des Innern und der Finanzen werden jeweils für ihren Geschäftsbereich ermächtigt, ohne Zustimmung des Bundesrates die Rechtsverordnungen zu erlassen, die zur Durchführung der Vereinbarungen nach Artikel 2 Abs. 3 des Abkommens über</p>
+                <list>
+                    <item n="a)">die Errichtung zusammenliegender und vorgeschobener Grenzdienststellen einschließlich ihres Amtsbereichs,</item>
+                    <item n="b)">die Strecken, auf denen die Bediensteten beider Vertragsparteien in den Verkehrsmitteln während der Fahrt die Grenzabfertigung vornehmen,</item>
+                </list>
+                <p>erforderlich sind.</p>
+            </div>
+            <div xml:id="d908e56">
+                <head>Art 3</head>
+                <p>(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.</p>
+                <p>(2) Der Tag, an dem das Abkommen nach seinem Artikel 26 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

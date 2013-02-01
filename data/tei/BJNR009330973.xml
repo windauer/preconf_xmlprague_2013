@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR009330973">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vierzehntes Gesetz zur Änderung des Zollgesetzes</title>
+                <title type="short">ZGÄndG 14</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1973-08-03</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.10.1980 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d457e23">
+                <head>Art 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d457e34">
+                <head>Art 2</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d457e45">
+                <head>Art 3</head>
+                <p>Der Bundesminister der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zur Erleichterung des Warenverkehrs über die Grenzen und zur Vereinfachung der Verwaltung ganz oder teilweise Freiheit von der Einfuhrumsatzsteuer und von anderen Verbrauchsteuern anzuordnen</p>
+                <list>
+                    <item n="1.">für eingeführte Waren, die nicht oder nicht mehr am Güterumsatz und an der Preisbildung teilnehmen,</item>
+                    <item n="2.">für eingeführte Waren in kleinen Mengen oder von geringem Wert,</item>
+                    <item n="3.">für Waren, die das Zollgebiet oder das Erhebungsgebiet der Verbrauchsteuern nur vorübergehend verlassen hatten,</item>
+                    <item n="4.">für eingeführte Waren, die im Zollgebiet oder im Erhebungsgebiet der Verbrauchsteuern nur vorübergehend verwendet und danach unter zollamtlicher Überwachung wieder ausgeführt, vernichtet, vergällt oder genußunbrauchbar gemacht werden,</item>
+                    <item n="5.">für eingeführte Waren, für die nach zwischenstaatlichem Brauch keine Einfuhrumsatzsteuer und andere Verbrauchsteuern erhoben werden,</item>
+                    <item n="6.">für Waren, die an Bord von Verkehrsmitteln als Mundvorrat, als Brenn-, Treib- oder Schmierstoffe, als technische Öle oder als Betriebsmittel ein- oder ausgeführt werden,</item>
+                </list>
+                <p>soweit dadurch schutzwürdige Interessen der inländischen Wirtschaft nicht verletzt werden und keine unangemessenen Steuervorteile entstehen. Er hat dabei Rechtsakte des Rates oder der Kommission der Europäischen Gemeinschaften zu berücksichtigen.</p>
+            </div>
+            <div xml:id="d457e72">
+                <head>Art 4</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d457e83">
+                <head>Art 5</head>
+                <p>Dieses Gesetz gilt nach § 12 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.</p>
+            </div>
+            <div xml:id="d457e93">
+                <head>Art 6</head>
+                <p>Dieses Gesetz tritt am ersten Tag des seiner Verkündung folgenden Monats in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

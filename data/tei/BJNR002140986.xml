@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002140986">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saatgutaufzeichnungsverordnung</title>
+                <title type="short">SaatAufzV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1986-01-21</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 29.1.1986 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1221e23">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 27 Satz 2 des Saatgutverkehrsgesetzes vom 20. August 1985 (BGBl. I S. 1633) wird mit Zustimmung des Bundesrates verordnet:</p>
+            </div>
+            <div xml:id="d1221e33">
+                <head>§ 1</head>
+                <p>(1) Wer Saatgut gewerbsmäßig in den Verkehr bringt, abfüllt oder für andere bearbeitet, hat über alle Eingänge und Ausgänge von Saatgut systematische Aufzeichnungen zu machen, denen zu entnehmen sind:</p>
+                <list>
+                    <item n="1.">der Tag, an dem das Saatgut in seinen Besitz oder seine Verfügungsgewalt gelangt ist;</item>
+                    <item n="2.">der Lieferant;</item>
+                    <item n="3.">der Tag des Ausgangs;</item>
+                    <item n="4.">der Empfänger oder der Verbleib;</item>
+                    <item n="5.">das Gewicht oder bei<list>
+                            <item n="a)">nach Stückzahl abgepackten Packungen oder Behältnissen die Anzahl der Packungen oder Behältnisse sowie die in ihnen enthaltene Stückzahl,</item>
+                            <item n="b)">Kleinpackungen die Anzahl der Packungen sowie ihre Füllmenge,</item>
+                            <item n="c)">Bündeln von Reben die Anzahl der Bündel und ihre Stückzahl,</item>
+                            <item n="d)">Topfreben und Kartonagereben die Stückzahl;</item>
+                        </list>
+                    </item>
+                    <item n="6.">die Art, die Kategorie und, außer bei Handelssaatgut und Behelfssaatgut, die Sortenbezeichnung; bei Saatgutmischungen statt dessen der Verwendungszweck;</item>
+                    <item n="7.">bei<list>
+                            <item n="a)">anerkanntem Saatgut - außer in Kleinpackungen - die Anerkennungsnummer,</item>
+                            <item n="b)">Wurzelreben und Pfropfreben die Betriebsnummer,</item>
+                            <item n="c)">Standardsaatgut - außer in Kleinpackungen - die Bezugsnummer,</item>
+                            <item n="d)">Handelssaatgut - außer in Kleinpackungen - die Zulassungsnummer,</item>
+                            <item n="e)">Behelfssaatgut - außer in Kleinpackungen - die Partienummer,</item>
+                            <item n="f)">Saatgut, das entsprechend den Regeln eines OECD-Systems gekennzeichnet ist, die Referenznummer,</item>
+                            <item n="g)">Saatgutmischungen - außer in Kleinpackungen - die Mischungsnummer,</item>
+                            <item n="h)">Saatgut von Erhaltungssorten die Bezugsnummer,</item>
+                        </list>
+                    </item>
+                    <item n="8.">im Falle der Bearbeitung von Saatgut<list>
+                            <item n="a)">das Gewicht vor und nach der Bearbeitung; Nummer 5 Buchstabe a und b gilt entsprechend,</item>
+                            <item n="b)">durch Pillierung, Granulierung oder Inkrustierung oder Hinzufügung fester Zusätze die Art der Behandlung und das ungefähre Verhältnis des Gewichtes der reinen Körner oder Knäuel zum Gesamtgewicht,</item>
+                            <item n="c)">die Wiederverschließungsnummer;</item>
+                        </list>
+                    </item>
+                    <item n="9.">im Falle der Herstellung von Saatgutmischungen<list>
+                            <item n="a)">jeder Bestandteil unter Angabe der Art, der Kategorie und, außer bei Handelssaatgut und Behelfssaatgut, der Sortenbezeichnung sowie jeweils der Anerkennungs-, Bezugs-, Zulassungs-, Partie- oder Referenznummer oder bei Kleinpackungen der Kenn-, Partie- oder Mischungsnummer,</item>
+                            <item n="b)">das Gewicht und der Anteil jedes Bestandteils in vom Hundert des Gewichtes,</item>
+                            <item n="c)">die Mischungsnummer,</item>
+                            <item n="d)">der Verwendungszweck;</item>
+                        </list>
+                    </item>
+                    <item n="10.">im Falle der Herstellung von Kleinpackungen<list>
+                            <item n="a)">jeweils die Anerkennungs-, Bezugs-, Zulassungs-, Partie-, Referenz-, Mischungs- oder Kennummer der für die Herstellung der Kleinpackungen verwendeten Partien,</item>
+                            <item n="b)">das Gewicht oder die Stückzahl des verwendeten Saatgutes,</item>
+                            <item n="c)">die Anzahl und die Füllmenge der Kleinpackungen,</item>
+                            <item n="d)">jeweils die Kenn-, Partie- oder Mischungsnummer der Kleinpackungen; bei Packungen, die mit einer Klebemarke der Anerkennungsstelle versehen sind, auch die laufende Nummer der Klebemarke.</item>
+                        </list>
+                    </item>
+                </list>
+                <p>(2) Wird Saatgut, für das ein Antrag auf Anerkennung gestellt worden war, für einen anderen Verwendungszweck vorgesehen, so muß den Aufzeichnungen sein Verbleib zu entnehmen sein.</p>
+                <p>(3) Beim Ausgang von Gemüsesaatgut an Letztverbraucher sind Angaben über den Empfänger oder den Verbleib sowie die Angabe der jeweiligen Nummer nach Absatz 1 Nr. 7 entbehrlich. Beim Ausgang von Saatgut in Kleinpackungen oder in kleinen Mengen (§ 42 der Saatgutverordnung, § 31 der Pflanzkartoffelverordnung oder § 21 der Rebenpflanzgutverordnung) an Letztverbraucher sind Aufzeichnungen entbehrlich.</p>
+                <p>(4) Werden bei den Aufzeichnungen Schlüsselzahlen oder Schlüsselzeichen verwendet, so müssen sie für die zuständige Behörde klar verständlich sein.</p>
+            </div>
+            <div xml:id="d1221e122">
+                <head>§ 2</head>
+                <p>(1) Bei eingeführtem Saatgut, außer Saatgut aus Vertragsstaaten, muß auch die von der Bundesanstalt für Landwirtschaft und Ernährung für die Partie erteilte Nummer des Bestätigungsvermerks der Einfuhranzeige oder im Falle einer nach § 18 Abs. 2 des Saatgutverkehrsgesetzes genehmigten Einfuhr die Nummer der Genehmigung den Aufzeichnungen desjenigen zu entnehmen sein, in dessen Besitz oder Verfügungsgewalt das Saatgut im Geltungsbereich des Saatgutverkehrsgesetzes zuerst gelangt. Ist bei solchem Saatgut die jeweilige Nummer nach § 1 Abs. 1 Nr. 7 im Zeitpunkt der Aufzeichnung nach § 1 Abs. 1 Nr. 1 und 2 auf Grund besonderer Verhältnisse noch nicht bekannt, so kann an ihre Stelle vorübergehend eine Bezugnahme auf das Transportmittel treten; die Aufzeichnung der Nummer nach § 1 Abs. 1 Nr. 7 ist unverzüglich nachzuholen.</p>
+                <p>(2) Wird die jeweilige Nummer nach § 1 Abs. 1 Nr. 7 für eine Partie neu festgesetzt, so muß diese Nummer den Aufzeichnungen des Betriebes zu entnehmen sein, welcher den die Neufestsetzung verursachenden Antrag gestellt hat.</p>
+                <p>(3) Die jeweilige Nummer nach Absatz 1 Satz 1 oder § 1 Abs. 1 Nr. 7 kann entfallen, wenn sie sich aus sonstigen Geschäftsunterlagen des aufzeichnungspflichtigen Betriebes nachprüfbar ergibt.</p>
+            </div>
+            <div xml:id="d1221e137">
+                <head>§ 3</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1221e148">
+                <head>§ 4</head>
+                <p>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+            <div xml:id="d1221e159">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Ernährung, Landwirtschaft und Forsten</p>
+            </div>
+        </body>
+    </text>
+</TEI>

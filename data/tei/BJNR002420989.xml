@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002420989">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Änderung des Zweiten Wohnungsbaugesetzes und des Wohnungsbaugesetzes für das Saarland</title>
+                <title type="short">WoBauÄndG 1988</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1989-02-21</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 25. 2.1989 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1256e24">
+                <head>Art 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1256e35">
+                <head>Art 2</head>
+                <p>Das Wohnungsbaugesetz für das Saarland in der Fassung der Bekanntmachung vom 10. September 1985 (Amtsblatt des Saarlandes S. 1185), zuletzt geändert durch Artikel 22 Abs. 2 des Gesetzes vom 25. Juli 1988 (BGBl. I S. 1093), wird wie folgt geändert:</p>
+                <list>
+                    <item n="1.">Die Überschrift zu Teil V Vierter Titel erhält folgende Fassung:<list>
+                            <item n="">"Förderung des Wohnungsbaues durch vertragliche Vereinbarung und Förderung des steuerbegünstigten Wohnungsbaues durch Aufwendungszuschüsse und Aufwendungsdarlehen"</item>
+                        </list>
+                    </item>
+                    <item n="2.">Folgender § 51e wird eingefügt:<list>
+                            <item n="">
+                                <list>
+                                    <item n="">"§ 51e Vereinbarte Förderung</item>
+                                </list>
+                            </item>
+                        </list>(1) Mittel zur Förderung des sozialen Wohnungsbaues können auch abweichend von den §§ 51a bis 51d vergeben werden. In der zwischen Darlehens- oder Zuschußgeber und dem Bauherrn abzuschließenden Vereinbarung können insbesondere Bestimmungen über Höhe und Einsatzart der Mittel, die Zweckbestimmung, Besetzungsrechte, die Beachtung von Einkommensgrenzen, die Höhe des Mietzinses und etwaige Änderungen während der Dauer der Zweckbestimmung sowie die Folgen von Vertragsverletzungen getroffen werden. Dabei ist sicherzustellen, daß der Mieter sich gegenüber dem Bauherrn oder gegenüber einem anderen Verfügungsberechtigten auf die Einhaltung der mit dem Darlehns- oder Zuschußgeber vereinbarten Mietzinsregelung berufen kann. (2) Die Mittel nach Absatz 1 gelten nicht als öffentliche Mittel im Sinne dieses Gesetzes. Die geförderten Wohnungen sind kein preisgebundener Wohnraum."</item>
+                    <item n="3.">Folgender § 51f wird angefügt:<list>
+                            <item n="">
+                                <list>
+                                    <item n="">"§ 51f Förderung mit Wohnungsfürsorgemitteln</item>
+                                </list>
+                            </item>
+                        </list>Wohnungsfürsorgemittel können auch in entsprechender Anwendung des § 51e vergeben werden."</item>
+                </list>
+            </div>
+            <div xml:id="d1256e69">
+                <head>Art 3</head>
+                <p>Artikel 1 gilt nicht im Saarland.</p>
+            </div>
+            <div xml:id="d1256e81">
+                <head>Art 4</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d1256e93">
+                <head>Art 5</head>
+                <p>Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR040220004">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Protokoll gemäß Artikel 34 des Vertrags über die Europäische Union zur Änderung des Übereinkommens über den Einsatz der Informationstechnologie im Zollbereich hinsichtlich der Einrichtung eines Aktennachweissystems für Zollzwecke</title>
+                <title type="short">ZISÜbkAktProt</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>2003-05-08</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>G v. 31.3.2004 I 388In Kraft gem. Bek. v. 12.9.2007 II 1493 mWv 15.10.2007</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

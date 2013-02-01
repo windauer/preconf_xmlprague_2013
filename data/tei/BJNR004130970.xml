@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004130970">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Sicherstellung der Grundrentenabfindung in der Kriegsopferversorgung</title>
+                <title type="short">KOVRentKapG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1970-04-27</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Das G ist in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anlage I Kap. VIII Sachg. K Abschn. III Nr. 3 EinigVtr iVm Art. 1 G v. 23.9.1990 II 885, 1068 ab 1. Januar 1991 anzuwenden. Maßgaben aufgrund EinigVtr nicht mehr anzuwenden gem. Art. 109 Nr. 3 Buchst. i DBuchst. cc G v. 8.12.2010 I 1864</p>
+            <p>(+++ Textnachweis ab: 1.1.1970 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1427e28">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d1427e38">
+                <head>§ 1</head>
+                <p>(1) An Stelle einer Kapitalabfindung nach den §§ 72 bis 80 des Bundesversorgungsgesetzes kann dem Berechtigten nach Maßgabe des Bundeshaushaltsplans ein Betrag in Höhe der Kapitalabfindung durch ein Kreditinstitut gewährt werden (Rentenkapitalisierung); das gilt auch, wenn die Kapitalabfindung bereits bewilligt, aber noch nicht ausgezahlt worden ist.</p>
+                <p>(2) Der Kapitalisierungsbetrag wird auf Grund eines öffentlich-rechtlichen Vertrags zwischen dem Kreditinstitut und dem Berechtigten gegen Übertragung des Anspruchs auf Zahlung der für den nach § 74 des Bundesversorgungsgesetzes maßgebenden Zeitraum zustehenden Grundrente gezahlt.</p>
+                <p>(3) Das Kreditinstitut wird vom Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der Finanzen beauftragt.</p>
+            </div>
+            <div xml:id="d1427e53">
+                <head>§ 2</head>
+                <p>(1) Für die Rentenkapitalisierung gelten die für Kapitalabfindungen nach dem Bundesversorgungsgesetz maßgebenden Vorschriften und Bestimmungen mit Ausnahme des § 74 Abs. 2 Satz 3, § 74 Abs. 3 Satz 3 und des § 76 Abs. 3 des Bundesversorgungsgesetzes entsprechend.</p>
+                <p>(2) Die Voraussetzungen der Rentenkapitalisierung stellt die Verwaltungsbehörde fest. Zuständigkeit, Verwaltungsverfahren und Rechtsweg richten sich nach den bei der Gewährung von Kapitalabfindungen anzuwendenden Vorschriften und Bestimmungen.</p>
+                <p>(3)</p>
+            </div>
+            <div xml:id="d1427e68">
+                <head>§ 3</head>
+                <p>Gesetzliche Vorschriften, die dem Kapitalabfindungsberechtigten steuerliche und gebührenrechtliche Vergünstigungen gewähren, gelten für die Rentenkapitalisierung entsprechend.</p>
+            </div>
+            <div xml:id="d1427e78">
+                <head>§ 4</head>
+                <p>(1) Der Empfänger des Kapitalisierungsbetrags kann aus wichtigen Gründen mit Zustimmung der Verwaltungsbehörde vom Rentenkapitalisierungsvertrag zurücktreten.</p>
+                <p>(2) Rückzahlungsansprüche gegen den Empfänger des Kapitalisierungsbetrags aus dem Rentenkapitalisierungsvertrag stehen der Bundesrepublik Deutschland zu. Sie werden für diese von dem Land geltend gemacht, in dem der Empfänger des Kapitalisierungsbetrags im Zeitpunkt der Einleitung des Rückforderungsverfahrens seinen Wohnsitz oder gewöhnlichen Aufenthalt hat; § 2 Abs. 2 Satz 2 ist anzuwenden.</p>
+                <p>(3) Ist der Versorgungsberechtigte verpflichtet, den Kapitalisierungsbetrag zurückzuzahlen,</p>
+                <list>
+                    <item n="1.">weil er ihn nicht fristgerecht bestimmungsgemäß verwendet oder seinen Verwendungszweck vereitelt hat oder weil er vom Rentenkapitalisierungsvertrag zurückgetreten ist oder</item>
+                    <item n="2.">weil die Verwaltungsbehörde den Bescheid über die Feststellung der Voraussetzungen der Rentenkapitalisierung widerrufen hat,</item>
+                </list>
+                <p>so geht der Anspruch auf Zahlung der Grundrente mit dem Ersten des auf die Rückzahlung folgenden Monats auf ihn über.</p>
+            </div>
+            <div xml:id="d1427e98">
+                <head>§ 5</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d1427e108">
+                <head>§ 6</head>
+                <p>Dieses Gesetz tritt mit Wirkung vom 1. Januar 1970 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

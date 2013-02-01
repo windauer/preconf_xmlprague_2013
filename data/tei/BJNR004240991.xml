@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004240991">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Bildung von Bezirkspersonalräten bei militärischen Dienststellen</title>
+                <title type="short">MilBezPersRatV 1991</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1991-02-08</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 22.1.1991 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1448e30">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 39 des Soldatenbeteiligungsgesetzes (SBG) vom 16. Januar 1991 (BGBl. I S. 47) verordnet der Bundesminister der Verteidigung:</p>
+            </div>
+            <div xml:id="d1448e40">
+                <head>§ 1</head>
+                <p>Bezirkspersonalräte werden bei folgenden, den Behörden der Mittelstufe nach § 6 Abs. 2 Satz 2 des Bundespersonalvertretungsgesetzes entsprechenden militärischen Dienststellen gebildet:</p>
+                <list>
+                    <item n="1.">Streitkräfteunterstützungskommando,</item>
+                    <item n="2.">Streitkräfteamt,</item>
+                    <item n="3.">Sanitätsführungskommando,</item>
+                    <item n="4.">(aufgehoben),</item>
+                    <item n="5.">(aufgehoben),</item>
+                    <item n="6.">Heeresamt,</item>
+                    <item n="7.">Luftwaffenamt,</item>
+                    <item n="8.">Marineamt,</item>
+                    <item n="9.">Sanitätsamt der Bundeswehr,</item>
+                    <item n="10.">Heeresführungskommando,</item>
+                    <item n="11.">(aufgehoben),</item>
+                    <item n="12.">Luftwaffenführungskommando.</item>
+                </list>
+            </div>
+            <div xml:id="d1448e77">
+                <head>§ 2</head>
+                <p>Diese Verordnung tritt mit Wirkung vom 22. Januar 1991 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR005470974">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über die förmliche Verpflichtung nichtbeamteter Personen</title>
+                <title type="short">VerpflG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1974-03-02</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1975 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d772e27">
+                <head>§ 1</head>
+                <p>(1) Auf die gewissenhafte Erfüllung seiner Obliegenheiten soll verpflichtet werden, wer, ohne Amtsträger (§ 11 Abs. 1 Nr. 2 des Strafgesetzbuches) zu sein,</p>
+                <list>
+                    <item n="1.">bei einer Behörde oder bei einer sonstigen Stelle, die Aufgaben der öffentlichen Verwaltung wahrnimmt, beschäftigt oder für sie tätig ist,</item>
+                    <item n="2.">bei einem Verband oder sonstigen Zusammenschluß, einem Betrieb oder Unternehmen, die für eine Behörde oder sonstige Stelle Aufgaben der öffentlichen Verwaltung ausführen, beschäftigt oder für sie tätig ist oder</item>
+                    <item n="3.">als Sachverständiger öffentlich bestellt ist.</item>
+                </list>
+                <p>(2) Die Verpflichtung wird mündlich vorgenommen. Dabei ist auf die strafrechtlichen Folgen einer Pflichtverletzung hinzuweisen.</p>
+                <p>(3) Über die Verpflichtung wird eine Niederschrift aufgenommen, die der Verpflichtete mit unterzeichnet. Er erhält eine Abschrift der Niederschrift; davon kann abgesehen werden, wenn dies im Interesse der inneren oder äußeren Sicherheit der Bundesrepublik Deutschland geboten ist.</p>
+                <p>(4) Welche Stelle für die Verpflichtung zuständig ist, bestimmt</p>
+                <list>
+                    <item n="1.">in den Fällen des Absatzes 1 Nr. 1 und 2 bei Behörden oder sonstigen Stellen nach Bundesrecht die jeweils zuständige oberste Dienstaufsichtsbehörde oder, soweit eine Dienstaufsicht nicht besteht, die oberste Fachaufsichtsbehörde,</item>
+                    <item n="2.">in allen übrigen Fällen diejenige Behörde, die von der Landesregierung durch Rechtsverordnung bestimmt wird.</item>
+                </list>
+            </div>
+            <div xml:id="d772e56">
+                <head>§ 2</head>
+                <p>(1) Wer, ohne Amtsträger zu sein, auf Grund des § 1 der Verordnung gegen Bestechung und Geheimnisverrat nichtbeamteter Personen in der Fassung der Bekanntmachung vom 22. Mai 1943 (Reichsgesetzbl. I S. 351) förmlich verpflichtet worden ist, steht einem nach § 1 Verpflichteten gleich.</p>
+                <p>(2) Wer, ohne Amtsträger zu sein,</p>
+                <list>
+                    <item n="1.">als Arbeitnehmer des öffentlichen Dienstes nach einer tarifrechtlichen Regelung oder</item>
+                    <item n="2.">auf Grund eines Gesetzes oder aus einem sonstigen Rechtsgrund</item>
+                </list>
+                <p>zur gewissenhaften Erfüllung seiner Obliegenheiten verpflichtet worden ist, steht einem nach § 1 Verpflichteten gleich, wenn die Voraussetzungen des § 1 Abs. 2 erfüllt sind.</p>
+            </div>
+            <div xml:id="d772e74">
+                <head>§ 3</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d772e84">
+                <head>§ 4</head>
+                <p>Dieses Gesetz tritt am 1. Januar 1975 in Kraft. § 1 Abs. 4 tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

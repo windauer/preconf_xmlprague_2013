@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR040000001">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Internationales Übereinkommen über die zivilrechtliche Haftung für Schäden durch Bunkerölverschmutzung</title>
+                <title type="short">ZivHaftBkÖlVerschmSchÜbk</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>2001-03-23</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body/>
+    </text>
+</TEI>

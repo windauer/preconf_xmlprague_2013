@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR007400986">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Sicherung der Neutralität der Bundesanstalt für Arbeit bei Arbeitskämpfen</title>
+                <title type="short">AFG§116G</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1986-05-15</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 24.5.1986 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d256e20">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d256e30">
+                <head>Art 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d256e41">
+                <head>Art 2</head>
+                <p>Die Neutralitäts-Anordnung vom 22. März 1973 (Amtliche Nachrichten der Bundesanstalt für Arbeit 1973 S. 365) und die Anordnung zur Ergänzung der Neutralitäts-Anordnung vom 14. Juli 1982 (Amtliche Nachrichten der Bundesanstalt für Arbeit 1982 S. 1459) werden aufgehoben.</p>
+            </div>
+            <div xml:id="d256e53">
+                <head>Art 3</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d256e65">
+                <head>Art 4</head>
+                <p>Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

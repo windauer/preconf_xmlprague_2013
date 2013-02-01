@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR003540954">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über das Luftfahrt-Bundesamt</title>
+                <title type="short">LFBAG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1954-11-30</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.10.1980 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1372e25">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d1372e35">
+                <head>§ 1</head>
+                <p>(1) Als Bundesoberbehörde für Aufgaben der Zivilluftfahrt wird das Luftfahrt-Bundesamt errichtet, das dem Bundesministerium für Verkehr, Bau und Stadtentwicklung untersteht.</p>
+                <p>(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung bestimmt den Sitz des Luftfahrt-Bundesamts.</p>
+            </div>
+            <div xml:id="d1372e48">
+                <head>§ 2</head>(1) Das Luftfahrt-Bundesamt hat insbesondere folgende Aufgaben:<list>
+                    <item n="1.">die Prüfung oder Überwachung der Prüfungen zur Feststellung der Verkehrssicherheit (Lufttüchtigkeit) des Luftfahrtgeräts nach der Prüfordnung für Luftfahrtgerät,</item>
+                    <item n="2.">die Zulassung der Muster des Luftfahrtgeräts,</item>
+                    <item n="3.">die Zulassung des Luftfahrtgeräts zum Luftverkehr,</item>
+                    <item n="4.">die Führung der Luftfahrzeugrolle sowie sonstiger Verzeichnisse für Luftfahrtgerät,</item>
+                    <item n="5.">die Erteilung der Erlaubnis für Berufsflugzeugführer, Linienflugzeugführer, berufsmäßige Führer von Drehflüglern, Flugnavigatoren, Flugingenieure und Führer von Luftschiffen sowie die Erteilung der Berechtigungen nach der Prüfordnung für Luftfahrtpersonal an diese Personen,</item>
+                    <item n="6.">die Anerkennung fliegerärztlicher Untersuchungsstellen für die fliegerärztliche Untersuchung der in Nummer 5 genannten Luftfahrer,</item>
+                    <item n="7.">die Erteilung der Erlaubnis für die Ausbildung der in Nummer 5 genannten Luftfahrer,</item>
+                    <item n="8.">die Erteilung der Erlaubnis für Prüfer von Luftfahrtgerät und Flugdienstberater,</item>
+                    <item n="9.">die Erteilung von Besatzungsausweisen für Fluglinienpersonal,</item>
+                    <item n="10.">die Abnahme der Prüfungen zum Erwerb der Instrumentenflugberechtigung von den nicht in Nummer 5 genannten Luftfahrern,</item>
+                    <item n="11.">die Vorarbeiten für den Erlaß der Bau-, Prüf- und Betriebsvorschriften für Luftfahrtgerät und der Ausbildungs- und Prüfvorschriften für Luftfahrtpersonal,</item>
+                </list>12.13.<list>
+                    <item n="14.">die Sammlung von Nachrichten über Luftfahrtpersonal und Luftfahrtgerät sowie die Auskunftserteilung über diese Nachrichten,</item>
+                    <item n="15.">die Sammlung und die Sichtung von Berichten und sonstigen Unterlagen über die Luftfahrttechnik, den Betrieb von Luftfahrtgerät und das Luftfahrtpersonal, soweit sie für die Aufgaben des Luftfahrt-Bundesamtes notwendig sind,</item>
+                    <item n="16.">die Prüfung des technischen und betrieblichen Zustandes und der finanziellen Leistungsfähigkeit der Luftfahrtunternehmen und Luftfahrerschulen, für deren Genehmigung das Bundesministerium für Verkehr, Bau und Stadtentwicklung oder das Luftfahrt-Bundesamt zuständig sind,</item>
+                    <item n="17.">auf Antrag die Erstattung von Gutachten über die Prüfung des technischen und betrieblichen Zustandes und der finanziellen Leistungsfähigkeit der Luftfahrtunternehmen und Luftfahrerschulen, für deren Genehmigung die Länder zuständig sind,</item>
+                    <item n="18.">die stichprobenweise Kontrolle des technischen und betrieblichen Zustandes von Luftfahrzeugen als Maßnahme der Luftaufsicht nach § 29 Luftverkehrsgesetz. Soweit das Luftfahrt-Bundesamt diese Kontrolle im Einzelfall ausführt, tritt die luftaufsichtliche Kontrolle durch die Länder zurück.</item>
+                </list>
+                <p>(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann dem Luftfahrt-Bundesamt weitere Aufgaben des Bundes auf dem Gebiet der Luftfahrt zuweisen.</p>
+            </div>
+            <div xml:id="d1372e100">
+                <head>§ 3</head>
+                <p>(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung erläßt die für das Luftfahrt-Bundesamt zur Durchführung des Gesetzes erforderlichen allgemeinen Verwaltungsvorschriften.</p>
+                <p>(2)</p>
+            </div>
+            <div xml:id="d1372e113">
+                <head>§ 4</head>
+                <p>Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

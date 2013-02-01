@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000200008">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Entwicklung und Erprobung der Berufsausbildung in der Automatenwirtschaft</title>
+                <title type="short">AutomErprobV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>2008-01-08</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 6 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden als Beilage zum Bundesanzeiger veröffentlicht.<p>(+++ Textnachweis ab: 1.8.2008 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1016e32">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 6 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), der durch Artikel 232 Nr. 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:</p>
+            </div>
+            <div xml:id="d1016e42">
+                <head>§ 1</head>
+                <p>Abweichend von § 4 Abs. 3 des Berufsbildungsgesetzes dürfen Jugendliche unter 18 Jahren nach den folgenden Vorschriften ausgebildet werden.</p>
+            </div>
+            <div xml:id="d1016e54">
+                <head>§ 2</head>
+                <p>Während der Ausbildung nach § 1 sollen zur Vorbereitung einer Ausbildungsordnung nach § 4 Abs. 1 des Berufsbildungsgesetzes insbesondere Ausbildungsinhalte und Struktur des neuen Ausbildungsberufes Fachkraft für Automatenservice und des darauf aufbauenden Ausbildungsberufes Automatenfachmann/Automatenfachfrau auf die Möglichkeiten ihrer Vermittlung in den Ausbildungsbetrieben erprobt werden.</p>
+            </div>
+            <div xml:id="d1016e66">
+                <head>§ 3</head>
+                <p>Aus Vertretern der beteiligten Bundesministerien, des Bundesinstituts für Berufsbildung, der Ständigen Konferenz der Kultusminister der Länder, des Deutschen Gewerkschaftsbundes und des Kuratoriums der Deutschen Wirtschaft für Berufsbildung ist ein Sachverständigenbeirat zur Beobachtung der Erprobung zu bilden. Dieser kann auch an der Vorbereitung einer Ausbildungsordnung nach § 4 Abs. 1 des Berufsbildungsgesetzes beteiligt werden.</p>
+            </div>
+            <div xml:id="d1016e78">
+                <head>§ 4</head>
+                <p>Die Ausbildung dauert im Ausbildungsberuf Fachkraft für Automatenservice zwei Jahre und im Ausbildungsberuf Automatenfachmann/Automatenfachfrau drei Jahre.</p>
+            </div>
+            <div xml:id="d1016e90">
+                <head>§ 5</head>
+                <p>(1) Gegenstand der Berufsausbildung für den Ausbildungsberuf Fachkraft für Automatenservice sind mindestens die im Ausbildungsrahmenplan (Anlage 1), für den Ausbildungsberuf Automatenfachmann/Automatenfachfrau die im Ausbildungsrahmenplan (Anlage 2) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.</p>(2) Die Berufsausbildung zur Fachkraft für Automatenservice gliedert sich wie folgt (Ausbildungsberufsbild):Abschnitt ABerufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:<list>
+                    <item n="1.">Automatenservice,</item>
+                    <item n="2.">Technische Kommunikation,</item>
+                    <item n="3.">Warenbewirtschaftung,</item>
+                    <item n="4.">Abrechnungen und Auswertungen von Automatenaufstellplätzen,</item>
+                    <item n="5.">Verkaufsförderung,</item>
+                    <item n="6.">Rechtliche Rahmenbedingungen für die Automatenwirtschaft;</item>
+                </list>Abschnitt BIntegrative Fertigkeiten, Kenntnisse und Fähigkeiten:<list>
+                    <item n="1.">Berufsbildung, Arbeits- und Tarifrecht,</item>
+                    <item n="2.">Aufbau und Organisation des Ausbildungsbetriebes,</item>
+                    <item n="3.">Sicherheit und Gesundheitsschutz bei der Arbeit,</item>
+                    <item n="4.">Umweltschutz,</item>
+                    <item n="5.">Arbeitsorganisation, Kommunikation, Qualitätssicherung.</item>
+                </list>(3) Die Berufsausbildung zum Automatenfachmann/zur Automatenfachfrau gliedert sich wie folgt (Ausbildungsberufsbild):Abschnitt ABerufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:<list>
+                    <item n="1.">Automatenservice,</item>
+                    <item n="2.">Technische Kommunikation,</item>
+                    <item n="3.">Warenbewirtschaftung,</item>
+                    <item n="4.">Abrechnungen und Auswertungen von Automatenaufstellplätzen,</item>
+                    <item n="5.">Verkaufsförderung,</item>
+                    <item n="6.">Rechtliche Rahmenbedingungen für die Automatenwirtschaft;</item>
+                </list>Abschnitt BWeitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in einer der Wahlqualifikationen<list>
+                    <item n="1.">Kaufmännische Geschäftsprozesse in der Automatenwirtschaft oder</item>
+                    <item n="2.">Installation und Inbetriebnahme von Automaten</item>
+                </list>sowie zwei der folgenden Wahlqualifikationen:<list>
+                    <item n="3.">Marketing,</item>
+                    <item n="4.">Personalwirtschaft,</item>
+                    <item n="5.">Instandhaltung von Automaten,</item>
+                    <item n="6.">Informations- und Kommunikationstechnik für Automaten;</item>
+                </list>Abschnitt CIntegrative Fertigkeiten, Kenntnisse und Fähigkeiten:<list>
+                    <item n="1.">Berufsbildung, Arbeits- und Tarifrecht,</item>
+                    <item n="2.">Aufbau und Organisation des Ausbildungsbetriebes,</item>
+                    <item n="3.">Sicherheit und Gesundheitsschutz bei der Arbeit,</item>
+                    <item n="4.">Umweltschutz,</item>
+                    <item n="5.">Arbeitsorganisation, Kommunikation, Qualitätssicherung,</item>
+                    <item n="6.">Unternehmerisches Handeln.</item>
+                </list>
+            </div>
+            <div xml:id="d1016e200">
+                <head>§ 6</head>
+                <p>(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 bis 11 nachzuweisen.</p>
+                <p>(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.</p>
+                <p>(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.</p>
+            </div>
+            <div xml:id="d1016e216">
+                <head>§ 7</head>
+                <p>(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zu Beginn des zweiten Ausbildungsjahres stattfinden.</p>
+                <p>(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 1 für das erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.</p>
+                <p>(3) Die Zwischenprüfung findet im Prüfungsbereich Servicearbeiten an Automaten statt.</p>
+                <p>(4) Für den Prüfungsbereich Servicearbeiten an Automaten bestehen folgende Vorgaben:</p>
+                <list>
+                    <item n="1.">Der Prüfling soll nachweisen, dass er Aufgabenstellungen aus den Gebieten Auslesen, Säubern, Entleeren, Auffüllen und Warten von Automaten lösen kann,</item>
+                    <item n="2.">der Prüfling soll schriftliche Aufgaben anhand praxisbezogener Fälle bearbeiten,</item>
+                    <item n="3.">die Prüfungszeit beträgt 90 Minuten.</item>
+                </list>
+            </div>
+            <div xml:id="d1016e241">
+                <head>§ 8</head>
+                <p>(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.</p>
+                <p>(2) Die Abschlussprüfung besteht aus den Prüfungsbereichen:</p>
+                <list>
+                    <item n="1.">Automatenbetreuung,</item>
+                    <item n="2.">Automatenbewirtschaftung,</item>
+                    <item n="3.">Kundenkommunikation,</item>
+                    <item n="4.">Wirtschafts- und Sozialkunde.</item>
+                </list>
+                <p>(3) Für den Prüfungsbereich Automatenbetreuung bestehen folgende Vorgaben:</p>
+                <list>
+                    <item n="1.">Der Prüfling soll nachweisen, dass er<list>
+                            <item n="a)">den Automatenservice kundenorientiert planen, durchführen, kontrollieren und dokumentieren,</item>
+                            <item n="b)">die Funktionsfähigkeit von Automaten überprüfen und sicherstellen,</item>
+                            <item n="c)">technische Kommunikationsmittel anwenden,</item>
+                            <item n="d)">Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz sowie rechtliche Rahmenbedingungen berücksichtigen</item>
+                        </list>kann;</item>
+                    <item n="2.">hierfür sind aus folgenden Tätigkeiten zwei auszuwählen, wobei der betriebliche Ausbildungsschwerpunkt zugrunde zu legen ist:<list>
+                            <item n="a)">Aufstellen und Anschließen betriebsfertiger Automaten,</item>
+                            <item n="b)">Auslesen, Befüllen und Entleeren,</item>
+                            <item n="c)">Warten und Reinigen von Automaten, einschließlich Austausch von Verschleißteilen,</item>
+                            <item n="d)">Fehlersuche und Beseitigung von Störungen;</item>
+                        </list>
+                    </item>
+                    <item n="3.">der Prüfling soll zwei Arbeitsproben durchführen;</item>
+                    <item n="4.">die Prüfungszeit beträgt 90 Minuten.</item>
+                </list>
+                <p>(4) Für den Prüfungsbereich Automatenbewirtschaftung bestehen folgende Vorgaben:</p>
+                <list>
+                    <item n="1.">Der Prüfling soll nachweisen, dass er<list>
+                            <item n="a)">Automatenabrechnungen und Kassenabschlüsse durchführen,</item>
+                            <item n="b)">Automateneinsatz unter wirtschaftlichen Kriterien bewerten und Optimierungsvorschläge entwickeln,</item>
+                            <item n="c)">Maßnahmen zur Kundenbindung und zur Kundengewinnung umsetzen,</item>
+                            <item n="d)">den Bedarf an Waren und Ersatzteilen ermitteln</item>
+                        </list>kann;</item>
+                    <item n="2.">der Prüfling soll schriftliche Aufgaben anhand praxisbezogener Fälle bearbeiten;</item>
+                    <item n="3.">die Prüfungszeit beträgt 90 Minuten.</item>
+                </list>
+                <p>(5) Für den Prüfungsbereich Kundenkommunikation bestehen folgende Vorgaben:</p>
+                <list>
+                    <item n="1.">Der Prüfling soll nachweisen, dass er<list>
+                            <item n="a)">die situationsgerechte Information und Beratung von Kunden darstellen,</item>
+                            <item n="b)">Möglichkeiten der Konfliktlösung aufzeigen,</item>
+                            <item n="c)">Reklamationen und Beschwerden bearbeiten</item>
+                        </list>kann;</item>
+                    <item n="2.">der Prüfling soll schriftliche Aufgaben anhand praxisbezogener Fälle bearbeiten;</item>
+                    <item n="3.">die Prüfungszeit beträgt 60 Minuten.</item>
+                </list>
+                <p>(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:</p>
+                <list>
+                    <item n="1.">Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;</item>
+                    <item n="2.">der Prüfling soll schriftliche Aufgaben bearbeiten;</item>
+                    <item n="3.">die Prüfungszeit beträgt 60 Minuten.</item>
+                </list>
+                <p>(7) Die Prüfungsbereiche sind wie folgt zu gewichten:</p>
+                <list>
+                    <item n="1.">Automatenbetreuung50 Prozent,</item>
+                    <item n="2.">Automatenbewirtschaftung20 Prozent,</item>
+                    <item n="3.">Kundenkommunikation20 Prozent,</item>
+                    <item n="4.">Wirtschafts- und Sozialkunde10 Prozent.</item>
+                </list>
+                <p>(8) Die Abschlussprüfung ist bestanden, wenn die Leistungen</p>
+                <list>
+                    <item n="1.">im Gesamtergebnis mit mindestens „ausreichend“,</item>
+                    <item n="2.">im Prüfungsbereich Automatenbewirtschaftung mit mindestens „ausreichend“,</item>
+                    <item n="3.">in mindestens zwei der übrigen Prüfungsbereiche mit mindestens „ausreichend“ und</item>
+                    <item n="4.">in keinem Prüfungsbereich mit „ungenügend“</item>
+                </list>
+                <p>bewertet worden sind.</p>
+                <p>(9) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als ausreichend bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2&#160;:&#160;1 zu gewichten.</p>
+            </div>
+            <div xml:id="d1016e373">
+                <head>§ 9</head>
+                <p>(1) Die Abschlussprüfung besteht aus den zeitlich auseinander fallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.</p>
+                <p>(2) Bei der Ermittlung des Gesamtergebnisses werden Teil 1 der Abschlussprüfung mit 40 Prozent und Teil 2 der Abschlussprüfung mit 60 Prozent gewichtet.</p>
+            </div>
+            <div xml:id="d1016e387">
+                <head>§ 10</head>
+                <p>(1) Teil 1 der Abschlussprüfung soll am Ende des zweiten Ausbildungsjahres stattfinden.</p>
+                <p>(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 2 für die ersten zwei Ausbildungsjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.</p>
+                <p>(3) Teil 1 der Abschlussprüfung besteht aus den Prüfungsbereichen:</p>
+                <list>
+                    <item n="1.">Automatenbetreuung,</item>
+                    <item n="2.">Automatenbewirtschaftung,</item>
+                    <item n="3.">Kundenkommunikation.</item>
+                </list>
+                <p>(4) Für den Prüfungsbereich Automatenbetreuung bestehen folgende Vorgaben:</p>
+                <list>
+                    <item n="1.">Der Prüfling soll nachweisen, dass er<list>
+                            <item n="a)">den Automatenservice kundenorientiert planen, durchführen, kontrollieren und dokumentieren,</item>
+                            <item n="b)">die Funktionsfähigkeit von Automaten überprüfen und sicherstellen,</item>
+                            <item n="c)">technische Kommunikationsmittel anwenden,</item>
+                            <item n="d)">Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz sowie rechtliche Rahmenbedingungen berücksichtigen</item>
+                        </list>kann;</item>
+                    <item n="2.">hierfür sind aus folgenden Tätigkeiten zwei auszuwählen, wobei der betriebliche Ausbildungsschwerpunkt zugrunde zu legen ist:<list>
+                            <item n="a)">Aufstellen und Anschließen betriebsfertiger Automaten,</item>
+                            <item n="b)">Auslesen, Befüllen und Entleeren,</item>
+                            <item n="c)">Warten und Reinigen von Automaten, einschließlich Austausch von Verschleißteilen,</item>
+                            <item n="d)">Fehlersuche und Beseitigung von Störungen;</item>
+                        </list>
+                    </item>
+                    <item n="3.">der Prüfling soll zwei Arbeitsproben durchführen;</item>
+                    <item n="4.">die Prüfungszeit beträgt insgesamt 90 Minuten.</item>
+                </list>
+                <p>(5) Für den Prüfungsbereich Automatenbewirtschaftung bestehen folgende Vorgaben:</p>
+                <list>
+                    <item n="1.">Der Prüfling soll nachweisen, dass er<list>
+                            <item n="a)">Automatenabrechnungen und Kassenabschlüsse durchführen,</item>
+                            <item n="b)">Automateneinsatz unter wirtschaftlichen Kriterien bewerten und Optimierungsvorschläge entwickeln,</item>
+                            <item n="c)">Maßnahmen zur Kundenbindung und zur Kundengewinnung umsetzen,</item>
+                            <item n="d)">den Bedarf an Waren und Ersatzteilen ermitteln</item>
+                        </list>kann;</item>
+                    <item n="2.">der Prüfling soll schriftliche Aufgaben anhand praxisbezogener Fälle bearbeiten;</item>
+                    <item n="3.">die Prüfungszeit beträgt 90 Minuten.</item>
+                </list>
+                <p>(6) Für den Prüfungsbereich Kundenkommunikation bestehen folgende Vorgaben:</p>
+                <list>
+                    <item n="1.">Der Prüfling soll nachweisen, dass er<list>
+                            <item n="a)">die situationsgerechte Information und Beratung von Kunden darstellen,</item>
+                            <item n="b)">Möglichkeiten der Konfliktlösung aufzeigen,</item>
+                            <item n="c)">Reklamationen und Beschwerden bearbeiten</item>
+                        </list>kann;</item>
+                    <item n="2.">der Prüfling soll schriftliche Aufgaben anhand praxisbezogener Fälle bearbeiten;</item>
+                    <item n="3.">die Prüfungszeit beträgt 60 Minuten.</item>
+                </list>
+            </div>
+            <div xml:id="d1016e476">
+                <head>§ 11</head>
+                <p>(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.</p>
+                <p>(2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:</p>
+                <list>
+                    <item n="1.">Automatenwirtschaft,</item>
+                    <item n="2.">Wirtschafts- und Sozialkunde.</item>
+                </list>
+                <p>(3) Für den Prüfungsbereich Automatenwirtschaft bestehen folgende Vorgaben:</p>
+                <list>
+                    <item n="1.">Der Prüfling soll nachweisen, dass er<list>
+                            <item n="a)">Arbeitsabläufe ziel- und kundenorientiert selbstständig planen,</item>
+                            <item n="b)">Arbeitsaufträge bearbeiten und Lösungen entwickeln,</item>
+                            <item n="c)">Arbeitsergebnisse qualitätsorientiert kontrollieren</item>
+                        </list>kann;</item>
+                    <item n="2.">hierfür ist unter Berücksichtigung der im Ausbildungsvertrag festgelegten Wahlqualifikationen aus folgenden Gebieten auszuwählen:<list>
+                            <item n="a)">Installieren und Reparieren von Automaten,</item>
+                            <item n="b)">Bearbeiten von kaufmännischen Geschäftsvorgängen;</item>
+                        </list>
+                    </item>
+                    <item n="3.">der Prüfling soll bis zu zwei Prüfungsprodukte erstellen und seine Arbeit mit branchenüblichen Unterlagen dokumentieren sowie eine schriftliche Arbeitsplanung durchführen;</item>
+                    <item n="4.">die Prüfungszeit beträgt insgesamt fünf Stunden.</item>
+                </list>
+                <p>(4) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:</p>
+                <list>
+                    <item n="1.">Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;</item>
+                    <item n="2.">der Prüfling soll schriftliche Aufgaben bearbeiten;</item>
+                    <item n="3.">die Prüfungszeit beträgt 60 Minuten.</item>
+                </list>
+            </div>
+            <div xml:id="d1016e528">
+                <head>§ 12</head>
+                <p>(1) Die Prüfungsbereiche sind wie folgt zu gewichten:</p>
+                <list>
+                    <item n="1.">Automatenbetreuung&#160;&#160;&#160;20 Prozent,</item>
+                    <item n="2.">Automatenbewirtschaftung&#160;&#160;&#160;10 Prozent,</item>
+                    <item n="3.">Kundenkommunikation&#160;&#160;&#160;10 Prozent,</item>
+                    <item n="4.">Automatenwirtschaft&#160;&#160;&#160;50 Prozent,</item>
+                    <item n="5.">Wirtschafts- und Sozialkunde&#160;&#160;&#160;10 Prozent.</item>
+                </list>
+                <p>(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen</p>
+                <list>
+                    <item n="1.">im Gesamtergebnis von Teil 1 und 2 der Abschlussprüfung mit mindestens „ausreichend“,</item>
+                    <item n="2.">im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,</item>
+                    <item n="3.">im Prüfungsbereich Automatenwirtschaft von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und</item>
+                    <item n="4.">in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“</item>
+                </list>
+                <p>bewertet worden sind.</p>
+                <p>(3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als ausreichend bewerteten Prüfungsbereiche in Teil 2 der Abschlussprüfung, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2&#160;:&#160;1 zu gewichten.</p>
+                <p>(4) Ist die Prüfung nach Absatz 2 nicht bestanden, erfüllen jedoch die Ergebnisse von Teil 1 der Abschlussprüfung und das Ergebnis im Prüfungsbereich Wirtschafts- und Sozialkunde nach § 11 Abs. 4 die Anforderungen nach § 8, so hat der Prüfling den Abschluss Fachkraft für Automatenservice erreicht.</p>
+            </div>
+            <div xml:id="d1016e577">
+                <head>§ 13</head>
+                <p>(1) Nach erfolgreichem Abschluss der Berufsausbildung zur Fachkraft für Automatenservice kann die Berufsausbildung im Ausbildungsberuf Automatenfachmann/Automatenfachfrau nach den Vorschriften des dritten Ausbildungsjahres fortgesetzt werden.</p>
+                <p>(2) Bei Fortsetzung der Berufsausbildung im dritten Ausbildungsjahr zum Automatenfachmann/zur Automatenfachfrau gelten die in der Abschlussprüfung im Ausbildungsberuf Fachkraft für Automatenservice erzielten Leistungen mit Ausnahmen der Leistungen im Prüfungsbereich Wirtschafts- und Sozialkunde als Teil 1 der Abschlussprüfung nach § 10.</p>
+            </div>
+            <div xml:id="d1016e591">
+                <head>§ 14</head>
+                <p>Diese Verordnung tritt am 1. August 2008 in Kraft und am 31. Juli 2013 außer Kraft.</p>
+            </div>
+            <div xml:id="d1016e603">
+                <head>Anlage 1</head>(Fundstelle: BGBl. I 2008, 7 - 10)<p>Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten</p>Lfd.Nr.Teil desAusbildungsberufsbildesZu vermittelndeFertigkeiten, Kenntnisse und FähigkeitenZeitliche Richtwertein Wochenim Ausbildungsjahr1212341Automatenservice(§ 5 Abs. 2 Abschnitt A Nr. 1)<list>
+                    <item n="a)">Automaten nach Aufbau, Funktion und Art ihrer Dienstleistung unterscheiden</item>
+                    <item n="b)">Zahlungssysteme unterscheiden, Zahlungsmittel übernehmen</item>
+                    <item n="c)">Waren übernehmen, auf Vollständigkeit, Vollzähligkeit und Unversehrtheit kontrollieren</item>
+                    <item n="d)">Füllstände prüfen, Automaten bedarfsgerecht befüllen und leeren</item>
+                    <item n="e)">Sicht- und Funktionskontrolle an Automaten durchführen</item>
+                    <item n="f)">Handbücher und Bedienungshinweise nutzen</item>
+                    <item n="g)">Reinigungs- und Wartungsarbeiten durchführen</item>
+                </list>18<list>
+                    <item n="h)">Störungen, Qualitätsmängel und deren Ursachen erkennen, vor Ort beheben und dokumentieren</item>
+                    <item n="i)">Maßnahmen zum Manipulationsschutz ergreifen</item>
+                    <item n="j)">Explosionszeichnungen, Funktions-, Aufbau- und Anschlusspläne sowie Blockschaltbilder lesen und anwenden</item>
+                    <item n="k)">Verschleißteile erneuern, mechanische Baugruppen und Bauteile austauschen</item>
+                    <item n="l)">betriebsfertige Automaten aufstellen und mit vorhandenen Anschlüssen verbinden</item>
+                    <item n="m)">Maßnahmen zur Verkehrssicherheit am Aufstellplatz der Automaten ergreifen</item>
+                    <item n="n)">Kunden die Funktion von Automaten erklären und sie in die Bedienung einweisen</item>
+                </list>192Technische Kommunikation(§ 5 Abs. 2 Abschnitt A Nr. 2)<list>
+                    <item n="a)">Informationssysteme nutzen, Software einsetzen, Peripheriegeräte anschließen, Daten eingeben, sichern und pflegen</item>
+                    <item n="b)">Regelungen zum Datenschutz und zur Datensicherheit einhalten</item>
+                </list>3<list>
+                    <item n="c)">digitale und analoge Prüf- und Messdaten lesen und auswerten</item>
+                    <item n="d)">Protokolle und Berichte anfertigen</item>
+                </list>43Warenbewirtschaftung(§ 5 Abs. 2 Abschnitt A Nr. 3)<list>
+                    <item n="a)">automatengerechte Produkte unterscheiden</item>
+                    <item n="b)">Bedarf an Waren und Ersatzteilen ermitteln und nach Verwendungszwecken zusammenstellen</item>
+                    <item n="c)">Warenbestände und Warenzustand prüfen, Ablauffristen berücksichtigen, Fehlbestände ergänzen</item>
+                    <item n="d)">Waren und Ersatzteile lagern, abrufen und rückführen</item>
+                </list>144Abrechnungen und Aus-wertungen von Automatenaufstellplätzen(§ 5 Abs. 2 Abschnitt A Nr. 4)<list>
+                    <item n="a)">Kassenbestände auslesen und dokumentieren, Zahlungsmittel prüfen, Soll-Ist-Vergleich durchführen</item>
+                </list>6<list>
+                    <item n="b)">Automatenabrechnungen und Kassenabschlüsse durchführen</item>
+                    <item n="c)">Geldbewegungen dokumentieren</item>
+                    <item n="d)">Statistiken und betriebliche Kennziffern auswerten</item>
+                    <item n="e)">Automateneinsätze bewerten, Nachkalkulationen durchführen, Schlussfolgerungen ableiten und Optimierungen vorschlagen</item>
+                </list>125Verkaufsförderung(§ 5 Abs. 2 Abschnitt A Nr. 5)<list>
+                    <item n="a)">Maßnahmen zur Kundenbindung und zur Kundengewinnung umsetzen</item>
+                    <item n="b)">über Leistungsangebote informieren, Kundenwünsche ermitteln</item>
+                    <item n="c)">Verbesserungen des Leistungsangebotes vorschlagen</item>
+                    <item n="d)">Informations- und Beratungsgespräche führen</item>
+                    <item n="e)">Beschwerden und Reklamationen entgegennehmen und bearbeiten</item>
+                    <item n="f)">Werbeaktionen umsetzen</item>
+                </list>106Rechtliche Rahmenbedingungen für die Automatenwirtschaft(§ 5 Abs. 2 Abschnitt A Nr. 6)<list>
+                    <item n="a)">Sicherheitsbestimmungen und Unfallverhütungsvorschriften umsetzen</item>
+                    <item n="b)">Einhaltung jugendschutzrechtlicher Bestimmungen kontrollieren</item>
+                    <item n="c)">Einhaltung hygienerechtlicher Bestimmungen kontrollieren</item>
+                    <item n="d)">datenschutzrechtliche Bestimmungen beachten</item>
+                </list>5<list>
+                    <item n="e)">gewerbe- und steuerrechtliche Vorschriften beachten</item>
+                    <item n="f)">bau-, straßen- und wegerechtliche Vorschriften bei der Automatenaufstellung einhalten</item>
+                </list>3<p>Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten</p>Lfd.Nr.Teil desAusbildungsberufsbildesZu vermittelndeFertigkeiten, Kenntnisse und FähigkeitenZeitliche Richtwertein Wochenim Ausbildungsjahr1212341Berufsbildung, Arbeits-und Tarifrecht(§ 5 Abs. 2 Abschnitt B Nr. 1)<list>
+                    <item n="a)">Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären</item>
+                    <item n="b)">gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen</item>
+                    <item n="c)">Möglichkeiten der beruflichen Fortbildung nennen</item>
+                    <item n="d)">wesentliche Teile des Arbeitsvertrages nennen</item>
+                    <item n="e)">wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen</item>
+                </list>währendder gesamtenAusbildungszeitzu vermitteln2Aufbau und Organisationdes Ausbildungsbetriebes(§ 5 Abs. 2 Abschnitt B Nr. 2)<list>
+                    <item n="a)">Aufbau und Aufgaben des ausbildenden Betriebes erläutern</item>
+                    <item n="b)">Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären</item>
+                    <item n="c)">Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen</item>
+                    <item n="d)">Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben</item>
+                </list>3Sicherheit und Gesundheitsschutz bei der Arbeit(§ 5 Abs. 2 Abschnitt B Nr. 3)<list>
+                    <item n="a)">Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen</item>
+                    <item n="b)">berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden</item>
+                    <item n="c)">Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten</item>
+                    <item n="d)">Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen</item>
+                </list>4Umweltschutz(§ 5 Abs. 2 Abschnitt B Nr. 4)Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere<list>
+                    <item n="a)">mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären</item>
+                    <item n="b)">für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden</item>
+                    <item n="c)">Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen</item>
+                    <item n="d)">Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen</item>
+                </list>5Arbeitsorganisation,Kommunikation,Qualitätssicherung(§ 5 Abs. 2 Abschnitt B Nr. 5)<list>
+                    <item n="a)">Aufgaben im Team planen und bearbeiten</item>
+                    <item n="b)">betriebliche Prozessabläufe beurteilen und planen</item>
+                    <item n="c)">Termine planen und kontrollieren</item>
+                    <item n="d)">Arbeitsvorgänge im eigenen Arbeitsbereich analysieren und Maßnahmen zur Verbesserung einleiten</item>
+                    <item n="e)">Fehler und Qualitätsmängel feststellen und Maßnahmen zu ihrer Beseitigung einleiten</item>
+                </list>6<list>
+                    <item n="f)">Ursachen von Fehlern und Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren</item>
+                    <item n="g)">Kommunikationstechniken anwenden</item>
+                    <item n="h)">Standardsoftware anwenden, Daten eingeben, sichern und pflegen</item>
+                    <item n="i)">fremdsprachige Fachbegriffe anwenden</item>
+                </list>4</div>
+            <div xml:id="d1016e1028">
+                <head>Anlage 2</head>(Fundstelle: BGBl. I 2008, 11 - 17)<p>Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten</p>Lfd.Nr.Teil desAusbildungsberufsbildesZu vermittelndeFertigkeiten, Kenntnisse und FähigkeitenZeitliche Richtwertein Wochenim Ausbildungsjahr12312341Automatenservice(§ 5 Abs. 3 Abschnitt A Nr. 1)<list>
+                    <item n="a)">Automaten nach Aufbau, Funktion und Art ihrer Dienstleistung unterscheiden</item>
+                    <item n="b)">Zahlungssysteme unterscheiden, Zahlungsmittel übernehmen</item>
+                    <item n="c)">Waren übernehmen, auf Vollständigkeit, Vollzähligkeit und Unversehrtheit kontrollieren</item>
+                    <item n="d)">Füllstände prüfen, Automaten bedarfsgerecht befüllen und leeren</item>
+                    <item n="e)">Sicht- und Funktionskontrolle an Automaten durchführen</item>
+                    <item n="f)">Handbücher und Bedienungshinweise nutzen</item>
+                    <item n="g)">Reinigungs- und Wartungsarbeiten durchführen</item>
+                </list>18<list>
+                    <item n="h)">Störungen, Qualitätsmängel und deren Ursachen erkennen, vor Ort beheben und dokumentieren</item>
+                    <item n="i)">Maßnahmen zum Manipulationsschutz ergreifen</item>
+                    <item n="j)">Explosionszeichnungen, Funktions-, Aufbau- und Anschlusspläne sowie Blockschaltbilder lesen und anwenden</item>
+                    <item n="k)">Verschleißteile erneuern, mechanische Baugruppen und Bauteile austauschen</item>
+                    <item n="l)">betriebsfertige Automaten aufstellen und mit vorhandenen Anschlüssen verbinden</item>
+                    <item n="m)">Maßnahmen zur Verkehrssicherheit am Aufstellplatz der Automaten ergreifen</item>
+                    <item n="n)">Kunden die Funktion von Automaten erklären und sie in die Bedienung einweisen</item>
+                </list>192Technische Kommunikation(§ 5 Abs. 3 Abschnitt A Nr. 2)<list>
+                    <item n="a)">Informationssysteme nutzen, Software einsetzen, Peripheriegeräte anschließen, Daten eingeben, sichern und pflegen</item>
+                    <item n="b)">Regelungen zum Datenschutz und zur Datensicherheit einhalten</item>
+                </list>3<list>
+                    <item n="c)">digitale und analoge Prüf- und Messdaten lesen und auswerten</item>
+                    <item n="d)">Protokolle und Berichte anfertigen</item>
+                </list>43Warenbewirtschaftung(§ 5 Abs. 3 Abschnitt A Nr. 3)<list>
+                    <item n="a)">automatengerechte Produkte unterscheiden</item>
+                    <item n="b)">Bedarf an Waren und Ersatzteilen ermitteln und nach Verwendungszwecken zusammenstellen</item>
+                    <item n="c)">Warenbestände und Warenzustand prüfen, Ablauffristen berücksichtigen, Fehlbestände ergänzen</item>
+                    <item n="d)">Waren und Ersatzteile lagern, abrufen und rückführen</item>
+                </list>144Abrechnungen undAuswertungen vonAutomatenaufstellplätzen(§ 5 Abs. 3 Abschnitt A Nr. 4)<list>
+                    <item n="a)">Kassenbestände auslesen und dokumentieren, Zahlungsmittel prüfen, Soll-Ist-Vergleich durchführen</item>
+                </list>6<list>
+                    <item n="b)">Automatenabrechnungen und Kassenabschlüsse durchführen</item>
+                    <item n="c)">Geldbewegungen dokumentieren</item>
+                    <item n="d)">Statistiken und betriebliche Kennziffern auswerten</item>
+                    <item n="e)">Automateneinsätze bewerten, Nachkalkulationen durchführen, Schlussfolgerungen ableiten und Optimierungen vorschlagen</item>
+                </list>125Verkaufsförderung(§ 5 Abs. 3 Abschnitt A Nr. 5)<list>
+                    <item n="a)">Maßnahmen zur Kundenbindung und zur Kundengewinnung umsetzen</item>
+                    <item n="b)">über Leistungsangebote informieren, Kundenwünsche ermitteln</item>
+                    <item n="c)">Verbesserungen des Leistungsangebotes vorschlagen</item>
+                    <item n="d)">Informations- und Beratungsgespräche führen</item>
+                    <item n="e)">Beschwerden und Reklamationen entgegennehmen und bearbeiten</item>
+                    <item n="f)">Werbeaktionen umsetzen</item>
+                </list>106RechtlicheRahmenbedingungen fürdie Automatenwirtschaft(§ 5 Abs. 3 Abschnitt A Nr. 6)<list>
+                    <item n="a)">Sicherheitsbestimmungen und Unfallverhütungsvorschriften umsetzen</item>
+                    <item n="b)">Einhaltung jugendschutzrechtlicher Bestimmungen kontrollieren</item>
+                    <item n="c)">Einhaltung hygienerechtlicher Bestimmungen kontrollieren</item>
+                    <item n="d)">datenschutzrechtliche Bestimmungen beachten</item>
+                </list>5<list>
+                    <item n="e)">gewerbe- und steuerrechtliche Vorschriften beachten</item>
+                    <item n="f)">bau-, straßen- und wegerechtliche Vorschriften bei der Automatenaufstellung einhalten</item>
+                </list>3<list>
+                    <item n="Abschnitt B:">Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in denWahlqualifikationen</item>
+                </list>Lfd.Nr.Teil desAusbildungsberufsbildesZu vermittelndeFertigkeiten, Kenntnisse und FähigkeitenZeitliche Richtwertein Wochenim Ausbildungsjahr12312341KaufmännischeGeschäftsprozesse inder Automatenwirtschaft(§ 5 Abs. 3 Abschnitt B Nr. 1)<list>
+                    <item n="a)">Preise kalkulieren und gestalten, Reparatur- und Serviceleistungen planen, anbieten und organisieren</item>
+                    <item n="b)">Standortkalkulationen erstellen, Standortinvestitionen planen</item>
+                    <item n="c)">Bonitätsprüfungen durchführen</item>
+                    <item n="d)">Finanzierungsarten auswählen, Finanzierungskosten ermitteln</item>
+                    <item n="e)">Verträge vorbereiten und allgemeine Geschäftsbedingungen anwenden</item>
+                    <item n="f)">Rechnungen erstellen, Vorgänge des Zahlungsverkehrs und des Mahnwesens bearbeiten</item>
+                    <item n="g)">Eingangsrechnungen bearbeiten</item>
+                    <item n="h)">Geschäftsvorgänge buchen</item>
+                    <item n="i)">Kosten und Erlöse ermitteln und analysieren, betriebliche Erfolgsrechnungen vorbereiten</item>
+                    <item n="j)">Statistiken erstellen und auswerten, Daten für kaufmännische Planungs-, Steuerungs- und Kontrollaufgaben aufbereiten</item>
+                    <item n="k)">vorbereitende Arbeiten für Abschlüsse durchführen</item>
+                </list>242Installation undInbetriebnahmevon Automaten(§ 5 Abs. 3 Abschnitt B Nr. 2)<list>
+                    <item n="a)">Bauteile und Werkstoffe, insbesondere aus Kunststoff und Metall, manuell und maschinell bearbeiten</item>
+                    <item n="b)">elektrische Betriebsmittel unter Beachtung ihrer mechanischen und elektrischen Sicherheit auswählen</item>
+                    <item n="c)">Automaten nachrüsten, demontieren und montieren, Funktionsfähigkeit herstellen, elektromagnetische Verträglichkeit beachten</item>
+                    <item n="d)">Schutz gegen direktes Berühren sicherstellen, mechanische und elektrische Sicherheitsvorrichtungen auf ihre Wirksamkeit prüfen</item>
+                    <item n="e)">Leitungen und deren Schutzeinrichtungen, insbesondere hinsichtlich Strombelastbarkeit beurteilen, Leitungen und Verlegesysteme auswählen und zurichten</item>
+                    <item n="f)">Messverfahren und Messgeräte auswählen und handhaben</item>
+                    <item n="g)">elektrische und mechanische Größen messen, prüfen und bewerten</item>
+                    <item n="h)">Steuerschaltungen aufbauen und ihre Funktion prüfen</item>
+                    <item n="i)">Sensoren und Aktoren prüfen und einstellen</item>
+                    <item n="j)">Baugruppen und Geräte mit unterschiedlichen Anschlusstechniken verbinden und konfigurieren</item>
+                    <item n="k)">Versorgungsanschlüsse, insbesondere zur Energieversorgung, einrichten und prüfen</item>
+                    <item n="l)">Schutz- und Potenzialausgleichsleiter prüfen und beurteilen</item>
+                    <item n="m)">Isolationswiderstände messen und beurteilen</item>
+                    <item n="n)">Schutzmaßnahmen gegen elektrischen Schlag ergreifen</item>
+                    <item n="o)">Schutzarten von elektrischen Geräten hinsichtlich der Umgebungsbedingungen beurteilen</item>
+                    <item n="p)">Automaten in Betrieb nehmen</item>
+                    <item n="q)">Funktionsfähigkeit und Betriebsbereitschaft von Automaten sicherstellen und dokumentieren</item>
+                    <item n="r)">Datenprotokolle interpretieren</item>
+                </list>243Marketing(§ 5 Abs. 3 Abschnitt B Nr. 3)<list>
+                    <item n="a)">Standort- und Marktanalysen durchführen</item>
+                    <item n="b)">Automaten nach Standortgesichtspunkten auswählen</item>
+                    <item n="c)">Maßnahmen zur Kundengewinnung und Kundenbindung entwickeln und umsetzen</item>
+                    <item n="d)">Vertriebsstrategien entwickeln, Vertriebswege auswählen</item>
+                    <item n="e)">Werbemaßnahmen einschließlich Erfolgskontrollen durchführen</item>
+                    <item n="f)">Presse- und Öffentlichkeitsarbeiten durchführen</item>
+                </list>134Personalwirtschaft(§ 5 Abs. 3 Abschnitt B Nr. 4)<list>
+                    <item n="a)">Personalplanung durchführen</item>
+                    <item n="b)">Instrumente der Personalbeschaffung und-auswahlanwenden</item>
+                    <item n="c)">Vorgänge der Personalverwaltung auch in Verbindung mit Beginn und Beendigung von Arbeitsverhältnissen unter Beachtung arbeits- und tarifrechtlicher Bestimmungen bearbeiten</item>
+                    <item n="d)">Personaleinsatz planen</item>
+                    <item n="e)">Personalentwicklungsmaßnahmen planen und umsetzen</item>
+                    <item n="f)">Entgeltabrechnungen vorbereiten</item>
+                </list>135Instandhaltungvon Automaten(§ 5 Abs. 3 Abschnitt B Nr. 5)<list>
+                    <item n="a)">mechatronische Verschleißteile austauschen</item>
+                    <item n="b)">Baugruppen und -teile demontieren, instand setzen und montieren</item>
+                    <item n="c)">Schaltungsunterlagen von Baugruppen und Geräten lesen und anwenden</item>
+                    <item n="d)">elektrische Pläne, Funktions-, Aufbau- und Anschlusspläne lesen und anwenden</item>
+                    <item n="e)">Bauteile austauschen und nacharbeiten</item>
+                    <item n="f)">systematische Fehlersuche durchführen</item>
+                    <item n="g)">Störungsursachen feststellen und analysieren, Störungen beseitigen</item>
+                    <item n="h)">Prüfarten, Prüfmittel und Prüfpläne auswählen und anwenden</item>
+                    <item n="i)">Diagnose- und Wartungssysteme nutzen</item>
+                    <item n="j)">mechatronische Systeme in Betrieb nehmen</item>
+                    <item n="k)">Funktionsprüfungen durchführen</item>
+                    <item n="l)">Systemparameter bei der Inbetriebnahme ermitteln, mit vorgegebenen Werten vergleichen und einstellen</item>
+                    <item n="m)">Instandhaltungsmaßnahmen dokumentieren</item>
+                </list>136Informations- undKommunikationstechnikfür Automaten(§ 5 Abs. 3 Abschnitt B Nr. 6)<list>
+                    <item n="a)">Softwarekomponenten auswählen, installieren, testen und anpassen</item>
+                    <item n="b)">Versionswechsel von Software durchführen</item>
+                    <item n="c)">Betriebssysteme und Anwendungsprogramme installieren und konfigurieren</item>
+                    <item n="d)">IT-Systeme in Netzwerke einbinden</item>
+                    <item n="e)">Datenübertragung und Netzwerke prüfen, Störungen beheben</item>
+                    <item n="f)">Testprogramme einsetzen, Hardwarekomponenten auswählen, prüfen und austauschen</item>
+                    <item n="g)">Kompatibilität von Hardwarekomponenten sowie Systemvoraussetzungen für Software prüfen</item>
+                    <item n="h)">digitale und analoge Prüf- und Messdaten ermitteln und auswerten</item>
+                    <item n="i)">Hard- und Softwareänderungen dokumentieren</item>
+                </list>13<p>Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten</p>Lfd. Nr.Teil desAusbildungsberufsbildesZu vermittelndeFertigkeiten, Kenntnisse und FähigkeitenZeitliche Richtwertein Wochenim Ausbildungsjahr12312341Berufsbildung,Arbeits- und Tarifrecht(§ 5 Abs. 3 Abschnitt C Nr. 1)<list>
+                    <item n="a)">Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären</item>
+                    <item n="b)">gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen</item>
+                    <item n="c)">Möglichkeiten der beruflichen Fortbildung nennen</item>
+                    <item n="d)">wesentliche Teile des Arbeitsvertrages nennen</item>
+                    <item n="e)">wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen</item>
+                </list>2Aufbau und Organisationdes Ausbildungsbetriebes(§ 5 Abs. 3 Abschnitt C Nr. 2)<list>
+                    <item n="a)">Aufbau und Aufgaben des ausbildenden Betriebes erläutern</item>
+                    <item n="b)">Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären</item>
+                    <item n="c)">Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen</item>
+                    <item n="d)">Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben</item>
+                </list>währendder gesamtenAusbildungszeitzu vermitteln3Sicherheit undGesundheitsschutzbei der Arbeit(§ 5 Abs. 3 Abschnitt C Nr. 3)<list>
+                    <item n="a)">Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen</item>
+                    <item n="b)">berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden</item>
+                    <item n="c)">Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten</item>
+                    <item n="d)">Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen</item>
+                </list>4Umweltschutz(§ 5 Abs. 3 Abschnitt C Nr. 4)Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere<list>
+                    <item n="a)">mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären</item>
+                    <item n="b)">für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden</item>
+                    <item n="c)">Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen</item>
+                    <item n="d)">Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden Entsorgung zuführen</item>
+                </list>5Arbeitsorganisation,Kommunikation,Qualitätssicherung(§ 5 Abs. 3 Abschnitt C Nr. 5)<list>
+                    <item n="a)">Aufgaben im Team planen und bearbeiten</item>
+                    <item n="b)">betriebliche Prozessabläufe beurteilen und planen</item>
+                    <item n="c)">Termine planen und kontrollieren</item>
+                    <item n="d)">Arbeitsvorgänge im eigenen Arbeitsbereich analysieren und Maßnahmen zur Verbesserung einleiten</item>
+                    <item n="e)">Fehler und Qualitätsmängel feststellen und Maßnahmen zu ihrer Beseitigung einleiten</item>
+                </list>6<list>
+                    <item n="f)">Ursachen von Fehlern und Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren</item>
+                    <item n="g)">Kommunikationstechniken anwenden</item>
+                    <item n="h)">Standardsoftware anwenden, Daten eingeben, sichern und pflegen</item>
+                    <item n="i)">fremdsprachige Fachbegriffe anwenden</item>
+                </list>46Unternehmerisches Handeln(§ 5 Abs. 3 Abschnitt C Nr. 6)<list>
+                    <item n="a)">Selbstständigkeit als Perspektive der Berufs- und Lebensplanung erläutern</item>
+                    <item n="b)">Voraussetzungen und Rahmenbedingungen, Chancen und Risiken unternehmerischen Handelns aufzeigen</item>
+                    <item n="c)">rechtliche und finanzielle Bedingungen für die Gründung eines Unternehmens erläutern, Rechtsformen unterscheiden</item>
+                </list>2</div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002880964">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung zu § 4 des Warenzeichengesetzes</title>
+                <title type="short">WZG§4EURATOMBek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1964-04-01</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 22.4.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1312e20">
+                <head>(XXXX)</head>
+                <p>Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der Fassung vom 9. Mai 1961 (Bundesgesetzbl. I S. 549, 574) wird bekanntgemacht, daß die in der Anlage wiedergegebenen Bezeichnungen der Europäischen Atomgemeinschaft (EURATOM) von der Eintragung als Warenzeichen ausgeschlossen sind.</p>
+            </div>
+            <div xml:id="d1312e31">
+                <head>Schlussformel</head>
+                <p>Der Bundesminister der Justiz</p>
+            </div>
+            <div xml:id="d1312e41">
+                <head>Anlage</head>
+                <list>
+                    <item n="1.">Kennzeichen:(Inhalt: Nicht darstellbares Kennzeichen,Fundstelle: BGBl. I 1964, 289)</item>
+                    <item n="2.">Siegel:(Inhalt: Nicht darstellbares Siegel,Fundstelle: BGBl. I 1964, 289)</item>
+                    <item n="3.">Sonstige Bezeichnungen:EUROPÄISCHE ATOMGEMEINSCHAFT (EURATOM) COMMUNAUTE EUROPEENNE DE L'ENERGIE ATOMIQUE (EURATOM) COMUNITA EUROPEA DELL'ENERGIA ATOMICA (EURATOM) EUROPESE GEMEENSCHAP VOOR ATOOMENERGIE (EURATOM) E A G C.E.E.A. E.G.A.</item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

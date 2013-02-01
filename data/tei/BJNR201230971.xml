@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR201230971">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abkommen zwischen dem Bundesminister für Wirtschaft der Bundesrepublik Deutschland und dem Minister van Economische Zaken der Niederlande über die gegenseitige Anrechnung von Beständen an Erdöl und Erdölerzeugnissen</title>
+                <title type="short">EÖlBAbk NLD</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1970-12-18</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Inkraft gem. Bek. v. 2.3.1971 II 122 mWv 18.12.1970</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

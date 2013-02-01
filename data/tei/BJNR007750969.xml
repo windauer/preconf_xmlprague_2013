@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR007750969">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Soldaten</title>
+                <title type="short">BPräsSoldErnAnO</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1969-07-10</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 29.3.1972 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d309e23">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 4 Abs. 2 des Soldatengesetzes in der Fassung der Bekanntmachung vom 22. April 1969 (Bundesgesetzbl. I S. 313) ordne ich an:</p>
+            </div>
+            <div xml:id="d309e33">
+                <head>Art 1</head>
+                <p>(1) Ich behalte mir das Recht zur Ernennung und Entlassung der Offiziere vor, die der Besoldungsordnung B angehören.</p>
+                <p>(2) Im übrigen übertrage ich die Ausübung meiner Befugnisse dem Bundesminister der Verteidigung. Die Ausübung dieser Befugnisse kann auf andere Stellen übertragen werden. § 29 Abs. 5 des Wehrpflichtgesetzes bleibt unberührt.</p>
+                <p>(3) Für besondere Fälle behalte ich mir die Ernennung und Entlassung auch in den Fällen vor, in denen ich die Ausübung meiner Befugnisse übertragen habe.</p>
+            </div>
+            <div xml:id="d309e48">
+                <head>Art 2</head>
+                <p>Die zur Durchführung dieser Anordnung erforderlichen Bestimmungen erlassen die Bundesminister der Verteidigung und des Innern.</p>
+            </div>
+            <div xml:id="d309e58">
+                <head>Art 3</head>
+                <p>Diese Anordnung tritt am Tage nach ihrer Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

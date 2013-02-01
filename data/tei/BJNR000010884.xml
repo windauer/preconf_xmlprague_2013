@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000010884">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung, betreffend die Gebührenfreiheit in dem Verfahren vor dem Reichsgericht</title>
+                <title type="short">RGGebFrhV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1883-12-24</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d982e20">
+                <head>Eingangsformel</head>
+                <p>Wir ...verordnen im Namen des Reichs auf Grund des § 98 Absatz 3 des Gerichtskostengesetzes vom 18. Juni 1878 (Reichsgesetzbl. S. 141), nach erfolgter Zustimmung des Bundesrats, was folgt:</p>
+            </div>
+            <div xml:id="d982e33">
+                <head>§ 1</head>
+                <p>In dem Verfahren vor dem</p>Reichsgericht<p>sind von Zahlung der Gebühren befreit:</p>
+                <list>
+                    <item n="1.">öffentliche Armen-, Kranken-, Arbeits- und Besserungsanstalten, ferner Waisenhäuser und andere milde Stiftungen, insofern solche nicht einzelne Familien oder bestimmte Personen betreffen, oder in bloßen Studienstipendien bestehen;</item>
+                    <item n="2.">öffentliche Volksschulen;</item>
+                    <item n="3.">öffentliche gelehrte Anstalten und Schulen, Kirchen, Pfarreien, Kaplaneien, Vikarien und Küstereien, jedoch nur insoweit, als die Einnahmen derselben die etatsmäßige Ausgabe, einschließlich der Besoldung oder des statt dieser überlassenen Nießbrauchs, nicht übersteigen, und dieses durch ein Zeugnis der denselben vorgesetzten Staatsbehörden bescheinigt wird. Insoweit aber in Rechtsstreitigkeiten derselben solche Ansprüche, welche lediglich das zeitige Interesse derjenigen berühren, welchen die Nutzung des betreffenden Vermögens für ihre Person zusteht, zugleich mitverhandelt werden, haben letztere die auf ihren Teil verhältnismäßig fallenden Gebühren zu tragen.</item>
+                </list>
+            </div>
+            <div xml:id="d982e53">
+                <head>§ 2</head>
+                <p>Gegenwärtige Verordnung tritt mit dem Tage ihrer Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

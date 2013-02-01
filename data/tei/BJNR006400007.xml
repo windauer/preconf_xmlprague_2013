@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006400007">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung zu § 850c der Zivilprozessordnung</title>
+                <title type="short">PfändfreiGrBek 2007</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>2007-01-22</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 7.2.2007 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d154e24">
+                <head>(XXXX)</head>
+                <p>Auf Grund des § 850c Abs. 2a Satz 2 der Zivilprozessordnung, der durch Artikel 1 Nr. 4 Buchstabe c des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3638) eingefügt worden ist, wird bekannt gemacht:</p>
+                <p>Die unpfändbaren Beträge nach § 850c Abs. 1 und 2 Satz 2 der Zivilprozessordnung bleiben für den Zeitraum vom 1. Juli 2007 bis zum 30. Juni 2009 unverändert.</p>
+            </div>
+            <div xml:id="d154e36">
+                <head>Schlussformel</head>
+                <p>Die Bundesministerin der Justiz</p>
+            </div>
+        </body>
+    </text>
+</TEI>

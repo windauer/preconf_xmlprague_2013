@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR008170964">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung über die Stiftung der Truppenfahnen für die Bundeswehr</title>
+                <title type="short">BwFahnAnO</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1964-09-18</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 20.10.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d352e20">
+                <head>Eingangsformel</head>
+                <p>Als äußeres Zeichen gemeinsamer Pflichterfüllung im Dienst für Volk und Staat stifte ich für Bataillone und entsprechende Verbände Truppenfahnen in den Farben schwarz-rot-gold mit Bundesadler.</p>
+            </div>
+            <div xml:id="d352e30">
+                <head>§ 1</head>
+                <p>Die Truppenfahne ist die Bundesdienstflagge in quadratischer Form (100 x 100) aus schwerem Seidenstoff. Der Bundesadler ist gestickt. Das Fahnentuch ist mit schwarz-rot-goldener Kordel und goldenen Fransen eingefaßt.</p>
+            </div>
+            <div xml:id="d352e40">
+                <head>§ 2</head>
+                <p>(1) Das Fahnentuch ist an einem schwarzen Fahnenstock befestigt. Ein Metallring um den Fahnenstock trägt die Bezeichnung des Truppenteils.</p>
+                <p>(2) Die Spitze des Fahnenstocks ist ausgebildet als ein ovaler Eichenlaubkranz mit einem Eisernen Kreuz in der Mitte.</p>
+            </div>
+            <div xml:id="d352e52">
+                <head>§ 3</head>
+                <p>(1) Das mit schmalem Goldstreifen gefaßte Fahnenband in der Waffenfarbe des Truppenteils ist am Fahnenstock angebracht.</p>
+                <p>(2) Auf dem Fahnenband ist das Emblem der Teilstreitkraft und die Bezeichnung des jeweiligen Truppenteils eingestickt.</p>
+            </div>
+            <div xml:id="d352e64">
+                <head>§ 4</head>
+                <p>Der Bundesminister der Verteidigung wird ermächtigt, die zu dieser Anordnung erforderlichen Durchführungsbestimmungen zu erlassen.</p>
+            </div>
+            <div xml:id="d352e74">
+                <head>Schlußformel</head>
+                <p>Der BundespräsidentDer BundeskanzlerDer Bundesminister der Verteidigung</p>
+            </div>
+        </body>
+    </text>
+</TEI>

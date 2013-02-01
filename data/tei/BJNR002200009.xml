@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002200009">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Organisationserlass der Bundeskanzlerin</title>
+                <title type="short">BKOrgErl 2009</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>2008-12-19</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.1.2009 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1227e21">
+                <head>Eingangsformel</head>
+                <p>Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit Wirkung zum 1. Januar 2009 an:</p>
+            </div>
+            <div xml:id="d1227e31">
+                <head>I.</head>
+                <p>Dem Bundesministerium für Bildung und Forschung wird unter teilweiser Aufhebung der Organisationserlasse des Bundeskanzlers von Dezember 1972 (BAnz. Nr. 238 vom 20. Dezember 1972) – Abschnitt VII – und vom 27. Oktober 1998 (BGBl. I S. 3288) – Abschnitt IV – aus dem Geschäftsbereich des Beauftragten der Bundesregierung für Angelegenheiten der Kultur und Medien die Zuständigkeit für folgende Institute übertragen:</p>
+                <list>
+                    <item n="a)">Deutsches Bergbau-Museum, Bochum (DBM)</item>
+                    <item n="b)">Deutsches Museum, München (DM)</item>
+                    <item n="c)">Deutsches Schiffahrtmuseum, Bremerhaven (DSM)</item>
+                    <item n="d)">Germanisches Nationalmuseum, Nürnberg (GNM)</item>
+                    <item n="e)">Römisch-Germanisches Zentralmuseum, Mainz (RGZM)</item>
+                    <item n="f)">Zoologisches Forschungsmuseum Alexander Koenig, Bonn (ZFMK).</item>
+                </list>
+            </div>
+            <div xml:id="d1227e54">
+                <head>II.</head>
+                <p>Die Einzelheiten des Übergangs werden zwischen den beteiligten Mitgliedern der Bundesregierung geregelt und dem Chef des Bundeskanzleramtes mitgeteilt.</p>
+            </div>
+            <div xml:id="d1227e64">
+                <head>Schlussformel</head>
+                <p>Die Bundeskanzlerin</p>
+            </div>
+        </body>
+    </text>
+</TEI>

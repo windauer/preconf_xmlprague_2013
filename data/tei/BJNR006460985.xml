@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006460985">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Allgemeine Anordnung über die Vertretung bei Klagen aus dem Beamtenverhältnis im Bereich der Deutschen Bundesbahn</title>
+                <title type="short">BVetrDBAnO 1985</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1985-03-21</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 5.1985 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d159e20">
+                <head>I.</head>
+                <p>Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 27. Februar 1985 (BGBl. I S. 479) ordnen wir an:</p>
+                <list>
+                    <item n="1.">Zur gerichtlichen Vertretung der Deutschen Bundesbahn sind je innerhalb ihres Geschäftskreises die Bundesbahndirektionen, die Zentralstellen Absatz, Produktion, Technik, Rechnungswesen und Datenverarbeitung, die Bundesbahn-Zentralämter und das Bundesbahn-Sozialamt berufen. Dies gilt nicht für die Fälle, in denen dem Vorstand oder der Hauptverwaltung der Deutschen Bundesbahn die erste Entscheidung zusteht.</item>
+                    <item n="2.">Für die Geschäftsbereiche Bahnbus obliegt die gerichtliche Vertretung der Deutschen Bundesbahn den Bundesbahndirektionen, in deren Bezirk die Geschäftsbereiche Bahnbus ihren Sitz haben.</item>
+                </list>
+                <p>Wir behalten uns im Einzelfall die gerichtliche Vertretung der Deutschen Bundesbahn in den Fällen der Nummer 1 Satz 1 und der Nummer 2 dieser Allgemeinen Anordnung vor.</p>
+            </div>
+            <div xml:id="d159e36">
+                <head>II.</head>
+                <p>Diese Anordnung tritt am 1. Mai 1985 in Kraft.</p>
+            </div>
+            <div xml:id="d159e47">
+                <head>Schlußformel</head>
+                <p>Deutsche Bundesbahn</p>
+            </div>
+        </body>
+    </text>
+</TEI>

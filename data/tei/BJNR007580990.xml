@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR007580990">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erstes Gesetz zur Änderung des Heimgesetzes</title>
+                <title type="short">HeimGÄndG 1</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1990-04-23</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 8.1990 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d288e20">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d288e30">
+                <head>Art 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d288e41">
+                <head>Art 2</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d288e52">
+                <head>Art 3</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.</p>
+            </div>
+            <div xml:id="d288e64">
+                <head>Art 4</head>
+                <p>(1) Heimverhältnisse auf Grund von Verträgen, die vor dem Inkrafttreten des Gesetzes geschlossen worden sind, richten sich von diesem Zeitpunkt an nach dem neuen Recht.</p>
+                <p>(2) § 14 Abs. 3 Satz 2 ist nicht auf Leistungen auf Grund von Verträgen anzuwenden, die vor dem Inkrafttreten des Gesetzes abgeschlossen worden sind.</p>
+                <p>(3) § 14 Abs. 4 ist in bezug auf die Verzinsung nicht auf Heimverhältnisse anzuwenden, die vor dem Inkrafttreten des Gesetzes vereinbart worden sind, wenn der Ausschluß der Verzinsung ausdrücklich vereinbart worden ist.</p>
+            </div>
+            <div xml:id="d288e80">
+                <head>Art 5</head>
+                <p>Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden vierten Kalendermonats in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

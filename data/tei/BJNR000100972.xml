@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000100972">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung über die Bestimmung der zuständigen Stelle nach § 84 des Berufsbildungsgesetzes</title>
+                <title type="short">BBiG§84AnO 2</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1971-12-16</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 13. 1.1972 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d999e20">
+                <head>I.</head>
+                <p>Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August 1969 (Bundesgesetzbl. I S. 1112) in der Fassung des Änderungsgesetzes vom 12. März 1971 (Bundesgesetzbl. I S. 185) bestimme ich die</p>
+                <list>
+                    <item n="">Bundesmonopolverwaltung für Branntwein in Offenbach a.M.</item>
+                </list>
+                <p>zur zuständigen Stelle für die eigene Behörde.</p>
+            </div>
+            <div xml:id="d999e34">
+                <head>II.</head>
+                <p>Diese Anordnung tritt am Tag nach ihrer Verkündung in Kraft.</p>
+            </div>
+            <div xml:id="d999e44">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Wirtschaft und Finanzen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

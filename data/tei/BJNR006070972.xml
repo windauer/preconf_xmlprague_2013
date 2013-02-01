@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006070972">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung über die Ausprägung einer Bundesmünze im Nennwert von 10 Deutschen Mark (4. Motiv der Olympiamünze)</title>
+                <title type="short">OlympiaMünz4Bek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1972-04-18</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div xml:id="d133e17">
+                <head>(XXXX)</head>
+                <p>(1) Auf Grund des Gesetzes über die Ausprägung einer Olympiamünze vom 18. April 1969 (Bundesgesetzbl. I S. 305) wird aus Anlaß der Spiele der XX. Olympiade 1972 in München eine Bundesmünze im Nennwert von 10 Deutschen Mark (Olympiamünze) geprägt.</p>
+                <p>(2) Das 4. Motiv wird wie auch die anderen Motive von allen 4 Münzämtern zu gleichen Teilen geprägt. Die Auflage beträgt 20 Millionen Stück; die Ausgabe beginnt am 9. Mai 1972.</p>
+                <p>(3) Die Legierung besteht aus 625 Tausendteilen Feinsilber und aus 375 Tausendteilen Kupfer. Der Durchmesser beträgt 32,5 mm, das Gewicht 15,5 Gramm.</p>
+                <p>(4) Der Entwurf für das 4. Motiv stammt von Frau Doris Waschk-Balz, Hamburg.</p>
+                <p>(5) Die Bildseite zeigt aus der Vogelperspektive einen Teil der Sportstätten und der zeltartigen Überdachung des Olympischen Geländes in München. Die blockartig angeordnete Aufschrift lautet:</p>
+                <list>
+                    <item n="">OLYMPISCHE SPIELE MÜNCHEN 26.8.-10.9.1972.</item>
+                </list>
+                <p>(6) Auf der Wertseite ist der Adler - im Einklang mit der Gestaltung der Bildseite - in leicht asymmetrischer Form dargestellt. In dem Feld unterhalb des Adlers sind die schräg gestaffelte Aufschrift</p>
+                <list>
+                    <item n="">BUNDESREPUBLIK DEUTSCHLAND 10 DEUTSCHE MARK</item>
+                </list>
+                <p>und das jeweilige Münzzeichen untergebracht.</p>
+                <p>(7) Der glatte Münzrand ist mit der vertieften Inschrift</p>
+                <list>
+                    <item n="">CITIUS ALTIUS FORTIUS</item>
+                </list>
+                <p>und mit Ornamenten zwischen den Worten versehen.</p>
+                <p>(8) Dies wird namens der Bundesregierung bekanntgegeben.</p>
+            </div>
+            <div xml:id="d133e52">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Wirtschaft und Finanzen</p>
+            </div>
+            <div xml:id="d133e63">
+                <head>(XXXX)</head>
+                <p>(Inhalt: nicht darstellbare Abbildung)Fundstelle: BGBl I 1972, 607</p>
+            </div>
+        </body>
+    </text>
+</TEI>

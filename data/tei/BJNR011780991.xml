@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR011780991">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über anzeigepflichtige Tierseuchen</title>
+                <title type="short">TierSeuchAnzV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1991-05-23</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.6.1991 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d651e23">
+                <head>§ 1</head>
+                <p>Folgende Tierseuchen sind anzeigepflichtig:</p>
+                <list>
+                    <item n="1.">Affenpocken,</item>
+                    <item n="1a.">Afrikanische Pferdepest,</item>
+                    <item n="2.">Afrikanische Schweinepest,</item>
+                    <item n="2a.">Amerikanische Faulbrut,</item>
+                    <item n="3.">Ansteckende Blutarmut der Einhufer,</item>
+                    <item n="3a.">Ansteckende Blutarmut der Lachse,</item>
+                    <item n="4.">(weggefallen)</item>
+                    <item n="5.">Aujeszkysche Krankheit,</item>
+                    <item n="5a.">Befall mit dem Kleinen Bienenbeutenkäfer(Aethina tumida),</item>
+                    <item n="5b.">Befall mit der Tropilaelaps-Milbe,</item>
+                    <item n="6.">Beschälseuche der Pferde,</item>
+                    <item n="7.">Blauzungenkrankheit,</item>
+                    <item n="8.">Bovine Herpesvirus Typ 1-Infektion (alle Formen),</item>
+                    <item n="8a.">Bovine Virus Diarrhoe,</item>
+                    <item n="9.">Brucellose der Rinder, Schweine, Schafe und Ziegen,</item>
+                    <item n="9a.">Ebola-Virus-Infektion,</item>
+                    <item n="9b.">Epizootische Hämorrhagie der Hirsche,</item>
+                    <item n="9c.">Epizootische Hämatopoetische Nekrose,</item>
+                    <item n="9d.">Epizootisches Ulzeratives Syndrom,</item>
+                    <item n="10.">Enzootische Leukose der Rinder,</item>
+                    <item n="11.">Geflügelpest,</item>
+                    <item n="12.">Infektion mit Bonamia exitiosa,</item>
+                    <item n="12a.">Infektion mit Bonamia ostreae,</item>
+                    <item n="12b.">Infektion mit Marteilia refringens,</item>
+                    <item n="12c.">Infektion mit Microcytos mackini,</item>
+                    <item n="12d.">Infektion mit Perkinsus marinus,</item>
+                    <item n="12e.">Infektion mit dem West-Nil-Virus bei einem Vogel oder Pferd,</item>
+                    <item n="12f.">Infektiöse Epididymitis,</item>
+                    <item n="13.">Infektiöse Hämatopoetische Nekrose der Salmoniden,</item>
+                    <item n="14.">Koi Herpesvirus-Infektion der Karpfen,</item>
+                    <item n="15.">Lumpy-skin-Krankheit (Dermatitis nodularis),</item>
+                    <item n="16.">Lungenseuche der Rinder,</item>
+                    <item n="17.">Maul- und Klauenseuche,</item>
+                    <item n="18.">(weggefallen)</item>
+                    <item n="19.">Milzbrand,</item>
+                    <item n="20.">Newcastle-Krankheit,</item>
+                    <item n="20a.">Niedrigpathogene aviäre Influenza bei einem gehaltenen Vogel,</item>
+                    <item n="21.">Pest der kleinen Wiederkäuer,</item>
+                    <item n="21a.">Pferdeenzephalomyelitis (alle Formen),</item>
+                    <item n="22.">Pockenseuche der Schafe und Ziegen,</item>
+                    <item n="23.">(weggefallen)</item>
+                    <item n="24.">Rauschbrand,</item>
+                    <item n="25.">Rifttal-Fieber,</item>
+                    <item n="26.">Rinderpest,</item>
+                    <item n="27.">Rotz,</item>
+                    <item n="28.">Salmonellose der Rinder,</item>
+                    <item n="29.">Schweinepest,</item>
+                    <item n="30.">(weggefallen)</item>
+                    <item n="31.">(weggefallen)</item>
+                    <item n="32.">Stomatitis vesicularis,</item>
+                    <item n="32a.">Taura-Syndrom,</item>
+                    <item n="33.">Tollwut,</item>
+                    <item n="34.">Transmissible Spongiforme Enzephalopathie (alle Formen),</item>
+                    <item n="35.">Trichomonadenseuche der Rinder,</item>
+                    <item n="36.">Tuberkulose der Rinder (Mykobakterium bovis und Mykobakterium caprae),</item>
+                    <item n="37.">Vesikuläre Schweinekrankheit,</item>
+                    <item n="38.">Vibrionenseuche der Rinder,</item>
+                    <item n="39.">Virale Hämorrhagische Septikämie der Salmoniden,</item>
+                    <item n="40.">Weißpünktchenkrankheit der Krebstiere,</item>
+                    <item n="41.">Yellowhead Disease.</item>
+                </list>
+            </div>
+            <div xml:id="d651e165">
+                <head>§ 2</head>
+            </div>
+        </body>
+    </text>
+</TEI>

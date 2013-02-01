@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR012950968">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Änderung des Gesetzes über Rechte an eingetragenen Schiffen und Schiffsbauwerken, der Schiffsregisterordnung und des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung</title>
+                <title type="short">SchRGÄndG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1968-12-04</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.2.1969 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d734e20">
+                <head>Art 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d734e31">
+                <head>Art 2</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d734e42">
+                <head>Art 3</head>
+                <p>(1) Für im Bau befindliche und für fertiggestellte Schwimmdocks gelten die Vorschriften anderer als der in den Artikeln 1 und 2 genannten Gesetze, die Schiffsbauwerke betreffen, entsprechend, soweit sich aus dem Sinn dieser Vorschriften nichts anderes ergibt.</p>
+                <p>(2) Auf vermietete Schwimmdocks sind die Vorschriften, die vermietete eingetragene Schiffe betreffen, entsprechend anzuwenden. Dies gilt auch für Schwimmdocks, die nicht im Schiffsbauregister eingetragen sind.</p>
+            </div>
+            <div xml:id="d734e55">
+                <head>Art 4</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d734e66">
+                <head>Art 5</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d734e76">
+                <head>Art 6</head>
+                <p>Dieses Gesetz tritt mit dem Beginn des zweiten Kalendermonats nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

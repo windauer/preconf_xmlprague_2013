@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR001690951">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über die Errichtung der Verwaltungsbehörden der Kriegsopferversorgung</title>
+                <title type="short">KOVVwG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1951-03-12</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Das G gilt, mit Ausnahme des § 6, im Saarland gem. G v. 3.9.1958 ABl. d. Saarlandes S. 1227, iVm § 6 G v. 23.12.1956 101-2</p>
+            <p>(+++ Textnachweis Geltung ab: 30.7.1972 +++)(+++ Maßgaben aufgrund EinigVtr nicht mehr anzuwenden gem. Art. 109 Nr. 3 Buchst. i DBuchst. bb G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1166e28">
+                <head>§ 1</head>
+                <p>Die Versorgung der Kriegsopfer wird von Versorgungsämtern und Landesversorgungsämtern durchgeführt. Mehrere Länder können ein gemeinsames Landesversorgungsamt errichten.</p>
+            </div>
+            <div xml:id="d1166e39">
+                <head>§ 2</head>
+                <p>Nach Maßgabe des Bedürfnisses und der Zweckmäßigkeit sind von den Ländern im Rahmen der Versorgungsverwaltung zu errichten:</p>
+                <list>
+                    <item n="1.">orthopädische Versorgungsstellen und versorgungsärztliche Untersuchungsstellen;</item>
+                    <item n="2.">zur Durchführung der Heilbehandlung Versorgungskuranstalten, Versorgungsheilstätten für Tuberkulöse und Versorgungskrankenhäuser;</item>
+                    <item n="3.">Beschaffungsstellen für Heil- und Hilfsmittel sowie ein gemeinsames Prüfamt für Heil- und Hilfsmittel;</item>
+                    <item n="4.">Krankenbuchlager bei einzelnen Versorgungsämtern.</item>
+                </list>
+            </div>
+            <div xml:id="d1166e59">
+                <head>§ 3</head>
+                <p>Die Versorgungsämter und die nach § 2 zu errichtenden Stellen unterstehen den Landesversorgungsämtern; diese unterstehen den für die Kriegsopferversorgung zuständigen Obersten Landesbehörden.</p>
+            </div>
+            <div xml:id="d1166e69">
+                <head>§ 4</head>
+                <p>Die Beamten und Angestellten der Versorgungsverwaltung sollen für ihre Aufgabe besonders geeignet sein.</p>
+            </div>
+            <div xml:id="d1166e79">
+                <head>§ 5</head>
+                <p>(1)</p>
+                <p>(2) Die Bundesregierung erläßt mit Zustimmung des Bundesrates Verwaltungsvorschriften über die Errichtung und Einrichtung der Verwaltungsbehörden und der nach § 2 zu errichtenden Stellen.</p>
+            </div>
+            <div xml:id="d1166e92">
+                <head>§ 6</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1166e103">
+                <head>§ 7</head>
+                <p>Dem Land Berlin bleibt es vorbehalten, um seine Rechte nach § 91 des Bundesversorgungsgesetzes zu wahren, die unveränderte Anwendung dieses Gesetzes in Berlin durch Gesetz zu beschließen.</p>
+            </div>
+            <div xml:id="d1166e113">
+                <head>§ 7a</head>
+                <p>(1) Den Regierungen der Länder, in denen nur ein Versorgungsamt vorhanden ist, bleibt es überlassen, von der Errichtung von Landesversorgungsämtern als besonderen Verwaltungsbehörden abzusehen, wenn dadurch die Rechte des zu betreuenden Personenkreises und die Durchführung des Bundesversorgungsgesetzes nicht beeinträchtigt werden.</p>
+                <p>(2) Macht eine Landesregierung von der Möglichkeit, ein Landesversorgungsamt nicht zu errichten, Gebrauch, regelt sie durch Rechtsverordnung, welche Behörden die dem Landesversorgungsamt durch Bestimmungen des Bundes zugewiesenen Aufgaben wahrzunehmen haben; dabei kann sie auch die für die Kriegsopferversorgung zuständige oberste Landesbehörde mit diesen Aufgaben betrauen.</p>
+                <p>(3)</p>
+            </div>
+            <div xml:id="d1166e128">
+                <head>§ 8</head>
+                <p>Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

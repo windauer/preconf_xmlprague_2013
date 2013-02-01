@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR003170964">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Aufgaben des Amts für Wertpapierbereinigung</title>
+                <title type="short">WPapBerAV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1964-05-08</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 17.5.1964 +++)Diese Vorschrift gilt nicht in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anl. I Kap. IV Sachg. A Abschn. I Nr. 8 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 964</p>
+        </front>
+        <body>
+            <div xml:id="d1337e24">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 36 Nr. 1 des Wertpapierbereinigungsschlußgesetzes vom 28. Januar 1964 (Bundesgesetzbl. I S. 45) verordnet die Bundesregierung:</p>
+            </div>
+            <div xml:id="d1337e34">
+                <head>§ 1</head>
+                <p>Die dem Amt für Wertpapierbereinigung durch Gesetz oder Rechtsverordnung übertragenen Aufgaben sind vom 1. Juni 1964 an von dem Präsidenten des Bundesausgleichsamts wahrzunehmen.</p>
+            </div>
+            <div xml:id="d1337e44">
+                <head>§ 2</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 40 des Wertpapierbereinigungsschlußgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d1337e54">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

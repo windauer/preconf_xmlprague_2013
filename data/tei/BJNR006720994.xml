@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006720994">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zu dem Abkommen vom 29. Juli 1992 zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß und den Bau von Grenzabfertigungsanlagen für den neuen Grenzübergang im Raum Görlitz und Zgorzelec</title>
+                <title type="short">AutGAAPolAbkG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1994-01-07</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 16. 1.1994 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d193e20">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d193e30">
+                <head>Art 1</head>
+                <p>Dem in Warschau am 29. Juli 1992 unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß und den Bau von Grenzabfertigungsanlagen für den neuen Grenzübergang im Raum Görlitz und Zgorzelec sowie dem dazugehörigen Protokoll vom selben Tage wird zugestimmt. Das Abkommen und das Protokoll werden nachstehend veröffentlicht.</p>
+            </div>
+            <div xml:id="d193e40">
+                <head>Art 2</head>
+                <p>(1) Auf die in Artikel 9 Abs. 1 des Abkommens bezeichneten Umsätze findet deutsches Umsatzsteuerrecht Anwendung.</p>
+                <p>(2) Für die in Artikel 9 Abs. 2 Satz 1 des Abkommens genannten Waren werden außer Zöllen keine Eingangsabgaben erhoben. Dies gilt nicht bei der Einfuhr für die öffentlichen Bauverwaltungen.</p>
+                <p>(3) Die in Artikel 9 des Abkommens vorgesehenen steuerlichen Bestimmungen sind mit Wirkung vom 1. August 1992 anzuwenden.</p>
+            </div>
+            <div xml:id="d193e54">
+                <head>Art 3</head>
+                <p>(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.</p>
+                <p>(2) Der Tag, an dem das Abkommen nach seinem Artikel 12 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR008850956">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Änderung der Ersten Verordnung der britischen Militärregierung zur Ausführung des Gesetzes Nr. 59</title>
+                <title type="short">MRG59DV1ÄndV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1956-11-27</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d418e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des Artikels 78 Abs. 1 des Gesetzes Nr. 59 der britischen Militärregierung (Amtsblatt der Militärregierung Deutschland Britisches Kontrollgebiet S. 1169) in Verbindung mit Artikel 3 Abs. 2 und 6 des Dritten Teils des Vertrages zur Regelung aus Krieg und Besatzung entstandener Fragen (Bundesgesetzbl. 1955 II S. 301, 405) verordnet die Bundesregierung mit Zustimmung des Bundesrates:</p>
+            </div>
+            <div xml:id="d418e30">
+                <head>§ 1</head>
+                <p>§ 1 der Ersten Verordnung der britischen Militärregierung zur Ausführung des Gesetzes Nr. 59 (Amtsblatt der Militärregierung Deutschland - Britische Zone - Teil 6 B-5) wird durch folgenden Satz 2 ergänzt:</p>
+                <list>
+                    <item n="">Durch Anordnung der Landesjustizverwaltung können die Verhandlung und Entscheidung von Rückerstattungssachen dem Wiedergutmachungsamt bei einem Landgericht für den Bezirk mehrerer Landgerichte zugewiesen werden, soweit dies mit der vollen und beschleunigten Durchführung der Rückerstattungsmaßnahmen vereinbar ist.</item>
+                </list>
+            </div>
+            <div xml:id="d418e43">
+                <head>§ 2</head>
+                <p>Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

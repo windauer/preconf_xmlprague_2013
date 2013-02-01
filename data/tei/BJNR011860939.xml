@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR011860939">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verschollenheitsgesetz</title>
+                <title type="short">VerschG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1939-07-04</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1975 +++)(+++ Maßgaben aufgrund EinigVtr vgl. VerschG Anhang EV, teilweise nichtmehr anzuwenden +++)</p>
+        </front>
+        <body>
+            <div>
+                <head>Abschnitt I</head>
+                <head type="subtitle">Voraussetzungen der Todeserklärung.Lebens- und Todesvermutungen</head>
+                <div xml:id="d657e46">
+                    <head>§ 1</head>
+                    <p>(1) Verschollen ist, wessen Aufenthalt während längerer Zeit unbekannt ist, ohne daß Nachrichten darüber vorliegen, ob er in dieser Zeit noch gelebt hat oder gestorben ist, sofern nach den Umständen hierdurch ernstliche Zweifel an seinem Fortleben begründet werden.</p>
+                    <p>(2) Verschollen ist nicht, wessen Tod nach den Umständen nicht zweifelhaft ist.</p>
+                </div>
+                <div xml:id="d657e58">
+                    <head>§ 2</head>
+                    <p>Ein Verschollener kann unter den Voraussetzungen der §§ 3 bis 7 im Aufgebotsverfahren für tot erklärt werden.</p>
+                </div>
+                <div xml:id="d657e68">
+                    <head>§ 3</head>
+                    <p>(1) Die Todeserklärung ist zulässig, wenn seit dem Ende des Jahres, in dem der Verschollene nach den vorhandenen Nachrichten noch gelebt hat, zehn Jahre oder, wenn der Verschollene zur Zeit der Todeserklärung das achtzigste Lebensjahr vollendet hätte, fünf Jahre verstrichen sind.</p>
+                    <p>(2) Vor dem Ende des Jahres, in dem der Verschollene das fünfundzwanzigste Lebensjahr vollendet hätte, darf er nach Absatz 1 nicht für tot erklärt werden.</p>
+                </div>
+                <div xml:id="d657e80">
+                    <head>§ 4</head>
+                    <p>(1) Wer als Angehöriger einer bewaffneten Macht an einem Krieg oder einem kriegsähnlichen Unternehmen teilgenommen hat, während dieser Zeit im Gefahrgebiet vermißt worden und seitdem verschollen ist, kann für tot erklärt werden, wenn seit dem Ende des Jahres, in dem der Friede geschlossen oder der Krieg oder das kriegsähnliche Unternehmen ohne Friedensschluß tatsächlich beendigt ist, ein Jahr verstrichen ist.</p>
+                    <p>(2) Ist der Verschollene unter Umständen vermißt, die eine hohe Wahrscheinlichkeit seines Todes begründen, so wird die in Absatz 1 bestimmte Jahresfrist von dem Zeitpunkt ab berechnet, in dem er vermißt worden ist.</p>
+                    <p>(3) Den Angehörigen einer bewaffneten Macht steht gleich, wer sich bei ihr aufgehalten hat.</p>
+                </div>
+                <div xml:id="d657e94">
+                    <head>§ 5</head>
+                    <p>(1) Wer bei einer Fahrt auf See, insbesondere infolge Untergangs des Schiffes, verschollen ist, kann für tot erklärt werden, wenn seit dem Untergang des Schiffes oder dem sonstigen die Verschollenheit begründenden Ereignis sechs Monate verstrichen sind.</p>
+                    <p>(2) Ist der Untergang des Schiffes, der die Verschollenheit begründet haben soll, nicht feststellbar, so beginnt die Frist von sechs Monaten (Absatz 1) erst ein Jahr nach dem letzten Zeitpunkt, zu dem das Schiff nach den vorhandenen Nachrichten noch nicht untergegangen war; das Gericht kann diesen Zeitraum von einem Jahr bis auf drei Monate verkürzen, wenn nach anerkannter seemännischer Erfahrung wegen der Beschaffenheit und Ausrüstung des Schiffes, im Hinblick auf die Gewässer, durch welche die Fahrt führen sollte, oder aus sonstigen Gründen anzunehmen ist, daß das Schiff schon früher untergegangen ist.</p>
+                </div>
+                <div xml:id="d657e106">
+                    <head>§ 6</head>
+                    <p>Wer bei einem Flug, insbesondere infolge Zerstörung des Luftfahrzeugs, verschollen ist, kann für tot erklärt werden, wenn seit der Zerstörung des Luftfahrzeugs oder dem sonstigen die Verschollenheit begründenden Ereignis oder, wenn diese Ereignisse nicht feststellbar sind, seit dem letzten Zeitpunkt, zu dem der Verschollene nach den vorhandenen Nachrichten noch gelebt hat, drei Monate verstrichen sind.</p>
+                </div>
+                <div xml:id="d657e116">
+                    <head>§ 7</head>
+                    <p>Wer unter anderen als den in den §§ 4 bis 6 bezeichneten Umständen in eine Lebensgefahr gekommen und seitdem verschollen ist, kann für tot erklärt werden, wenn seit dem Zeitpunkt, in dem die Lebensgefahr beendigt ist oder ihr Ende nach den Umständen erwartet werden konnte, ein Jahr verstrichen ist.</p>
+                </div>
+                <div xml:id="d657e126">
+                    <head>§ 8</head>
+                    <p>Liegen bei einem Verschollenen die Voraussetzungen sowohl des § 4 als auch der §§ 5 oder 6 vor, so ist nur der § 4 anzuwenden.</p>
+                </div>
+                <div xml:id="d657e136">
+                    <head>§ 9</head>
+                    <p>(1) Die Todeserklärung begründet die Vermutung, daß der Verschollene in dem im Beschluß festgestellten Zeitpunkt gestorben ist. Dies gilt auch, wenn vor der Todeserklärung ein anderer Zeitpunkt im Sterberegister eingetragen ist.</p>
+                    <p>(2) Als Zeitpunkt des Todes ist der Zeitpunkt festzustellen, der nach dem Ergebnis der Ermittlungen der wahrscheinlichste ist.</p>
+                    <p>(3) Läßt sich ein solcher Zeitpunkt nicht angeben, so ist als Zeitpunkt des Todes festzustellen:</p>
+                    <list>
+                        <item n="">
+                            <list>
+                                <item n="a)">in den Fällen des § 3 das Ende des fünften Jahres oder, wenn der Verschollene das achtzigste Lebensjahr vollendet hätte, des dritten Jahres nach dem letzten Jahr, in dem der Verschollene den vorhandenen Nachrichten zufolge noch gelebt hat;</item>
+                                <item n="b)">in den Fällen des § 4 der Zeitpunkt, in dem der Verschollene vermißt worden ist;</item>
+                                <item n="c)">in den Fällen der §§ 5 und 6 der Zeitpunkt, in dem das Schiff untergegangen, das Luftfahrzeug zerstört oder das sonstige die Verschollenheit begründende Ereignis eingetreten oder - falls dies nicht feststellbar ist - der Verschollene zuerst vermißt worden ist;</item>
+                                <item n="d)">in den Fällen des § 7 der Beginn der Lebensgefahr.</item>
+                            </list>
+                        </item>
+                    </list>
+                    <p>(4) Ist die Todeszeit nur dem Tage nach festgestellt, so gilt das Ende des Tages als Zeitpunkt des Todes.</p>
+                </div>
+                <div xml:id="d657e165">
+                    <head>§ 10</head>
+                    <p>Solange ein Verschollener nicht für tot erklärt ist, wird vermutet, daß er bis zu dem in § 9 Abs. 3, 4 genannten Zeitpunkt weiter lebt oder gelebt hat.</p>
+                </div>
+                <div xml:id="d657e175">
+                    <head>§ 11</head>
+                    <p>Kann nicht bewiesen werden, daß von mehreren gestorbenen oder für tot erklärten Menschen der eine den anderen überlebt hat, so wird vermutet, daß sie gleichzeitig gestorben sind.</p>
+                </div>
+            </div>
+            <div>
+                <head>Abschnitt II</head>
+                <head type="subtitle">Zwischenstaatliches Recht</head>
+                <div xml:id="d657e199">
+                    <head>§ 12</head>
+                    <p>(1) Für Todeserklärungen und Verfahren bei Feststellung der Todeszeit sind die deutschen Gerichte zuständig, wenn der Verschollene oder der Verstorbene in dem letzten Zeitpunkt, in dem er nach den vorhandenen Nachrichten noch gelebt hat,</p>
+                    <list>
+                        <item n="1.">Deutscher war oder</item>
+                        <item n="2.">seinen gewöhnlichen Aufenthalt im Inland hatte.</item>
+                    </list>
+                    <p>(2) Die deutschen Gerichte sind auch dann zuständig, wenn ein berechtigtes Interesse an einer Todeserklärung oder Feststellung der Todeszeit durch sie besteht.</p>
+                    <p>(3) Die Zuständigkeit nach den Absätzen 1 und 2 ist nicht ausschließlich.</p>
+                </div>
+            </div>
+            <div>
+                <head>Abschnitt III</head>
+                <head type="subtitle">Verfahren bei Todeserklärungen</head>
+                <div xml:id="d657e233">
+                    <head>§ 13</head>
+                    <p>(1) Das Aufgebotsverfahren nach § 2 ist eine Angelegenheit der freiwilligen Gerichtsbarkeit.</p>
+                    <p>(2) Es gelten dafür die besonderen Vorschriften der §§ 14 bis 38.</p>
+                </div>
+                <div xml:id="d657e245">
+                    <head>§ 14</head>
+                    <p>Für das Aufgebotsverfahren sind die Amtsgerichte sachlich zuständig.</p>
+                </div>
+                <div xml:id="d657e255">
+                    <head>§ 15</head>
+                    <p>(1) Örtlich zuständig ist das Gericht, in dessen Bezirk der Verschollene seinen letzten inländischen Wohnsitz oder in Ermangelung eines inländischen Wohnsitzes seinen letzten gewöhnlichen Aufenthalt im Inland gehabt hat.</p>
+                    <p>(2) Ist die Verschollenheit durch den Untergang eines in einem deutschen Schiffsregister eingetragenen Schiffes begründet, so ist an Stelle des in Absatz 1 genannten Gerichts das Gericht des Heimathafens oder Heimatortes zuständig. Dieses Gericht kann jedoch die Sache aus wichtigem Grund an ein anderes Gericht abgeben.</p>
+                </div>
+                <div xml:id="d657e267">
+                    <head>§ 15a</head>
+                    <p>(1) Ist ein Gerichtsstand nach § 15 nicht begründet oder wird am Sitz des nach § 15 zuständigen Gerichts eine deutsche Gerichtsbarkeit nicht mehr ausgeübt, so ist das Gericht zuständig, in dessen Bezirk der erste Antragsteller seinen Wohnsitz oder in Ermangelung eines Wohnsitzes im Geltungsbereich dieses Gesetzes seinen gewöhnlichen Aufenthalt hat.</p>
+                    <p>(2) Ein Gericht soll auf Grund des Absatzes 1 nur tätig werden, wenn es dem Amtsgericht Berlin-Schöneberg seine Absicht angezeigt hat, ein Verfahren nach diesem Gesetz durchzuführen, und das Amtsgericht Berlin-Schöneberg bestätigt hat, daß eine frühere Anzeige gleichen Inhalts von einem anderen Gericht bei ihm nicht eingegangen ist.</p>
+                </div>
+                <div xml:id="d657e279">
+                    <head>§ 15b</head>
+                    <p>Ist ein Gerichtsstand nach §§ 15, 15a nicht begründet, so ist das Amtsgericht Berlin-Schöneberg zuständig. Dieses Gericht kann die Sache aus wichtigem Grund an ein anderes Gericht abgeben.</p>
+                </div>
+                <div xml:id="d657e289">
+                    <head>§ 15c</head>
+                    <p>Gibt ein Gericht auf Grund der Vorschriften dieses Gesetzes oder ein außerhalb des Geltungsbereichs dieses Gesetzes bestehendes Gericht auf Grund der dort geltenden Vorschriften eine Sache an ein anderes Gericht ab, so ist die Abgabeverfügung für das andere Gericht bindend.</p>
+                </div>
+                <div xml:id="d657e299">
+                    <head>§ 15d</head>
+                    <p>Ist anzunehmen, daß mehrere Personen infolge desselben Ereignisses verschollen sind, so kann der Bundesminister der Justiz das für alle Todeserklärungen zuständige Gericht bestimmen. Ist der Antrag bei einem hiernach nicht zuständigen Gericht gestellt, so ist er an das zuständige Gericht abzugeben.</p>
+                </div>
+                <div xml:id="d657e309">
+                    <head>§ 16</head>
+                    <p>(1) Das Aufgebotsverfahren wird nur auf Antrag eingeleitet.</p>
+                    <p>(2) Den Antrag können stellen:</p>
+                    <list>
+                        <item n="a)">der Staatsanwalt;</item>
+                        <item n="b)">der gesetzliche Vertreter des Verschollenen;</item>
+                        <item n="c)">der Ehegatte, der Lebenspartner, die Abkömmlinge und die Eltern des Verschollenen sowie jeder andere, der ein rechtliches Interesse an der Todeserklärung hat.</item>
+                    </list>
+                    <p>(3) Der Inhaber der elterlichen Sorge, Vormund oder Pfleger kann den Antrag nur mit Genehmigung des Familiengerichts, der Betreuer nur mit Genehmigung des Betreuungsgerichts stellen.</p>
+                    <p>(4) (weggefallen)</p>
+                </div>
+                <div xml:id="d657e333">
+                    <head>§ 17</head>
+                    <p>Jeder Antragsberechtigte kann neben dem Antragsteller oder an dessen Stelle in das Verfahren eintreten. Durch den Eintritt erlangt er die rechtliche Stellung eines Antragstellers. Der Eintritt ist auch zur Einlegung eines Rechtsmittels zulässig.</p>
+                </div>
+                <div xml:id="d657e344">
+                    <head>§ 18</head>
+                    <p>Vor der Einleitung des Verfahrens hat der Antragsteller die zur Begründung des Antrags erforderlichen Tatsachen glaubhaft zu machen.</p>
+                </div>
+                <div xml:id="d657e354">
+                    <head>§ 19</head>
+                    <p>(1) Ist der Antrag zulässig, so hat das Gericht das Aufgebot zu erlassen.</p>
+                    <p>(2) In das Aufgebot ist insbesondere aufzunehmen:</p>
+                    <list>
+                        <item n="">
+                            <list>
+                                <item n="a)">die Bezeichnung des Antragstellers;</item>
+                                <item n="b)">die Aufforderung an den Verschollenen, sich bis zu einem bestimmten Zeitpunkt zu melden, widrigenfalls er für tot erklärt werden könne;</item>
+                                <item n="c)">die Aufforderung an alle, die Auskunft über den Verschollenen geben können, dem Gericht bis zu dem nach Buchstabe b bestimmten Zeitpunkt Anzeige zu machen.</item>
+                            </list>
+                        </item>
+                    </list>
+                </div>
+                <div xml:id="d657e375">
+                    <head>§ 20</head>
+                    <p>(1) Das Aufgebot muß durch eine Tageszeitung öffentlich bekanntgemacht werden. Das Gericht kann abweichend anordnen, daß eine einmalige Einrückung in den Bundesanzeiger erfolgt, wenn dies dem Zweck des Aufgebots dienlich ist.</p>
+                    <p>(2) Das Gericht kann anordnen, daß das Aufgebot daneben in anderer Weise, insbesondere durch Rundfunk, öffentlich bekanntgemacht wird. Das Aufgebot soll an die Gerichtstafel angeheftet werden.</p>
+                </div>
+                <div xml:id="d657e388">
+                    <head>§ 21</head>
+                    <p>(1) Zwischen dem Tage an dem das Aufgebot zum ersten Mal durch eine Tageszeitung oder den Bundesanzeiger öffentlich bekanntgemacht ist, und dem nach § 19 Abs. 2 Buchstabe b bestimmten Zeitpunkt muß eine Frist (Aufgebotsfrist) von mindestens sechs Wochen liegen.</p>
+                    <p>(2) Die Aufgebotsfrist soll, wenn nicht besondere Gründe vorliegen, nicht mehr als ein Jahr betragen.</p>
+                    <p>(3) Ist das Aufgebot öffentlich bekanntgemacht, so kann die Aufgebotsfrist nicht mehr abgekürzt werden.</p>
+                </div>
+                <div xml:id="d657e403">
+                    <head>§ 22</head>
+                    <p>Vor der Bekanntmachung des Aufgebots ist in jedem Fall dem Staatsanwalt, vor der Entscheidung dem Antragsteller und dem Staatsanwalt Gelegenheit zur Äußerung zu geben.</p>
+                </div>
+                <div xml:id="d657e413">
+                    <head>§ 22a</head>
+                    <p>Ist der Tod des Verschollenen bereits im Sterberegister beurkundet worden und wird ein Aufgebotsverfahren zum Zwecke der Todeserklärung durchgeführt, so hat die Eintragung im Sterberegister für das Verfahren keine Beweiskraft.</p>
+                </div>
+                <div xml:id="d657e424">
+                    <head>§ 23</head>
+                    <p>In dem Beschluß, durch den der Verschollene für tot erklärt wird, ist der Zeitpunkt seines Todes nach § 9 Abs. 2, 3 festzustellen.</p>
+                </div>
+                <div xml:id="d657e434">
+                    <head>§ 24</head>
+                    <p>(1) Der Beschluß, durch den der Verschollene für tot erklärt wird, ist öffentlich bekanntzumachen. § 20 ist entsprechend anzuwenden.</p>
+                    <p>(2) Der Beschluß ist ferner dem Antragsteller und dem Staatsanwalt zuzustellen.</p>
+                    <p>(3) Die erste öffentliche Bekanntmachung gilt als Zustellung, auch soweit dieses Gesetz daneben eine besondere Zustellung vorschreibt. Die Zustellung gilt als am Ende des Tages bewirkt, an dem der Beschluß in der Tageszeitung oder im Bundesanzeiger öffentlich bekanntgemacht ist.</p>
+                </div>
+                <div xml:id="d657e449">
+                    <head>§ 25</head>
+                    <p>Der Beschluß, durch den die Todeserklärung abgelehnt wird, ist dem Antragsteller und dem Staatsanwalt zuzustellen.</p>
+                </div>
+                <div xml:id="d657e459">
+                    <head>§ 26</head>
+                    <p>(1) Gegen den Beschluß, durch den der Verschollene für tot erklärt wird, und gegen den Beschluß, durch den die Todeserklärung abgelehnt wird, ist die sofortige Beschwerde zulässig. Die Beschwerdefrist beträgt einen Monat.</p>
+                    <p>(2) Die Beschwerde steht zu</p>
+                    <list>
+                        <item n="">
+                            <list>
+                                <item n="a)">gegen den Beschluß, durch den der Verschollene für tot erklärt wird, dem Antragsteller und jedem, der an der Aufhebung der Todeserklärung oder an der Berichtigung des Zeitpunktes des Todes ein rechtliches Interesse hat;</item>
+                                <item n="b)">gegen den Beschluß, durch den die Todeserklärung abgelehnt wird, dem Antragsteller.</item>
+                            </list>
+                        </item>
+                    </list>
+                </div>
+                <div xml:id="d657e478">
+                    <head>§ 27</head>
+                    <p>Wird der Beschluß, durch den der Verschollene für tot erklärt wird, auf sofortige Beschwerde oder Rechtsbeschwerde aufgehoben und die Todeserklärung abgelehnt, so kann das Gericht anordnen, daß dieser Beschluß öffentlich bekanntgemacht wird; § 24 ist entsprechend anzuwenden.</p>
+                </div>
+                <div xml:id="d657e490">
+                    <head>§ 28</head>
+                    <p>(1) Beschlüsse, die auf Rechtsbeschwerde ergehen, sind dem Beschwerdeführer und dem Staatsanwalt zuzustellen, auch wenn sie nicht den in §§ 24 oder 25 bezeichneten Inhalt haben.</p>
+                    <p>(2) Bei Beschlüssen, die auf Rechtsbeschwerde ergehen, kann das Gericht von der Anwendung des § 24 Abs. 1 absehen, wenn die Todeserklärung bereits vom Amtsgericht oder vom Beschwerdegericht öffentlich bekanntgemacht worden war.</p>
+                </div>
+                <div xml:id="d657e503">
+                    <head>§ 29</head>
+                    <p>(1) Beschlüsse des Amtsgerichts, durch welche die Todeserklärung ausgesprochen wird, werden mit ihrer Rechtskraft wirksam.</p>
+                    <p>(2) (weggefallen)</p>
+                    <p>(3) Beschlüsse, die auf Rechtsbeschwerde ergehen, werden mit der letzten Zustellung wirksam; § 24 Abs. 3 bleibt unberührt.</p>
+                </div>
+                <div xml:id="d657e518">
+                    <head>§ 30</head>
+                    <p>(1) Hat der Verschollene die Todeserklärung überlebt, so kann er oder der Staatsanwalt ihre Aufhebung beantragen.</p>
+                    <p>(2) Der Antrag ist bei dem Amtsgericht zu stellen, bei dem das Aufgebotsverfahren anhängig gewesen oder an welches die Sache abgegeben worden ist.</p>
+                </div>
+                <div xml:id="d657e530">
+                    <head>§ 31</head>
+                    <p>(1) Für das Verfahren gelten die §§ 17 und 18.</p>
+                    <p>(2) Vor der Entscheidung ist den Antragsberechtigten und dem, der die Todeserklärung erwirkt hat, Gelegenheit zur Äußerung zu geben.</p>
+                </div>
+                <div xml:id="d657e542">
+                    <head>§ 32</head>
+                    <p>(1) Der Beschluß, durch den die Todeserklärung aufgehoben wird, ist in der gleichen Form öffentlich bekanntzumachen, in der die Todeserklärung bekanntgemacht worden ist. § 20 Abs. 2 ist entsprechend anzuwenden.</p>
+                    <p>(2) Der Beschluß, durch den die Aufhebung der Todeserklärung abgelehnt wird, ist dem Antragsteller und dem Staatsanwalt zuzustellen.</p>
+                </div>
+                <div xml:id="d657e554">
+                    <head>§ 33</head>
+                    <p>(1) Gegen den Beschluß, durch den die Todeserklärung aufgehoben wird, findet kein Rechtsmittel statt.</p>
+                    <p>(2) Gegen den Beschluß, durch den die Aufhebung der Todeserklärung abgelehnt wird, kann der Antragsteller die sofortige Beschwerde erheben.</p>
+                </div>
+                <div xml:id="d657e566">
+                    <head>§ 33a</head>
+                    <p>(1) Ist der Verschollene nicht in dem Zeitpunkt verstorben, der als Zeitpunkt des Todes festgestellt worden ist, so kann jeder, der ein rechtliches Interesse an der Feststellung einer anderen Todeszeit hat, die Änderung der Feststellung beantragen, wenn die Tatsache, aus der sich die Unrichtigkeit der Feststellung ergibt, ihm ohne sein Verschulden erst bekannt geworden ist, als er sie in dem Aufgebotsverfahren nicht mehr geltend machen konnte.</p>
+                    <p>(2) Der Antrag ist vor Ablauf einer Notfrist von einem Monat zu stellen. Die Frist beginnt mit dem Tag, an dem der Antragsberechtigte von der Tatsache Kenntnis erhalten hat, jedoch nicht vor Eintritt der Rechtskraft der Todeserklärung. Nach Ablauf von fünf Jahren, von dem Tag der Rechtskraft der Todeserklärung an gerechnet, ist der Antrag unstatthaft.</p>
+                    <p>(3) Für das Änderungsverfahren gelten §§ 17, 18, § 19 Abs. 1, Abs. 2 Buchstabe c, §§ 20, 21, 23 bis 29, § 30 Abs. 2, § 31 Abs. 2 entsprechend. Der Beschluß, durch den die Feststellung des Todes geändert wird, ist auch demjenigen zuzustellen, der die Todeserklärung erwirkt hat. Die Änderung soll auf dem Beschluß, durch den der Verschollene für tot erklärt worden ist, und auf dessen Ausfertigung vermerkt werden.</p>
+                </div>
+                <div xml:id="d657e580">
+                    <head>§ 34</head>
+                    <p>(1) Das Gericht kann in seiner Entscheidung einem am Verfahren Beteiligten oder vom Verfahren Betroffenen die Kosten des Verfahrens, einschließlich der zur zweckentsprechenden Durchführung des Verfahrens notwendigen außergerichtlichen Kosten anderer Beteiligter oder Betroffener, ganz oder teilweise auferlegen, die er durch grob fahrlässig aufgestellte unrichtige Behauptungen oder sonstiges grobes Verschulden veranlaßt hat. Vor dieser Entscheidung soll das Gericht, soweit tunlich, den hören, dem es die Kosten auferlegen will.</p>
+                    <p>(2) Vorbehaltlich des Absatzes 1 hat das Gericht in dem Beschluß, durch den der Verschollene für tot erklärt wird, auszusprechen, daß die Kosten des Verfahrens, einschließlich der notwendigen außergerichtlichen Kosten des Antragstellers oder Beschwerdeführers, dem Nachlaß zur Last fallen. Dies gilt nicht für die Kosten einer unbegründeten Beschwerde.</p>
+                    <p>(3) Wird die Todeserklärung gemäß den §§ 30 bis 33 aufgehoben, so kann das Gericht nach Absatz 1 auch über die Kosten entscheiden, die nach Absatz 2 dem Nachlaß zur Last gelegt sind.</p>
+                </div>
+                <div xml:id="d657e594">
+                    <head>§ 35</head>
+                    <p>(1) Die Kosten, über die nach § 34 entschieden ist, werden auf Antrag von dem Urkundsbeamten der Geschäftsstelle des Gerichts erster Instanz festgesetzt.</p>
+                    <p>(2) Zur Berücksichtigung eines Ansatzes genügt es, daß er glaubhaft gemacht wird.</p>
+                    <p>(3) Über Erinnerungen gegen den Festsetzungsbeschluß entscheidet das Gericht erster Instanz. Die Erinnerung ist binnen einer mit der Zustellung beginnenden Frist von zwei Wochen einzulegen. Die §§ 17 bis 19 und 49 bis 57 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit gelten entsprechend.</p>
+                </div>
+                <div xml:id="d657e609">
+                    <head>§ 36</head>
+                    <p>Die Entscheidungen des Gerichts über die Kosten nach §§ 34 oder 35 Abs. 3 können selbständig mit der sofortigen Beschwerde angefochten werden, sofern der Beschwerdegegenstand den Betrag von 50 Euro übersteigt.</p>
+                </div>
+                <div xml:id="d657e620">
+                    <head>§ 37</head>
+                    <p>(1) Ergeht nach der Kostenfestsetzung eine Entscheidung, die den Wert des Gegenstandes des Verfahrens festsetzt, so ist, falls diese Entscheidung von der Wertberechnung abweicht, die der Kostenfestsetzung zugrunde liegt, auf Antrag die Kostenfestsetzung entsprechend abzuändern; die §§ 35 und 36 sind entsprechend anzuwenden.</p>
+                    <p>(2) Wird eine Entscheidung über die Kosten abgeändert, so ist auf Antrag auszusprechen, daß die auf Grund der abgeänderten Entscheidung zuviel gezahlten Kosten zu erstatten sind.</p>
+                </div>
+                <div xml:id="d657e633">
+                    <head>§ 38</head>
+                    <p>Aus Kostenfestsetzungsbeschlüssen und aus Entscheidungen gemäß § 37 Abs. 2 findet die Zwangsvollstreckung nach den Vorschriften der Zivilprozeßordnung statt.</p>
+                </div>
+            </div>
+            <div>
+                <head>Abschnitt IV</head>
+                <head type="subtitle">Verfahren bei Feststellung der Todeszeit</head>
+                <div xml:id="d657e657">
+                    <head>§ 39</head>
+                    <p>Ist die Todeserklärung mit Rücksicht auf § 1 Abs. 2 unzulässig, eine Eintragung im Sterberegister aber nicht erfolgt, so kann beantragt werden, den Tod und den Zeitpunkt des Todes durch gerichtliche Entscheidung festzustellen. Wird der Antrag von dem Ehegatten gestellt, so steht eine Eintragung im Sterberegister der Feststellung nicht entgegen.</p>
+                </div>
+                <div xml:id="d657e668">
+                    <head>§ 40</head>
+                    <p>Auf das Verfahren sind § 13 Abs. 1, §§ 14 bis 17, 22, 22a, 24 bis 38 entsprechend anzuwenden; im übrigen gelten die besonderen Vorschriften der §§ 41 bis 44.</p>
+                </div>
+                <div xml:id="d657e678">
+                    <head>§ 41</head>
+                    <p>(1) Vor der Einleitung des Verfahrens hat der Antragsteller nachzuweisen, daß der Tod nach den Umständen nicht zweifelhaft ist, sofern dies nicht offenkundig ist.</p>
+                    <p>(2) Die übrigen zur Begründung des Antrags erforderlichen Tatsachen hat der Antragsteller glaubhaft zu machen.</p>
+                </div>
+                <div xml:id="d657e690">
+                    <head>§ 42</head>
+                    <p>(1) Ist der Antrag zulässig, so soll das Gericht eine öffentliche Aufforderung an alle, die über den Zeitpunkt des Todes Angaben machen können, erlassen, dies dem Gericht bis zu einem bestimmten Zeitpunkt anzuzeigen.</p>
+                    <p>(2) Von der öffentlichen Aufforderung kann das Gericht absehen, wenn dadurch nach den Umständen eine weitere Aufklärung des Sachverhalts nicht erwartet werden kann.</p>
+                </div>
+                <div xml:id="d657e702">
+                    <head>§ 43</head>
+                    <p>(1) Die öffentliche Aufforderung muß durch eine Tageszeitung öffentlich bekanntgemacht werden, sofern das Gericht nicht abweichend anordnet, daß eine einmalige Einrückung in den Bundesanzeiger erfolgt. Das Gericht kann anordnen, daß diese Aufforderung daneben in anderer Weise öffentlich bekanntgemacht wird. Es bestimmt nach freiem Ermessen die Frist, innerhalb deren die Anzeige zu machen ist.</p>
+                    <p>(2) Diese Frist soll nicht weniger als sechs Wochen und, wenn nicht besondere Gründe vorliegen, nicht mehr als sechs Monate betragen. Sie beginnt mit Ablauf des Tages, an dem die Aufforderung zum ersten Mal öffentlich bekanntgemacht ist.</p>
+                    <p>(3) Ist die Aufforderung öffentlich bekanntgemacht, so kann die Frist nicht mehr abgekürzt werden.</p>
+                </div>
+                <div xml:id="d657e717">
+                    <head>§ 44</head>
+                    <p>(1) Der Zeitpunkt des Todes ist den Grundsätzen des § 9 Abs. 2, 3 entsprechend festzustellen.</p>
+                    <p>(2) Der Beschluß begründet die Vermutung, daß der Tod in dem darin festgestellten Zeitpunkt eingetreten ist. § 9 Abs. 1 Satz 2, Abs. 4 gilt entsprechend.</p>
+                </div>
+                <div xml:id="d657e729">
+                    <head>§ 45</head>
+                    <p>(1) Ergeben die Ermittlungen, die in einem nach § 2 eingeleiteten Aufgebotsverfahren angestellt sind, daß der Tod nach den Umständen nicht zweifelhaft ist, so ist das Verfahren nach den §§ 39 bis 44 fortzusetzen.</p>
+                    <p>(2) Der Antrag auf Todeserklärung gilt in diesem Fall als Antrag auf Feststellung des Zeitpunktes des Todes. § 41 ist nicht anzuwenden.</p>
+                </div>
+            </div>
+            <div>
+                <head>Abschnitt V</head>
+                <head type="subtitle">Inkrafttreten, Übergangs- und Schlußvorschriften</head>
+                <div xml:id="d657e755">
+                    <head>§ 46</head>
+                    <p>(1) Dieses Gesetz tritt am 15. Juli 1939 in Kraft.</p>
+                    <p>(2) u. (3)</p>
+                </div>
+                <div xml:id="d657e768">
+                    <head>§ 47</head>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d657e778">
+                    <head>§ 48</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d657e789">
+                    <head>§ 49</head>
+                    <p>(1) Ist der Eintritt einer Rechtswirkung an den Erlaß des die Todeserklärung aussprechenden Urteils geknüpft, so tritt sie, wenn ein Verschollener nach diesem Gesetz für tot erklärt wird, mit dem Zeitpunkt ein, in dem die Todeserklärung wirksam wird.</p>
+                    <p>(2) Der Aufhebung einer Todeserklärung infolge einer Anfechtungsklage steht deren Aufhebung oder Änderung nach den §§ 30 bis 33a dieses Gesetzes gleich.</p>
+                </div>
+                <div xml:id="d657e801">
+                    <head>(XXXX) §§ 50 bis 52</head>
+                </div>
+                <div xml:id="d657e811">
+                    <head>(XXXX) §§ 53 und 54</head>
+                </div>
+            </div>
+            <div>
+                <head>Abschnitt VI</head>
+                <head type="subtitle"/>
+                <div xml:id="d657e835">
+                    <head>(XXXX) §§ 55 bis 58</head>
+                </div>
+                <div xml:id="d657e846">
+                    <head>Anhang EV</head>
+                    <p>Abschnitt IIIBundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:...<list>
+                            <item n="9.">Verschollenheitsgesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer 401-6, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 3 des Gesetzes vom 25. Juli 1986 (BGBl. I S. 1142), ... mit folgenden Maßgaben:<list>
+                                    <item n="a)">Die Vorschriften dieser Gesetze sind auf Verfahren, die vor dem Wirksamwerden des Beitritts in dem in Artikel 3 des Vertrags genannten Gebiet bereits eingeleitet sind, nicht anzuwenden. Solche Verfahren sind auf der Grundlage des bislang in dem in Artikel 3 des Vertrages genannten Gebiet geltenden Rechts abzuschließen.</item>
+                                    <item n="b)">Die Wirkung einer vor dem Wirksamwerden des Beitritts erfolgten Todeserklärung bestimmt sich nach dem bislang in dem in Artikel 3 des Vertrages genannten Gebiet geltenden Recht.</item>
+                                </list>
+                            </item>
+                        </list>
+                    </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

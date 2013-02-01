@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR008050964">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Viertes Gesetz zur Änderung des Zollgesetzes</title>
+                <title type="short">ZGÄndG 4 1964</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1964-09-09</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 20. 9.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d341e20">
+                <head/>
+            </div>
+            <div>
+                <head>Art 2</head>
+                <head type="subtitle"/>
+                <div xml:id="d341e45">
+                    <head>§ 1</head>
+                    <p>Der in der Anlage rot schraffierte Gebietsteil des Freihafens Hamburg - Freihafenteil Waltershof - wird in das Zollgebiet einbezogen.</p>
+                </div>
+                <div xml:id="d341e55">
+                    <head>§ 2</head>
+                    <p>Der Bundesminister der Finanzen wird ermächtigt, durch Rechtsverordnung das in der Anlage grün schraffierte Gebiet aus dem Zollgebiet auszuschließen und in den Freihafen Hamburg - Freihafenteil Waltershof - einzubeziehen, soweit es die wirtschaftliche Entwicklung erfordert.</p>
+                </div>
+            </div>
+            <div xml:id="d341e65">
+                <head/>
+                <p>Dieses Gesetz gilt nach § 12 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.</p>
+            </div>
+            <div>
+                <head>Art 4</head>
+                <head type="subtitle"/>
+                <div xml:id="d341e91">
+                    <head>Anlage</head>
+                    <p>(Fundstelle: BGBl. I 1964, 806)</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002800954">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung zu § 35 des Warenzeichengesetzes</title>
+                <title type="short">WZG§35SWEBek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1954-09-24</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1299e20">
+                <head>(XXXX)</head>
+                <p>Auf Grund des § 35 Abs. 3 Satz 2 des Warenzeichengesetzes in der Fassung vom 18. Juli 1953 (Bundesgesetzbl. I S. 645) wird gemäß einer Mitteilung der Königlich Schwedischen Regierung bekanntgemacht:</p>
+                <p>Deutsche Staatsangehörige, die ein Warenzeichen in Schweden anmelden, brauchen nicht den Nachweis zu erbringen, daß sie für das Zeichen in dem Staat, in dem sich ihre Niederlassung befindet, den Markenschutz nachgesucht und erhalten haben. Dies gilt nicht für Verbandszeichen gemäß § 17 des Warenzeichengesetzes.</p>
+            </div>
+            <div xml:id="d1299e32">
+                <head>Schlussformel</head>
+                <p>Der Bundesminister der Justiz</p>
+            </div>
+        </body>
+    </text>
+</TEI>

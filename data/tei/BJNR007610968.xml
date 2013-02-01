@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR007610968">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung des Präsidenten des Deutschen Bundestages über die Festsetzung einer Amtsbezeichnung</title>
+                <title type="short">BTPräsAmtsbezAnO</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1968-06-18</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 7.1968 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d290e20">
+                <head>(XXXX)</head>
+                <p>Auf Grund der mir am 29. März 1968 übertragenen Befugnis (Bundesgesetzbl. I S. 252) setze ich für den Leiter der Verwaltung des Deutschen Bundestages folgende Amtsbezeichnung fest:</p>
+                <list>
+                    <item n="">Direktor des Deutschen Bundestages.</item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

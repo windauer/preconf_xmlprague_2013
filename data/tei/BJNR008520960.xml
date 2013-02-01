@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR008520960">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten und Soldaten gegenüber den Angehörigen der Schweiz</title>
+                <title type="short">BeamtHaftCHEBek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1960-11-18</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d387e20">
+                <head>(XXXX)</head>
+                <p>Auf Grund des § 7 des Gesetzes über die Haftung des Reichs für seine Beamten vom 22. Mai 1910 (Reichsgesetzbl. S 798) wird bekanntgemacht, daß durch die Gesetzgebung der Schweizerischen Eidgenossenschaft die Gegenseitigkeit insoweit verbürgt ist, als die Amtspflichtverletzung nach dem 31. Dezember 1958 und nicht von einem Soldaten begangen worden ist.Der Bundesminister der Justiz</p>
+            </div>
+        </body>
+    </text>
+</TEI>

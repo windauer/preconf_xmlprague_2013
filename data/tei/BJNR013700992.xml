@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR013700992">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zehntes Gesetz zur Änderung des Luftverkehrsgesetzes</title>
+                <title type="short">LuftVGÄndG 10</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1992-07-23</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Art. 1 bis 6: Änderungs- und AufhebungsvorschriftenArt. 7: BAFlSBAÜbnG 96-3-1Art. 8 u. 9: ÄnderungsvorschriftenArt. 10: BekanntmachungserlaubnisArt. 11: Inkrafttreten</p>
+        </front>
+        <body>
+            <div xml:id="d786e29">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d786e39">
+                <head>(XXXX) Art 1 und 2</head>
+            </div>
+            <div xml:id="d786e49">
+                <head>Art 3</head>
+                <p>1.</p>
+                <list>
+                    <item n="2.">Die bis zum Zeitpunkt des Inkrafttretens dieses Gesetzes von der Bundesanstalt für Flugsicherung und dem Luftfahrt-Bundesamt auf der Grundlage des § 32 Abs. 3 Satz 3 des Luftverkehrsgesetzes ohne Zustimmung des Bundesrates erlassenen Rechtsverordnungen werden rückwirkend auf den Tag ihres jeweiligen Inkrafttretens in Kraft gesetzt. Diese Rechtsverordnungen können auf Grund der einschlägigen Ermächtigungen durch Rechtsverordnung geändert werden.</item>
+                </list>
+            </div>
+            <div xml:id="d786e63">
+                <head>(XXXX) Art 4 bis 6</head>
+            </div>
+            <div xml:id="d786e73">
+                <head>Art 7</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d786e86">
+                <head>(XXXX) Art 8 und 9</head>
+            </div>
+            <div xml:id="d786e96">
+                <head>Art 10</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d786e107">
+                <head>Art 11</head>
+                <p>(1) Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft, soweit in den Absätzen 2 bis 4 nichts anderes bestimmt ist.</p>(2) Die nachstehenden Vorschriften treten am 1. Januar 1993 in Kraft:1.<list>
+                    <item n="2.">Artikel 2, 4 bis 8.</item>
+                </list>
+                <p>(3) und (4)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

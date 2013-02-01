@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR011650937">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Ausbildung und Prüfung für den höheren vermessungstechnischen Verwaltungsdienst</title>
+                <title type="short">VermhDAusbV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1937-11-03</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Überschrift: Im Hinblick auf die geringe bundesrechtliche Bedeutung gem. § 3 Abs. 2 G v. 10.7.1958 114-2 nur mit der Überschrift aufgenommen</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

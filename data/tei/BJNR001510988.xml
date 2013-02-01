@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR001510988">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Gebäudereiniger-Handwerk</title>
+                <title type="short">GebrMstrV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1988-02-12</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.7.1988 +++)</p>
+        </front>
+        <body>
+            <div>
+                <head>1. Abschnitt</head>
+                <head type="subtitle">Berufsbild</head>
+                <div xml:id="d1147e41">
+                    <head>§ 1</head>
+                    <p>(1) Dem Gebäudereiniger-Handwerk sind folgende Tätigkeiten zuzurechnen:</p>
+                    <list>
+                        <item n="1.">Reinigung, pflegende und schützende Nachbehandlung von Außenbauteilen an Bauwerken,</item>
+                        <item n="2.">Reinigung, pflegende und schützende Behandlung von Innenbauteilen an Bauwerken aller Art, Gebäudeeinrichtungen, haustechnischen Anlagen sowie von Raumausstattungen und Verglasungen,</item>
+                        <item n="3.">Reinigung und Pflege von maschinellen Einrichtungen sowie Beseitigen von Produktionsrückständen,</item>
+                        <item n="4.">Reinigung und Pflege von Verkehrsmitteln und -einrichtungen sowie von Beleuchtungsanlagen,</item>
+                        <item n="5.">Reinigung von Verkehrs- und Freiflächen einschließlich der Durchführung des Winterdienstes,</item>
+                        <item n="6.">Durchführung von Dekontaminationsmaßnahmen,</item>
+                        <item n="7.">Durchführung von Desinfektions- und Schädlingsbekämpfungsmaßnahmen sowie von Arbeiten der Raumhygiene.</item>
+                    </list>
+                    <p>(2) Dem Gebäudereiniger-Handwerk sind folgende Kenntnisse und Fertigkeiten zuzurechnen:</p>
+                    <list>
+                        <item n="1.">Kenntnisse über Chemie, Biologie und Bauphysik,</item>
+                        <item n="2.">Kenntnisse über Biologie und Mikrobiologie hinsichtlich der Erkennung und Bewertung der Schädlinge sowie der Anwendungsmöglichkeiten der Desinfektions- und Schädlingsbekämpfungsmittel,</item>
+                        <item n="3.">Kenntnisse über Infektionen, Kontaminationen und Strahlungen,</item>
+                        <item n="4.">Kenntnisse der chemischen und biologischen Zusammenhänge und der Wirkungsweise der verwendeten Reinigungs-, Pflege-, Behandlungs-, Desinfektions- und Schädlingsbekämpfungsmittel,</item>
+                        <item n="5.">Kenntnisse von Art und Beschaffenheit sowie der chemischen und physikalischen Verhaltensweisen der zu bearbeitenden Bau- und Werkstoffe und ihrer Untergründe,</item>
+                        <item n="6.">Kenntnisse der Oberflächenveränderung und -verunreinigung durch chemische, physikalische und biologische Einflüsse,</item>
+                        <item n="7.">Kenntnisse der Hauptbestandteile, der Eigenschaften, der Anwendung und Lagerung von Reinigungs-, Pflege-, Behandlungs-, Desinfektions- und Schädlingsbekämpfungsmitteln,</item>
+                        <item n="8.">Kenntnisse der berufsbezogenen Geräte, Maschinen und Anlagen in Aufbau, Wirkungsweise, Betrieb, Wartung und Instandhaltung,</item>
+                        <item n="9.">Kenntnisse der Erstellung von Massenberechnungen und Abrechnungsverfahren,</item>
+                        <item n="10.">Kenntnisse der berufsbezogenen Vorschriften der Arbeitssicherheit und des Arbeitsschutzes,</item>
+                        <item n="11.">Kenntnisse der berufsbezogenen Vorschriften des Hygienerechts, insbesondere des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045), des Schulseuchengesetzes, der Richtlinien des Robert Koch-Instituts und der Deutschen Gesellschaft für Hygiene und Mikrobiologie sowie des Chemikalienrechts, insbesondere der Gefahrstoffverordnung, und der Schädlingsbekämpfung,</item>
+                        <item n="12.">Kenntnisse der berufsbezogenen Vorschriften des Umwelt-, insbesondere des Immissions- und Strahlenschutzes, der VDI- und VDE-Richtlinien, der berufsbezogenen DIN-Normen, der Verdingungsordnung für Bauleistungen, der Verdingungsordnung für Leistungen, des Standardleistungsbuchs, der Straßenverkehrsordnung und über Maßnahmen zur Abfallentsorgung,</item>
+                        <item n="13.">Aufmessen und Anfertigen von Skizzen sowie Lesen von Bauzeichnungen,</item>
+                        <item n="14.">Erstellen von Leistungsbeschreibungen und Organisationsplänen,</item>
+                        <item n="15.">Beurteilen der zu entfernenden Stoffe auf Gesundheitsgefährdung, Explosionsgefahr und Brennbarkeit,</item>
+                        <item n="16.">Beurteilen der Beschaffenheit der zu bearbeitenden Flächen und ihrer Untergründe, der Oberflächenveränderungen und -verunreinigungen,</item>
+                        <item n="17.">Bestimmen der Arbeitsmethoden und -verfahren,</item>
+                        <item n="18.">Bestimmen, Mischen und Zubereiten von Reinigungs-, Pflege- und Behandlungsmitteln,</item>
+                        <item n="19.">Kehren, Feucht- und Naßwischen, Waschen mit wäßrigen Lösungen und mit neutralen, alkalischen oder sauren Reinigern sowie Scheuern und Neutralisieren,</item>
+                        <item n="20.">Polieren, Entfetten, Entflecken und Beschichten von Bodenbelägen,</item>
+                        <item n="21.">Abziehen, Schleifen, Versiegeln,</item>
+                        <item n="22.">Imprägnieren, Immunisieren, Antistatisieren,</item>
+                        <item n="23.">Saugen, Bürsten, Schamponieren, Sprühextrahieren, Detachieren,</item>
+                        <item n="24.">Desinfizieren,</item>
+                        <item n="25.">Bekämpfen von Schädlingen,</item>
+                        <item n="26.">Entstauben mit Vakuumgeräten,</item>
+                        <item n="27.">Reinigen mit Hochdruckgeräten,</item>
+                        <item n="28.">Entfernen von Oxydationen, Verunreinigungen und Rückständen, Auftragen von Metallschutz- und Metallpflegemitteln,</item>
+                        <item n="29.">Entfernen und Beseitigen von Abfällen,</item>
+                        <item n="30.">Aufstellen, Verspannen, Bewegen, Sichern und Bedienen von Leitern, Arbeitsbühnen und Hubarbeitsbühnen,</item>
+                        <item n="31.">Bedienen und Warten berufsbezogener selbstfahrender Arbeitsmaschinen und sonstiger Geräte,</item>
+                        <item n="32.">Instandhalten der berufsbezogenen Werkzeuge, Geräte und Maschinen.</item>
+                    </list>
+                </div>
+            </div>
+            <div>
+                <head>2. Abschnitt</head>
+                <head type="subtitle">Prüfungsanforderungen in den Teilen I und II der Meisterprüfung</head>
+                <div xml:id="d1147e152">
+                    <head>§ 2</head>
+                    <p>(1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.</p>
+                    <p>(2) Die Anfertigung der Meisterprüfungsarbeit soll nicht länger als vier Arbeitstage, die Ausführung der Arbeitsprobe nicht länger als acht Stunden dauern.</p>
+                    <p>(3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.</p>
+                </div>
+                <div xml:id="d1147e171">
+                    <head>§ 3</head>
+                    <p>(1) Als Meisterprüfungsarbeit ist eine der nachstehend genannten Arbeiten auszuführen:</p>
+                    <list>
+                        <item n="1.">eine Bauschlußreinigung, bestehend aus:<list>
+                                <item n="a)">Reinigung der Verglasungen und Rahmen,</item>
+                                <item n="b)">Reinigung der Heizkörper und Beleuchtungen,</item>
+                                <item n="c)">Reinigung von zwei unterschiedlichen Fußböden oder Belagsarten mit anschließender Erstpflege oder Beschichtung,</item>
+                                <item n="d)">Reinigung der Flächen des eingebauten Mobiliars einschließlich der Möbelpflege,</item>
+                                <item n="e)">Reinigung der Naßzellen einschließlich der sanitären Einrichtungen;</item>
+                            </list>
+                        </item>
+                        <item n="2.">eine Grundreinigung einer Schule oder eines Verwaltungsgebäudes, bestehend aus:<list>
+                                <item n="a)">Reinigung der Verglasungen, Rahmen, Jalousien und Rolläden,</item>
+                                <item n="b)">Reinigung der Heizkörper und Beleuchtungen,</item>
+                                <item n="c)">Reinigung der Wand- und Deckenflächen,</item>
+                                <item n="d)">Reinigung und Pflege des Mobiliars, der Einbauschränke und der Tafeln,</item>
+                                <item n="e)">Reinigung eines elastischen Bodenbelags mit anschließender Erstpflege und Beschichtung sowie Grundreinigung eines textilen Bodenbelags mit Detachierung, Desinfizierung und Antistatisierung,</item>
+                                <item n="f)">Reinigung und Desinfizierung der Naßzellen einschließlich der sanitären Einrichtungen;</item>
+                            </list>
+                        </item>
+                        <item n="3.">eine Krankenhausreinigung, bestehend aus:<list>
+                                <item n="a)">Grundreinigung, Vorbereitung und Desinfizierung von Fußböden in Krankenzimmern,</item>
+                                <item n="b)">Reinigung und Desinfizierung des Mobiliars,</item>
+                                <item n="c)">Reinigung und Desinfizierung der Naßzellen einschließlich der sanitären Einrichtungen,</item>
+                                <item n="d)">Reinigung und Desinfizierung eines OP-Raumes, einer Dialyse- oder einer Intensivstation;</item>
+                            </list>
+                        </item>
+                        <item n="4.">eine Alten- und Pflegeheimreinigung, bestehend aus:<list>
+                                <item n="a)">Reinigung, Vorbereitung und Desinfizierung von Fußböden in Pflegezimmern,</item>
+                                <item n="b)">Reinigung und Desinfizierung des Mobiliars,</item>
+                                <item n="c)">Reinigung und Desinfizierung der Naßzellen einschließlich prophylaktischer Entwesungsmaßnahmen,</item>
+                                <item n="d)">Reinigung und Desinfizierung einer Stationsküche einschließlich prophylaktischer Entwesungsmaßnahmen,</item>
+                                <item n="e)">Reinigung und Desinfizierung eines Bereichs der physikalischen Therapie;</item>
+                            </list>
+                        </item>
+                        <item n="5.">eine Industriereinigung, bestehend aus:<list>
+                                <item n="a)">Entstaubung der Decken und Wände,</item>
+                                <item n="b)">Reinigung der Be- und Entlüftungsanlagen, Dunstabzugsanlagen, Kanäle, Rohre und Beleuchtungskörper,</item>
+                                <item n="c)">Reinigung von Maschinen und technischen Einrichtungen einschließlich der Laufbänder und Krananlagen,</item>
+                                <item n="d)">Reinigung stark verschmutzter oder verfetteter Fußböden,</item>
+                                <item n="e)">Reinigung von Industrieverglasungen,</item>
+                                <item n="f)">Vorbereitung von Entsorgungsarbeiten;</item>
+                            </list>
+                        </item>
+                        <item n="6.">eine Reinigung an Fassaden, bestehend aus:<list>
+                                <item n="a)">Aufstellen des für die Arbeiten erforderlichen Gerüsts von mindestens 8 m Höhe,</item>
+                                <item n="b)">Absichern und Schützen der angrenzenden Flächen und Nebenbauteile,</item>
+                                <item n="c)">Vorbereitung der zu bearbeitenden Flächen,</item>
+                                <item n="d)">Reinigung und Nachbehandlung der Flächen mit Strahlengeräten,</item>
+                                <item n="e)">Behandlung der sich von der Oberfläche unterscheidenden Nebenbauteile,</item>
+                                <item n="f)">Sicherung der Arbeitsstelle zum Schutz von Personen, Sachen und der Umwelt;</item>
+                            </list>
+                        </item>
+                        <item n="7.">eine Reinigung eines denkmalgeschützten Objekts, bestehend aus:<list>
+                                <item n="a)">Aufstellen des für die Arbeiten erforderlichen Gerüsts,</item>
+                                <item n="b)">Absichern und Schützen der angrenzenden Flächen und Nebenbauteile,</item>
+                                <item n="c)">Vorbereitung der zu bearbeitenden Flächen,</item>
+                                <item n="d)">Reinigung, Nachbehandlung und Pflege der Flächen,</item>
+                                <item n="e)">Behandlung der sich von der Oberfläche unterscheidenden Nebenbauteile,</item>
+                                <item n="f)">Durchführung von materialerhaltenden Maßnahmen und Neutralisierung von Umwelteinflüssen,</item>
+                                <item n="g)">Sicherung der Arbeitsstelle zum Schutz von Personen, Sachen und der Umwelt;</item>
+                            </list>
+                        </item>
+                        <item n="8.">eine Grundreinigung eines Fernreiseverkehrsmittels, bestehend aus:<list>
+                                <item n="a)">Reinigung und Pflege der Wand- und Deckenflächen,</item>
+                                <item n="b)">Reinigung der Verglasungen, Einrichtungen und Zugänge,</item>
+                                <item n="c)">Desinfizierung der Sitze, Kopfstützen und Handgriffe,</item>
+                                <item n="d)">Reinigung der elastischen Bodenbeläge einschließlich Erstpflege, Reinigung der Teppiche und textilen Bodenbeläge einschließlich Detachierung und Desinfizierung,</item>
+                                <item n="e)">Reinigung und Desinfizierung der sanitären Einrichtungen,</item>
+                                <item n="f)">Reinigung und Pflege der Außenflächen.</item>
+                            </list>
+                        </item>
+                    </list>
+                    <p>(2) Der Prüfling hat vor Ausführung der Meisterprüfungsarbeit dem Meisterprüfungsausschuß die Leistungsbeschreibung, den Arbeitsplan und die Vorkalkulation zur Genehmigung vorzulegen.</p>
+                    <p>(3) Leistungsbeschreibung, Arbeitsplan, Vor- und Nachkalkulation sowie Arbeitsbericht sind bei der Bewertung der Meisterprüfungsarbeit zu berücksichtigen.</p>
+                </div>
+                <div xml:id="d1147e302">
+                    <head>§ 4</head>
+                    <p>(1) Als Arbeitsprobe sind vier der nachstehend genannten Arbeiten auszuführen:</p>
+                    <list>
+                        <item n="1.">Grundreinigen und Beschichten eines nichttextilen Fußbodenbelags,</item>
+                        <item n="2.">Grundreinigen und Nachbehandeln eines textilen Fußbodenbelags,</item>
+                        <item n="3.">Schleifen, Versiegeln oder Heißwachsen eines Holzfußbodens,</item>
+                        <item n="4.">Reinigen, Pflegen und Desinfizieren von Gegenständen der Raumausstattung,</item>
+                        <item n="5.">Reinigen und Desinfizieren von sanitären Einrichtungen und Anlagen,</item>
+                        <item n="6.">Durchführen einer insektiziden oder rodentiziden Bekämpfungsmaßnahme,</item>
+                        <item n="7.">Reinigen von zwei verschiedenen Verglasungen einschließlich Rahmen,</item>
+                        <item n="8.">Reinigen eines Glasdachs, einer Staubdecke oder einer Industrieverglasung,</item>
+                        <item n="9.">Reinigen und Oberflächenbehandeln einer solartechnischen Anlage,</item>
+                        <item n="10.">Reinigen einer Beleuchtungsanlage, einer verkehrstechnischen Lichtzeichenanlage oder einer Hinweiseinrichtung,</item>
+                        <item n="11.">Reinigen und Nachbehandeln von Lichtschutz- und Wetterschutzanlagen,</item>
+                        <item n="12.">Reinigen und Oberflächenbehandeln eines Fassadenteils,</item>
+                        <item n="13.">Reinigen und Nachbehandeln einer Fläche an einem Denkmal,</item>
+                        <item n="14.">Reinigen einer Entlüftungs-, Klima- oder Dunstabzugsanlage,</item>
+                        <item n="15.">Reinigen und Desinfizieren der Sitze, Kopfstützen und Handgriffe oder der sanitären Einrichtungen eines Fernreiseverkehrsmittels,</item>
+                        <item n="16.">Reinigen einer Verkehrs- oder Freifläche.</item>
+                    </list>
+                    <p>(2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.</p>
+                </div>
+                <div xml:id="d1147e350">
+                    <head>§ 5</head>
+                    <p>(1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:</p>
+                    <list>
+                        <item n="1.">Auftragsbearbeitung:<list>
+                                <item n="a)">Auswerten von Bauzeichnungen,</item>
+                                <item n="b)">Erstellen von Massenberechnungen,</item>
+                                <item n="c)">Erstellen von Leistungsbeschreibungen, Organisationsplänen und Arbeitsskizzen,</item>
+                                <item n="d)">Aufstellen von Bedarfslisten für Personal, Maschinen, Geräte und Materialien,</item>
+                                <item n="e)">Abrechnen von Lohn und Gehalt;</item>
+                            </list>
+                        </item>
+                        <item n="2.">Kalkulation: Kostenermittlung unter Einbeziehung aller für die Preisbildung wesentlichen Faktoren, einschließlich der Berechnungen für die Angebots- und Nachkalkulation;</item>
+                        <item n="3.">Fachtechnologie:<list>
+                                <item n="a)">Chemie, Biologie, Mikrobiologie und Bauphysik,</item>
+                                <item n="b)">Art und Beschaffenheit sowie chemische und physikalische Verhaltensweisen der zu bearbeitenden Bau- und Werkstoffe und ihrer Untergründe,</item>
+                                <item n="c)">Oberflächenveränderung und -verunreinigung,</item>
+                                <item n="d)">Infektionen, Kontaminationen und Strahlungen,</item>
+                                <item n="e)">Geräte, Maschinen und Anlagen;</item>
+                            </list>
+                        </item>
+                        <item n="4.">Werkstoffkunde: Hauptbestandteile, Eigenschaften, Anwendung und Lagerung der Reinigungs-, Pflege-, Behandlungs-, Desinfektions- und Schädlingsbekämpfungsmittel;</item>
+                        <item n="5.">Schutzbestimmungen:<list>
+                                <item n="a)">berufsbezogene Vorschriften der Arbeitssicherheit und des Arbeitsschutzes,</item>
+                                <item n="b)">berufsbezogene Vorschriften des Hygienerechts, des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045), des Schulseuchengesetzes, der Richtlinien des Robert Koch-Instituts und der Deutschen Gesellschaft für Hygiene und Mikrobiologie sowie des Chemikalienrechts, insbesondere der Gefahrstoffverordnung, und der Schädlingsbekämpfung,</item>
+                                <item n="c)">berufsbezogene Vorschriften des Umwelt-, insbesondere des Immissions- und Strahlenschutzes, der VDI- und VDE-Richtlinien, der berufsbezogenen DIN-Normen, der Verdingungsordnung für Bauleistungen, der Verdingungsordnung für Leistungen, des Standardleistungsbuchs, der Straßenverkehrsordnung und über Maßnahmen zur Abfallentsorgung.</item>
+                            </list>
+                        </item>
+                    </list>
+                    <p>(2) Die Prüfung ist schriftlich und mündlich durchzuführen.</p>
+                    <p>(3) Die schriftliche Prüfung soll insgesamt nicht länger als 16 Stunden, die mündliche je Prüfling nicht länger als eine halbe Stunde dauern. In der schriftlichen Prüfung soll an einem Tag nicht länger als sechs Stunden geprüft werden.</p>
+                    <p>(4) Der Prüfling ist von der mündlichen Prüfung auf Antrag zu befreien, wenn er im Durchschnitt mindestens gute schriftliche Leistungen erbracht hat.</p>
+                    <p>(5) Mindestvoraussetzung für das Bestehen des Teils II sind jeweils ausreichende Leistungen in jedem der Prüfungsfächer nach Absatz 1 Nr. 1 und 3.</p>
+                </div>
+            </div>
+            <div>
+                <head>3. Abschnitt</head>
+                <head type="subtitle">Übergangs- und Schlußvorschriften</head>
+                <div xml:id="d1147e428">
+                    <head>§ 6</head>
+                    <p>Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.</p>
+                </div>
+                <div xml:id="d1147e440">
+                    <head>§ 7</head>
+                    <p>Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.</p>
+                </div>
+                <div xml:id="d1147e452">
+                    <head>§ 8</head>
+                    <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.</p>
+                </div>
+                <div xml:id="d1147e464">
+                    <head>§ 9</head>
+                    <p>Diese Verordnung tritt am 1. Juli 1988 in Kraft.</p>
+                </div>
+                <div xml:id="d1147e477">
+                    <head>Schlußformel</head>
+                    <p>Der Bundesminister für Wirtschaft</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

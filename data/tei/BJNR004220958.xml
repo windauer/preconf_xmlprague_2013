@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004220958">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erlaß über die Genehmigung der Stiftung und Verleihung von Orden und Ehrenzeichen und über die Anerkennung als Ehrenzeichen</title>
+                <title type="short">OrdenErl</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1958-07-04</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1443e25">
+                <head>Art 1</head>
+                <p>Auf Grund von § 3 Abs. 1 des Gesetzes über Titel, Orden und Ehrenzeichen vom 26. Juli 1957 (Bundesgesetzbl. I S. 844) - Ordensgesetz - genehmige ich die Stiftung und Verleihung des</p>
+                <list>
+                    <item n="">Ordens Pour lemerite für Wissenschaften und Künste.</item>
+                </list>
+            </div>
+            <div xml:id="d1443e40">
+                <head>Art 2</head>
+                <p>Auf Grund von § 3 Abs. 1 des Ordensgesetzes genehmige ich die Stiftung und Verleihung der folgenden Ehrenzeichen:</p>
+                <list>
+                    <item n="1.">Ehrenzeichen des Deutschen Roten Kreuzes in zwei Klassen,</item>
+                    <item n="2.">Deutsches Feuerwehr-Ehrenkreuz in drei Stufen,</item>
+                    <item n="3.">Medaille für Rettung aus Seenot am Bande der Deutschen Gesellschaft zur Rettung Schiffbrüchiger in drei Stufen,</item>
+                    <item n="4.">Ehrenzeichen der Bundesverkehrswacht in zwei Klassen.</item>
+                </list>
+            </div>
+            <div xml:id="d1443e60">
+                <head>Art 3</head>
+                <p>Ich genehmige die Stiftungsbestimmungen und die Verleihungsbedingungen der in den Artikeln 1 und 2 genannten Orden und Ehrenzeichen.</p>
+            </div>
+            <div xml:id="d1443e70">
+                <head>Art 4</head>
+                <p>Auf Grund von § 3 Abs. 2 des Ordensgesetzes erkenne ich das</p>
+                <list>
+                    <item n="">Deutsche Sportabzeichen in drei Klassen</item>
+                </list>
+                <p>als Ehrenzeichen an.</p>
+            </div>
+            <div xml:id="d1443e84">
+                <head>Art 5</head>
+                <p>Die Stiftungsbestimmungen und die Verleihungsbedingungen sowie die Abbildungen und die Beschreibungen der nach den Artikeln 1 und 2 genehmigten Orden und Ehrenzeichen und der nach Artikel 4 als Ehrenzeichen anerkannten Auszeichnung werden vom Bundesminister des Innern im Bundesanzeiger veröffentlicht.</p>
+            </div>
+            <div xml:id="d1443e94">
+                <head>Art 6</head>
+                <p>(1) Jede Änderung der Stiftungsbestimmungen und der Verleihungsbedingungen der nach den Artikeln 1 und 2 genehmigten Orden und Ehrenzeichen und jede Änderung ihrer Form und ihrer Benennung bedarf meiner Genehmigung.</p>
+                <p>(2) Jede Änderung der Verleihungsbedingungen der nach Artikel 4 als Ehrenzeichen anerkannten Auszeichnung und jede Änderung ihrer Form und ihrer Benennung ist mir vor dem Inkraftsetzen anzuzeigen.</p>
+            </div>
+            <div xml:id="d1443e106">
+                <head>Schlußformel</head>
+                <p>Der BundespräsidentDer Bundesminister des Innern</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR012219961">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Vereinheitlichung und Änderung familienrechtlicher Vorschriften</title>
+                <title type="short">FamRÄndG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1961-08-11</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.7.1977 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d687e27">
+                <head>Inhaltsübersicht</head>
+                <list>
+                    <item n="Artikel 1:">Änderung des Bürgerlichen Gesetzbuchs</item>
+                    <item n="Artikel 2:">Eherechtliche Bestimmungen</item>
+                    <item n="Artikel 3:">Änderung der Zivilprozeßordnung</item>
+                    <item n="Artikel 4:">Änderung des Gesetzes über die Angelegenheiten der freiwilligen Gerichtsbarkeit</item>
+                    <item n="Artikel 5:">Änderung der Verordnung über die Behandlung der Ehewohnung und des Hausrats nach der Scheidung</item>
+                    <item n="Artikel 6:">Änderung der Kostenordnung</item>
+                    <item n="Artikel 7:">(weggefallen)</item>
+                    <item n="Artikel 8:">Änderung des Rechtspflegergesetzes</item>
+                    <item n="Artikel 9:">Schlußvorschriften</item>
+                </list>
+            </div>
+            <div xml:id="d687e69">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d687e85">
+                <head/>
+            </div>
+            <div xml:id="d687e99">
+                <head/>
+            </div>
+            <div xml:id="d687e114">
+                <head>(XXXX) §§ 1 und 2</head>
+            </div>
+            <div xml:id="d687e132">
+                <head/>
+            </div>
+            <div xml:id="d687e146">
+                <head/>
+            </div>
+            <div xml:id="d687e160">
+                <head>I.</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d687e178">
+                <head>II.</head>
+                <list>
+                    <item n="1.">bis 4 (weggefallen)</item>
+                </list>
+                <list>
+                    <item n="5.">Soweit im deutschen bürgerlichen Recht oder im deutschen Verfahrensrecht die Staatsangehörigkeit einer Person maßgebend ist, stehen den deutschen Staatsangehörigen die Personen gleich, die, ohne die deutsche Staatsangehörigkeit zu besitzen, Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sind. Rechtskräftige gerichtliche Entscheidungen bleiben unberührt.</item>
+                    <item n="6.">(weggefallen)</item>
+                </list>
+            </div>
+            <div xml:id="d687e206">
+                <head>III.</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d687e225">
+                <head>IV.</head>
+                <p>Dieses Gesetz tritt am 1. Januar 1962 in Kraft; Artikel 9 II. Nr. 6 tritt jedoch am Tage nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

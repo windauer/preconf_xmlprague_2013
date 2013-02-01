@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR015470989">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sechstes Gesetz zur Änderung des Personenbeförderungsgesetzes</title>
+                <title type="short">PBefGÄndG 6</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1989-07-25</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 30.7.1989 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d807e23">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d807e33">
+                <head>Art 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d807e44">
+                <head>Art 2</head>
+                <p>(weggefallen)</p>
+            </div>
+            <div xml:id="d807e55">
+                <head>Art 3</head>
+                <p>Die Länder können Regelungen über die Beförderung mit Krankenkraftwagen im Sinne des § 1 Abs. 2 Nr. 2 des Personenbeförderungsgesetzes in der Fassung des Artikels 1 Nr. 1 dieses Gesetzes erlassen. Soweit solche Regelungen erlassen werden, sind die Vorschriften des Personenbeförderungsgesetzes nicht mehr anzuwenden.</p>
+            </div>
+            <div xml:id="d807e66">
+                <head>Art 4</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d807e76">
+                <head>Art 5</head>
+                <p>(1) Dieses Gesetz tritt am 1. Januar 1992 in Kraft.</p>
+                <p>(2) Abweichend von Absatz 1 tritt Artikel 3 am Tage nach der Verkündung dieses Gesetzes in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

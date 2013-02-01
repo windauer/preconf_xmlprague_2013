@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR027920987">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Verlängerung der Amtszeit der Jugendvertretungen in den Betrieben</title>
+                <title type="short">JVertrAmtszVerlG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1987-12-18</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 25.12.1987 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d914e20">
+                <head>§ 1</head>
+                <p>Jugendvertretungen, deren Amtszeit gemäß § 64 Abs. 2 Satz 1 bis 4 des Betriebsverfassungsgesetzes nach dem 30. April 1988 enden würde, bleiben bis längstens zum 30. November 1988 im Amt; § 64 Abs. 1 Satz 1 des Betriebsverfassungsgesetzes findet keine Anwendung. § 64 Abs. 1 Satz 2 und Abs. 3 des Betriebsverfassungsgesetzes bleibt unberührt.</p>
+            </div>
+            <div xml:id="d914e30">
+                <head>§ 2</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d914e40">
+                <head>§ 3</head>
+                <p>Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

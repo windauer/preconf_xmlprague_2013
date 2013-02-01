@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR001300934">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Vereinfachung und Verbilligung der Verwaltung</title>
+                <title type="short">VwVereinfG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1934-02-27</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Partielles Recht für Berlin</p>
+        </front>
+        <body>
+            <div xml:id="d1118e19">
+                <head/>
+            </div>
+        </body>
+    </text>
+</TEI>

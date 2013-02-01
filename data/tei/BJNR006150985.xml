@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006150985">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die kraftfahrzeugsteuerliche Behandlung von schweizerischen Straßenfahrzeugen im grenzüberschreitenden Verkehr</title>
+                <title type="short">KraftStCHEV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1985-03-27</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 31.3.1985 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d138e23">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 15 Abs. 1 Nr. 5, 7 und 8 des Kraftfahrzeugsteuergesetzes in der Fassung der Bekanntmachung vom 1. Februar 1979 (BGBl. I S. 132) verordnet die Bundesregierung mit Zustimmung des Bundesrates:</p>
+            </div>
+            <div xml:id="d138e33">
+                <head>§ 1</head>
+                <p>(1) Fahrzeuge, die im Gebiet der Schweizerischen Eidgenossenschaft zum Verkehr zugelassen sind (schweizerische Fahrzeuge) und zum vorübergehenden Aufenthalt in den Geltungsbereich des Kraftfahrzeugsteuergesetzes eingeführt werden, sind von der Kraftfahrzeugsteuer befreit, wenn der einzelne Aufenthalt des Fahrzeugs vierzehn aufeinanderfolgende Aufenthaltstage nicht überschreitet. Bei der Berechnung der Aufenthaltsdauer werden der Tag der Einfahrt und der Tag der Ausfahrt jeweils als voller Tag gerechnet.</p>
+                <p>(2) Die für Personenkraftfahrzeuge vorgesehene Steuerbefreiung nach § 3 Nr. 13 des Kraftfahrzeugsteuergesetzes bleibt unberührt.</p>
+            </div>
+            <div xml:id="d138e45">
+                <head>(XXXX) §§ 2 und 3</head>
+            </div>
+            <div xml:id="d138e55">
+                <head>§ 4</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d138e66">
+                <head>§ 5</head>
+                <p>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

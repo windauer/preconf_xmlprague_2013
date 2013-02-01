@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004120933">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über die Gewichtsbezeichnung an schweren, auf Schiffen beförderten Frachtstücken</title>
+                <title type="short">GewBezG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1933-06-28</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1975 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1425e23">
+                <head>§ 1</head>
+                <p>(1) Frachtstücke oder andere Gegenstände von mindestens 1.000 Kilogramm Rohgewicht, die im Geltungsbereich dieses Gesetzes aufgegeben werden und zur Beförderung zur See oder auf Binnenwasserstraßen bestimmt sind, müssen an sichtbarer Stelle mit einer dauerhaften, deutlichen Angabe ihres Rohgewichtes in Kilogramm versehen sein.</p>
+                <p>(2) Verpflichtet zur Anbringung der Gewichtsbezeichnung ist der Absender.</p>
+                <p>(3) Das Gewicht ist durch Wiegen festzustellen; stehen dem besondere Schwierigkeiten entgegen, so ist das Gewicht zu errechnen oder möglichst genau zu schätzen. Die Gewichtsbezeichnung ist spätestens vor der Verladung auf ein Schiff anzubringen. Annähernde Gewichtsangaben sind als solche kenntlich zu machen. Ist der Gegenstand bereits mit einer Gewichtsbezeichnung versehen, so ist der Absender zum Nachwiegen nur dann verpflichtet, wenn die Gewichtsangabe unglaubhaft erscheint.</p>
+            </div>
+            <div xml:id="d1425e40">
+                <head>§ 2</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1425e51">
+                <head>§ 3</head>
+                <p>(1) Die Aufsicht über die Durchführung dieses Gesetzes liegt den für die Hafen- oder Schiffahrtspolizei zuständigen Behörden ob. Der § 139b Abs. 1, 2 und 4 der Gewerbeordnung findet entsprechende Anwendung.</p>
+                <p>(2) Sind Gegenstände der in § 1 Abs. 1 genannten Art entgegen den Vorschriften nicht bezeichnet, so kann die für die Hafen- oder Schiffahrtspolizei zuständige Behörde das Wiegen und das Anbringen der vorgeschriebenen Gewichtsbezeichnung selbst ausführen lassen, sofern die Gegenstände zur Ausfuhr aus dem Geltungsbereich dieses Gesetzes bestimmt sind oder anzunehmen ist, daß bei ihrer weiteren Behandlung das Fehlen der Gewichtsbezeichnung Gefahren für die Arbeitnehmer herbeiführen kann. Die Kosten der nachträglichen Wiegung und Gewichtsbezeichnung sind von dem Verpflichteten zu tragen; ihre Einziehung regelt sich nach den landesrechtlichen Bestimmungen über die Beitreibung öffentlicher Abgaben.</p>
+                <p>(3)</p>
+            </div>
+            <div xml:id="d1425e68">
+                <head>§ 3a</head>
+                <p>(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen § 1 die vorgeschriebene Gewichtsbezeichnung nicht anbringt.</p>
+                <p>(2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.</p>
+            </div>
+            <div xml:id="d1425e83">
+                <head>§ 4</head>
+                <p>Dieses Gesetz tritt einen Monat nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

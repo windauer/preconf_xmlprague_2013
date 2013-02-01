@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR011170981">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Büchsenmacher-Handwerk</title>
+                <title type="short">BüchsMstrV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1981-10-01</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.4.1982 +++)</p>
+        </front>
+        <body>
+            <div>
+                <head>1. Abschnitt</head>
+                <head type="subtitle">Berufsbild</head>
+                <div xml:id="d600e38">
+                    <head>§ 1</head>
+                    <p>(1) Dem Büchsenmacher-Handwerk sind folgende Tätigkeiten zuzurechnen:</p>
+                    <list>
+                        <item n="1.">Entwurf und Anfertigung von Waffenteilen sowie deren Zusammenbau zu Schußwaffen insbesondere für Jagd und Sport,</item>
+                        <item n="2.">Instandhaltung, Instandsetzung, Wartung und Einschießen von Schußwaffen,</item>
+                        <item n="3.">Aufpassen von optischen Geräten.</item>
+                    </list>
+                    <p>(2) Dem Büchsenmacher-Handwerk sind folgende Kenntnisse und Fertigkeiten zuzurechnen:</p>
+                    <list>
+                        <item n="1.">Kenntnisse der Mechanik einschließlich der Festigkeitslehre,</item>
+                        <item n="2.">Kenntnisse der Maschinenelemente,</item>
+                        <item n="3.">Kenntnisse über Optik,</item>
+                        <item n="4.">Kenntnisse der Funktionsweise, des Aufbaus und des Einsatzes von Schußwaffen sowie von Wiederladegeräten und -komponenten,</item>
+                        <item n="5.">Kenntnisse des Weich- und des Hartlötens,</item>
+                        <item n="6.">Kenntnisse der Arten, Eigenschaften, Bezeichnungen, Verwendung, Verarbeitung und Prüfung der Werk- und Hilfsstoffe,</item>
+                        <item n="7.">Kenntnisse der Oberflächenbehandlung und -gestaltung, insbesondere der Gravuren und Einlegearbeiten,</item>
+                        <item n="8.">Kenntnisse der Innen-, Außen- und Zielballistik,</item>
+                        <item n="9.">Kenntnisse der Waffenkunde, insbesondere der Jagd- und Sportwaffen und der Munitionsarten,</item>
+                        <item n="10.">Kenntnisse des Jagd-, des Waffen- und des Sprengstoffrechts,</item>
+                        <item n="11.">Kenntnisse der einschlägigen Vorschriften der Unfallverhütung, des Arbeitsschutzes und der Arbeitssicherheit sowie des Umweltschutzes, insbesondere des Immissionsschutzes,</item>
+                        <item n="12.">Kenntnisse der einschlägigen technischen Normen und Richtlinien,</item>
+                        <item n="13.">Anfertigen von Entwürfen, Skizzen und Zeichnungen,</item>
+                        <item n="14.">Lesen von Explosionszeichnungen,</item>
+                        <item n="15.">spanendes und spanloses Be- und Verarbeiten von Stahl, NE-Metall, Kunststoff, Holz, Horn und Elfenbein insbesondere durch Feilen, Sägen, Meißeln, Bohren, Biegen, Richten, Reiben, Schaben, Gewindeschneiden, Fräsen, Drehen, Schnitzen und Schmieden,</item>
+                        <item n="16.">Behandeln von Oberflächen und Ausführen von Korrosionsschutzmaßnahmen insbesondere durch Schleifen, Polieren, Tauch- und Streichbrünieren,</item>
+                        <item n="17.">Gefügebehandeln durch Glühen, Härten und Anlassen,</item>
+                        <item n="18.">Herstellen von unlösbaren und lösbaren Verbindungen insbesondere durch Weich- und Hartlöten, Gasschweißen und Lichtbogenhandschweißen, Kleben, Nieten, Schrauben und Stiften,</item>
+                        <item n="19.">Zusammenbauen, Inbetriebnehmen, Prüfen und Einstellen von Waffenteilen, Schußwaffen und optischen Geräten,</item>
+                        <item n="20.">Vorbereiten und Einschießen von Schußwaffen,</item>
+                        <item n="21.">Beraten des Kunden über die sichere Handhabung von Schußwaffen,</item>
+                        <item n="22.">Instandhalten und Instandsetzen der Betriebseinrichtungen, insbesondere der Werkzeuge, Geräte und Maschinen.</item>
+                    </list>
+                </div>
+            </div>
+            <div>
+                <head>2. Abschnitt</head>
+                <head type="subtitle">Prüfungsanforderungen in den Teilen I und II der Meisterprüfung</head>
+                <div xml:id="d600e119">
+                    <head>§ 2</head>
+                    <p>(1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.</p>
+                    <p>(2) Die Anfertigung der Meisterprüfungsarbeit soll nicht länger als 20 Arbeitstage, die Arbeitsprobe nicht länger als zwölf Stunden dauern.</p>
+                    <p>(3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.</p>
+                </div>
+                <div xml:id="d600e135">
+                    <head>§ 3</head>
+                    <p>(1) Als Meisterprüfungsarbeit kommt eine der nachstehenden Arbeiten in Betracht:</p>
+                    <list>
+                        <item n="1.">Herstellung einer funktionsfähigen Selbstspanner-Kipplaufwaffe mit gezogenem Lauf, weißfertig, einschließlich der Anfertigung des Hinterschafts,</item>
+                        <item n="2.">Herstellung einer funktionsfähigen Scheibenbüchse mit Schaft oder einer funktionsfähigen Scheibenpistole mit orthopädischem Griff, weißfertig,</item>
+                        <item n="3.">Herstellung einer funktionsfähigen Bockdoppelflinte mit "Seitenschlossen" und Schlagstück-Ejektor, weißfertig, einschließlich der Anfertigung des Hinterschafts,</item>
+                        <item n="4.">Anfertigung einer Basküle für eine Selbstspanner-Kipplaufwaffe mit doppelter Laufhakenverriegelung einschließlich des Hinterschafts,</item>
+                        <item n="5.">Anfertigung eines kombinierten Laufpaares mit Anpassung an eine vorhandene Basküle einschließlich des Hinterschafts,</item>
+                        <item n="6.">Anfertigung eines kompletten Blitz-Schlosses mit Rückstecher einschließlich des Hinterschafts für eine Kipplaufwaffe.</item>
+                    </list>
+                    <p>Der Prüfling darf für die Arbeiten zu Nummer 1 bis 3 vorgefertigte Rohlinge verwenden.</p>
+                    <p>(2) Der Prüfling hat dem Meisterprüfungsausschuß vor Anfertigung der Meisterprüfungsarbeit eine Entwurfsskizze mit Hauptabmessungen, die Stückliste und die Vorkalkulation vorzulegen. Nach Genehmigung dieser Unterlagen ist die Zeichnung anzufertigen und dem Meisterprüfungsausschuß zu übergeben.</p>
+                    <p>(3) Mit der Meisterprüfungsarbeit ist die Nachkalkulation abzuliefern.</p>
+                </div>
+                <div xml:id="d600e165">
+                    <head>§ 4</head>
+                    <p>(1) Als Arbeitsprobe ist eine der nachstehenden Arbeiten auszuführen:</p>
+                    <list>
+                        <item n="1.">Anfertigen und Anpassen eines Stahlvorderschafts für eine Kipplaufwaffe,</item>
+                        <item n="2.">Aufpassen eines Zielfernrohrs mit Einhakgesteck und selbstgefertigtem Supportfuß aus vollem Werkstoff sowie Einschießen der Schußwaffe,</item>
+                        <item n="3.">Anfertigen und Einpassen eines Exzenters und Verschlußkeils aus vollem Werkstoff,</item>
+                        <item n="4.">Anfertigen eines Holzvorderschafts einschließlich Fischhautschneiden für eine Kipplaufwaffe,</item>
+                        <item n="5.">Anfertigen eines Abzugs und Schlagstücks für ein Blitz-, Anson- oder Seitenschloß.</item>
+                    </list>
+                    <p>(2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.</p>
+                </div>
+                <div xml:id="d600e190">
+                    <head>§ 5</head>
+                    <p>(1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:</p>
+                    <list>
+                        <item n="1.">Technische Mathematik: Berechnungen aus der Mechanik und der Ballistik;</item>
+                        <item n="2.">Technisches Zeichnen:<list>
+                                <item n="a)">Anfertigen von Skizzen und Zeichnungen,</item>
+                                <item n="b)">Lesen von Explosionszeichnungen;</item>
+                            </list>
+                        </item>
+                        <item n="3.">Fachtechnologie:<list>
+                                <item n="a)">Mechanik einschließlich Festigkeitslehre,</item>
+                                <item n="b)">Maschinenelemente, insbesondere Passungen,</item>
+                                <item n="c)">Optik,</item>
+                                <item n="d)">Funktionsweise, Aufbau und Einsatz von Schußwaffen sowie von Wiederladegeräten und -komponenten,</item>
+                                <item n="e)">Oberflächenbehandlung,</item>
+                                <item n="f)">Innen-, Außen- und Zielballistik sowie Waffenkunde,</item>
+                                <item n="g)">Jagd-, Waffen- und Sprengstoffrecht,</item>
+                                <item n="h)">einschlägige Vorschriften der Unfallverhütung, des Arbeitsschutzes und der Arbeitssicherheit,</item>
+                                <item n="i)">Vorschriften des Umweltschutzes, insbesondere des Immissionsschutzes,</item>
+                                <item n="k)">spanende und spanlose Be- und Verarbeitung von Werkstoffen,</item>
+                                <item n="l)">unlösbare und lösbare Verbindungen, hergestellt insbesondere durch Weich- und Hartlöten, Gasschweißen und Lichtbogenhandschweißen, Kleben, Nieten, Schrauben und Stiften;</item>
+                            </list>
+                        </item>
+                        <item n="4.">Werkstoffkunde:<list>
+                                <item n="a)">Arten, Eigenschaften, Bezeichnungen, Verwendung und Verarbeitung der Werk- und Hilfsstoffe,</item>
+                                <item n="b)">Werkstoffprüfung,</item>
+                                <item n="c)">Gefügebehandlung durch Glühen, Härten und Anlassen;</item>
+                            </list>
+                        </item>
+                        <item n="5.">Kalkulation: Kostenermittlung mit allen für die Preisbildung wesentlichen Faktoren und Berechnungen für die Angebots- und die Nachkalkulation.</item>
+                    </list>
+                    <p>(2) Die Prüfung ist schriftlich und mündlich durchzuführen.</p>
+                    <p>(3) Die schriftliche Prüfung soll nicht länger als zwölf Stunden, die mündliche je Prüfling nicht länger als eine halbe Stunde dauern.</p>
+                    <p>(4) Der Prüfling ist von der mündlichen Prüfung auf Antrag zu befreien, wenn er im Durchschnitt mindestens gute schriftliche Leistungen erbracht hat.</p>
+                    <p>(5) Mindestvoraussetzung für das Bestehen des Teils II sind jeweils ausreichende Leistungen in den Prüfungsfächern nach Absatz 1 Nr. 1, 3, 4 und 5.</p>
+                </div>
+            </div>
+            <div>
+                <head>3. Abschnitt</head>
+                <head type="subtitle">Übergangs- und Schlußvorschriften</head>
+                <div xml:id="d600e270">
+                    <head>§ 6</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d600e281">
+                    <head>§ 7</head>
+                    <p>Die weiteren Anforderungen in der Meisterprüfung bestimmten sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.</p>
+                </div>
+                <div xml:id="d600e293">
+                    <head>§ 8</head>
+                    <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.</p>
+                </div>
+                <div xml:id="d600e305">
+                    <head>§ 9</head>
+                    <p>(1) Diese Verordnung tritt am 1. April 1982 in Kraft.</p>
+                    <p>(2) Die auf Grund des § 122 der Handwerksordnung weiter anzuwendenden Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.</p>
+                </div>
+                <div xml:id="d600e319">
+                    <head>Schlußformel</head>
+                    <p>Der Bundesminister für Wirtschaft</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

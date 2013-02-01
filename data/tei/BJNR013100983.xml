@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR013100983">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Ausbildungsförderung für den Besuch von Instituten zur Ausbildung von Fachlehrern und Sportlehrern</title>
+                <title type="short">BAföGFachlehrerV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1983-10-20</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.8.1983 +++)V tritt in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anl. I Kap. XVI Sachgeb. B Abschn. II EingS. EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 1132 am 1.1.1991 in Kraft</p>
+        </front>
+        <body>
+            <div xml:id="d746e25">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 2 Abs. 3 Nr. 1 des Bundesausbildungsförderungsgesetzes in der Fassung der Bekanntmachung vom 6. Juni 1983 (BGBl. I S. 645) wird mit Zustimmung des Bundesrates verordnet:</p>
+            </div>
+            <div xml:id="d746e35">
+                <head>§ 1</head>
+                <p>(1) Ausbildungsförderung nach dem Bundesausbildungsförderungsgesetz wird geleistet für den Besuch</p>
+                <list>
+                    <item n="1.">von Instituten und Einrichtungen zur fachlichen Ausbildung künftiger Fachlehrer,</item>
+                    <item n="2.">von Instituten zur pädagogischen Ausbildung künftiger Fachlehrer,</item>
+                    <item n="3.">von Instituten zur Ausbildung von Pädagogischen Assistenten,</item>
+                    <item n="4.">des Lehrgangs mit dem Ausbildungsziel "Sportlehrer im freien Beruf" im Sportzentrum der Technischen Universität München,</item>
+                    <item n="5.">des Lehrgangs mit dem Ausbildungsziel "Staatlich geprüfter Sportlehrer" im Sportzentrum der Universität Trier,</item>
+                    <item n="6.">des Lehrgangs mit dem Ausbildungsziel "Staatlich geprüfter Fußball-Lehrer" an der Deutschen Sporthochschule Köln.</item>
+                </list>
+                <p>(2) Ausbildungsförderung wird nur geleistet, wenn die Ausbildung in einer öffentlichen oder in einer durch die zuständige Landesbehörde staatlich anerkannten oder genehmigten Einrichtung durchgeführt wird oder wenn die zuständige Landesbehörde anerkennt, daß der Besuch der Einrichtung dem Besuch der in Absatz 1 bezeichneten Einrichtungen gleichwertig ist.</p>
+            </div>
+            <div xml:id="d746e62">
+                <head>§ 2</head>
+                <p>Die Auszubildenden der in § 1 Abs. 1 Nr. 2 genannten Ausbildungsstätten in den Fächern "Handarbeit" und "Hauswirtschaft" erhalten Ausbildungsförderung wie Auszubildende von Fachschulklassen, deren Besuch eine abgeschlossene Berufsausbildung voraussetzt (§ 13 Abs. 1 Nr. 1 BAföG). Im übrigen erhalten die nach dieser Verordnung zu fördernden Auszubildenden Ausbildungsförderung wie Schüler an Berufsfachschulen.</p>
+            </div>
+            <div xml:id="d746e74">
+                <head>§ 3</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 67 des Bundesausbildungsförderungsgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d746e86">
+                <head>§ 4</head>
+                <p>Diese Verordnung tritt mit Wirkung vom 1. August 1983 in Kraft.</p>
+            </div>
+            <div xml:id="d746e98">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Bildung und Wissenschaft</p>
+            </div>
+        </body>
+    </text>
+</TEI>

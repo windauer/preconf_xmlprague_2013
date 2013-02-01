@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000480958">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Zugehörigkeit von Zusammenschlüssen landwirtschaftlicher Genossenschaften zu den Industrie- und Handelskammern</title>
+                <title type="short">LwGenV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1958-01-06</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1964 +++)</p>
+            <p>Im Saarland in Kraft getreten am 1.1.1960 gem. § 3 III Nr. 12 G v. 30.6.1959 I 313</p>
+        </front>
+        <body>
+            <div xml:id="d1047e23">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 2 Abs. 4 Buchstabe c des Gesetzes zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern vom 18. Dezember 1956 (Bundesgesetzbl. I S. 920) wird im Einvernehmen mit dem Bundesminister für Ernährung, Landwirtschaft und Forsten mit Zustimmung des Bundesrates verordnet:</p>
+            </div>
+            <div xml:id="d1047e33">
+                <head>§ 1</head>
+                <p>Zur Industrie- und Handelskammer gehören nicht Zusammenschlüsse der unter § 2 Abs. 4 Buchstabe b des Gesetzes genannten Genossenschaften, deren Eigenkapital den Betrag von 3.500.000 Deutsche Markt nicht erreicht.</p>
+            </div>
+            <div xml:id="d1047e43">
+                <head>§ 2</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 14 des Gesetzes zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d1047e54">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am 1. Januar 1957 in Kraft.</p>
+            </div>
+            <div xml:id="d1047e64">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Wirtschaft</p>
+            </div>
+        </body>
+    </text>
+</TEI>

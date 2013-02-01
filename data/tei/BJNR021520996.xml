@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR021520996">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zu dem Abkommen vom 18. April 1994 zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über den Autobahnzusammenschluß und den Bau einer Grenzbrücke über die Mosel im Raum Perl und Schengen</title>
+                <title type="short">GrBrückPerlAbkLUXG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1996-02-09</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 24. 2.1996 +++)</p>
+            <p>Abkommen gem. Art. 13 Abs. 2 in Kraft gem. Bek. v. 27.10.1997 II 2139 mWv 1.8.1996</p>
+        </front>
+        <body>
+            <div xml:id="d877e23">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d877e33">
+                <head>Art 1</head>
+                <p>Dem in Luxemburg am 18. April 1994 unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über den Autobahnzusammenschluß und den Bau einer Grenzbrücke über die Mosel im Raum Perl und Schengen wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.</p>
+            </div>
+            <div xml:id="d877e43">
+                <head>Art 2</head>
+                <p>(1) Bis zum Zeitpunkt der Abnahme der Grenzbrücke gilt die Baustelle für die Anwendung des deutschen Umsatzsteuer- und Verbrauchsteuerrechts auf die in Artikel 9 Abs. 1 des Abkommens bezeichneten Umsätze und Warenbewegungen als luxemburgisches Hoheitsgebiet. Sie ist insoweit nicht als Inland und Steuergebiet anzusehen.</p>
+                <p>(2) Ab dem Zeitpunkt der Abnahme der Grenzbrücke gilt die Grenzbrücke für die Anwendung des deutschen Umsatzsteuer- und Verbrauchsteuerrechts auf die in Artikel 9 Abs. 2 des Abkommens bezeichneten Umsätze und Warenbewegungen als deutsches Hoheitsgebiet. Sie ist insoweit als Inland und Steuergebiet anzusehen.</p>
+            </div>
+            <div xml:id="d877e55">
+                <head>Art 3</head>
+                <p>(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.</p>
+                <p>(2) Der Tag, an dem das Abkommen nach seinem Artikel 13 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

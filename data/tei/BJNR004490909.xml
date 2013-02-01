@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004490909">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über die Sicherung der Bauforderungen</title>
+                <title type="short">BauFordSiG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1909-06-01</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1975 +++)Überschrift: IdF d. Art. 3 Nr. 1 G v. 23.10.2008 I 2022 mWv 1.1.2009</p>
+        </front>
+        <body>
+            <div>
+                <head>Erster Abschnitt</head>
+                <head type="subtitle">Allgemeine Sicherungsmaßregeln</head>
+                <div xml:id="d1475e44">
+                    <head>§ 1</head>
+                    <p>(1) Der Empfänger von Baugeld ist verpflichtet, das Baugeld zur Befriedigung solcher Personen, die an der Herstellung oder dem Umbau des Baues auf Grund eines Werk-, Dienst- oder Kaufvertrags beteiligt sind, zu verwenden. Eine anderweitige Verwendung des Baugeldes ist bis zu dem Betrag statthaft, in welchem der Empfänger aus anderen Mitteln Gläubiger der bezeichneten Art bereits befriedigt hat. Die Verpflichtung nach Satz 1 hat auch zu erfüllen, wer als Baubetreuer bei der Betreuung des Bauvorhabens zur Verfügung über die Finanzierungsmittel des Bestellers ermächtigt ist.</p>
+                    <p>(2) Ist der Empfänger selbst an der Herstellung oder dem Umbau beteiligt, so darf er das Baugeld in Höhe des angemessenen Wertes der von ihm erbrachten Leistungen für sich behalten.</p>
+                    <p>(3) Baugeld sind Geldbeträge,</p>
+                    <list>
+                        <item n="1.">die zum Zweck der Bestreitung der Kosten eines Baues oder Umbaues in der Weise gewährt werden, dass zur Sicherung der Ansprüche des Geldgebers eine Hypothek oder Grundschuld an dem zu bebauenden Grundstück dient oder die Übertragung eines Eigentums an dem Grundstück erst nach gänzlicher oder teilweiser Herstellung des Baues oder Umbaues erfolgen soll, oder</item>
+                        <item n="2.">die der Empfänger von einem Dritten für eine im Zusammenhang mit der Herstellung des Baues oder Umbaues stehende Leistung, die der Empfänger dem Dritten versprochen hat, erhalten hat, wenn an dieser Leistung andere Unternehmer (§ 14 des Bürgerlichen Gesetzbuchs) auf Grund eines Werk-, Dienst- oder Kaufvertrags beteiligt waren.</item>
+                    </list>
+                    <p>Beträge, die zum Zweck der Bestreitung der Kosten eines Baues oder Umbaues gewährt werden, sind insbesondere Abschlagszahlungen und solche, deren Auszahlung ohne nähere Bestimmung des Zweckes der Verwendung nach Maßgabe des Fortschrittes des Baues oder Umbaues erfolgen soll.</p>
+                    <p>(4) Ist die Baugeldeigenschaft oder die Verwendung des Baugeldes streitig, so trifft die Beweislast den Empfänger.</p>
+                </div>
+                <div xml:id="d1475e67">
+                    <head>§ 2</head>
+                    <p>Baugeldempfänger, welche ihre Zahlungen eingestellt haben oder über deren Vermögen das Insolvenzverfahren eröffnet worden ist und deren in § 1 Abs. 1 bezeichnete Gläubiger zur Zeit der Zahlungseinstellung oder der Eröffnung des Insolvenzverfahrens benachteiligt sind, werden mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft, wenn sie zum Nachteil der bezeichneten Gläubiger den Vorschriften des § 1 zuwidergehandelt haben.</p>
+                </div>
+                <div xml:id="d1475e78">
+                    <head>§ 4</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d1475e89">
+                    <head>§ 7</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d1475e100">
+                    <head>§ 8</head>
+                    <p>-</p>
+                </div>
+            </div>
+            <div>
+                <head>Zweiter Abschnitt</head>
+                <head type="subtitle">Dingliche Sicherung der Bauforderungen</head>
+                <div>
+                    <head>Erster bis siebenter Titel</head>
+                    <head type="subtitle"/>
+                    <div xml:id="d1475e140">
+                        <head>(XXXX) §§ 9 bis 67</head>
+                        <p>-</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

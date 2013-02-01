@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006600006">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Technischer Fachwirt/Geprüfte Technische Fachwirtin</title>
+                <title type="short">TechFachwPrV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>2006-01-17</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.2.2006 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d176e24">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) und in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie und auf Grund des § 30 Abs. 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:</p>
+            </div>
+            <div xml:id="d176e34">
+                <head>§ 1</head>
+                <p>(1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum Geprüften Technischen Fachwirt/zur Geprüften Technischen Fachwirtin nach den §§ 2 bis 10 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.</p>
+                <p>(2) Ziel der Prüfung ist der Nachweis der Qualifikation zum Geprüften Technischen Fachwirt/zur Geprüften Technischen Fachwirtin und damit die Befähigung:</p>
+                <list>
+                    <item n="1.">in Betrieben unterschiedlicher Größe und Branchenzugehörigkeit sowie in verschiedenen Bereichen und Tätigkeitsfeldern eines Betriebes Sach-, Organisations- und Führungsaufgaben wahrzunehmen,</item>
+                    <item n="2.">die Schnittstellenfunktion zwischen den betriebswirtschaftlichen und technischen Unternehmensbereichen durch kommunikative Kompetenzen wahrzunehmen,</item>
+                    <item n="3.">sich auf verändernde Methoden und Systeme in der Produktion, auf sich verändernde Strukturen der Arbeitsorganisation und auf neue Methoden der Organisationsentwicklung, der Personalführung und -entwicklung flexibel einzustellen sowie den technisch-organisatorischen Wandel im Betrieb mitzugestalten.</item>
+                </list>
+                <p>(3) Durch die Prüfung ist festzustellen, ob die Qualifikation vorhanden ist, in den betrieblichen Funktionsfeldern "Materialwirtschaft/Logistik", "Absatzwirtschaft", "Einkauf", "Arbeitsvorbereitung/Kostenrechnung", "Entwicklung/Konstruktion" und "Betriebserhaltung/Produktion" insbesondere folgende in Zusammenhang stehende Aufgaben unter Berücksichtigung der ökonomischen, ökologischen und sozialen Aspekte eines nachhaltigen Wirtschaftens eigenständig und verantwortlich wahrnehmen zu können:</p>
+                <list>
+                    <item n="1.">Produktionsabläufe überwachen, über den Einsatz der Betriebs- und Produktionsmittel entscheiden und deren Erhaltung und Betriebsbereitschaft gewährleisten, Kenntnisse der Fertigungs- und Betriebstechnik in Produktionsprozessen planerisch umsetzen. Für die Einhaltung der Qualitäts- und Quantitätsvorgaben sorgen, Maßnahmen zur Aufrechterhaltung der Materialwirtschaft und Produktionswirtschaft planen und durchführen. Sich an der Planung und Umsetzung neuer Arbeitstechniken und Fertigungsprozesse beteiligen und in enger Zusammenarbeit mit den Sicherheitsbeauftragten die Einhaltung der Arbeitssicherheits-, Umwelt- und Gesundheitsvorschriften gewährleisten,</item>
+                    <item n="2.">die Kostenentwicklung überwachen und auf einen wirtschaftlichen Ablauf achten, rechtzeitig und angemessen Mitarbeiter und Mitarbeiterinnen und beteiligte betriebliche Bereiche informieren; in Zusammenarbeit mit den Mitarbeitern und Mitarbeiterinnen übergeordnete Planungsgruppen und Fachabteilungen beraten. Die Mitarbeiter und Mitarbeiterinnen im Sinne der Unternehmensziele führen und ihnen Aufgaben unter der Berücksichtigung der Vorgaben nach betriebswirtschaftlichen Gesichtspunkten und arbeitsrechtlichen Bestimmungen delegieren. Die Mitarbeiter und Mitarbeiterinnen zu selbstständigem, verantwortlichen Handeln anleiten, motivieren und an Entscheidungsprozessen beteiligen, die zielorientierte Kooperation und Kommunikation zwischen und mit den Mitarbeitern und Mitarbeiterinnen fördern, neue Mitarbeiter und Mitarbeiterinnen in ihre Arbeitsbereiche einführen und qualifizieren sowie die Ausbildung der zugeteilten Auszubildenden verantworten.</item>
+                </list>
+                <p>(4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss "Geprüfter Technischer Fachwirt/Geprüfte Technische Fachwirtin".</p>
+            </div>
+            <div xml:id="d176e64">
+                <head>§ 2</head>
+                <p>(1) Zur Prüfung in den Prüfungsteilen „Wirtschaftsbezogene Qualifikationen“ oder „Technische Qualifikationen“ ist zuzulassen, wer</p>
+                <list>
+                    <item n="1.">eine mit Erfolg abgelegte Abschlussprüfung in einem anerkannten mindestens dreijährigen kaufmännischen, verwaltenden oder gewerblich-technischen Ausbildungsberuf oder</item>
+                    <item n="2.">eine mit Erfolg abgelegte Abschlussprüfung in einem anderen anerkannten Ausbildungsberuf und danach eine mindestens einjährige Berufspraxis im kaufmännischen oder gewerblich-technischen Bereich oder</item>
+                    <item n="3.">eine mindestens vierjährige Berufspraxis</item>
+                </list>
+                <p>nachweist.</p>
+                <p>(2) Zur Prüfung im Prüfungsteil "Handlungsspezifische Qualifikationen" ist zuzulassen, wer Folgendes nachweist:</p>
+                <list>
+                    <item n="1.">den erfolgreichen Abschluss der Prüfungsteile "Wirtschaftsbezogene Qualifikationen" und "Technische Qualifikationen", der nicht länger als fünf Jahre zurückliegt, und</item>
+                    <item n="2.">in den in Absatz 1 Nummer 1 bis 3 genannten Fällen ein weiteres Jahr Berufspraxis.</item>
+                </list>
+                <p>(3) Die Berufspraxis gemäß den Absätzen 1 und 2 soll wesentliche Bezüge zu den Aufgaben eines Geprüften Technischen Fachwirtes/einer Geprüften Technischen Fachwirtin gemäß § 1 Abs. 3 haben.</p>
+                <p>(4) Abweichend von Absatz 1 und Absatz 2 Nr. 2 kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben worden sind, die eine Zulassung zur Prüfung rechtfertigen.</p>
+            </div>
+            <div xml:id="d176e96">
+                <head>§ 3</head>
+                <p>(1) Die Prüfung gliedert sich in die Prüfungsteile:</p>
+                <list>
+                    <item n="1.">Wirtschaftsbezogene Qualifikationen,</item>
+                    <item n="2.">Technische Qualifikationen,</item>
+                    <item n="3.">Handlungsspezifische Qualifikationen.</item>
+                </list>
+                <p>(2) Der Prüfungsteil „Wirtschaftsbezogene Qualifikationen“ gliedert sich in folgende Qualifikationsbereiche:</p>
+                <list>
+                    <item n="1.">Volks- und Betriebswirtschaft,</item>
+                    <item n="2.">Rechnungswesen,</item>
+                    <item n="3.">Recht und Steuern,</item>
+                    <item n="4.">Unternehmensführung.</item>
+                </list>
+                <p>(3) Der Prüfungsteil "Technische Qualifikationen" gliedert sich in folgende Qualifikationsbereiche:</p>
+                <list>
+                    <item n="1.">Naturwissenschaftliche und technische Grundlagen,</item>
+                    <item n="2.">Technische Kommunikation und Werkstofftechnologie,</item>
+                    <item n="3.">Fertigungs- und Betriebstechnik.</item>
+                </list>
+                <p>(4) Der Prüfungsteil "Handlungsspezifische Qualifikationen" gliedert sich in folgende Handlungsbereiche:</p>
+                <list>
+                    <item n="1.">Absatz-, Materialwirtschaft und Logistik,</item>
+                    <item n="2.">Produktionsplanung, -steuerung und -kontrolle,</item>
+                    <item n="3.">Qualitäts- und Umweltmanagement sowie Arbeitsschutz,</item>
+                    <item n="4.">Führung und Zusammenarbeit.</item>
+                </list>
+                <p>(5) Die Prüfungsteile "Wirtschaftsbezogene Qualifikationen" gemäß Absatz 2, "Technische Qualifikationen" gemäß Absatz 3 und "Handlungsspezifische Qualifikationen" gemäß Absatz 4 sind schriftlich in Form von anwendungsbezogenen Aufgabenstellungen gemäß den §§ 4, 5 und 6 zu prüfen.</p>
+                <p>(6) Als weitere Prüfungsleistung wird innerhalb des Prüfungsteils "Handlungsspezifische Qualifikationen" eine mündliche Prüfung in Form eines situationsbezogenen Fachgespräches mit Präsentation durchgeführt, das nicht länger als 30 Minuten dauern soll. Es soll sich inhaltlich auf die Qualifikations- und Handlungsbereiche gemäß den Absätzen 2 bis 4 beziehen, der Schwerpunkt soll auf Absatz 4 Nr. 1 und 2 liegen. Es ist eine Vorbereitungszeit von höchstens 30 Minuten zu gewähren. Die mündliche Prüfung wird erst nach dem erfolgreichen Abschluss der schriftlichen Prüfungsleistungen gemäß Absatz 5 durchgeführt.</p>
+            </div>
+            <div xml:id="d176e151">
+                <head>§ 4</head>
+                <p>(1) Im Qualifikationsbereich „Volks- und Betriebswirtschaft“ sollen zum einen grundlegende volkswirtschaftliche Zusammenhänge und ihre Bedeutung für die betriebliche Praxis beurteilt werden können. Zum anderen müssen grundlegende betriebliche Funktionen und Funktionsbereiche und deren Zusammenwirken im Betrieb verstanden werden. Weiterhin soll der Vorgang einer Existenzgründung erfasst und in seiner Gesamtheit strukturiert werden können. In diesem Rahmen können geprüft werden:</p>
+                <list>
+                    <item n="1.">Volkswirtschaftliche Grundlagen,</item>
+                    <item n="2.">Betriebliche Funktionen und deren Zusammenwirken,</item>
+                    <item n="3.">Existenzgründung und Unternehmensrechtsformen,</item>
+                    <item n="4.">Unternehmenszusammenschlüsse.</item>
+                </list>
+                <p>(2) Im Qualifikationsbereich „Rechnungswesen“ soll die Fähigkeit nachgewiesen werden, die Bedeutung des Rechnungswesens als Dokumentations-, Entscheidungs- und Kontrollinstrument für die Unternehmensführung darstellen und begründen zu können. Dazu gehören insbesondere, die bilanziellen Zusammenhänge sowie die Kostenrechnung in Grundzügen erläutern und anwenden zu können. Außerdem sollen die erarbeiteten Zahlen für eine Aussage über die Unternehmenssituation ausgewertet werden können. In diesem Rahmen können geprüft werden:</p>
+                <list>
+                    <item n="1.">Grundlegende Aspekte des Rechnungswesens,</item>
+                    <item n="2.">Finanzbuchhaltung,</item>
+                    <item n="3.">Kosten- und Leistungsrechnung,</item>
+                    <item n="4.">Auswertung der betriebswirtschaftlichen Zahlen,</item>
+                    <item n="5.">Planungsrechnung.</item>
+                </list>
+                <p>(3) Im Qualifikationsbereich „Recht und Steuern“ sollen allgemeine Kenntnisse des Bürgerlichen Rechts und des Handelsrechts sowie Kenntnisse des Arbeitsrechts nachgewiesen werden. Weiterhin sollen an unternehmenstypischen Beispielen und Situationen mögliche Vertragsgestaltungen vorbereitet und deren Auswirkungen bewertet werden können. Es müssen außerdem die Grundzüge des unternehmensrelevanten Steuerrechts verstanden werden. In diesem Rahmen können geprüft werden:</p>
+                <list>
+                    <item n="1.">Rechtliche Zusammenhänge,</item>
+                    <item n="2.">Steuerrechtliche Bestimmungen.</item>
+                </list>
+                <p>(4) Im Qualifikationsbereich „Unternehmensführung“ soll die Fähigkeit nachgewiesen werden, die Inhalte der Betriebsorganisation, der Personalführung und -entwicklung sowie der Planungs- und Analysemethoden im betrieblichen Umfeld zu kennen, deren Auswirkungen auf die Unternehmensführung erläutern und in Teilumfängen anwenden zu können. In diesem Rahmen können geprüft werden:</p>
+                <list>
+                    <item n="1.">Betriebsorganisation,</item>
+                    <item n="2.">Personalführung,</item>
+                    <item n="3.">Personalentwicklung.</item>
+                </list>
+                <p>(5) Die schriftliche Prüfung besteht für jeden Qualifikationsbereich aus einer unter Aufsicht anzufertigenden Arbeit, deren Mindestbearbeitungszeiten jeweils betragen:1.Volks- und Betriebswirtschaft60 Minuten,2.Rechnungswesen90 Minuten,3.Recht und Steuern60 Minuten,4.Unternehmensführung90 Minuten.Die Gesamtdauer soll jedoch 330 Minuten nicht überschreiten.</p>
+                <p>(6) Wurde in nicht mehr als einem Qualifikationsbereich mangelhafte Prüfungsleistungen erbracht, ist in diesem Qualifikationsbereich eine mündliche Ergänzungsprüfung anzubieten. Bei einer oder mehreren ungenügenden Leistungen besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll anwendungsbezogen durchgeführt werden und in der Regel nicht länger als 15 Minuten dauern. Die Bewertungen der schriftlichen Prüfungsleistung und der mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.</p>
+            </div>
+            <div xml:id="d176e243">
+                <head>§ 5</head>
+                <p>(1) Im Qualifikationsbereich "Naturwissenschaftliche und technische Grundlagen" soll die Fähigkeit, einschlägige naturwissenschaftliche Gesetzmäßigkeiten zur Lösung technischer Probleme einbeziehen zu können, nachgewiesen werden. Dabei sollen mathematische, physikalische, chemische und technische Kenntnisse aus der betrieblichen Praxis angewendet werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:</p>
+                <list>
+                    <item n="1.">Berücksichtigen der Auswirkungen naturwissenschaftlicher Gesetzmäßigkeiten auf Materialien, Maschinen, Anlagen und Prozesse sowie auf Mensch und Umwelt, zum Beispiel bei Oxidations- und Reduktionsvorgängen, thermischen Einflüssen, galvanischen Prozessen, mechanischen Bewegungsvorgängen, elektrotechnischen, hydraulischen und pneumatischen Antriebs- und Steuerungsvorgängen,</item>
+                    <item n="2.">Verwenden unterschiedlicher Energieformen im Betrieb sowie Beachten der damit zusammenhängenden Auswirkungen auf Mensch und Umwelt,</item>
+                    <item n="3.">Berechnen betriebs- und fertigungstechnischer Größen bei Belastungen und Bewegungen,</item>
+                    <item n="4.">Anwenden von statistischen Verfahren und Durchführen von einfachen statistischen Berechnungen sowie deren graphische Darstellung.</item>
+                </list>
+                <p>(2) Im Qualifikationsbereich "Technische Kommunikation und Werkstofftechnologie" soll die Fähigkeit, naturwissenschaftliche Kenntnisse zur Lösung technischer Aufgabenstellungen anwenden und technische Kommunikationsmittel einsetzen zu können, nachgewiesen werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:</p>
+                <list>
+                    <item n="1.">Technologie der Werk- und Hilfsstoffe überblicken,</item>
+                    <item n="2.">Prüfverfahren für Werkstoffe kennen,</item>
+                    <item n="3.">Lesen von technischen Zeichnungen einschließlich technischer Dokumentationen unter Berücksichtigung der Zeichnungsnormen,</item>
+                    <item n="4.">aus Zeichnungen Funktionen von Einzelteilen erkennen und deren Zusammenwirken beurteilen.</item>
+                </list>
+                <p>(3) Im Qualifikationsbereich "Fertigungs- und Betriebstechnik" soll die Fähigkeit, die technischen Module und Einrichtungen sowie ihre Instandhaltung funktionsgerecht planen, organisieren und überwachen zu können, nachgewiesen werden. Dazu gehört die Fähigkeit, Fertigungsprozesse zur Herstellung und Veränderung von Produkten planen, organisieren und überwachen zu können. Ferner umfasst die Fähigkeit, fertigungstechnische Einzelheiten und Zusammenhänge sowie Optimierungsmöglichkeiten des Fertigungsprozesses erkennen und zweckentsprechende Maßnahmen einleiten zu können. Beim Einsatz neuer Maschinen, Anlagen und Werkzeuge sowie bei der Be- und Verarbeitung neuer Werkstoffe und Fertigungshilfsstoffe sollen die Auswirkungen auf den Fertigungsprozess erkannt und berücksichtigt werden können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:</p>
+                <list>
+                    <item n="1.">Festlegen der anzuwendenden Fertigungsverfahren im Hinblick auf Betriebsmittel, Werk- und Hilfsstoffe einschließlich der Ermittlung der erforderlichen technischen Daten,</item>
+                    <item n="2.">Unterscheiden von Arten der Fügetechniken unter Berücksichtigung von unterschiedlichen Verfahren,</item>
+                    <item n="3.">Planen, Einleiten und Überwachen von frist- und situationsgerechten Instandhaltungsmaßnahmen,</item>
+                    <item n="4.">Beurteilen von Auswirkungen auf den Fertigungsprozess beim Einsatz neuer Werkstoffe, Verfahren und Betriebsmittel,</item>
+                    <item n="5.">Beurteilen der numerischen Steuerungstechnik beim Einsatz von Werkzeugmaschinen, bei der Programmierung und Organisation des Fertigungsprozesses unter Nutzung von Informationen aus rechnergestützten Systemen,</item>
+                    <item n="6.">Überblicken der Einsatzmöglichkeiten von Automatisierungssystemen einschließlich der Handhabungs-, Förder- und Speichersysteme,</item>
+                    <item n="7.">Verstehen der Informationen aus verknüpften, rechnergestützten Systemen der Konstruktion und Fertigung.</item>
+                </list>
+                <p>(4) Die schriftliche Prüfung besteht für jeden Qualifikationsbereich aus einer Arbeit, deren Mindestbearbeitungszeiten jeweils betragen:1.Naturwissenschaftliche und technische Grundlagen60 Minuten,2.Technische Kommunikation und Werkstofftechnologie90 Minuten,3.Fertigungs- und Betriebstechnik120 Minuten.Die Gesamtdauer soll jedoch 330 Minuten nicht überschreiten.</p>
+                <p>(5) Wurden in nicht mehr als einer schriftlichen Prüfungsleistung gemäß den Absätzen 1 bis 3 eine mangelhafte Prüfungsleistung erbracht, so ist darin eine Ergänzungsprüfung anzubieten. Die Ergänzungsprüfung soll anwendungsbezogen durchgeführt werden und in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Punktbewertung zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.</p>
+            </div>
+            <div xml:id="d176e326">
+                <head>§ 6</head>
+                <p>(1) Im Handlungsbereich "Absatz-, Materialwirtschaft und Logistik" soll die Fähigkeit, das absatzwirtschaftliche Instrumentarium anwenden zu können, nachgewiesen werden. Des Weiteren soll nachgewiesen werden, mit den Aufgaben der Materialwirtschaft vertraut zu sein und unternehmensspezifische Fragen lösen zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:</p>
+                <list>
+                    <item n="1.">Marktforschung kennen,</item>
+                    <item n="2.">Wirkmechanismen der Preispolitik verstehen,</item>
+                    <item n="3.">Produktpolitik kennen,</item>
+                    <item n="4.">Distributionspolitik erläutern,</item>
+                    <item n="5.">Kommunikationspolitik anwenden,</item>
+                    <item n="6.">Beschaffungslogistik anwenden,</item>
+                    <item n="7.">Produktionslogistik aufbereiten,</item>
+                    <item n="8.">Distributionslogistik mitwirken,</item>
+                    <item n="9.">Entsorgungslogistik kennen.</item>
+                </list>
+                <p>(2) Im Handlungsbereich "Produktionsplanung, -steuerung und -kontrolle" soll die Fähigkeit, die Aufgaben der Produktionswirtschaft und deren Funktionen im Unternehmen von der Produktentwicklung bis zum Vertrieb umsetzen zu können, nachgewiesen werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:</p>
+                <list>
+                    <item n="1.">Organisation der Produktion überblicken,</item>
+                    <item n="2.">Produktionsprogrammplanung durchführen,</item>
+                    <item n="3.">Arbeits- und Zeitwirtschaft anwenden,</item>
+                    <item n="4.">Arbeitsablaufgestaltung umsetzen,</item>
+                    <item n="5.">Arbeitsplatzgestaltung überblicken,</item>
+                    <item n="6.">Fertigungssteuerung durchführen,</item>
+                    <item n="7.">Produktionsüberwachung durchführen.</item>
+                </list>
+                <p>(3) Im Handlungsbereich "Qualitäts- und Umweltmanagement sowie Arbeitsschutz" soll die Fähigkeit, Qualitätsziele durch Anwendung entsprechender Methoden und Beeinflussung des Qualitätsbewusstseins der Mitarbeiter sichern zu können, nachgewiesen werden. Darüber hinaus müssen einschlägige Gesetze, Verfahren und Bestimmungen in ihrer Bedeutung gekannt und ihre Einhaltung sichergestellt werden und dass sich die Mitarbeiter arbeits-, gesundheits- und umweltbewusst verhalten und entsprechend handeln. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:</p>
+                <list>
+                    <item n="1.">interne und externe Bedeutung des Qualitätsmanagements erkennen,</item>
+                    <item n="2.">Umweltschutztechniken und deren rechtliche Grundlagen kennen,</item>
+                    <item n="3.">Arbeitsschutz und Arbeitssicherheit unter Berücksichtigung der rechtlichen Grundlagen sicherstellen.</item>
+                </list>
+                <p>(4) Im Handlungsbereich "Führung und Zusammenarbeit" soll die Fähigkeit nachgewiesen werden, zielorientiert mit Mitarbeitern, Auszubildenden, Geschäftspartnern und Kunden zu kommunizieren. Dabei soll gezeigt werden, dass Mitarbeiter, Auszubildende und Projektgruppen geführt werden können. Des Weiteren soll bei Verhandlungen und in Konfliktfällen lösungsorientiert gehandelt werden. Methoden der Kommunikation und Motivationsförderung sollen dabei berücksichtigt werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:</p>
+                <list>
+                    <item n="1.">Zusammenarbeit, Kommunikation und Kooperation verstehen,</item>
+                    <item n="2.">Mitarbeitergespräche durchführen,</item>
+                    <item n="3.">Konfliktmanagement anwenden,</item>
+                    <item n="4.">Mitarbeiterförderung umsetzen,</item>
+                    <item n="5.">Ausbildung planen und durchführen,</item>
+                    <item n="6.">Moderation von Projektgruppen vorbereiten und durchführen,</item>
+                    <item n="7.">Präsentationstechniken einsetzen.</item>
+                </list>
+                <p>(5) Die schriftliche Prüfung in den in den Absätzen 1 bis 4 genannten Handlungsbereichen wird in Form einer Situationsaufgabe durchgeführt. Die Prüfungsdauer beträgt mindestens 240, höchstens 300 Minuten.</p>
+            </div>
+            <div xml:id="d176e403">
+                <head>§ 7</head>
+                <p>(1) Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin kann beantragen, nach erfolgreichem Abschluss des Prüfungsteils "Handlungsspezifische Qualifikationen" ausgehend vom Handlungsbereich "Führung und Zusammenarbeit" eine zusätzliche Prüfung zum Nachweis berufs- und arbeitspädagogischer Qualifikationen abzulegen. Diese besteht aus einer Präsentation oder der praktischen Durchführung einer Ausbildungssituation und einem Prüfungsgespräch. Der Teilnehmer oder die Teilnehmerin wählt dazu eine Ausbildungssituation aus. Die Auswahl und Gestaltung der Ausbildungssituation ist in dem Gespräch zu begründen. Die Dauer der praktischen Prüfung soll höchstens 30 Minuten betragen.</p>
+                <p>(2) Die zusätzliche Prüfung ist bestanden, wenn die Prüfung im Prüfungsteil "Handlungsspezifische Qualifikationen" bestanden wurde und in der zusätzlichen Prüfung nach Absatz 1 mindestens ausreichende Leistungen erbracht sind.</p>
+                <p>(3) Dem Prüfungsteilnehmer oder der Prüfungsteilnehmerin ist ein zusätzliches Zeugnis auszustellen, aus dem hervorgeht, dass die berufs- und arbeitspädagogische Qualifikation durch eine Prüfung gemäß § 6 Abs. 4 und 5 sowie § 7 Abs. 1 nachgewiesen wurde.</p>
+            </div>
+            <div xml:id="d176e420">
+                <head>§ 8</head>
+                <p>Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag von der Ablegung einzelner Prüfungsbestandteile durch die zuständige Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der Bekanntgabe des Bestehens der anderen Prüfung erfolgt.</p>
+            </div>
+            <div xml:id="d176e434">
+                <head>§ 9</head>
+                <p>(1) Die Prüfungsleistungen in den Prüfungsteilen "Wirtschaftsbezogene Qualifikationen", "Technische Qualifikationen" und "Handlungsspezifische Qualifikationen" sind gesondert nach Punkten zu bewerten.</p>
+                <p>(2) Für die Prüfungsteile "Wirtschaftsbezogene Qualifikationen" und "Technische Qualifikationen" ist je eine Note aus dem arithmetischen Mittel der Punktebewertungen der Leistungen in den einzelnen Qualifikationsbereichen zu bilden.</p>
+                <p>(3) Im Prüfungsteil "Handlungsspezifische Qualifikationen" ist eine Note aus der schriftlichen Situationsaufgabe sowie eine Note aus dem situationsbezogenen Fachgespräch und der Präsentation zu bilden.</p>
+                <p>(4) Die Prüfung ist insgesamt bestanden, wenn in allen Prüfungsleistungen mindestens ausreichende Leistungen erbracht wurden.</p>
+                <p>(5) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1 und der Anlage 2 auszustellen. Im Fall der Freistellung gemäß § 8 sind nur Ort und Datum sowie die Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben.</p>
+            </div>
+            <div xml:id="d176e455">
+                <head>§ 10</head>
+                <p>(1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt werden. Einzelne Prüfungsteile können vor Abschluss des jeweiligen Prüfungsverfahrens wiederholt werden.</p>
+                <p>(2) Mit dem Antrag auf Wiederholung der Prüfung wird der Prüfungsteilnehmer oder die Prüfungsteilnehmerin von einzelnen Prüfungsleistungen befreit, wenn die darin in einer vorangegangenen Prüfung erbrachten Leistungen mindestens ausreichend sind und der Prüfungsteilnehmer oder die Prüfungsteilnehmerin sich innerhalb von zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen Prüfung an, zur Wiederholungsprüfung angemeldet hat. Bestandene Prüfungsleistungen können auf Antrag einmal wiederholt werden. In diesem Fall gilt das Ergebnis der letzten Prüfung.</p>
+            </div>
+            <div xml:id="d176e469">
+                <head>§ 11</head>
+                <p>Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren können nach den bisherigen Vorschriften bis zum 31. Dezember 2011 zu Ende geführt werden.</p>
+            </div>
+            <div xml:id="d176e482">
+                <head>§ 12</head>
+                <p>Diese Verordnung tritt am 1. Februar 2006 in Kraft.</p>
+            </div>
+            <div xml:id="d176e494">
+                <head>Anlage 1</head>
+                <p>(Fundstelle: BGBl. I 2006, 72;bzgl. der einzelnen Änderungen vgl. Fußnote)..............................................................................(Bezeichnung der zuständigen Stelle)Zeugnisüber die Prüfung zum anerkannten AbschlussGeprüfter Technischer Fachwirt/Geprüfte Technische FachwirtinHerr/Frau ....................................................................geboren am ............................. in ..................................hat am ................................. die Prüfung zum anerkannten AbschlussGeprüfter Technischer Fachwirt/Geprüfte Technische Fachwirtingemäß der Verordnung über die Prüfung zum anerkannten Abschluss GeprüfterTechnischer Fachwirt/Geprüfte Technische Fachwirtin vom 17. Januar 2006(BGBl. I S. 66), die zuletzt durch Artikel 9 der Verordnung vom 23. Juli 2010(BGBl. I S. 1010) geändert worden ist,bestanden.Datum ..........................................Unterschrift(en) ...............................(Siegel der zuständigen Stelle)</p>
+            </div>
+            <div xml:id="d176e551">
+                <head>Anlage 2</head>(Fundstelle: BGBl. I 2006, 73;bzgl. der einzelnen Änderungen vgl. Fußnote)..............................................................................(Bezeichnung der zuständigen Stelle)Zeugnisüber die Prüfung zum anerkannten AbschlussGeprüfter Technischer Fachwirt/Geprüfte Technische FachwirtinHerr/Frau ....................................................................geboren am ............................. in ..................................hat am ................................. die Prüfung zum anerkannten AbschlussGeprüfter Technischer Fachwirt/Geprüfte Technische Fachwirtingemäß der Verordnung über die Prüfung zum anerkannten Abschluss GeprüfterTechnischer Fachwirt/Geprüfte Fachwirtin vom 17. Januar 2006 (BGBl. I S. 66),die zuletzt durch Artikel 9 der Verordnung vom 23. Juli 2010(BGBl. I S. 1010) geändert worden ist, mit folgenden Ergebnissen bestanden:Punkte *) Note1. Wirtschafsbezogene Qualifikationen .........Qualifikationsbereiche1. Volks- und Betriebswirtschaft .........2. Rechnungswesen .........3. Recht und Steuern .........4. Unternehmensführung .........2. Technische Qualifikationen .........Naturwissenschaftliche und technische Grundlagen .........Technische Kommunikation undWerkstofftechnologie .........Fertigungs- und Betriebstechnik .........3. Handlungsspezifische QualifikationenSchriftliche Situationsaufgabe .........Situationsbezogenes Fachgespräch mitPräsentation .........(Im Fall des § 8: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin wurdenach § 8 im Hinblick auf die am .......... in .......... vor ..........abgelegte Prüfung vom Prüfungsbestandteil .......... freigestellt.“)Datum ..........................................Unterschrift(en) ...............................(Siegel der zuständigen Stelle)-----<list>
+                    <item n="*)">Den Bewertungen liegt folgender Punkteschlüssel zu Grunde: .............</item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

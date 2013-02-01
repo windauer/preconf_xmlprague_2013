@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR003680950">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richterwahlgesetz</title>
+                <title type="short">RiWG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1950-08-25</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 3.8.1968 +++)</p>
+            <p>Überschrift: Erstreckt auf das Land Berlin durch V v. 16.7.1954 I 210, vgl. GVBl. Berlin S. 470; gem. § 33 Nr. 4 G v. 30.6.1959 101-3 im Saarland in Kraft mit Wirkung vom 11.1.1957</p>
+        </front>
+        <body>
+            <div xml:id="d1385e26">
+                <head>§ 1</head>
+                <p>(1) Die Richter der obersten Gerichtshöfe des Bundes werden von dem zuständigen Bundesminister gemeinsam mit dem Richterwahlausschuß berufen und vom Bundespräsidenten ernannt.</p>
+                <p>(2) Bei der Berufung eines Richters an einen obersten Gerichtshof wirkt der für das jeweilige Sachgebiet zuständige Bundesminister mit.</p>
+                <p>(3) Die von der Bundesregierung nach Artikel 253 des Vertrags über die Arbeitsweise der Europäischen Union (Gesetz vom 8. Oktober 2008 zum Vertrag von Lissabon vom 13. Dezember 2007, BGBl. 2008 II S. 1038) zur Ernennung zu Richtern und Generalanwälten des Gerichtshofs vorzuschlagenden Persönlichkeiten und die von der Bundesregierung nach Artikel 254 des Vertrags über die Arbeitsweise der Europäischen Union zur Ernennung zu Mitgliedern des Gerichts vorzuschlagenden Persönlichkeiten werden von der Bundesregierung im Einvernehmen mit dem Richterwahlausschuss benannt.</p>
+            </div>
+            <div xml:id="d1385e41">
+                <head>§ 2</head>
+                <p>Der Richterwahlausschuß besteht aus den Mitgliedern kraft Amtes und einer gleichen Zahl von Mitgliedern kraft Wahl.</p>
+            </div>
+            <div xml:id="d1385e51">
+                <head>§ 3</head>
+                <p>(1) Mitglieder kraft Amtes im Ausschuß, der die Richter eines obersten Gerichtshofs wählt, sind die Landesminister, zu deren Geschäftsbereich die diesem obersten Gerichtshof im Instanzenzug untergeordneten Gerichte des Landes gehören.</p>
+                <p>(2) Sie können sich nur nach den gleichen Regeln vertreten lassen, die für ihre Vertretung in der Landesregierung gelten.</p>
+                <p>(3) Für das Verfahren nach § 1 Absatz 3 regeln die Länder, welcher Landesminister Mitglied kraft Amtes ist.</p>
+            </div>
+            <div xml:id="d1385e66">
+                <head>§ 4</head>
+                <p>(1) Die Mitglieder kraft Wahl müssen zum Bundestag wählbar und im Rechtsleben erfahren sein.</p>
+                <p>(2) Verändert sich die Zahl der Mitglieder kraft Amtes, so verändert sich die Zahl der Mitglieder kraft Wahl entsprechend. Ihre Neuwahl ist notwendig.</p>
+                <p>(3) Jedes dieser Mitglieder kann sich durch seinen Stellvertreter vertreten lassen.</p>
+            </div>
+            <div xml:id="d1385e80">
+                <head>§ 5</head>
+                <p>(1) Die Mitglieder kraft Wahl und ihre Stellvertreter beruft der Bundestag nach den Regeln der Verhältniswahl.</p>
+                <p>(2) Jede Fraktion kann einen Vorschlag einbringen. Aus den Summen der für jeden Vorschlag abgegebenen Stimmen wird nach dem Höchstzahlverfahren (d'Hondt) die Zahl der auf jeden Vorschlag gewählten Mitglieder errechnet. Gewählt sind die Mitglieder und ihre Stellvertreter in der Reihenfolge, in der ihr Name auf dem Vorschlag erscheint.</p>
+                <p>(3) Scheidet ein Mitglied aus, so wird sein Stellvertreter Mitglied. Scheidet ein Stellvertreter aus, so wird er durch den nächsten aus der Reihe der nicht mehr Gewählten ersetzt.</p>
+                <p>(4) Mitgliedschaft und Stellvertretung enden durch Neuwahl oder durch Verzicht, der schriftlich dem Bundesminister der Justiz zu erklären ist.</p>
+                <p>(5) Jeder neu gewählte Bundestag nimmt eine Neuwahl vor.</p>
+            </div>
+            <div xml:id="d1385e98">
+                <head>§ 6</head>
+                <p>(1) Der Bundesminister der Justiz verpflichtet die Mitglieder des Richterwahlausschusses und ihre Stellvertreter durch Handschlag auf gewissenhafte Pflichterfüllung.</p>
+                <p>(2) Die Mitglieder sind zur Verschwiegenheit verpflichtet. Die Genehmigung zur Aussage in gerichtlichen Verfahren erteilt der Bundesminister der Justiz.</p>
+            </div>
+            <div xml:id="d1385e110">
+                <head>§ 7</head>
+                <p>Ein Mitglied des Richterwahlausschusses ist von der Mitwirkung bei der Wahl eines Richters ausgeschlossen, wenn die Voraussetzungen des § 41 Nr. 3 der Zivilprozeßordnung vorliegen.</p>
+            </div>
+            <div xml:id="d1385e120">
+                <head>§ 8</head>
+                <p>(1) Der Bundesminister der Justiz beruft den Richterwahlausschuß ein.</p>
+                <p>(2) Die Einladung muß die Tagesordnung für die Sitzung des Richterwahlausschusses enthalten und den Mitgliedern mindestens eine Woche vor der Sitzung zugehen.</p>
+            </div>
+            <div xml:id="d1385e132">
+                <head>§ 9</head>
+                <p>(1) Der zuständige Bundesminister oder sein Vertreter in der Bundesregierung führt den Vorsitz. Er hat kein Stimmrecht.</p>
+                <p>(2) Die Sitzungen sind nicht öffentlich.</p>
+                <p>(3) Über jede Sitzung wird eine Niederschrift gefertigt.</p>
+            </div>
+            <div xml:id="d1385e147">
+                <head>§ 10</head>
+                <p>(1) Der zuständige Bundesminister und die Mitglieder des Richterwahlausschusses können vorschlagen, wer zum Bundesrichter zu berufen ist. Der Bundesminister der Justiz und die Mitglieder des Richterwahlausschusses können vorschlagen, wer im Verfahren nach § 1 Absatz 3 von der Bundesregierung nach Artikel 253 des Vertrags über die Arbeitsweise der Europäischen Union zum Richter oder Generalanwalt des Gerichtshofs benannt werden soll und wer im Verfahren nach § 1 Absatz 3 von der Bundesregierung nach Artikel 254 des Vertrags über die Arbeitsweise der Europäischen Union zum Mitglied des Gerichts benannt werden soll.</p>
+                <p>(2) Der zuständige Bundesminister legt dem Richterwahlausschuß die Personalakten der für ein Richteramt Vorgeschlagenen vor.</p>
+                <p>(3) Zur Vorbereitung der Entscheidung bestellt der Richterwahlausschuß zwei seiner Mitglieder als Berichterstatter.</p>
+            </div>
+            <div xml:id="d1385e162">
+                <head>§ 11</head>
+                <p>Der Richterwahlausschuß prüft, ob der für ein Richteramt Vorgeschlagene die sachlichen und persönlichen Voraussetzungen für dieses Amt besitzt.</p>
+            </div>
+            <div xml:id="d1385e172">
+                <head>§ 12</head>
+                <p>(1) Der Richterwahlausschuß entscheidet in geheimer Abstimmung mit der Mehrheit der abgegebenen Stimmen.</p>
+                <p>(2) Der Richterwahlausschuß ist beschlußfähig, wenn die Mehrzahl sowohl der Mitglieder kraft Amtes als auch der Mitglieder kraft Wahl anwesend ist.</p>
+            </div>
+            <div xml:id="d1385e184">
+                <head>§ 13</head>
+                <p>Stimmt der zuständige Bundesminister zu, so hat er die Ernennung des Gewählten beim Bundespräsidenten zu beantragen.</p>
+            </div>
+            <div xml:id="d1385e194">
+                <head>§ 14</head>
+                <p>Die Mitglieder kraft Wahl erhalten Reisekostenentschädigung nach den Bestimmungen des Bundesreisekostengesetzes. Dies gilt nicht für Mitglieder des Bundestages, wenn der Richterwahlausschuß an einem Sitzungstag des Bundestages am Sitzungsort zusammentritt.</p>
+            </div>
+            <div xml:id="d1385e205">
+                <head>§ 15</head>
+                <p>Dieses Gesetz tritt mit dem Tag nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

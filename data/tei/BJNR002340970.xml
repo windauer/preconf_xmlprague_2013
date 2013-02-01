@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002340970">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung zur Durchführung der Bundesdisziplinarordnung für die Deutsche Bibliothek</title>
+                <title type="short">DBiblBDODAnO</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1970-02-18</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 3.1970 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1250e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 35 Abs. 1 Satz 1 Nr. 3 der Bundesdisziplinarordnung in der Fassung der Bekanntmachung vom 20. Juli 1967 (Bundesgesetzbl. I S. 750, 984),zuletzt geändert durch das Fünfte Gesetz zur Änderung beamtenrechtlicher und besoldungsrechtlicher Vorschriften vom 19. Juli 1968 (Bundesgesetzblatt I S. 848),ordne ich an:</p>
+            </div>
+            <div xml:id="d1250e33">
+                <head>I.</head>
+                <p>Für die Beamten der Deutschen Bibliothek sind im Sinne der Bundesdisziplinarordnung Einleitungsbehörden:</p>
+                <list>
+                    <item n="1.">für den Generaldirektor der Deutschen Bibliothek und den Direktor bei der Deutschen Bibliothek (als ständigen Vertreter des Generaldirektors):<list>
+                            <item n="">der Bundesminister des Innern,</item>
+                        </list>
+                    </item>
+                    <item n="2.">für die übrigen Beamten der Deutschen Bibliothek:<list>
+                            <item n="">der Generaldirektor der Deutschen Bibliothek.</item>
+                        </list>
+                    </item>
+                </list>
+            </div>
+            <div xml:id="d1250e54">
+                <head>II.</head>
+                <p>Diese Anordnung tritt am 1. März 1970 in Kraft.</p>
+            </div>
+            <div xml:id="d1250e64">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister des Innern</p>
+            </div>
+        </body>
+    </text>
+</TEI>

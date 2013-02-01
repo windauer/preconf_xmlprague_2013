@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR007970937">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Versicherungsteuer-Durchführungsverordnung</title>
+                <title type="short">VersStGDB</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1937-07-13</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1964 +++)</p>
+        </front>
+        <body>
+            <div>
+                <head>A.</head>
+                <head type="subtitle">Allgemeine Bestimmungen</head>
+                <div xml:id="d333e44">
+                    <head>§ 1</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d333e57">
+                    <head>§ 2</head>
+                    <p>(1) Der inländische Versicherer hat die Eröffnung seines Geschäftsbetriebs binnen zwei Wochen dem Bundeszentralamt für Steuern anzumelden. Das gleiche gilt für eine Person oder eine Personenvereinigung, die an einem Versicherungsvertrag im Sinne des § 2 Abs. 1 des Gesetzes beteiligt ist.</p>
+                    <p>(2) Zugleich mit der Anmeldung hat der Versicherer dem Bundeszentralamt für Steuern anzuzeigen, ob er die Erfüllung der Steuerpflicht selbst übernehmen oder den zur Empfangnahme von Prämienzahlungen ermächtigten Personen (Bevollmächtigten) übertragen will. In der Anzeige hat der Versicherer alle Bevollmächtigten, denen er die Erfüllung der Steuerpflicht übertragen hat, unter Angabe ihres Wohnsitzes (Sitzes, Geschäftsleitung) und des Umfangs der Übertragung aufzuführen.</p>
+                    <p>(3) Veränderungen gegenüber den in der Anmeldung (Absatz 1) oder Anzeige (Absatz 2) gemachten Angaben hat der Versicherer binnen zwei Wochen dem Bundeszentralamt für Steuern anzuzeigen.</p>
+                    <p>(4) Die Absätze 1 bis 3 gelten entsprechend für die inländische Geschäftsstelle eines ausländischen Versicherers, der die Leitung des Geschäfts im Inland übertragen ist.</p>
+                </div>
+                <div xml:id="d333e76">
+                    <head>§ 3</head>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d333e86">
+                    <head>§ 4</head>
+                    <p>(aufgehoben)</p>
+                </div>
+                <div xml:id="d333e97">
+                    <head>§ 5</head>
+                    <p>Sind bei einer Viehversicherung statt einer Versicherungssumme feste Entschädigungsbeträge für jedes Stück Vieh vereinbart, so gilt die Ausnahmevorschrift des § 4 Nr. 9 des Gesetzes nur, wenn der Höchstbetrag der Ersatzpflicht des Versicherers gegenüber einem Versicherungsnehmer im Zeitpunkt der Zahlung des Versicherungsentgelts 4.000 Euro nicht übersteigt.</p>
+                </div>
+            </div>
+            <div>
+                <head>B.</head>
+                <head type="subtitle">Besteuerungsverfahren</head>
+                <div>
+                    <head>I.</head>
+                    <head type="subtitle">Entrichtung der Steuer durch den Versicherer</head>
+                    <div xml:id="d333e138">
+                        <head>(XXXX) §§ 6 bis 9</head>
+                    </div>
+                    <div xml:id="d333e149">
+                        <head>§ 10</head>
+                        <p>Das Bundeszentralamt für Steuern kann in Fällen, in denen die Feststellung der Unterlagen für die Steuerfestsetzung unverhältnismäßig schwierig sein würde, die Berechnung und Entrichtung der Steuer im Pauschverfahren zulassen.</p>
+                    </div>
+                </div>
+                <div>
+                    <head>II.</head>
+                    <head type="subtitle">Entrichtung der Steuer durch den Versicherungsnehmer</head>
+                    <div xml:id="d333e176">
+                        <head>§ 11</head>
+                        <p>(weggefallen)</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

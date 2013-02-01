@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR021300987">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung</title>
+                <title type="short">BPräsAmtsbezAnO 1987-08</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1987-08-12</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 29. 8.1987 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d875e20">
+                <head>(XXXX)</head>
+                <p>Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich für den Direktor des Instituts für Arbeitsmarkt- und Berufsforschung und Leiter einer Abteilung bei der Hauptstelle der Bundesanstalt für Arbeit folgende Amtsbezeichnungen fest:</p>
+                <list>
+                    <item n="">Oberdirektor und Professor bei der Hauptstelle der Bundesanstalt für Arbeit.</item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

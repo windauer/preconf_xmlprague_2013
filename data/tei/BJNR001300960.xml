@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR001300960">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zweite Verordnung zur Änderung der Ersten, Zweiten und Dritten Verordnung zur Durchführung des Bundesentschädigungsgesetzes</title>
+                <title type="short">BEGDV1/2/3ÄndV 2</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1960-02-25</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d68e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund der §§ 27, 42 und 126 des Bundesgesetzes zur Entschädigung für Opfer der nationalsozialistischen Verfolgung (Bundesentschädigungsgesetz - BEG) in der Fassung des Gesetzes vom 29. Juni 1956 (Bundesgesetzbl. I S. 559) verordnet die Bundesregierung mit Zustimmung des Bundesrates:</p>
+            </div>
+            <div xml:id="d68e30">
+                <head>(XXXX) Art I bis Art III</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d68e43">
+                <head>Art IV</head>
+                <p>(1) Die Unanfechtbarkeit oder die Rechtskraft einer vor Verkündung dieser Verordnung ergangenen Entscheidung steht einer erneuten Entscheidung auf Grund dieser Verordnung nicht entgegen.</p>
+                <p>(2) Ein Rentenwahlrecht wegen Schadens im beruflichen Fortkommen wird im Rahmen des Absatzes 1 nur in den Fällen begründet, in denen erst die Anwendung des Artikels III die Voraussetzungen für eine Ausübung des Rentenwahlrechts begründet. Dabei ist auf den Zeitpunkt der Unanfechtbarkeit oder der Rechtskraft der vor Verkündung dieser Verordnung ergangenen Entscheidung abzustellen.</p>
+                <p>(3) Soweit vor Verkündung dieser Verordnung Ansprüche von Berechtigten durch Bescheid oder durch rechtskräftige gerichtliche Entscheidung vorbehaltlos festgesetzt worden sind, behält es hierbei zugunsten der Berechtigten sein Bewenden. Das gleiche gilt, soweit die Ansprüche vor Verkündung dieser Verordnung durch unanfechtbaren Vergleich geregelt worden sind.</p>
+            </div>
+            <div xml:id="d68e59">
+                <head>Art V</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 240 BEG auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d68e71">
+                <head>Art VI</head>
+                <p>Diese Verordnung tritt mit Ausnahme des Zweiten Abschnitts des Artikels III mit Wirkung vom 1. Oktober 1953 in Kraft. Der Zweite Abschnitt des Artikels III tritt mit Wirkung vom 1. April 1959 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

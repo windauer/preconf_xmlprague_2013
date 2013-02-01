@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006940957">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über die Statistik der Bevölkerungsbewegung und die Fortschreibung des Bevölkerungsstandes</title>
+                <title type="short">BevStatG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1957-07-04</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 23.8.1980 +++)Kurzüberschrift u. Abkürzung: Eingef. durch Art. 2 Nr. 1 G v. 30.10.2007 I 2526 mWv 1.1.2008</p>
+        </front>
+        <body>
+            <div xml:id="d213e37">
+                <head>§ 1</head>
+                <p>Um die Veränderungen in Zahl und Zusammensetzung der Bevölkerung und ihre Ursachen im Geltungsbereich dieses Gesetzes festzustellen, wird eine Bundesstatistik durchgeführt. Sie umfaßt</p>
+                <list>
+                    <item n="1.">die Statistik der natürlichen Bevölkerungsbewegung einschließlich der Todesursachenstatistik,</item>
+                    <item n="2.">die Statistik der rechtskräftigen Urteile in Ehesachen,</item>
+                    <item n="3.">die Wanderungsstatistik und</item>
+                    <item n="4.">die Fortschreibung des Bevölkerungsstandes.</item>
+                </list>
+            </div>
+            <div xml:id="d213e56">
+                <head>§ 2</head>
+                <p>(1) Für die Statistik der natürlichen Bevölkerungsbewegung werden bei Eheschließungen, Geburten und Sterbefällen mit Zählkarten laufend folgende Tatbestände erfaßt:</p>
+                <list>
+                    <item n="1.">Bei Eheschließungen:<list>
+                            <item n="a)">Tag der Eheschließung,</item>
+                            <item n="b)">Wohngemeinde, Alter, bisheriger Familienstand und Kinder der Ehegatten,</item>
+                            <item n="c)">rechtliche Zugehörigkeit oder Nichtzugehörigkeit zu einer Kirche, Religionsgesellschaft oder Weltanschauungsgemeinschaft und Staatsangehörigkeit;</item>
+                        </list>
+                    </item>
+                    <item n="2.">bei Lebend- und Totgeburten:<list>
+                            <item n="a)">Geburtstag, Geschlecht, Körpergewicht, Körperlänge, Angabe über Ehelichkeit oder Nichtehelichkeit des Kindes,</item>
+                            <item n="b)">Wohngemeinde und Alter der Eltern,</item>
+                            <item n="c)">Erwerbstätigkeit der Mutter, rechtliche Zugehörigkeit oder Nichtzugehörigkeit zu einer Kirche, Religionsgesellschaft oder Weltanschauungsgemeinschaft und Staatsangehörigkeit,</item>
+                            <item n="d)">Mehrlingsgeburt,</item>
+                            <item n="e)">bei ehelichen Kindern: Tag der Eheschließung der Eltern, Geburtenfolge sowie Geburtsdatum des vorangegangenen Kindes,</item>
+                            <item n="f)">Geburtstag des vorangegangenen Kindes der Mutter und Geburtenfolge in Bezug auf die Kinder der Mutter;</item>
+                        </list>
+                    </item>
+                    <item n="3.">bei Sterbefällen:<list>
+                            <item n="a)">Sterbetag, Geschlecht, Alter, Familienstand - bei Kindern Angabe über Ehelichkeit oder Nichtehelichkeit - und Wohngemeinde,</item>
+                            <item n="b)">Erwerbstätigkeit, rechtliche Zugehörigkeit oder Nichtzugehörigkeit zu einer Kirche, Religionsgesellschaft oder Weltanschauungsgemeinschaft und Staatsangehörigkeit,</item>
+                            <item n="c)">bei Verheirateten: Alter des überlebenden Ehegatten,</item>
+                            <item n="d)">Todesursache, bei Sterbefällen innerhalb der ersten vierundzwanzig Lebensstunden auch Lebensdauer.</item>
+                        </list>
+                    </item>
+                </list>
+                <p>(2) Die Zählkarten werden von den Standesämtern und in den Fällen der §§ 20 und 30 des Personenstandsgesetzes von den dort genannten Stellen ausgefüllt. In den Ländern, in denen ein Leichenschauschein (Totenschein) eingeführt ist, der die in Absatz 1 Nr. 3 Buchstabe d genannten Tatbestände enthält, brauchen diese Tatbestände nicht in die Zählkarten aufgenommen zu werden. Der Leichenschauschein (Totenschein) tritt insoweit an die Stelle der Zählkarte.</p>
+                <p>(3) Soweit die Angaben, die zum Ausfüllen der Zählkarten nötig sind, nicht aus den Eintragungen in die Personenstandsregister oder aus anderen vorgelegten Unterlagen hervorgehen, sind die Anzeigenden oder die Eheschließenden, für die Angabe der Todesursache die nach Landesrecht für die Leichenschau zuständigen Ärzte oder sonstigen Personen auskunftspflichtig. Für die Angabe von Körpergewicht, Körperlänge bei der Geburt sind in den Fällen, in denen sie hinzugezogen wurden, der Arzt oder die Hebamme, in den übrigen Fällen die Anzeigenden auskunftspflichtig.</p>
+            </div>
+            <div xml:id="d213e107">
+                <head>§ 3</head>
+                <p>(1) Für die Statistik der rechtskräftigen Urteile in Ehesachen werden bei gerichtlichen Entscheidungen über Ehescheidungs-, -aufhebungs- oder -nichtigkeitsklagen mit Zählkarten laufend folgende Tatbestände erfaßt:</p>
+                <list>
+                    <item n="1.">Kläger und Widerkläger,</item>
+                    <item n="2.">Inhalt der Entscheidung (Nichtigkeitserklärung, Aufhebung, Scheidung, Klageabweisung, Schuldausspruch, zugrunde gelegte gesetzliche Bestimmungen),</item>
+                    <item n="3.">Alter der Ehegatten, Ehedauer und Kinderzahl,</item>
+                    <item n="4.">Staatsangehörigkeit der Ehegatten.</item>
+                </list>
+                <p>(2) Die Zählkarten werden von den Urkundsbeamten der Geschäftsstelle des Gerichts erster Instanz nach Rechtskraft des Urteils auf Grund der Gerichtsakten ausgefüllt.</p>
+            </div>
+            <div xml:id="d213e129">
+                <head>§ 4</head>
+                <p>Für die Wanderungsstatistik werden bei der An- und Abmeldung die Zu- und Fortzüge (Wohnungswechsel) sowie Änderungen des Wohnungsstatus mit folgenden Tatbeständen laufend erfaßt:</p>
+                <list>
+                    <item n="1.">Tag des Bezugs der neuen oder des Auszugs aus der alten Wohnung, alte und neue Wohngemeinde, Haupt- und Nebenwohnsitz,</item>
+                    <item n="2.">Geschlecht, Alter und Familienstand,</item>
+                    <item n="3.">rechtliche Zugehörigkeit oder Nichtzugehörigkeit zu einer Religionsgesellschaft und Staatsangehörigkeit,</item>
+                    <item n="4.">Geburtsort und Geburtsstaat,</item>
+                    <item n="5.">bei Zuzug aus dem Ausland: Datum des dem Zuzug vorangegangenen Fortzugs vom Inland ins Ausland.</item>
+                </list>
+            </div>
+            <div xml:id="d213e151">
+                <head>§ 5</head>
+                <p>Bei der Fortschreibung des Bevölkerungsstandes sind auf der Grundlage der jeweils letzten allgemeinen Zählung der Bevölkerung nach den Ergebnissen der Statistik der natürlichen Bevölkerungsbewegung und der Wanderungsstatistik die Bevölkerung insgesamt sowie die deutsche Bevölkerung nach Geschlecht, Alter und Familienstand festzustellen.</p>
+            </div>
+            <div xml:id="d213e161">
+                <head>§ 6</head>
+                <p>(1) Die Zählkarten für Eheschließungen, Geburten und Sterbefälle (§ 2 Abs. 1) und für rechtskräftige Urteile in Ehesachen (§ 3 Abs. 1) sowie die Leichenschauscheine (§ 2 Abs. 2) und eine Ausfertigung der Meldescheine (§ 4) sind mindestens monatlich an das Statistische Landesamt zu übersenden. Die Leichenschauscheine sind über das Gesundheitsamt zu leiten. Soweit möglich, sind die Daten auf automatisiert verarbeitbaren Datenträgern oder durch Datenübertragung zu übermitteln.</p>
+                <p>(2) Einzelangaben in statistischen Ergebnissen über die nach § 2 Abs. 1 Nr. 1 Buchstabe c, Nr. 2 Buchstabe c, Nr. 3 Buchstabe b und § 4 Nr. 3 erfaßte Zugehörigkeit oder Nichtzugehörigkeit zu einer Religionsgemeinschaft dürfen in der Gliederung nach dem Jahr der Eheschließung, der Geburt, des Sterbefalls und des Wohnungswechsels von den Statistischen Ämtern des Bundes und der Länder veröffentlicht werden.</p>
+            </div>
+            <div xml:id="d213e174">
+                <head>§ 7</head>
+                <p>(weggefallen)</p>
+            </div>
+            <div xml:id="d213e185">
+                <head>§ 8</head>
+                <p>Inkrafttreten</p>
+            </div>
+        </body>
+    </text>
+</TEI>

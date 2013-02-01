@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR019050938">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Regelung der Fälligkeit alter Hypotheken</title>
+                <title type="short">HypFällV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1938-12-22</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Die Vorschrift ist wegen der geringen praktischen Bedeutung nur mit Überschrift, Datum und Fundstelle aufgenommen</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR005690957">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über den Aufruf der Gläubiger der I. G. Farbenindustrie Aktiengesellschaft in Abwicklung</title>
+                <title type="short">GlAufrG 1957</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1957-05-27</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d88e20">
+                <head>§ 1</head>
+                <p>(1) Zur Beschleunigung der Abwicklung der I.G. Farbenindustrie Aktiengesellschaft in Abwicklung haben die Abwickler der Gesellschaft deren Gläubiger aufzufordern, ihre Ansprüche anzumelden; in der Aufforderung haben sie auf die Auflösung der Gesellschaft und auf die Folgen der Nichtanmeldung sowie darauf hinzuweisen, daß durch die Anmeldung die Verjährung der Ansprüche nicht unterbrochen wird. In der Aufforderung ist ein Zeitpunkt zu bestimmen, bis zu dem die Anmeldung spätestens zu erfolgen hat.</p>
+                <p>(2) Die Aufforderung ist dreimal in den Gesellschaftsblättern bekanntzumachen. Zwischen der letzten Bekanntmachung der Aufforderung im Bundesanzeiger und dem in der Aufforderung für die Anmeldung bestimmten spätesten Zeitpunkt müssen mindestens sechs Monate liegen.</p>
+                <p>(3) Nicht rechtzeitig angemeldete Ansprüche erlöschen mit dem Ablauf der Frist. Dies gilt nicht, wenn es sich um Ansprüche aus verbrieften Schulden oder um Ansprüche handelt, die aus den Unterlagen der Gesellschaft ersichtlich sind oder waren oder sonst der Gesellschaft bekannt sind oder waren.</p>
+            </div>
+            <div xml:id="d88e34">
+                <head>§ 2</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d88e45">
+                <head>§ 3</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d88e56">
+                <head>§ 4</head>
+                <p>Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

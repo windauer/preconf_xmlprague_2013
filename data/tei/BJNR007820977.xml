@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR007820977">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über den Höchstgehalt an Erukasäure in Lebensmitteln</title>
+                <title type="short">ErukasäureV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1977-05-24</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 31.10.1982 +++)(+++ Zur Anwendung im Beitrittsgebiet vgl. für die Zeit vom 3.10.1990 bis31.12.1990 V v. 28.9.1990 I 2117 (EGRÜblV) u. für die Zeit ab 1.1.1991V v. 18.12.1990 I 2915 (EGRechtÜblV) +++)</p>
+        </front>
+        <body>
+            <div xml:id="d320e33">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 9 Abs. 1 Nr. 4 Buchstabe a des Lebensmittel- und Bedarfsgegenständegesetzes vom 15. August 1974 (BGBl. I S. 1945, 1946) wird im Einvernehmen mit den Bundesministern für Ernährung, Landwirtschaft und Forsten und für Wirtschaft mit Zustimmung des Bundesrates verordnet:</p>
+            </div>
+            <div xml:id="d320e43">
+                <head>§ 1</head>
+                <p>Diese Verordnung gilt für</p>
+                <list>
+                    <item n="1.">Speiseöle, Speisefette und ihre Mischungen, die als solche an den Verbraucher abgegeben werden,</item>
+                    <item n="2.">Lebensmittel, die unter Zusatz von Speiseöl, Speisefett oder ihren Mischungen hergestellt werden und einen Gesamtfettgehalt von mehr als 5 vom Hundert haben.</item>
+                </list>
+            </div>
+            <div xml:id="d320e58">
+                <head>§ 2</head>
+                <p>(1) Die in § 1 genannten Lebensmittel dürfen gewerbsmäßig nicht in den Verkehr gebracht werden, wenn ihr Erukasäuregehalt, bezogen auf den Gesamtgehalt an Fettsäuren in der Fettphase, 5 vom Hundert übersteigt.</p>
+                <p>(2) Der Erukasäuregehalt ist nach der Methode zu bestimmen, die in der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches *) unter der Gliederungsnummer L 13.00-1(EG), Stand April 1981, beschrieben ist.</p>
+                <p>(3) Die Bestimmung des Erukasäuregehalts nach Absatz 2 ist nicht erforderlich, wenn der Gesamtgehalt der Lebensmittel an Docosen- oder cis-Docosensäuren nicht mehr als 5 vom Hundert, bezogen auf den Gesamtgehalt an Fettsäuren in der Fettphase, beträgt und dies nach der Methode festgestellt wird, die in der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches unter der Gliederungsnummer L 23.04-1(EG), Stand April 1981, beschrieben ist.</p>
+            </div>
+            <div xml:id="d320e73">
+                <head>§ 3</head>
+                <p>Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 2 Abs. 1 Lebensmittel im Sinne des § 1 mit einem überhöhten Gehalt an Erukasäure gewerbsmäßig in den Verkehr bringt.</p>
+            </div>
+            <div xml:id="d320e84">
+                <head>§ 4</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit Artikel 11 des Gesetzes zur Gesamtreform des Lebensmittelrechts vom 15. August 1974 (BGBl. I S. 1945) auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d320e94">
+                <head>§ 5</head>
+                <p>Diese Verordnung tritt am 1. Juli 1977 in Kraft.</p>
+            </div>
+            <div xml:id="d320e105">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Jugend, Familie und Gesundheit</p>
+            </div>
+        </body>
+    </text>
+</TEI>

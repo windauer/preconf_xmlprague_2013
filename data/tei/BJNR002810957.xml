@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002810957">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vierte Verordnung zur Durchführung des Bundesentschädigungsgesetzes</title>
+                <title type="short">BEGDV 4</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1957-03-15</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Überschrift: Im Saarland eingeführt durch G Nr. 658 ABl. des Saarlandes 1959 S. 759(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1302e25">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 182 Abs. 3 des Bundesgesetzes zur Entschädigung für Opfer der nationalsozialistischen Verfolgung (Bundesentschädigungsgesetz) in der Fassung des Gesetzes vom 29. Juni 1956 (Bundesgesetzbl. I S. 559) wird mit Zustimmung des Bundesrates verordnet:</p>
+            </div>
+            <div xml:id="d1302e35">
+                <head>§ 1</head>
+                <p>(1) Kosten, die den Versicherungseinrichtungen für ihre Mitwirkung nach § 182 Abs. 1 des Bundesentschädigungsgesetzes entstehen, sind ihnen nach folgenden Pauschsätzen zu erstatten:</p>
+                <list>
+                    <item n="1.">bei Auskünften auf Grund einfacher Ermittlungen<list>
+                            <item n="">3 Deutsche Mark je Versicherungsschein;</item>
+                        </list>
+                    </item>
+                    <item n="2.">bei Auskünften auf Grund umfangreicher Ermittlungen oder mit versicherungstechnischen Berechnungen<list>
+                            <item n="">6 Deutsche Mark je Versicherungsschein;</item>
+                        </list>
+                    </item>
+                    <item n="3.">bei Auskünften mit versicherungstechnischen Berechnungen in besonders schwierigen Fällen mit nachweislich erhöhtem Kostenaufwand<list>
+                            <item n="">9 Deutsche Mark je Versicherungsschein.</item>
+                        </list>
+                    </item>
+                </list>
+                <p>(2) Bei Auskünften über die für den Berechtigten günstigere Entschädigung gemäß § 128 Abs. 3 und § 129 Abs. 3 des Bundesentschädigungsgesetzes erhöhen sich die Pauschsätze nach Absatz 1 Nr. 2 und 3 jeweils um 3 Deutsche Mark.</p>
+            </div>
+            <div xml:id="d1302e63">
+                <head>§ 2</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 240 des Bundesentschädigungsgesetzes auch im Land Berlin;sie gilt nicht im Saarland.</p>
+                <p>§ 2 Kursivdruck: Überholt durch Einführung der V. im Saarland durch G Nr. 658 ABl. des Saarlandes 1959 S. 759</p>
+            </div>
+            <div xml:id="d1302e78">
+                <head>§ 3</head>
+                <p>(1) Diese Verordnung tritt mit Wirkung vom 1. April 1956 in Kraft.</p>
+                <p>(2) Soweit vor der Verkündung dieser Verordnung Kosten nach der Bekanntmachung des Präsidenten des Bundesaufsichtsamtes für das Versicherungs- und Bausparwesen vom 19. Februar 1954 (Bundesanzeiger Nr. 37 vom 23. Februar 1954) erstattet worden sind, behält es hierbei sein Bewenden.</p>
+            </div>
+            <div xml:id="d1302e90">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Wirtschaft</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002510939">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über die berufsmäßige Ausübung der Heilkunde ohne Bestallung</title>
+                <title type="short">HeilprG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1939-02-17</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1975 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1269e27">
+                <head>Eingangsformel</head>
+                <p>Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit verkündet wird:</p>
+            </div>
+            <div xml:id="d1269e37">
+                <head>§ 1</head>
+                <p>(1) Wer die Heilkunde, ohne als Arzt bestallt zu sein, ausüben will, bedarf dazu der Erlaubnis.</p>
+                <p>(2) Ausübung der Heilkunde im Sinne dieses Gesetzes ist jede berufs- oder gewerbsmäßig vorgenommene Tätigkeit zur Feststellung, Heilung oder Linderung von Krankheiten, Leiden oder Körperschäden bei Menschen, auch wenn sie im Dienste von anderen ausgeübt wird.</p>
+                <p>(3) Wer die Heilkunde bisher berufsmäßig ausgeübt hat und weiterhin ausüben will, erhält die Erlaubnis nach Maßgabe der Durchführungsbestimmungen; er führt die Berufsbezeichnung "Heilpraktiker".</p>
+            </div>
+            <div xml:id="d1269e51">
+                <head>§ 2</head>
+                <p>(1) Wer die Heilkunde, ohne als Arzt bestallt zu sein, bisher berufsmäßig nicht ausgeübt hat, kann eine Erlaubnis nach § 1 in Zukunft ... erhalten.</p>
+                <p>(2) Wer durch besondere Leistungen seine Fähigkeit zur Ausübung der Heilkunde glaubhaft macht, wird auf Antrag desReichsministers des Innerndurch denReichsminister für Wissenschaft, Erziehung und Volksbildungunter erleichterten Bedingungen zum Studium der Medizin zugelassen, sofern er seine Eignung für die Durchführung des Medizinstudiums nachweist.</p>
+            </div>
+            <div xml:id="d1269e70">
+                <head>§ 3</head>
+                <p>Die Erlaubnis nach § 1 berechtigt nicht zur Ausübung der Heilkunde im Umherziehen.</p>
+            </div>
+            <div xml:id="d1269e80">
+                <head>§ 4</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1269e91">
+                <head>§ 5</head>
+                <p>Wer, ohne zur Ausübung des ärztlichen Berufs berechtigt zu sein und ohne eine Erlaubnis nach § 1 zu besitzen, die Heilkunde ausübt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.</p>
+            </div>
+            <div xml:id="d1269e102">
+                <head>§ 5a</head>
+                <p>(1) Ordnungswidrig handelt, wer als Inhaber einer Erlaubnis nach § 1 die Heilkunde im Umherziehen ausübt.</p>
+                <p>(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweitausendfünfhundert Euro geahndet werden.</p>
+            </div>
+            <div xml:id="d1269e115">
+                <head>§ 6</head>
+                <p>(1) Die Ausübung der Zahnheilkunde fällt nicht unter die Bestimmungen dieses Gesetzes.</p>
+                <p>(2)</p>
+            </div>
+            <div xml:id="d1269e128">
+                <head>§ 7</head>
+                <p>DerReichsminister des Innernerläßt ... die zur Durchführung ... dieses Gesetzes erforderlichen Rechts- und Verwaltungsvorschriften.</p>
+            </div>
+            <div xml:id="d1269e143">
+                <head>§ 8</head>
+                <p>(1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.</p>
+                <p>(2) Gleichzeitig treten § 56a Abs. 1 Nr. 1 und § 148 Abs. 1 Nr. 7a der Reichsgewerbeordnung, soweit sie sich auf die Ausübung der Heilkunde im Sinne dieses Gesetzes beziehen, außer Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

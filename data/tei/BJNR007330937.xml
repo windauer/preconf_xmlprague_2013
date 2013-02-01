@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR007330937">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Durchführung des Grundsteuergesetzes für den ersten Hauptveranlagungszeitraum</title>
+                <title type="short">GrStDVO 1937</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1937-07-01</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>V aufgeh. durch Art. 6 Abs. 1 Nr. 2 G 611-7 v. 7.8.1973 I 965 mWv 1.1.1974(+++ §§ 29 bis 33 sind gem. § 41 GrStG 1973 idF d. Anlage I Kap. IV Sachgeb. B Abschn. II Nr. 30 Buchst. d EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 986 mWv 3.10.1990 im Beitrittsgebiet weiter anwendbar. +++)§ 29: IdF d. Art. 22 G v. 19.12.2000 I 1790 mWv 1.1.2002</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

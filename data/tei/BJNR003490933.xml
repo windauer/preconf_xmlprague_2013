@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR003490933">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über Zahlungsverbindlichkeiten gegenüber dem Ausland</title>
+                <title type="short">AuslVerbindlG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1933-06-09</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 21.3.1975 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1363e23">
+                <head>Eingangsformel</head>
+                <p>Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit verkündet wird:</p>
+            </div>
+            <div xml:id="d1363e33">
+                <head>§ 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1363e44">
+                <head>§ 2</head>
+                <p>(1) Es wird eine Konversionskasse für deutsche Auslandsschulden errichtet. Die Konversionskasse ist eine Körperschaft des öffentlichen Rechts; sie steht unter Aufsicht des Bundesministers der Finanzen ... . Der Bundesminister der Finanzen bestellt die verantwortlichen Organe.</p>
+                <p>(2) Die übrigen Rechtsverhältnisse der Konversionskasse regelt die Satzung, die der Bundesminister der Finanzen feststellt.</p>
+                <p>(3) Von den Steuern, die dasReich,die Länder und die Gemeinden (Gemeindeverbände) vom Einkommen, vom Vermögen sowie vom Gewerbebetrieb erheben, ist die Konversionskasse befreit.</p>
+            </div>
+            <div xml:id="d1363e62">
+                <head>§ 3</head>
+                <p>Die eingezahlten Beträge ... werden den ausländischen Gläubigern gutgeschrieben. Die Ansprüche der Gläubiger aus der Gutschrift bestimmen sich nach Grundsätzen, die in der Satzung der Konversionskasse festgelegt werden. ...</p>
+            </div>
+            <div xml:id="d1363e73">
+                <head>(XXXX) §§ 4 bis 6</head>
+            </div>
+            <div xml:id="d1363e83">
+                <head>§ 7</head>
+                <p>(1) DieReichsregierungerläßt die zur Durchführung dieses Gesetzes erforderlichen Rechtsverordnungen und Verwaltungsvorschriften. ...</p>
+                <p>(2)</p>
+            </div>
+            <div xml:id="d1363e99">
+                <head>§ 8</head>
+                <p>Das Gesetz tritt am 1. Juli 1933 in Kraft; ... .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

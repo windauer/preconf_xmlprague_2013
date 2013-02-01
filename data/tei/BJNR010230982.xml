@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR010230982">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Bestimmung der zuständigen Stelle für die berufliche Fortbildung zum Geprüften Sozialberater/zur Geprüften Sozialberaterin für ausländische Arbeitnehmer und ihre Familien</title>
+                <title type="short">SozBerFortbZustV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1982-07-23</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 9.1982 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d529e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 97 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der durch Artikel 53 Nr. 13 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, wird nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung gemäß § 97 Satz 3 des Berufsbildungsgesetzes in Verbindung mit § 19 Nr. 1 des Berufsbildungsförderungsgesetzes vom 23. Dezember 1981 (BGBl. I S. 1692) im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft und mit Zustimmung des Bundesrates verordnet:</p>
+            </div>
+            <div xml:id="d529e30">
+                <head>§ 1</head>
+                <p>Zuständige Stelle für die Durchführung der Verordnung über die berufliche Fortbildung zum Geprüften Sozialberater/zur Geprüften Sozialberaterin für ausländische Arbeitnehmer und ihre Familien ist die fachlich zuständige Oberste Landesbehörde des Landes, in dem der Fortbildungsgang durchgeführt wird.</p>
+            </div>
+            <div xml:id="d529e40">
+                <head>§ 2</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d529e50">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am 1. September 1982 in Kraft.</p>
+            </div>
+            <div xml:id="d529e60">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Arbeit und Sozialordnung</p>
+            </div>
+        </body>
+    </text>
+</TEI>

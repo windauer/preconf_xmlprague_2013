@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000650988">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über die zentrale Archivierung von Unterlagen aus dem Bereich des Kriegsfolgenrechts</title>
+                <title type="short">KrArchG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1988-01-06</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 15. 1.1988 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1063e20">
+                <head>§ 1</head>
+                <p>(1) Im Bundesarchiv wird ein Zentralarchiv für den Lastenausgleich (Lastenausgleichsarchiv) errichtet. Das Lastenausgleichsarchiv übernimmt als Archivgut für die wissenschaftliche Forschung bedeutsame Unterlagen aus dem Bereich des Lastenausgleichs.</p>
+                <p>(2) Die Länder, Gemeinden und Gemeindeverbände, die über solche Unterlagen verfügen, haben diese im Rahmen ihrer Zuständigkeit für die Durchführung des Lastenausgleichs auszusondern und jeweils zusammen mit einem Übergabeverzeichnis dem Lastenausgleichsarchiv zu übergeben.</p>
+                <p>(3) Das Nähere über das abzugebende Schriftgut sowie den Inhalt des Übergabeverzeichnisses bestimmt der Bundesminister des Innern durch Rechtsverordnung mit Zustimmung des Bundesrates.</p>
+            </div>
+            <div xml:id="d1063e36">
+                <head>§ 2</head>
+                <p>(1) Das Lastenausgleichsarchiv übernimmt die Unterlagen der Heimatortskarteien des Kirchlichen Suchdienstes.</p>
+                <p>(2) Der Kirchliche Suchdienst übergibt die Bestände seiner Heimatortskarteien dem Lastenausgleichsarchiv, sobald die ihm von der Bundesrepublik Deutschland übertragenen Aufgaben abgeschlossen sind.</p>
+            </div>
+            <div xml:id="d1063e50">
+                <head>§ 3</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d1063e62">
+                <head>§ 4</head>
+                <p>Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

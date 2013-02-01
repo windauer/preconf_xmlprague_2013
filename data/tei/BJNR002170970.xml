@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002170970">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Höchstbeträge der steuerlich begünstigten Herstellungskosten von Schutzräumen im Sinne der §§ 7 und 12 Abs. 3 des Schutzbaugesetzes</title>
+                <title type="short">HöBetrV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1970-02-25</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 7.3.1982 +++)</p>
+            <p>Überschrift (Kurzbezeichnung): IdF d. Art. 1 Nr. 1 V v. 5.2.1981 I 161 mWv 19.2.1981</p>
+        </front>
+        <body>
+            <div xml:id="d1225e28">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 7 Abs. 1 Satz 2 und 3 und des § 12 Abs. 3 Satz 1 des Schutzbaugesetzes vom 9. September 1965 (Bundesgesetzbl. I S. 1232), zuletzt geändert durch das Einführungsgesetz zum Gesetz über Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I S. 503), verordnet die Bundesregierung mit Zustimmung des Bundesrates:</p>
+            </div>
+            <div xml:id="d1225e38">
+                <head>§ 1</head>
+                <p>Als Höchstbeträge, bis zu denen die Herstellungskosten von Schutzräumen bei Bemessung der erhöhten Absetzungen nach § 7 oder § 12 Abs. 3 des Schutzbaugesetzes berücksichtigt werden können, werden festgesetzt:</p>
+                <list>
+                    <item n="1.">bei Hausschutzräumen in neuerrichteten Gebäuden (Innenbauten) die sich aus der Anlage 1 zu dieser Verordnung ergebenden Beträge;</item>
+                    <item n="2.">bei Hausschutzräumen in bestehenden Gebäuden (nachträgliche Innenbauten) die sich aus der Anlage 2 zu dieser Verordnung ergebenden Beträge;</item>
+                    <item n="3.">bei Hausschutzräumen in Form selbständiger Bauten (Außenbauten) die sich aus der Anlage 3 zu dieser Verordnung ergebenden Beträge.</item>
+                </list>
+            </div>
+            <div xml:id="d1225e56">
+                <head>§ 2</head>
+                <p>Die in den Anlagen 1 bis 3 zu dieser Verordnung genannten Höchstbeträge gelten erstmals für Hausschutzräume, die nach dem 31. Dezember 1986 fertiggestellt worden sind. Für Schutzräume, die vor dem 1. Januar 1987 fertiggestellt worden sind, gelten die Höchstbeträge nach den bisherigen Fassungen der Schutzbau-Höchstbetragsverordnung vom 25. Februar 1970 (BGBl. I S. 217).</p>
+            </div>
+            <div xml:id="d1225e67">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.</p>
+            </div>
+            <div xml:id="d1225e78">
+                <head>Anlage 1</head>
+                <p>(Fundstelle des Originaltextes: BGBl. I 1989, 1957 - 1958;bzgl. der einzelnen Änderungen vgl. Fußnote)Errichtung von Hausschutzräumen im Zusammenhang mit Neubauten im Inneren von Gebäuden (Innenbauten)Zahl der SchutzplätzeHöchstbetrag der Herstellungskosten im Sinne des § 7 des Schutzbaugesetzes- DM -736.200836.550936.9001037.2501137.6501238.0001338.3501438.7001539.0501639.4001739.7501840.1001940.5002040.8502141.2002241.5502341.9002442.3002542.6502643.2502743.8002844.4002944.9503045.5503146.1503246.7003347.3003447.8503548.4503649.0503749.6003850.2003950.7504051.3504151.9504252.5004353.1004453.6504554.2504654.8004755.4004856.0004956.5505057.150Zahl der SchutzplätzeHöchstbetrag der Herstellungskosten im Sinne des § 7 des Schutzbaugesetzes 1)- DM -5180.0706088.8007098.70080107.60090116.100100124.500110132.550120140.400130148.200140155.400150162.750&#160;ohne Sandvorfilter 2)mit Sandvorfilter 2)151180.445203.850160188.000212.000170196.350220.150180204.300228.600190211.850236.550200220.000244.000210227.850252.000220235.400259.600230242.650266.800240249.600274.800250256.250282.500260263.900289.900270271.350297.000280278.600303.800290285.650310.300299291.525316.940&#160;----------<list>
+                        <item n="1)">Zwischenwerte sind gradlinig zu interpolieren.</item>
+                    </list>
+                    <list>
+                        <item n="2)">Bei Ausführung des Schutzraumes als Tiefgarage erhöht sich der Höchstbetrag um 25.000 DM.</item>
+                    </list>&#160;Zahl der SchutzplätzeHöchstbetrag der Herstellungskosten im Sinne des § 7 des Schutzbaugesetzes 1)- DM -&#160;&#160;ohne Sandvorfilter 3)mit Sandvorfilter 3)300366.000430.500600708.000837.0009001.030.5001.224.0001.2001.344.0001.596.0001.5001.650.0001.957.5001.8001.953.0002.304.0002.1002.247.0002.646.0002.4002.532.0002.976.0002.7002.808.0003.307.5003.0003.075.0003.630.0003.3303.333.0003.943.5003.6003.582.0004.248.0003.9003.822.0004.563.0004.2004.074.0004.872.0004.5004.320.0005.175.000&#160;----------<list>
+                        <item n="1)">Zwischenwerte sind gradlinig zu interpolieren.</item>
+                    </list>
+                    <list>
+                        <item n="3)">Bei Ausführung des Schutzraumes nicht als Tiefgarage mindert sich der Höchstbetrag um 25.000 DM.</item>
+                    </list>
+                </p>
+            </div>
+            <div xml:id="d1225e680">
+                <head>Anlage 2</head>
+                <p>Fundstelle des Originaltextes: BGBl. I 1989, 1958;bezgl. der einzelnen Änderungen vgl. FußnoteErrichtung von Hausschutzräumen im Inneren von bestehenden Gebäuden (nachträglicher Ausbau)Zahl der SchutzplätzeHöchstbetrag der Herstellungskosten im Sinne des § 12 Abs. 3 des Schutzbaugesetzes - DM -766.900868.600970.3001072.0001173.7001275.4001377.1001478.8001580.5001682.2001783.9001885.6001987.3002089.0002190.6502292.3502394.0502495.7502597.4502699.20027100.95028102.70029104.45030106.20031107.95032109.70033111.45034113.20035114.95036116.70037118.45038120.25039122.00040123.75041125.50042127.25043129.00044130.75045132.50046134.25047136.00048137.75049139.50050141.250mehr als 50250 v.H. des Höchstbetrages, der für Hausschutzräume gilt, die im Zusammenhang mit Neubauten im Inneren von Gebäuden errichtet werden (Anlage 1)</p>
+            </div>
+            <div xml:id="d1225e938">
+                <head>Anlage 3</head>
+                <p>Fundstelle des Originaltextes: BGBl. I 1989, 1958 - 1959;bezgl. der einzelnen Änderungen vgl. FußnoteErrichtung von Hausschutzräumen außerhalb von Gebäuden (Außenbauten)Zahl der SchutzplätzeHöchstbetrag der Herstellungskosten im Sinne des § 7 des Schutzbaugesetzes - DM -770.100870.600971.0501071.5501172.0001272.5001373.0001473.4501573.9501674.4001774.9001875.4001975.8502076.3502176.8002277.3002377.8002478.2502578.7502679.7502780.7502881.7002982.7003083.7003184.7003285.7003386.6503487.6503588.6503689.6503790.6503891.6003992.6004093.6004194.6004295.6004396.5504497.5504598.5504699.55047100.55048101.50049102.50050103.500mehr als 50180 v.H. des Höchstbetrages, der für Hausschutzräume gilt, die im Zusammenhang mit Neubauten im Inneren von Gebäuden errichtet werden (Anlage 1)</p>
+            </div>
+            <div xml:id="d1225e1196">
+                <head>Anlage 4</head>
+                <p>-</p>
+            </div>
+        </body>
+    </text>
+</TEI>

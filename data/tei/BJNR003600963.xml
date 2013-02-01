@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR003600963">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sechzehntes Gesetz zur Änderung des Lastenausgleichsgesetzes</title>
+                <title type="short">LAGÄndG 16</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1963-05-23</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1964 +++)(+++ Zur Anwendung vgl. § 6 +++)</p>
+        </front>
+        <body>
+            <div>
+                <head>Art I</head>
+                <head type="subtitle">Änderung von Gesetzen</head>
+                <div xml:id="d1376e40">
+                    <head>§ 1</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d1376e53">
+                    <head>§ 2</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d1376e66">
+                    <head>§ 3</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d1376e79">
+                    <head>§ 4</head>
+                    <p>-</p>
+                </div>
+            </div>
+            <div>
+                <head>Art II</head>
+                <head type="subtitle">Überleitungs- und Schlußvorschriften</head>
+                <div xml:id="d1376e106">
+                    <head>§ 5</head>
+                    <p>Soweit Leistungen aus dem Härtefonds (§§ 301, 301a LAG) an Personen gewährt worden sind, die selbst oder deren Ehegatten Vertreibungsschäden oder Ostschäden geltend machen können, gilt folgendes:</p>
+                    <list>
+                        <item n="1.">Beihilfen zum Lebensunterhalt gelten als Leistungen an Unterhaltshilfe; soweit es sich um Steigerungsbeträge nach § 301a Abs. 3 des Lastenausgleichsgesetzes handelt, gelten sie als Leistungen an Entschädigungsrente.</item>
+                        <item n="2.">Beihilfen zur Beschaffung von Hausrat gelten als Leistungen an Hausratentschädigung.</item>
+                        <item n="3.">Aus dem Härtefonds gewährte Aufbaudarlehen gelten für die Anwendung der §§ 255, 258 des Lastenausgleichsgesetzes als Aufbaudarlehen nach § 254 des Lastenausgleichsgesetzes.</item>
+                    </list>
+                </div>
+                <div xml:id="d1376e125">
+                    <head>§ 6</head>
+                    <p>(1) Von den Vorschriften des Artikels I sind anzuwenden</p>
+                    <list>
+                        <item n="1.">§ 1 Nr. 1, 6 bis 10 und 23 sowie § 2 mit Wirkung vom Inkrafttreten des Lastenausgleichsgesetzes (§ 375), ab,</item>
+                        <item n="2.">§ 1 Nr. 2 mit Wirkung vom 1. Januar 1960 ab,</item>
+                        <item n="3.">§ 1 Nr. 12 Buchstabe b mit Wirkung vom 1. Juni 1960 ab,</item>
+                        <item n="4.">§ 1 Nr. 3 mit Wirkung vom 1. Januar 1961 ab,</item>
+                        <item n="5.">§ 1 Nr. 11, 18, 19 und 20 Buchstabe c mit Wirkung vom 1. Juni 1961 ab,</item>
+                        <item n="6.">§ 1 Nr. 4 mit Wirkung vom 1. Juli 1961 ab,</item>
+                        <item n="7.">§ 1 Nr. 12 Buchstaben a und c bis e sowie Nr. 13 bis 17, Nr. 20 Buchstaben a und b, Nr. 21, 22, 24 und 26 mit Wirkung vom 1. Juni 1962 ab.</item>
+                    </list>
+                    <p>(2) Für die Anwendung der §§ 266, 272, 273, 280 und 282 des Lastenausgleichsgesetzes gelten die §§ 246 und 248 des Lastenausgleichsgesetzes in der Fassung des § 1 Nr. 9 und 10 dieses Gesetzes vom 1. Juni 1961 ab.</p>
+                    <p>(3) An Personen, die erst auf Grund des § 230 Abs. 1 des Lastenausgleichsgesetzes in der Fassung des § 1 Nr. 8 dieses Gesetzes Vertreibungsschäden oder Ostschäden geltend machen können, wird Kriegsschadenrente frühestens vom 1. Juni 1963 ab gewährt.</p>
+                </div>
+                <div xml:id="d1376e156">
+                    <head>§ 7</head>
+                    <p>Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (BGBl. I S. 1) auch im Land Berlin.</p>
+                </div>
+                <div xml:id="d1376e168">
+                    <head>§ 8</head>
+                    <p>Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR012170978">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zehntes Gesetz über die Anpassung der Leistungen des Bundesversorgungsgesetzes</title>
+                <title type="short">KOVAnpG 10</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1978-08-10</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 1.1979 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d682e24">
+                <head>(XXXX) Art 1 bis 5</head>
+            </div>
+            <div xml:id="d682e34">
+                <head>Art 6</head>
+                <p>(1) Die am 31. Dezember 1978 bindend zuerkannten Elternrenten bleiben unberührt.</p>
+                <p>(2) Abweichend von § 30 Abs. 4 Satz 2 und 4 bis 7 des Bundesversorgungsgesetzes ist der Betrag des Vergleichseinkommens für die Jahre 1980 und 1981 dadurch zu ermitteln, daß der jeweils im Vorjahr maßgebende Betrag des Vergleichseinkommens um 4 vom Hundert erhöht und auf volle Deutsche Mark nach oben abgerundet wird.</p>
+            </div>
+            <div xml:id="d682e48">
+                <head>Art 7</head>
+                <p>Dieses Gesetz gilt mit Ausnahme der Artikel 2 und 3 nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d682e60">
+                <head>Art 8</head>
+                <p>Dieses Gesetz tritt am 1. Januar 1979 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

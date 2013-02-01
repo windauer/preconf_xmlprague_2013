@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR009810992">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung zur Ergänzung der Anordnung über die Ernennung und Entlassung von Beamten und Beamtinnen im Bereich der Deutschen Bundespost Telekom</title>
+                <title type="short">TELEKOMErnAnOErgAnO</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1992-04-05</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 9. 5.1992 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d491e20">
+                <head>I.</head>
+                <p>In Ergänzung unserer Anordnung über die Ernennung und Entlassung von Beamten und Beamtinnen im Bereich der Deutschen Bundespost Telekom vom 28. Februar 1990 (BGBl. I S. 437) übertragen wir die Ausübung des dort genannten Rechts für ihren Geschäftsbereich auch den Präsidenten der Direktionen Telekom.</p>
+            </div>
+            <div xml:id="d491e30">
+                <head>II.</head>
+                <p>Für besondere Fälle behalten wir uns die Ernennung und Entlassung der in Abschnitt I der Anordnung vom 28. Februar 1990 genannten Beamten und Beamtinnen vor.</p>
+            </div>
+            <div xml:id="d491e40">
+                <head>III.</head>
+                <p>Diese Anordnung tritt am Tage nach der Veröffentlichung in Kraft.</p>
+            </div>
+            <div xml:id="d491e50">
+                <head>Schlußformel</head>
+                <p>Deutsche Bundespost TelekomGeneraldirektionDer Vorstand</p>
+            </div>
+        </body>
+    </text>
+</TEI>

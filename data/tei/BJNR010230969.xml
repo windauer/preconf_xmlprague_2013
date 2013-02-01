@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR010230969">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung des Bundespräsidenten über die Festsetzung von Amtsbezeichnungen</title>
+                <title type="short">BPräsAmtsbezAnO 1969-07</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1969-07-23</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 8.1969 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d528e20">
+                <head>(XXXX)</head>
+                <p>Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende Amtsbezeichnungen fest</p>
+                <list>
+                    <item n="1.">Präsident der Bundesanstalt für gesamtdeutsche Aufgaben</item>
+                    <item n="2.">Vizepräsident der Bundesanstalt für gesamtdeutsche Aufgaben.</item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

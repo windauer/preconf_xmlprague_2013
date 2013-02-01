@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR008310951">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erlaß über die Stiftung des "Verdienstordens der Bundesrepublik Deutschland"</title>
+                <title type="short">VerdOrdenErl</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1951-09-07</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+            <p>Erlass im Saarland in Kraft gesetzt mWv 1.1.1957 durch Nr. 4 Anordnung v. 23.1.1957 I 1</p>
+        </front>
+        <body>
+            <div xml:id="d368e23">
+                <head>(XXXX)</head>
+                <p>(1) In dem Wunsche, verdienten Männern und Frauen des deutschen Volkes und des Auslandes Anerkennung und Dank sichtbar zum Ausdruck zu bringen, stifte ich am 2. Jahrestag der Bundesrepublik Deutschland den"Verdienstorden der Bundesrepublik Deutschland".</p>
+                <p>(2) Er wird verliehen für Leistungen, die im Bereich der politischen, der wirtschaftlich-sozialen und der geistigen Arbeit dem Wiederaufbau des Vaterlandes dienten und soll eine Auszeichnung all derer bedeuten, deren Wirken zum friedlichen Aufstieg der Bundesrepublik Deutschland beiträgt.</p>
+                <p>(3) Die Einzelheiten der Gestaltung, der Einteilung und der Verleihung des Verdienstordens werden in einem Statut festgelegt.</p>
+            </div>
+            <div xml:id="d368e40">
+                <head>Schlußformel</head>
+                <p>Der BundespräsidentDer BundeskanzlerDer Bundesminister des Innern</p>
+            </div>
+        </body>
+    </text>
+</TEI>

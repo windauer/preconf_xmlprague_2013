@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004570979">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Zuständigkeit der Bundesanstalt für Landwirtschaft und Ernährung für die Registrierung der Vermehrungsverträge für Saatgut in Drittländern</title>
+                <title type="short">BEFZustV 1979</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1979-04-10</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 20.4.1979 +++)</p>
+            <p>Überschrift: IdF d. Art. 76 Nr. 1 G v. 2.8.1994 I 2018 mWv 1.1.1995</p>
+        </front>
+        <body>
+            <div xml:id="d1481e26">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 26 Abs. 3 des Gesetzes zur Durchführung der gemeinsamen Marktorganisationen vom 31. August 1972 (BGBl. I S. 1617), der durch § 23 Nr. 4 Buchstabe c des Gesetzes vom 23. Juni 1976 (BGBl. I S. 1608) geändert worden ist, wird verordnet:</p>
+            </div>
+            <div xml:id="d1481e36">
+                <head>§ 1</head>
+                <p>Zuständig für die Durchführung von Rechtsakten des Rates und der Kommission der Europäischen Gemeinschaften im Rahmen der gemeinsamen Marktorganisation Saatgut über die Registrierung von Vermehrungsverträgen ist der Bundesanstalt für Landwirtschaft und Ernährung.</p>
+            </div>
+            <div xml:id="d1481e47">
+                <head>§ 2</head>
+                <p>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+            <div xml:id="d1481e58">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Ernährung, Landwirtschaft und Forsten</p>
+            </div>
+        </body>
+    </text>
+</TEI>

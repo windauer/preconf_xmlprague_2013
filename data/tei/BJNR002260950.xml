@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002260950">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über die Anerkennung freier Ehen rassisch und politisch Verfolgter</title>
+                <title type="short">EheAnerkG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1950-06-23</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Wegen der geringen Bedeutung für die Zukunft nur mit der Überschrift aufgenommen (§ 3 Abs. 2 Gesetz über die Sammlung des Bundesrechts 114-2)</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

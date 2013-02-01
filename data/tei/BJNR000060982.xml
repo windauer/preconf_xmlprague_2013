@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000060982">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten im Bereich des Festlandsockels</title>
+                <title type="short">FestLSockelOWiZustV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1982-01-14</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 20. 1.1982 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d991e25">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 145 Abs. 5 des Bundesberggesetzes vom 13. August 1980 (BGBl. I S. 1310) wird verordnet:</p>
+            </div>
+            <div xml:id="d991e35">
+                <head>§ 1</head>
+                <p>Das Bundesamt für Seeschifffahrt und Hydrographie ist zuständig für die Verfolgung und Ahndung von Ordnungswidrigkeiten im Bereich des Festlandsockels im Zusammenhang mit Forschungshandlungen (§ 132 des Bundesberggesetzes) und mit der Überwachungstätigkeit der in § 134 Abs. 1 des Bundesberggesetzes bezeichneten Behörden des Bundes.</p>
+            </div>
+            <div xml:id="d991e46">
+                <head>§ 2</head>
+            </div>
+            <div xml:id="d991e56">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+            <div xml:id="d991e66">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Verkehr</p>
+            </div>
+        </body>
+    </text>
+</TEI>

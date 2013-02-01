@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004220962">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vierte Verordnung zur Änderung der Dritten Verordnung zur Durchführung des Bundesentschädigungsgesetzes</title>
+                <title type="short">BEGDV3ÄndV 4</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1962-06-19</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1444e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 126 Abs. 2 des Bundesentschädigungsgesetzes - BEG - in der Fassung des Gesetzes vom 29. Juni 1956 (Bundesgesetzbl. I S. 559) verordnet die Bundesregierung mit Zustimmung des Bundesrates:</p>
+            </div>
+            <div xml:id="d1444e30">
+                <head>Art I</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1444e41">
+                <head>Art II</head>
+                <p>Die Unanfechtbarkeit oder die Rechtskraft einer vor Verkündung dieser Verordnung ergangenen Entscheidung steht einer erneuten Entscheidung auf Grund dieser Verordnung nicht entgegen.</p>
+            </div>
+            <div xml:id="d1444e51">
+                <head>Art III</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 240 BEG auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d1444e61">
+                <head>Art IV</head>
+                <p>Diese Verordnung tritt mit Wirkung vom 1. April 1957 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

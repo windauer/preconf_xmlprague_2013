@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR011310989">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Thermometermacher-Handwerk</title>
+                <title type="short">ThermMstrV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1989-06-20</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.10.1989 +++)</p>
+        </front>
+        <body>
+            <div>
+                <head>1. Abschnitt</head>
+                <head type="subtitle">Berufsbild</head>
+                <div xml:id="d611e38">
+                    <head>§ 1</head>
+                    <p>(1) Dem Thermometermacher-Handwerk sind folgende Tätigkeiten zuzurechnen:Entwurf, Konstruktion und Herstellung von Thermometern und ähnlichen Meßgeräten aus verschiedenen Gläsern sowie aus glasverwandten und anderen Werkstoffen.</p>
+                    <p>(2) Dem Thermometermacher-Handwerk sind folgende Kenntnisse und Fertigkeiten zuzurechnen:</p>
+                    <list>
+                        <item n="1.">Kenntnisse über die Funktion, die Einsatz- und Betriebsbedingungen sowie die meßtechnische Anwendung der herzustellenden Geräte,</item>
+                        <item n="2.">Kenntnisse der Arten, Sorten, Daten, der Kennzeichnung und Verwendung von Gläsern und über die mit diesen verschmelzbaren Metalle und Keramiken,</item>
+                        <item n="3.">Kenntnisse der Werk-, Betriebs- und Hilfsstoffe,</item>
+                        <item n="4.">Kenntnisse der gebräuchlichsten Brenngase, ihrer Handhabung und Lagerung,</item>
+                        <item n="5.">Kenntnisse der Flächen-, Volumen- und Druckberechnungen,</item>
+                        <item n="6.">Kenntnisse der Volumen- und Temperaturmessungen,</item>
+                        <item n="7.">Kenntnisse über lösbare Verbindungsteile, insbesondere Schliffe, sowie über Hähne und Ventile,</item>
+                        <item n="8.">Kenntnisse des Justierens, Graduierens, Kalibrierens, Wachsens sowie Ätzens,</item>
+                        <item n="9.">Kenntnisse über Vakuumtechnik,</item>
+                        <item n="10.">Kenntnisse der berufsbezogenen Eich- und Normvorschriften,</item>
+                        <item n="11.">Kenntnisse der berufsbezogenen Vorschriften der Arbeitssicherheit und des Arbeitsschutzes,</item>
+                        <item n="12.">Kenntnisse über die berufsbezogenen Vorschriften des Umwelt-, insbesondere des Immissionsschutzes,</item>
+                        <item n="13.">Anfertigen und Lesen von Skizzen und Zeichnungen,</item>
+                        <item n="14.">Heißverarbeiten von Glasröhren und Glasstäben zu Thermometern,</item>
+                        <item n="15.">Evakuieren und Füllen von Thermometern,</item>
+                        <item n="16.">Justieren von Thermometern,</item>
+                        <item n="17.">Skalieren und Fertigmachen von Thermometern,</item>
+                        <item n="18.">Warten und Instandhalten der berufsbezogenen Maschinen, Werkzeuge und Geräte.</item>
+                    </list>
+                </div>
+            </div>
+            <div>
+                <head>2. Abschnitt</head>
+                <head type="subtitle">Prüfungsanforderungen in den Teilen I und II der Meisterprüfung</head>
+                <div xml:id="d611e107">
+                    <head>§ 2</head>
+                    <p>(1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.</p>
+                    <p>(2) Die Anfertigung der Meisterprüfungsarbeit soll nicht länger als zwei Arbeitstage, die Ausführung der Arbeitsprobe nicht länger als zwölf Stunden dauern.</p>
+                    <p>(3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.</p>
+                </div>
+                <div xml:id="d611e123">
+                    <head>§ 3</head>
+                    <p>(1) Als Meisterprüfungsarbeit sind zwei der nachstehend genannten Arbeiten anzufertigen, entweder nach Nummer 1 bis 4 oder nach Nummer 5 bis 7:</p>
+                    <list>
+                        <item n="1.">Herstellen eines Beckmann-Thermometers mit normaler Einstellvorrichtung, Hauptskala von 0 bis5 Grad C, Skalenwert0,01 Grad C, Einstellskala von - 20 bis160 Grad C, Skalenwert2 Grad C, Oberteil 350 mm lang, Durchmesser 14-15 mm, Unterteil 200 mm lang, Durchmesser 10-11 mm,</item>
+                        <item n="2.">Herstellen zweier meteorologischer Extremthermometer:<list>
+                                <item n="a)">ein Minimum-Thermometer, Nennmeßbereich von - 40 bis40 Grad C, Skalenwert0,5 Grad C,</item>
+                                <item n="b)">ein Maximum-Thermometer, Nennmeßbereich von - 30 bis50 Grad C, Skalenwert0,5 Grad C,</item>
+                            </list>
+                        </item>
+                        <item n="3.">Herstellen eines ASTM-Thermometers nach ASTM-Spezifikation 30 F,</item>
+                        <item n="4.">Herstellen eines Sonnenstrahl-Thermometers, Nennmeßbereich von 0 bis70 Grad C, Skalenwert0,5 Grad C, Maximum-Ausführung, Quecksilbergefäß blank, eingeschmolzen in evakuiertem Glasmantel mit Kugel, Durchmesser 45 mm, Gesamtlänge 300 mm,</item>
+                        <item n="5.">Herstellen eines Beckmann-Thermometers mit Tropfeneinrichtung, Hauptskala von 0 bis5 Grad C, Skalenwert0,01 Grad C, Einstellskala von - 20 bis140 Grad C, Skalenwert2 Grad C, Oberteil 360 mm lang, Durchmesser 14-15 mm, Unterteil 200 mm lang, Durchmesser 10-11 mm,</item>
+                        <item n="6.">Herstellen eines Eispunkt-Thermometers mit Sattel, Nennmeßbereich von - 1 bis1 Grad C, Skalenwert0,01 Grad C, Länge 350 mm, Durchmesser 11 mm,</item>
+                        <item n="7.">Herstellen eines Kalorimeter-Thermometers, Stabform, weißbelegt, Nennmeßbereich von 21 bis27 Grad C, Skalenwert0,01 Grad C, Länge 760 mm, Durchmesser 9 mm,</item>
+                    </list>
+                    <p>(2) Der Prüfling hat vor Anfertigung der Meisterprüfungsarbeit dem Meisterprüfungsausschuß den Entwurf in Form einer maßstabsgerechten Zeichnung und die Kalkulation zur Genehmigung vorzulegen.</p>
+                    <p>(3) Die maßstabsgerechte Zeichnung und die Kalkulation sind bei der Bewertung der Meisterprüfungsarbeit zu berücksichtigen.</p>
+                </div>
+                <div xml:id="d611e195">
+                    <head>§ 4</head>
+                    <p>(1) Als Arbeitsprobe sind drei der nachstehend genannten Arbeiten auszuführen, entweder nach Nummer 1 bis 6 oder nach Nummer 7 bis 10:</p>
+                    <list>
+                        <item n="1.">Rohblasen eines Doppelwinkel-Thermometers, bis zum Ausfertigen, ohne Justieren und Skalieren, Nennmeßbereich von 0 bis100 Grad C, Oberteil 250 x 17 bis 18 mm, Unterteil 400 x 9, 100 x 9 und 110 x 9 mm,</item>
+                        <item n="2.">Rohblasen eines Labor-Stabthermometers aus Supremaxglas, bis zum Ausfertigen, ohne Justieren und Skalieren, Nennmeßbereich von 0 bis610 Grad C, Länge 450 mm, Durchmesser 6-7 mm,</item>
+                        <item n="3.">Rohblasen eines Allihn-Thermometers, bis zum Ausfertigen, ohne Justieren und Skalieren, Nennmeßbereich von 200 bis300 Grad C mit Hilfsteilung bei0 Grad C und100 Grad C, Länge 300 mm, Durchmesser 8 mm,</item>
+                        <item n="4.">Rohblasen eines Pyknometer-Thermometers mit selbstangefertigtem Schliffrohling NS 10/19, bis zum Ausfertigen, ohne Justieren und Skalieren, Nennmeßbereich von 10 bis30 Grad C, Skalenwert0,5 Grad C, Oberteil 90 mm, Durchmesser 9 mm, Unterteil 25 mm, Durchmesser 6 mm, mit massivem Glasansatz von 15 mm Länge,</item>
+                        <item n="5.">Rohblasen eines Flammpunkt-Thermometers nach Marcusson, bis zum Ausfertigen, ohne Justieren und Skalieren, Nennmeßbereich von 40 bis260 Grad C, Länge 300 mm, Durchmesser 10 mm,</item>
+                        <item n="6.">Einschmelzen eines Drahtes aus Platin oder einem anderen zweckentsprechenden Material in ein Kapillarrohr,</item>
+                        <item n="7.">Ausfertigen eines bereits justierten Labor-Thermometers, Nennmeßbereich von 0 bis100 Grad C, Skalenwert0,1 Grad C,</item>
+                        <item n="8.">Justieren eines Labor-Stabthermometers aus Supremaxglas, Justierpunkte bei0 Grad C und100 Grad C, kalibrieren bis600 Grad C und ausfertigen, Nennmeßbereich von 0 bis610 Grad C, Skalenwert2 Grad C,</item>
+                        <item n="9.">Ausfertigen eines verstellbaren Kontaktthermometers, Anbringen von Ablese- und Einstellskala, Nennmeßbereich von 0 bis100 Grad C, Skalenwert1 Grad C,</item>
+                        <item n="10.">Teilen einer Papierskala mit Längsstreifen, Teilungslänge ca. 200 mm, Nennmeßbereich von 0 bis40 Grad C, Skalenwert0,1 Grad C.</item>
+                    </list>
+                    <p>(2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.</p>
+                </div>
+                <div xml:id="d611e268">
+                    <head>§ 5</head>
+                    <p>(1) Im Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:</p>
+                    <list>
+                        <item n="1.">Technische Mathematik: Berechnen der Fadenkorrektur, Körper, Ausdehnungen, Drücke und Winkel;</item>
+                        <item n="2.">Technisches Zeichnen: Anfertigen von Skizzen und Zeichnungen;</item>
+                        <item n="3.">Fachtechnologie:<list>
+                                <item n="a)">Funktion und meßtechnische Anwendung von Thermometern,</item>
+                                <item n="b)">Einschmelztechniken,</item>
+                                <item n="c)">Arten und Ausführungen von Schliffen,</item>
+                                <item n="d)">Justieren, Graduieren, Wachsen, Ätzen und Kalibrieren,</item>
+                                <item n="e)">Vakuumtechnik,</item>
+                                <item n="f)">berufsbezogene Eich- und Normvorschriften,</item>
+                                <item n="g)">berufsbezogene Vorschriften der Arbeitssicherheit und des Arbeitsschutzes,</item>
+                                <item n="h)">berufsbezogene Vorschriften des Umwelt-, insbesondere des Immissionsschutzes,</item>
+                                <item n="i)">berufsbezogene Werkzeuge, Maschinen und Geräte;</item>
+                            </list>
+                        </item>
+                        <item n="4.">Werkstoffkunde:<list>
+                                <item n="a)">Rohstoffe und Herstellung von Glas,</item>
+                                <item n="b)">Halbzeuge,</item>
+                                <item n="c)">Arten, Sorten, Daten, Kennzeichnung und Verwendung von Gläsern und von mit diesen verschmelzbaren Metallen und Keramiken,</item>
+                                <item n="d)">Hilfs- und Betriebsstoffe sowie ihr Einsatz,</item>
+                                <item n="e)">umweltschädliche Stoffe sowie ihre Entsorgung;</item>
+                            </list>
+                        </item>
+                        <item n="5.">Kalkulation: Kostenermittlung unter Einbeziehung aller für die Preisbildung wesentlichen Faktoren.</item>
+                    </list>
+                    <p>(2) Die Prüfung ist schriftlich und mündlich durchzuführen.</p>
+                    <p>(3) Die schriftliche Prüfung soll insgesamt nicht länger als zwölf Stunden, die mündliche je Prüfling nicht länger als eine halbe Stunde dauern. In der schriftlichen Prüfung soll an einem Tag nicht länger als sechs Stunden geprüft werden.</p>
+                    <p>(4) Der Prüfling ist von der mündlichen Prüfung auf Antrag zu befreien, wenn er im Durchschnitt mindestens gute schriftliche Leistungen erbracht hat.</p>
+                    <p>(5) Mindestvoraussetzung für das Bestehen des Teils II sind jeweils ausreichende Leistungen in jedem der Prüfungsfächer nach Absatz 1 Nr. 3 und 4.</p>
+                </div>
+            </div>
+            <div>
+                <head>3. Abschnitt</head>
+                <head type="subtitle">Übergangs- und Schlußvorschriften</head>
+                <div xml:id="d611e343">
+                    <head>§ 6</head>
+                    <p>Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.</p>
+                </div>
+                <div xml:id="d611e355">
+                    <head>§ 7</head>
+                    <p>Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.</p>
+                </div>
+                <div xml:id="d611e367">
+                    <head>§ 8</head>
+                    <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.</p>
+                </div>
+                <div xml:id="d611e379">
+                    <head>§ 9</head>
+                    <p>(1) Diese Verordnung tritt am 1. Oktober 1989 in Kraft.</p>
+                    <p>(2) Die auf Grund des § 122 der Handwerksordnung weiter anzuwendenden Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.</p>
+                </div>
+                <div xml:id="d611e393">
+                    <head>Schlußformel</head>
+                    <p>Der Bundesminister für Wirtschaft</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

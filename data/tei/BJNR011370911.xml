@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR011370911">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz betreffend den Ausbau der deutschen Wasserstraßen und die Erhebung von Schiffahrtsabgaben</title>
+                <title type="short">WaStrAbgG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1911-12-24</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Überschrift: In Kraft getreten am 1.5.1912 gem. V v. 29.4.1912 S. 259; das Gesetz ist mit Rücksicht auf die bevorstehende Neuregelung nur mit der Überschrift aufgenommen gem. § 3 Abs. 2 G v. 10.7.1958 114-2</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

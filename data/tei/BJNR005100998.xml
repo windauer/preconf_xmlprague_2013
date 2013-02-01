@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR005100998">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Berufsausbildung zum Bankkaufmann/zur Bankkauffrau</title>
+                <title type="short">BankKfm/KfrAusbV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1997-12-30</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 8.1998 +++)</p>
+            <p>Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage zum Bundesanzeiger veröffentlicht.</p>
+        </front>
+        <body>
+            <div xml:id="d24e23">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt gemäß Artikel 35 der Sechsten Zuständigkeitsanpassungs-Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:</p>
+            </div>
+            <div xml:id="d24e33">
+                <head>§ 1</head>
+                <p>Der Ausbildungsberuf Bankkaufmann/Bankkauffrau wird staatlich anerkannt.</p>
+            </div>
+            <div xml:id="d24e45">
+                <head>§ 2</head>
+                <p>Die Ausbildung dauert drei Jahre.</p>
+            </div>
+            <div xml:id="d24e57">
+                <head>§ 3</head>
+                <p>Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:</p>
+                <list>
+                    <item n="1.">das ausbildende Unternehmen:</item>
+                    <item n="1.1">Stellung, Rechtsform und Organisation,</item>
+                    <item n="1.2">Personalwesen und Berufsbildung,</item>
+                    <item n="1.3">Informations- und Kommunikationssysteme,</item>
+                    <item n="1.4">Sicherheit und Gesundheitsschutz bei der Arbeit,</item>
+                    <item n="1.5">Umweltschutz;</item>
+                    <item n="2.">Markt- und Kundenorientierung:</item>
+                    <item n="2.1">kundenorientierte Kommunikation,</item>
+                    <item n="2.2">Marketing,</item>
+                    <item n="2.3">Verbraucher- und Datenschutz;</item>
+                    <item n="3.">Kontoführung und Zahlungsverkehr:</item>
+                    <item n="3.1">Kontoführung,</item>
+                    <item n="3.2">nationaler Zahlungsverkehr,</item>
+                    <item n="3.3">internationaler Zahlungsverkehr;</item>
+                    <item n="4.">Geld- und Vermögensanlage:</item>
+                    <item n="4.1">Anlage auf Konten,</item>
+                    <item n="4.2">Anlage in Wertpapieren,</item>
+                    <item n="4.3">Anlage in anderen Finanzprodukten;</item>
+                    <item n="5.">Kreditgeschäft:</item>
+                    <item n="5.1">standardisierte Privatkredite,</item>
+                    <item n="5.2">Baufinanzierung,</item>
+                    <item n="5.3">Firmenkredite;</item>
+                    <item n="6.">Rechnungswesen und Steuerung:</item>
+                    <item n="6.1">Rechnungswesen,</item>
+                    <item n="6.2">Steuerung.</item>
+                </list>
+            </div>
+            <div xml:id="d24e122">
+                <head>§ 4</head>
+                <p>(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den Anlagen I und II enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.</p>
+                <p>(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.</p>
+            </div>
+            <div xml:id="d24e136">
+                <head>§ 5</head>
+                <p>Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.</p>
+            </div>
+            <div xml:id="d24e148">
+                <head>§ 6</head>
+                <p>Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.</p>
+            </div>
+            <div xml:id="d24e160">
+                <head>§ 7</head>
+                <p>(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.</p>
+                <p>(2) Die Zwischenprüfung erstreckt sich auf die in den Anlagen I und II für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.</p>
+                <p>(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener Fälle oder Aufgaben in höchstens 180 Minuten in folgenden Prüfungsgebieten durchzuführen:</p>
+                <list>
+                    <item n="1.">Kontoführung und nationaler Zahlungsverkehr,</item>
+                    <item n="2.">Anlage auf Konten,</item>
+                    <item n="3.">Wirtschafts- und Sozialkunde.</item>
+                </list>
+            </div>
+            <div xml:id="d24e183">
+                <head>§ 8</head>
+                <p>(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage I aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.</p>
+                <p>(2) Die Prüfung ist in den Prüfungsfächern Bankwirtschaft, Rechnungswesen und Steuerung sowie Wirtschafts- und Sozialkunde schriftlich und im Prüfungsfach Kundenberatung mündlich durchzuführen.</p>
+                <p>(3) Die Anforderungen in den Prüfungsfächern sind:</p>
+                <list>
+                    <item n="1.">Prüfungsfach Bankwirtschaft: In höchstens 180 Minuten soll der Prüfling praxisbezogene Aufgaben und Fälle aus den Gebieten<list>
+                            <item n="a)">Kontoführung,</item>
+                            <item n="b)">Zahlungsverkehr,</item>
+                            <item n="c)">Geld- und Vermögensanlage,</item>
+                            <item n="d)">Kreditgeschäft</item>
+                        </list>kunden- und marktorientiert bearbeiten und dabei zeigen, daß er Sachverhalte analysieren sowie Lösungsmöglichkeiten entwickeln und darstellen kann;</item>
+                    <item n="2.">Prüfungsfach Rechnungswesen und Steuerung: In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben und Fälle analysieren und bearbeiten und dabei zeigen, daß er Zusammenhänge zwischen Rechnungswesen und Steuerung versteht;</item>
+                    <item n="3.">Prüfungsfach Wirtschafts- und Sozialkunde: In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben und Fälle aus den Gebieten<list>
+                            <item n="a)">Arbeits- und sozialrechtliche Rahmenbedingungen,</item>
+                            <item n="b)">Personalwesen und Berufsbildung,</item>
+                            <item n="c)">Wirtschaftsordnung und Wirtschaftspolitik</item>
+                        </list>bearbeiten und dabei zeigen, daß er wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen kann;</item>
+                    <item n="4.">Prüfungsfach Kundenberatung: In einem Beratungsgespräch von höchstens 20 Minuten Dauer soll der Prüfung auf der Grundlage einer von zwei ihm zur Wahl gestellten Aufgaben aus den Gebieten Kontoführung und Zahlungsverkehr, Geld- und Vermögensanlage sowie Kreditgeschäft zeigen, daß er in der Lage ist, Kundengespräche systematisch und situationsbezogen zu führen. Hierbei sind die betrieblichen Ausbildungsschwerpunkte zu berücksichtigen. Dem Prüfling ist eine Vorbereitungszeit von höchstens 15 Minuten einzuräumen.</item>
+                </list>
+                <p>(4) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu zwei Fächern mit "mangelhaft" und in den übrigen Fächern mit mindestens "ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft" bewerteten Fächer die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Das Fach ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für dieses Prüfungsfach sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.</p>
+                <p>(5) Bei der Ermittlung des Gesamtergebnisses haben die Prüfungsfächer Bankwirtschaft und Kundenberatung gegenüber jedem der übrigen Prüfungsfächern das doppelte Gewicht.</p>
+                <p>(6) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in drei der vier Prüfungsfächer mindestens ausreichende Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsfach mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.</p>
+            </div>
+            <div xml:id="d24e233">
+                <head>§ 9</head>
+                <p>Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.</p>
+            </div>
+            <div xml:id="d24e245">
+                <head>§ 10</head>
+                <p>Diese Verordnung tritt am 1. August 1998 in Kraft.</p>
+            </div>
+            <div xml:id="d24e258">
+                <head>Anlage I</head>
+                <p>(Fundstelle: BGBl. I 1998, S. 53 - 56)Lfd. Nr.Teil des Ausbildungsberufsbildeszu vermittelnde Fertigkeiten und Kenntnisse1231.Das ausbildende Unternehmen (§ 3 Nr. 1)&#160;&#160;1.1Stellung, Rechtsform und Organisation (§ 3 Nr. 1.1)a)Zielsetzung und Geschäftsfelder des ausbildenden Unternehmens sowie seine Stellung am Markt beschreibenb)Rechtsform des ausbildenden Unternehmens darstellenc)Kooperationen des ausbildenden Unternehmens im Bereich von Finanzdienstleistungen erläuternd)Zusammenarbeit des ausbildenden Unternehmens mit Wirtschaftsorganisationen, Behörden und Berufsvertretungen beschreibene)Aufbau- und Ablauforganisation des ausbildenden Unternehmens darstellenf)Arbeitsaufgaben inhaltlich und zeitlich strukturiereng)Betriebliche Arbeits- und Organisationsmittel aufgabengerecht einsetzen1.2Personalwesen und Berufsbildung (§ 3 Nr. 1.2)a)Ziele und Instrumente der Personalführung und -entwicklung im ausbildenden Unternehmen beschreiben und die eigene Beurteilung als wichtiges Instrument einordnenb)Ziele und Grundsätze der Personalplanung und des Personaleinsatzes im ausbildenden Unternehmen beschreibenc)für das Arbeitsverhältnis wichtige Nachweise erläutern und die Positionen der eigenen Gehaltsabrechnung beschreibend)für das Arbeitsverhältnis wichtige arbeits- und sozialrechtliche Bestimmungen anhand praktischer Beispiele erläuterne)Beteiligungsrechte betriebsverfassungs- oder personalvertretungsrechtlicher Organe erklärenf)über wesentliche tarifvertragliche Regelungen, Betriebs- oder Dienstvereinbarungen sowie betriebliche Übungen und deren Zustandekommen berichteng)die Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und die Aufgaben der Beteiligten im Dualen System beschreibenh)den betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen und unter Nutzung von Arbeits- und Lerntechniken zu seiner Umsetzung beitrageni)berufliche Weiterbildungsmöglichkeiten beschreibenk)Grundregeln für Kommunikation und Zusammenarbeit anwendenl)ausgewählte Aufgaben teamorientiert bearbeiten1.3Informations- und Kommunikationssysteme (§ 3 Nr. 1.3)a)Informations- und Kommunikationssysteme aufgabenorientiert nutzenb)Bedeutung und Nutzungsmöglichkeiten von Informations- und Kommunikationssystemen für das ausbildende Unternehmen erläuternc)Daten sichern und Datensicherung begründen1.4Sicherheit und Gesundheitsschutz bei der Arbeit (§ 3 Nr. 1.4)a)Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifenb)berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwendenc)Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen1.5Umweltschutz (§ 3 Nr. 1.5)Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesonderea)mögliche Umweltbelastungen durch das ausbildende Unternehmen und seinen Beitrag zum Umweltschutz an Beispielen erklärenb)für das ausbildende Unternehmen geltende Regelungen des Umweltschutzes anwendenc)Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzend)Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen2.Markt- und Kundenorientierung (§ 3 Nr. 2)&#160;&#160;2.1Kundenorientierte Kommunikation (§ 3 Nr. 2.1)a)Bedeutung qualitätsbewußten Handelns darstellen und zur Qualitätssicherung beitragenb)Kontakte zu Kunden und Interessenten systematisch vorbereitenc)Grundregeln für kundenorientiertes Verhalten im Gespräch und in der Korrespondenz anwendend)Beratungs- und Verkaufsgespräche mit Kunden planen, durchführen und nachbereitene)Kunden über Nutzen und Konditionen von Bankleistungen informierenf)Erwartungen von Kunden bei der Beratung und Betreuung berücksichtigen und entsprechende Bankleistungen des ausbildenden Unternehmens anbieteng)Anfragen von Kunden beantworten und Aufträge bearbeitenh)Bankleistungen bedarfsorientiert verkaufen und Möglichkeiten des cross-selling nutzeni)Kundenreklamationen entgegennehmen und Lösungen anbieten2.2Marketing (§ 3 Nr. 2.2)a)Wechselwirkungen zwischen Kundenbedürfnissen und geschäftspolitischen Zielsetzungen erläuternb)Marktsegmentierung am Beispiel des ausbildenden Unternehmens beschreibenc)Ziele von Werbung und Verkaufsförderung des ausbildenden Unternehmens an Beispielen erläuternd)bei Marketingmaßnahmen mitwirkene)Nutzen von Vertriebswegen für Kunden und das ausbildende Unternehmen darstellenf)Produkte des ausbildenden Unternehmens mit denen von Mitbewerbern an Beispielen vergleichen2.3Verbraucher- und Datenschutz (§ 3 Nr. 2.3)a)rechtliche Vorschriften zum Schutz der Kunden anwendenb)Kunden über mögliche Risiken bei der Nutzung von Bankleistungen informierenc)Regeln zum Datenschutz für das ausbildende Unternehmen und seine Mitarbeiter anwenden3.Kontoführung und Zahlungsverkehr (§ 3 Nr. 3)&#160;&#160;3.1Kontoführung (§ 3 Nr. 3.1)a)Kunden bei der Wahl der Kontoart beratenb)Konten für Kunden eröffnen, führen und abschließenc)Kunden über rechtliche Bestimmungen und vertragliche Vereinbarungen informierend)Kunden über Verfügungsberechtigungen und Vollmachten beraten3.2Nationaler Zahlungsverkehr (§ 3 Nr. 3.2)a)Kunden bei der Wahl der Zahlungsart beratenb)beim Barzahlungsverkehr unter Beachtung der Sicherheitsvorschriften und der Organisation des ausbildenden Unternehmens mitwirkenc)die Bearbeitung von Zahlungsverkehrsaufträgen an Beispielen erläuternd)rechtliche Bestimmungen und vertragliche Vereinbarungen bei der Abwicklung des Zahlungsverkehrs anwendene)Kunden über kartenbezogene Dienstleistungen beraten sowie Zahlungs- und Kreditkarten anbietenf)Produkte des ausbildenden Unternehmens im Rahmen des elektronic-banking darstellen3.3Internationaler Zahlungsverkehr (§ 3 Nr. 3.3)a)Kunden über Reisezahlungsmittel beratenb)Geschäftsvorgänge im Reisezahlungsverkehr bearbeitenc)Kunden über nichtdokumentäre Auslandszahlungen beratend)die Abwicklung von Dokumenteninkassi und Dokumentenakkreditiven beschreibene)Risiken bei Fremdwährungszahlungen und Möglichkeiten der bankmäßigen Absicherung erläutern4.Geld- und Vermögensanlage (§ 3 Nr. 4)&#160;&#160;4.1Anlage auf Konten (§ 3 Nr. 4.1)a)Kunden über Anlagemöglichkeiten auf Konten einschließlich der Sonderformen des ausbildenden Unternehmens beratenb)Konten eröffnen, führen und abschließenc)Kunden über rechtliche Bestimmungen und vertragliche Vereinbarungen informierend)Kunden über Verfügungsberechtigungen und Vollmachten beratene)Kunden über Zinsgutschriften und über deren steuerliche Auswirkungen informieren4.2Anlage in Wertpapieren (§ 3 Nr. 4.2)a)Kunden über Anlagemöglichkeiten, insbesondere in Aktien, Schuldverschreibungen und Investmentzertifikaten, informierenb)Kunden über rechtliche Bestimmungen und vertragliche Vereinbarungen informierenc)Chancen und Risiken der Anlage in Wertpapieren einschätzend)Kunden über Kursnotierungen und Preisfeststellungen Auskunft gebene)bei der Abwicklung einer Wertpapierorder mitwirkenf)Kundenanfragen zu Wertpapierabrechnungen beantworteng)Kunden über Verwahrung und Verwaltung von Wertpapieren beratenh)Kunden über Ertragsgutschriften und deren steuerliche Auswirkungen informiereni)Finanzderivate und deren Risiken in Grundzügen beschreiben4.3Anlage in anderen Finanzprodukten (§ 3 Nr. 4.3)a)Vertrieb von Verbundprodukten zur Kapitalanlage und zur Risikovorsorge im Rahmen der Organisation des ausbildenden Unternehmens erklärenb)beim Abschluß von Bausparverträgen mitwirkenc)Kunden über Möglichkeiten der Kapitalanlage und der Risikovorsorge durch Abschluß von Lebensversicherungen informieren5.Kreditgeschäft (§ 3 Nr. 5)&#160;&#160;5.1Standardisierte Privatkredite(§ 3 Nr. 5.1)a)Kreditarten und deren Verwendungsmöglichkeiten unterscheidenb)die rechtlichen und wirtschaftlichen Voraussetzungen für Kreditaufnahmen prüfen und unter Berücksichtigung der Risiken Entscheidungen vorbereitenc)Geschäftsvorgänge im Zusammenhang mit laufenden Kreditengagements und Kreditrückführungen bearbeitend)Sicherheiten beurteilen und bei der Bearbeitung von Sicherungsvereinbarungen mitwirkene)bei Kreditgesprächen mitwirken5.2Baufinanzierung (§ 3 Nr. 5.2)a)die rechtlichen und wirtschaftlichen Voraussetzungen für Baufinanzierungen prüfen und unter Berücksichtigung der Risiken Entscheidungen vorbereitenb)bei der Bearbeitung von Baufinanzierungen mitwirkenc)Sicherheiten unterscheiden und deren Sicherungswert erklären5.3Firmenkredite (§ 3 Nr. 5.3)a)Kreditarten für Firmenkunden erklären und Unterschiede zwischen Firmen- und Privatkreditgeschäft in Grundzügen herausarbeitenb)Sicherheiten unterscheiden und deren Sicherungswert erklären6.Rechnungswesen und Steuerung (§ 3 Nr. 6)&#160;&#160;6.1Rechnungswesen (§ 3 Nr. 6.1)a)Aufbau des Kontenplans des ausbildenden Unternehmens beschreibenb)Geschäftsvorgänge erfassenc)Kosten- und Erlösarten des ausbildenden Unternehmens unterscheidend)Kosten und Erlöse einer Kundenverbindung gegenüberstellene)Aufgaben von Kontrollen an Beispielen beschreiben und bei Kontrollarbeiten mitwirkenf)über Aufgaben interner Revisionen und externer Prüfungen im ausbildenden Unternehmen berichten6.2Steuerung (§ 3 Nr. 6.2)a)Aufgaben des Controllings als Informations- und Steuerungsinstrument des ausbildenden Unternehmens an Beispielen beschreibenb)statistische Daten aufbereiten und auswerten</p>
+            </div>
+            <div xml:id="d24e921">
+                <head>Anlage II</head>(Fundstelle: BGBl. I 1998, S. 57 - 58)<list>
+                    <item n="">
+                        <list>
+                            <item n="">
+                                <list>
+                                    <item n="">
+                                        <list>
+                                            <item n="">
+                                                <list>
+                                                    <item n="">
+                                                        <list>
+                                                            <item n="">A.</item>
+                                                        </list>
+                                                    </item>
+                                                </list>
+                                            </item>
+                                        </list>
+                                    </item>
+                                </list>
+                            </item>
+                        </list>
+                    </item>
+                </list>
+                <p>Die Fertigkeiten und Kenntnisse zu den Berufsbildpositionen 1.2, Lernziele k und l und 1.3 sind während der gesamten Ausbildungszeit zu vermitteln. Ihre Vermittlung soll insbesondere in Zusammenhang mit den Berufsbildpositionen 3., 4. und 5.1 erfolgen.</p>
+                <list>
+                    <item n="">
+                        <list>
+                            <item n="">
+                                <list>
+                                    <item n="">
+                                        <list>
+                                            <item n="">
+                                                <list>
+                                                    <item n="">
+                                                        <list>
+                                                            <item n="">B.</item>
+                                                        </list>
+                                                    </item>
+                                                </list>1. Ausbildungsjahr</item>
+                                        </list>
+                                    </item>
+                                </list>
+                            </item>
+                        </list>
+                    </item>
+                </list>
+                <p>(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen</p>
+                <list>
+                    <item n="3.1">Kontoführung,</item>
+                    <item n="2.">Markt- und Kundenorientierung,</item>
+                    <item n="6.1">Rechnungswesen</item>
+                </list>
+                <p>in Verbindung mit</p>
+                <list>
+                    <item n="1.1">Stellung, Rechtsform und Organisation,</item>
+                    <item n="1.2">Personalwesen und Berufsbildung, Lernziele a, c bis h,</item>
+                    <item n="1.4">Sicherheit und Gesundheitsschutz bei der Arbeit,</item>
+                    <item n="1.5">Umweltschutz</item>
+                </list>
+                <p>zu vermitteln.</p>
+                <p>(2) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition</p>
+                <list>
+                    <item n="3.2">Nationaler Zahlungsverkehr,</item>
+                </list>
+                <p>zu vermitteln und in Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen</p>
+                <list>
+                    <item n="2.">Markt- und Kundenorientierung,</item>
+                    <item n="6.1">Rechnungswesen</item>
+                </list>
+                <p>fortzuführen.</p>
+                <p>(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition</p>
+                <list>
+                    <item n="4.1">Anlage auf Konten</item>
+                </list>
+                <p>zu vermitteln und in Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen</p>
+                <list>
+                    <item n="2.">Markt- und Kundenorientierung,</item>
+                    <item n="6.1">Rechnungswesen</item>
+                </list>
+                <p>fortzuführen.</p>
+                <list>
+                    <item n="">
+                        <list>
+                            <item n="">
+                                <list>
+                                    <item n="">
+                                        <list>
+                                            <item n="">2. Ausbildungsjahr</item>
+                                        </list>
+                                    </item>
+                                </list>
+                            </item>
+                        </list>
+                    </item>
+                </list>
+                <p>(1) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen</p>
+                <list>
+                    <item n="4.2">Anlage in Wertpapieren,</item>
+                    <item n="6.2">Steuerung</item>
+                </list>
+                <p>zu vermitteln und in Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen</p>
+                <list>
+                    <item n="2.">Markt- und Kundenorientierung,</item>
+                    <item n="6.1">Rechnungswesen</item>
+                </list>
+                <p>fortzuführen.</p>
+                <p>(2) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition</p>
+                <list>
+                    <item n="4.3">Anlage in anderen Finanzprodukten</item>
+                </list>
+                <p>zu vermitteln und in Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen</p>
+                <list>
+                    <item n="2.">Markt- und Kundenorientierung,</item>
+                    <item n="6.1">Rechnungswesen</item>
+                </list>
+                <p>fortzuführen.</p>
+                <p>(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition</p>
+                <list>
+                    <item n="5.1">Standardisierte Privatkredite</item>
+                </list>
+                <p>zu vermitteln und in Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen</p>
+                <list>
+                    <item n="2.">Markt- und Kundenorientierung,</item>
+                    <item n="6.1">Rechnungswesen</item>
+                </list>
+                <p>fortzuführen.</p>
+                <list>
+                    <item n="">
+                        <list>
+                            <item n="">
+                                <list>
+                                    <item n="">
+                                        <list>
+                                            <item n="">3. Ausbildungsjahr</item>
+                                        </list>
+                                    </item>
+                                </list>
+                            </item>
+                        </list>
+                    </item>
+                </list>
+                <p>(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen</p>
+                <list>
+                    <item n="5.2">Baufinanzierung,</item>
+                    <item n="5.3">Firmenkredite und</item>
+                    <item n="1.2">Personalwesen und Berufsbildung, Lernziele b und i,</item>
+                </list>
+                <p>zu vermitteln und in Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen</p>
+                <list>
+                    <item n="2.">Markt- und Kundenorientierung,</item>
+                    <item n="6.">Rechnungswesen und Steuerung</item>
+                </list>
+                <p>fortzuführen.</p>
+                <p>(2) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition</p>
+                <list>
+                    <item n="3.3">Internationaler Zahlungsverkehr</item>
+                </list>
+                <p>zu vermitteln und in Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen</p>
+                <list>
+                    <item n="2.">Markt- und Kundenorientierung,</item>
+                    <item n="6.">Rechnungswesen und Steuerung</item>
+                </list>
+                <p>fortzuführen.</p>
+                <p>(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse von mindestens zwei der Berufsbildpositionen</p>
+                <list>
+                    <item n="3.1">Kontoführung,</item>
+                    <item n="4.">Geld- und Vermögensanlage,</item>
+                    <item n="5.">Kreditgeschäft</item>
+                </list>
+                <p>zu vertiefen und in Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen</p>
+                <list>
+                    <item n="2.">Markt- und Kundenorientierung,</item>
+                    <item n="6.">Rechnungswesen und Steuerung</item>
+                </list>
+                <p>fortzuführen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

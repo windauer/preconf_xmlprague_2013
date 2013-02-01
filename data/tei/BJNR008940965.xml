@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR008940965">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Berechnung des Kapitalwerts bei Abfindung von Leistungen aus der gesetzlichen Unfallversicherung</title>
+                <title type="short">UVKapWertV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1965-08-17</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Überschrift: IdF d. Art. 21 Nr. 1 G v. 7.8.1996 I 1254 mWv 1.1.1997(+++ Textnachweis ab: 1.9.1965 +++)Die V ist in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anlage I Kap. VIII Sachg. I Abschn. III Nr. 6 EinigVtr iVm Art. 1 G v. 23.9.1990 II 885, 1066 ab 1. Januar 1992 anzuwenden. Die Maßgabe ist nicht mehr anzuwenden gem. Art. 109 Nr. 3 Buchst. h DBuchst. ee G v. 8.12.2010 I 1864 mWv 15.12.2010</p>
+        </front>
+        <body>
+            <div xml:id="d424e29">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 604 Satz 3 und des § 616 Abs. 1 Satz 2 der Reichsversicherungsordnung verordnet die Bundesregierung mit Zustimmung des Bundesrates:</p>
+            </div>
+            <div xml:id="d424e39">
+                <head>§ 1</head>
+                <p>(1) Wird ein Verletzter, der Anspruch auf eine Rente auf unbestimmte Zeit nach § 62 Abs. 2 Satz 1 des Siebten Buches Sozialgesetzbuch wegen einer Minderung der Erwerbsfähigkeit durch Folgen des Arbeitsunfalls um weniger als 40 vom Hundert hat, innerhalb von 15 Jahren nach dem Unfall abgefunden, so richtet sich der Kapitalwert nach der Anzahl der zur Zeit des Unfalls vollendeten Lebensjahre des Verletzten und nach der seit dem Unfall vergangenen Zeit. Das Abfindungskapital ist die mit dem Kapitalwert aus der Tabelle der Anlage 1 vervielfältigte Jahresrente.</p>
+                <p>(2) Wird der in Absatz 1 bezeichnete Verletzte nach Ablauf von 15 Jahren nach dem Unfall abgefunden, so richtet sich der Kapitalwert nach der Anzahl der zur Zeit der Abfindung vollendeten Lebensjahre. Das Abfindungskapital ist die mit dem Kapitalwert aus der Tabelle der Anlage 2 vervielfältigte Jahresrente.</p>
+            </div>
+            <div xml:id="d424e54">
+                <head>§ 2</head>
+                <p>(weggefallen)</p>
+            </div>
+            <div xml:id="d424e65">
+                <head>§ 3</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 4 § 15 Abs. 1 des Unfallversicherungs-Neuregelungsgesetzes vom 30. April 1963 (Bundesgesetzbl. I S. 241) auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d424e77">
+                <head>§ 4</head>
+                <p>Diese Verordnung tritt am ersten Tag des auf die Verkündung folgenden Monats in Kraft.</p>
+            </div>
+            <div xml:id="d424e90">
+                <head>Anlage 1</head>
+                <p>(Inhalt: nicht darstellbarer Vordruck,Fundstelle: BGBl. I 1965, 896;bzgl. der einzelnen Änderungen vgl. Fußnote)</p>
+            </div>
+            <div xml:id="d424e110">
+                <head>Anlage 2</head>
+                <p>Fundstelle des Originaltextes: BGBl. I 1965, 896,bzgl. der einzelnen Änderungen vgl. FußnoteAlter des Verletzten zur Zeit der AbfindungKapitalwertunter 2520,525 bis unter 3019,730 bis unter 3518,835 bis unter 4017,740 bis unter 4516,545 bis unter 5015,150 bis unter 5513,555 bis unter 6011,860 bis unter 6510,065 bis unter 708,270 bis unter 756,575 bis unter 805,080 bis unter 853,885 bis unter 902,990 bis unter 952,295 und mehr1,6</p>
+            </div>
+            <div xml:id="d424e220">
+                <head>(XXXX) Anlage 3 bis 9</head>
+            </div>
+        </body>
+    </text>
+</TEI>

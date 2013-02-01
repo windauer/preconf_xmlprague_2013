@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR005820969">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arbeitsförderungsgesetz</title>
+                <title type="short">AFG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1969-06-25</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 7.1983 +++)</p>
+        </front>
+        <body>
+            <div>
+                <head>Erster Abschnitt</head>
+                <head type="subtitle">-</head>
+                <div xml:id="d101e40">
+                    <head>(XXXX) §§ 1 bis 3</head>
+                </div>
+            </div>
+            <div>
+                <head>Zweiter Abschnitt</head>
+                <head type="subtitle">-</head>
+                <div xml:id="d101e67">
+                    <head>(XXXX) §§ 4 bis 62d</head>
+                </div>
+            </div>
+            <div>
+                <head>Dritter Abschnitt</head>
+                <head type="subtitle">-</head>
+                <div xml:id="d101e92">
+                    <head>(XXXX) §§ 63 bis 99</head>
+                </div>
+            </div>
+            <div>
+                <head>Vierter Abschnitt</head>
+                <head type="subtitle">-</head>
+                <div xml:id="d101e119">
+                    <head>(XXXX) §§ 100 bis 141n</head>
+                </div>
+            </div>
+            <div>
+                <head>Fünfter Abschnitt</head>
+                <head type="subtitle">-</head>
+                <div xml:id="d101e144">
+                    <head>(XXXX) §§ 142 bis 166c</head>
+                </div>
+            </div>
+            <div>
+                <head>Sechster Abschnitt</head>
+                <head type="subtitle">-</head>
+                <div xml:id="d101e169">
+                    <head>(XXXX) §§ 167 bis 188</head>
+                </div>
+            </div>
+            <div>
+                <head>Siebenter Abschnitt</head>
+                <head type="subtitle">Bundesanstalt für Arbeit</head>
+                <div>
+                    <head>Erster Unterabschnitt</head>
+                    <head type="subtitle">-</head>
+                    <div xml:id="d101e210">
+                        <head>(XXXX) §§ 189 bis 214</head>
+                    </div>
+                </div>
+                <div>
+                    <head>Zweiter Unterabschnitt</head>
+                    <head type="subtitle">Haushalt und Vermögen</head>
+                    <div xml:id="d101e236">
+                        <head>(XXXX) §§ 215 bis 220</head>
+                    </div>
+                    <div xml:id="d101e248">
+                        <head>§ 221</head>
+                        <p>(weggefallen)</p>
+                    </div>
+                    <div xml:id="d101e259">
+                        <head>(XXXX) §§ 222 u. 223</head>
+                    </div>
+                </div>
+                <div>
+                    <head>Dritter Unterabschnitt</head>
+                    <head type="subtitle">-</head>
+                    <div xml:id="d101e286">
+                        <head>§ 224</head>
+                        <p>(weggefallen)</p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <head>Achter Abschnitt</head>
+                <head type="subtitle">-</head>
+                <div xml:id="d101e312">
+                    <head>(XXXX) §§ 225 bis 233b</head>
+                </div>
+            </div>
+            <div>
+                <head>Neunter Abschnitt</head>
+                <head type="subtitle">Übergangs- und Schlußvorschriften</head>
+                <div xml:id="d101e336">
+                    <head>(XXXX) §§ 234 bis 243</head>
+                </div>
+                <div xml:id="d101e348">
+                    <head>§ 242z</head>
+                    <p>Die Vorschriften über die Aufbringung der Mittel für das Konkursausfallgeld sind auf die Unfallversicherungsträger, die für die nach § 125 Abs. 3, § 128 Abs. 4 und § 129 Abs. 3 des Siebten Buches Sozialgesetzbuch übernommenen Unternehmen zuständig sind, erstmals für die für das Jahr 1997 aufzubringenden Mittel anzuwenden.</p>
+                </div>
+                <div xml:id="d101e359">
+                    <head>§ 244</head>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d101e370">
+                    <head>(XXXX) §§ 245 bis 251</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d101e381">
+                    <head>Anlage</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d101e394">
+                    <head>Anlage</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d101e407">
+                    <head>Anlage</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d101e420">
+                    <head>Anlage</head>
+                    <p>-</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

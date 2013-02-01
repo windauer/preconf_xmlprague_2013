@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000450976">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über die Regelung der Landeszugehörigkeit des Verwaltungsbezirks Oldenburg und des Landkreises Schaumburg-Lippe nach Artikel 29 Abs. 3 Satz 2 des Grundgesetzes</title>
+                <title type="short">OldenbG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1976-01-09</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 14. 1.1976 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1045e20">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit der Mehrheit seiner Mitglieder das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d1045e30">
+                <head>§ 1</head>
+                <p>Der Verwaltungsbezirk Oldenburg und der Landkreis Schaumburg-Lippe - nach dem Gebietsstand vom 9. April 1956 - verbleiben beim Land Niedersachsen.</p>
+            </div>
+            <div xml:id="d1045e40">
+                <head>§ 2</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d1045e50">
+                <head>§ 3</head>
+                <p>Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

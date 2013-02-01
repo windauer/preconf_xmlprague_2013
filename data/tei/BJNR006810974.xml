@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006810974">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Durchführung einer Erhebung über Arten und Umfang der betrieblichen Altersversorgung</title>
+                <title type="short">AltersVersErhV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1974-03-11</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 14. 3.1974 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d201e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 6 Abs. 2 des Gesetzes über die Statistik für Bundeszwecke vom 3. September 1953 (Bundesgesetzbl. I S. 1314), zuletzt geändert durch das Einführungsgesetz zum Strafgesetzbuch vom 2. März 1974 (Bundesgesetzbl. I S. 469), verordnet die Bundesregierung mit Zustimmung des Bundesrates:</p>
+            </div>
+            <div xml:id="d201e30">
+                <head>§ 1</head>
+                <p>Über Arten und Umfang der betrieblichen Altersversorgung wird im Jahre 1974 eine Bundesstatistik durchgeführt.</p>
+            </div>
+            <div xml:id="d201e40">
+                <head>§ 2</head>
+                <p>(1) In die Erhebung werden, mit Ausnahme der Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, die Unternehmen ausgewählter Bereiche mit 10 und mehr Beschäftigten folgender Wirtschaftsbereiche einbezogen:</p>
+                <list>
+                    <item n="1.">Produzierendes Gewerbe ohne Baugewerbe;</item>
+                    <item n="2.">Handel;</item>
+                    <item n="3.">Verkehr- und Nachrichtenübermittlung;</item>
+                    <item n="4.">Kreditinstitute und Versicherungsgewerbe;</item>
+                    <item n="5.">Dienstleistungen, soweit von Unternehmen und freien Berufen erbracht.</item>
+                </list>
+                <p>(2) Die Erhebung wird repräsentativ durchgeführt.</p>
+            </div>
+            <div xml:id="d201e63">
+                <head>§ 3</head>
+                <p>Bei der Erhebung werden erfaßt</p>
+                <list>
+                    <item n="1.">die Formen der betrieblichen Altersversorgung,</item>
+                    <item n="2.">die Zahl der Unternehmen, die über eine betriebliche Altersversorgung verfügen und die Zahl der Arbeitnehmer, die eine betriebliche Versorgungsleistung zu erwarten haben,</item>
+                    <item n="3.">die durchschnittliche Höhe der monatlichen Versorgungsleistung, die im Zeitpunkt der Erhebung nach 35 Dienstjahren im Unternehmen erreicht wird,</item>
+                    <item n="4.">die Aufwendungen der Unternehmen für die betriebliche Altersversorgung im Jahre 1973.</item>
+                </list>
+            </div>
+            <div xml:id="d201e82">
+                <head>§ 4</head>
+                <p>Auskunftspflichtig nach § 10 des Gesetzes über die Statistik für Bundeszwecke sind die Inhaber oder Leiter der befragten Unternehmen.</p>
+            </div>
+            <div xml:id="d201e92">
+                <head>§ 5</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 17 des Gesetzes über die Statistik für Bundeszwecke auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d201e102">
+                <head>§ 6</head>
+                <p>Diese Verordnung tritt am Tage ihrer Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

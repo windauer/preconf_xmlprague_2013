@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR010300998">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Durchführung des § 118 Abs. 1 und 2 des Zwölften Buches Sozialgesetzbuch</title>
+                <title type="short">SozhiDAV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1998-01-21</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.1.1998 +++)Überschrift: IdF d. Art. 16 Nr. 1 G v. 27.12.2003 I 3022 mWv 1.1.2005</p>
+        </front>
+        <body>
+            <div xml:id="d1251e31">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 117 Abs. 1 und 2 des Bundessozialhilfegesetzes in der Fassung der Bekanntmachung vom 23. März 1994 (BGBl. I S. 646), der durch Artikel 1 Nr. 37 Buchstabe a und b des Gesetzes vom 23. Juli 1996 (BGBl. I S. 1088) geändert worden ist, in Verbindung mit § 117 Abs. 2a des Bundessozialhilfegesetzes, der durch Artikel 11 Nr. 2 des Gesetzes vom 16. Dezember 1997 (BGBl. I S. 2970) eingefügt worden ist, verordnet das Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesministerium für Arbeit und Sozialordnung:</p>
+            </div>
+            <div xml:id="d1251e41">
+                <head>§ 1</head>
+                <p>Verfahren und Kosten der Datenabgleiche, die nach § 118 Abs. 1 und 2 des Zwölften Buches Sozialgesetzbuch durchgeführt werden können, richten sich nach den Vorschriften dieser Verordnung.</p>
+            </div>
+            <div xml:id="d1251e54">
+                <head>§ 2</head>
+                <p>(1) In den Abgleich nach § 118 Abs. 1 Nr. 1 und 2 des Zwölften Buches Sozialgesetzbuch beziehen die Träger der Sozialhilfe alle Personen ein, die innerhalb des dem Abgleich vorangehenden Kalendervierteljahres Sozialhilfeleistungen erhalten haben (Abgleichszeitraum). Können sie aufgrund mangelnder technischer Ausstattung lediglich einen Teil dieser Personen in den Abgleich einbeziehen, wird der mindestens einzubeziehende Personenkreis durch die obersten Landessozialbehörden im Einvernehmen mit der Bundesvereinigung der Kommunalen Spitzenverbände jeweils für die Abgleiche des Folgejahres festgelegt; die Auswahl wird anhand des Anfangsbuchstabens des Familiennamens, des Geburtsjahrgangs der Bezieher von Leistungen der Sozialhilfe und der Art der Hilfeleistung vorgenommen. Der Abgleich wird viermal jährlich jeweils für das vorangegangene Kalendervierteljahr durchgeführt.</p>
+                <p>(2) In den Abgleich nach § 118 Abs. 1 Satz 1 Nr. 3 des Zwölften Buches Sozialgesetzbuch werden einbezogen</p>
+                <list>
+                    <item n="1.">im ersten Kalendervierteljahr des Jahres 2002 sowie im dritten Kalendervierteljahr eines Jahres alle nach Absatz 1 einbezogenen Personen,</item>
+                    <item n="2.">in den anderen Kalendervierteljahren eines Jahres alle nach Absatz 1 einbezogenen Personen, die im vorangegangenen Kalendervierteljahr erstmals oder erneut Sozialhilfeleistungen erhalten haben.</item>
+                </list>
+                <p>Der Abgleich im ersten und zweiten Kalendervierteljahr wird für das vorvergangene, der Abgleich im dritten und vierten Kalendervierteljahr für das vergangene Kalenderjahr durchgeführt.</p>
+            </div>
+            <div xml:id="d1251e75">
+                <head>§ 3</head>
+                <p>(1) Die Datenübermittlung erfolgt über die Datenstelle der Rentenversicherungsträger als Vermittlungsstelle.</p>
+                <p>(2) Der Träger der Sozialhilfe übermittelt die in § 118 Abs. 1 Satz 2 des Zwölften Buches Sozialgesetzbuch genannten Daten der einbezogenen Abgleichsfälle an die Vermittlungsstelle; die Übermittlung an die Vermittlungsstelle kann auch über eine von der zuständigen Landesbehörde bestimmte zentrale Landesstelle erfolgen. Der übermittelte Anfragedatensatz (Anlage 1) muß den Familiennamen, den Geburtsnamen, soweit er vom Familiennamen abweicht, den Vornamen (Rufnamen), das Geburtsdatum und das Geschlecht und soweit bekannt den Geburtsort, die Nationalitäten, die Anschrift und die Dauer des Sozialleistungsbezugs (Leistungszeitraum) enthalten. Außerdem muß er ein Erkennungszeichen bezogen auf den Empfänger der Leistungen der Sozialhilfe und Angaben enthalten, die eine eindeutige Zuordnung zu dem Träger der Sozialhilfe ermöglichen. Weitere Angaben darf der Anfragedatensatz nicht enthalten.</p>
+                <p>(3) Die Datenübermittlung an die Datenstelle der Rentenversicherungsträger erfolgt zwischen dem ersten und dem 15. des ersten Monats, der auf den jeweiligen Abgleichszeitraum folgt.</p>
+            </div>
+            <div xml:id="d1251e92">
+                <head>§ 4</head>
+                <p>(1) Auskunftsstellen sind die Bundesagentur für Arbeit, die Deutsche Rentenversicherung Knappschaft-Bahn-See als Träger der knappschaftlichen Rentenversicherung, die Deutsche Post AG (für die übrigen Träger der Rentenversicherung und der Unfallversicherung) und das Bundeszentralamt für Steuern. Hinsichtlich der geringfügigen Beschäftigungen und der Feststellung der Zeiten einer versicherungspflichtigen Beschäftigung sowie des Namens und der Anschrift des Arbeitgebers im Abgleichszeitraum ist die Datenstelle der Rentenversicherungsträger selbst Auskunftsstelle. Die Auskunftsstellen führen die Abgleiche gemäß § 11 durch.</p>
+                <p>(2) Die Vermittlungsstelle führt die ihr übermittelten Datensätze der Träger der Sozialhilfe zusammen und übermittelt den Auskunftsstellen je Leistungsempfänger einen Anfragedatensatz (Anlage 1) bis zum Ende des ersten Monats, der auf den Abgleichszeitraum folgt. Davon abweichend wird dem Bundeszentralamt für Steuern ein um die Daten "zugehörige Rentenversicherungsnummer", "Geburtsort", "Nationalität" und "Geschlecht" verminderter Anfragedatensatz (Anlage 1) der nach § 2 Abs. 2 einzubeziehenden Leistungsempfänger übermittelt. Kann im Falle des Satzes 1 eine Versicherungsnummer nicht ermittelt werden, erfolgt die Übermittlung nur, wenn nach den allgemein anerkannten Regeln der Technik in der Auskunftsstelle eine Überprüfung ohne Versicherungsnummer möglich ist.</p>
+            </div>
+            <div xml:id="d1251e107">
+                <head>§ 5</head>
+                <p>(1) Meldungen sind durch Datenübermittlung zu erstatten. Sie können durch Datenübertragung oder bis zum 31. Dezember 2002 auch auf maschinell verwertbaren Datenträgern (Magnetband, Magnetband-Kassette) erfolgen. Bei der Datenübermittlung sind für das Übermittlungsmedium und das Übermittlungsverfahren geeignete und dem Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit vorzusehen, die insbesondere die Vertraulichkeit, die Unversehrtheit und die Zurechenbarkeit der Daten sowie die Authentizität von Absender und Empfänger der Daten gewährleisten.</p>
+                <p>(2) Werden Mängel festgestellt, die eine ordnungsgemäße Übernahme der Daten beeinträchtigen, kann die Übernahme der Daten ganz oder teilweise abgelehnt werden. Der Absender ist über die festgestellten Mängel zu unterrichten. Er kann die zurückgewiesenen Meldungen unverzüglich berichtigen und innerhalb des Zeitraumes des § 3 Abs. 3 erneut erstatten. Wird ein Datenträger vollständig unbearbeitet zurückgewiesen, ist nach Behebung der Mängel der gesamte Inhalt innerhalb des Zeitraumes des § 3 Abs. 3 erneut zu übermitteln. Die Übermittlung im Wege der Datenübertragung setzt voraus, daß zwischen Absender und Empfänger der Daten Einvernehmen über die Einzelheiten des Verfahrens besteht.</p>
+            </div>
+            <div xml:id="d1251e122">
+                <head>§ 6</head>
+                <p>(1) Soweit Datenübermittlungen auf maschinell lesbaren Datenträgern durchgeführt werden, finden die in der Anlage 2 unter Angabe des Monats ihrer jeweiligen Ausgabe bezeichneten DIN-Normen Anwendung.</p>
+                <p>(2) Soweit Daten auf Magnetbandkassetten oder Magnetbändern übermittelt werden, sind sie im 8-Bit-Code - ARV 8 - nach DIN 66 303, Code-Tabelle 1, und nach DIN 66 004 Teil 3 durchzuführen.</p>
+                <p>(3) Den zu übersendenden Datenträgern ist ein Begleitschreiben beizufügen, das die Bezeichnung der Datenübermittlung nach dieser Verordnung und außerdem Angaben enthalten muß über</p>
+                <list>
+                    <item n="1.">die Anzahl der Datenträger,</item>
+                    <item n="2.">die Datenträgerkennzeichen,</item>
+                    <item n="3.">die Aufzeichnungsdichte,</item>
+                    <item n="4.">das Erstellungsdatum,</item>
+                    <item n="5.">die laufende Nummer der erstellten Datei,</item>
+                    <item n="6.">die Anzahl der Datensätze je Datenträger,</item>
+                    <item n="7.">den Code.</item>
+                </list>
+                <p>(4) Die in dieser Verordnung und in der Anlage 2 bezeichneten DIN-Normen sind vom Deutschen Institut für Normung e.V., Berlin, herausgegeben, bei der Beuth-Verlag GmbH, Burggrafenstraße 4 - 10, 10787 Berlin, beziehbar und beim Bundesarchiv, Potsdamer Straße 1, 56075 Koblenz-Karthause, jedermann zugänglich und archivmäßig gesichert niedergelegt.</p>
+            </div>
+            <div xml:id="d1251e155">
+                <head>§ 7</head>
+                <p>(1) Bei Datenübermittlungen durch Übersendung von Magnetbandkassetten sind</p>
+                <list>
+                    <item n="1.">Magnetbandkassetten nach DIN EN ISO/IEC 9661 zu verwenden und zu beschriften,</item>
+                    <item n="2.">die Magnetbandkassetten mit Kennsätzen zu versehen; Kennsätze und Datenanordnungen der auf Magnetbandkassetten übermittelten Daten richten sich nach Magnetbandkassettenaufbau DIN 66 229 in Verbindung mit DIN 66 029-3 und nach Anlage 3.</item>
+                </list>
+                <p>(2) Die Träger der Sozialhilfe haben jede zu übersendende Magnetbandkassette mit einem Etikett mit folgenden Angaben zu versehen:</p>
+                <list>
+                    <item n="1.">absendende Stelle,</item>
+                    <item n="2.">Bandkennzeichen,</item>
+                    <item n="3.">Dateiname,</item>
+                    <item n="4.">empfangende Stelle,</item>
+                    <item n="5.">laufende Nummer der Magnetbandkassette und die Gesamtzahl der zusammen mit ihr übersandten weiteren Magnetbandkassetten,</item>
+                    <item n="6.">Erstellungsdatum.</item>
+                </list>
+                <p>Die Magnetbandkassetten sind in festen Behältern verschlossen zu versenden. Mehrere zusammengehörende Magnetbandkassetten sind zusammen zu versenden.</p>
+            </div>
+            <div xml:id="d1251e188">
+                <head>§ 8</head>
+                <p>(1) Bei Datenübermittlungen durch Übersendung von Magnetbändern sind</p>
+                <list>
+                    <item n="1.">Magnetbänder nach DIN EN 21 864 zu verwenden,</item>
+                    <item n="2.">die Magnetbänder nach DIN 66 015 oder nach DIN EN 25 652 zu beschriften,</item>
+                    <item n="3.">die Magnetbänder mit Kennsätzen zu versehen; Kennsätze und Dateianordnungen der auf Magnetbändern übermittelten Daten richten sich nach Magnetbandaufbau DIN 66 029 und nach Anlage 3.</item>
+                </list>
+                <p>(2) Die Träger der Sozialhilfe haben jedes zu versendende Magnetband mit einem Magnetbandaufkleber oder einer einschiebbaren Magnetbandetikette mit folgenden Angaben zu versehen:</p>
+                <list>
+                    <item n="1.">absendende Stelle,</item>
+                    <item n="2.">Bandkennzeichen,</item>
+                    <item n="3.">Dateiname,</item>
+                    <item n="4.">empfangende Stelle,</item>
+                    <item n="5.">laufende Nummer des Magnetbandes und die Gesamtzahl der zusammen mit ihm übersandten weiteren Magnetbänder,</item>
+                    <item n="6.">Erstellungsdatum,</item>
+                    <item n="7.">Zeichendichte.</item>
+                </list>
+                <p>Die Magnetbänder sind ohne Schreibringe zu versenden. Sie sind gegen Abwicklung zu sichern und in festen Behältern verschlossen zu versenden. Mehrere zusammengehörende Magnetbänder sind zusammen zu versenden.</p>
+            </div>
+            <div xml:id="d1251e226">
+                <head>§ 9</head>
+                <p>(weggefallen)</p>
+            </div>
+            <div xml:id="d1251e237">
+                <head>§ 10</head>
+                <p>Bei der Datenübermittlung durch Datenübertragung zwischen den Trägern der Sozialhilfe und der Vermittlungsstelle werden die zu übermittelnden Daten von den Trägern der Sozialhilfe an die Vermittlungsstelle weitergegeben sowie von dieser an die Träger der Sozialhilfe zurückübermittelt oder von den Trägern der Sozialhilfe abgerufen. Die Daten sind vor dem Versand mit dem von der Vermittlungsstelle zur Verfügung gestellten Verschlüsselungsprogramm zu verschlüsseln und zu signieren. Die Träger der Sozialhilfe haben dafür Sorge zu tragen, dass nur verschlüsselte Daten übertragen werden. Über den Zeitpunkt der Weitergabe oder über die Dauer des Bereithaltens der jeweiligen Daten sowie über die weiteren Einzelheiten des Verfahrens muß Einvernehmen zwischen den Trägern der Sozialhilfe und der Vermittlungsstelle bestehen. Dabei sind die allgemein anerkannten Regeln der Technik zugrunde zu legen. § 6 Abs. 2 findet entsprechende Anwendung.</p>
+            </div>
+            <div xml:id="d1251e250">
+                <head>§ 11</head>
+                <p>(1) Die Bundesagentur für Arbeit gleicht die ihr übermittelten Daten mit den bei ihr gespeicherten Daten ab zur Feststellung</p>
+                <list>
+                    <item n="1.">der Dauer des Bezugs und der monatlichen Höhe von Arbeitslosengeld, Arbeitslosengeld II, Sozialgeld, Eingliederungshilfe, Altersübergangsgeld, Unterhaltsgeld und Übergangsgeld,</item>
+                    <item n="2.">der jeweiligen Agentur für Arbeit und des Ordnungsbegriffes der Agentur für Arbeit</item>
+                </list>
+                <p>im Abgleichszeitraum. Das Bundesministerium für Arbeit und Soziales kann auf Verlangen der Bundesagentur für Arbeit zulassen, dass die Daten abweichend von Satz 1 Nr. 1 zur Feststellung der wöchentlichen Höhe der Leistungen abgeglichen werden.</p>
+                <p>(2) Die Deutsche Rentenversicherung Knappschaft-Bahn-See als Träger der knappschaftlichen Rentenversicherung gleicht die ihr übermittelten Daten mit den bei ihr gespeicherten Daten ab zur Feststellung der Dauer des Bezugs und der monatlichen Höhe von Leistungen sowie der Tatsache von Einmalzahlungen der knappschaftlichen Rentenversicherung und soweit möglich der Unfallversicherung im Abgleichszeitraum.</p>
+                <p>(3) Die Deutsche Post AG gleicht die ihr übermittelten Daten mit den bei ihr gespeicherten Daten ab zur Feststellung der Dauer des Bezugs und der monatlichen Höhe von Rentenzahlungen der allgemeinen Rentenversicherung, von Unfallrenten aus einer Unfallversicherung, sofern die Zahlungen über die Deutsche Post AG geleistet werden und zur Feststellung der Tatsache von Einmalzahlungen im Abgleichszeitraum.</p>
+                <p>(4) Die Datenstelle der Rentenversicherungsträger gleicht die ihr übermittelten Daten mit den bei ihr gespeicherten Daten ab zur Feststellung von Zeiten einer geringfügigen Beschäftigung und einer versicherungspflichtigen Beschäftigung im Abgleichszeitraum, zur Feststellung der Betriebsnummer sowie des Namens und der Anschrift des Arbeitgebers.</p>
+                <p>(5) Das Bundeszentralamt für Steuern gleicht die ihm übermittelten Daten mit den bei ihm gespeicherten Daten ab zur Feststellung der Höhe der Kapitalerträge, bei denen auf Grund des Freistellungsauftrags vom Steuerabzug Abstand genommen worden ist. Es stellt zusätzlich Namen und Anschrift des Empfängers des Freistellungsauftrags fest.</p>
+            </div>
+            <div xml:id="d1251e277">
+                <head>§ 12</head>
+                <p>Die Auskunftsstellen übermitteln die von ihnen bei dem Abgleich gemäß § 11 getroffenen Feststellungen (Antwortdatensatz) bis zum 15. des zweiten Monats, der auf den Abgleichszeitraum folgt, zurück an die Vermittlungsstelle. Die Antwortdatensätze haben, wenn die Auskunftsstelle einen Leistungsbezug, Zeiten einer Versicherungspflicht, Zeiten einer geringfügigen Beschäftigung oder einen oder mehrere ausgeführte Freistellungsaufträge festgestellt hat, den in der Anlage 4 beigefügten Aufbau; anderenfalls haben sie den in Anlage 5 beigefügten Aufbau.</p>
+            </div>
+            <div xml:id="d1251e290">
+                <head>§ 13</head>
+                <p>Die Vermittlungsstelle führt den Abgleich der vorliegenden Daten der Träger der Sozialhilfe untereinander zwischen dem 15. und dem Ende des ersten auf den Abgleichszeitraum folgenden Monats durch.</p>
+            </div>
+            <div xml:id="d1251e303">
+                <head>§ 14</head>
+                <p>Die Vermittlungsstelle übermittelt die Feststellungen nach § 12 und die Ergebnisse des Abgleichs nach § 13 mit einem Datensatz nach Anlage 4 oder nach Anlage 5 unmittelbar oder über die von der zuständigen Landesbehörde bestimmte zentrale Landesstelle an die Träger der Sozialhilfe bis zum Ende des zweiten Monats, der auf den Abgleichszeitraum folgt, zurück oder hält sie zum Abruf bereit.</p>
+            </div>
+            <div xml:id="d1251e315">
+                <head>§ 15</head>
+                <p>(1) Die Auskunftsstellen haben den Eingang der ihnen von der Vermittlungsstelle übermittelten Datensätze regelmäßig zu überwachen, nach Eingang die Datensätze auf Vollständigkeit zu überprüfen und der Vermittlungsstelle unverzüglich eine Eingangsbestätigung zu erstatten. Satz 1 gilt entsprechend für die Vermittlungsstelle in bezug auf die ihr von den Auskunftsstellen übermittelten Datensätze.</p>
+                <p>(2) Die Auskunftsstellen haben die ihnen übermittelten Daten unverzüglich nach Rückübermittlung ihrer Feststellungen an die Vermittlungsstelle zu löschen. Die Vermittlungsstelle hat nach der Durchführung des Abgleichs der Leistungen der Träger der Sozialhilfe untereinander, der Fertigung der Antwortdatensätze und der Rückübermittlung dieser Antwortdatensätze an die Träger der Sozialhilfe die Daten der Empfänger von Leistungen der Sozialhilfe unverzüglich zu löschen. Sofern die Übermittlung auf maschinell verwertbaren Datenträgern gemäß § 5 Abs. 1 Satz 2 erfolgt, löscht die Vermittlungsstelle die Antwortdatensätze bis zum 15. des dritten auf den Abgleichszeitraum folgenden Monats.</p>
+            </div>
+            <div xml:id="d1251e329">
+                <head>§ 16</head>
+                <p>(1) Die Träger der Sozialhilfe erstatten zu gleichen Teilen die Kosten der Vermittlungsstelle.</p>
+                <p>(2) Die Vermittlungsstelle teilt den Trägern der Sozialhilfe jeweils am Ende eines Jahres die Höhe der von ihnen für das darauffolgende Jahr zu erstattenden Kosten mit. Es sind Kosten zu erstatten für die Jahre 1998, 1999 sowie 2000 in Höhe von 650 Deutsche Mark, für das Jahr 2001 in Höhe von 970 Deutsche Mark und für das Jahr 2002 in Höhe von 500 Euro pro Träger der Sozialhilfe und Jahr. Für die Folgejahre legt die Vermittlungsstelle die Kosten gleichmäßig pro Träger der Sozialhilfe auf der Grundlage der tatsächlich entstandenen Kosten neu fest; diese Kosten dürfen 500 Euro zuzüglich einer Steigerung, die der Lohn- und Gehaltserhöhung im öffentlichen Dienst entspricht, nicht übersteigen.</p>
+                <p>(3) Das Bundesministerium für Arbeit und Soziales überprüft in Zusammenarbeit mit der Datenstelle der Rentenversicherungsträger alle drei Jahre, erstmalig nach Ablauf des Jahres 2000, die Höhe der für die Tätigkeit der Vermittlungsstelle entstandenen Kosten darauf, ob sie mit Absatz 2 Satz 3 in Einklang steht.</p>
+                <p>(4) Abweichend von Absatz 1 kann Landesrecht eine andere Stelle für die Kostenerstattung bestimmen.</p>
+            </div>
+            <div xml:id="d1251e348">
+                <head>§ 17</head>
+                <p>Diese Verordnung tritt mit Wirkung vom 1. Januar 1998 in Kraft.</p>
+            </div>
+            <div xml:id="d1251e360">
+                <head>Schlußformel</head>
+                <p>Der Bundesrat hat zugestimmt.</p>
+            </div>
+            <div xml:id="d1251e370">
+                <head>Anlage 1</head>
+                <p>Fundstelle des Originaltextes: BGBl. I 2001, 4051 - 4054;bzgl. der einzelnen Änderungen vgl. FußnoteDatensatzbeschreibung für Träger der SozialhilfeVorlaufsatz&#160;&#160;SatzbeschreibungStand 01.01.2004DateinameSatzbezeichnungSatzartSOZHIANFLeistungsanfrageSOZHI&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt1144C<p>Kennung</p>
+                    <p>(KE)</p>VOSZ2595C<p>Verfahrensmerkmal</p>
+                    <p>(VFMM)</p>SZTDS/DSTSZDSTPO/POTDSDSTKN/KNTDSDSTBA/BATDSDSTBF/BFTDS3102415C<p>Physikalischer Absender der Datei</p>
+                    <p>(ADNR)</p>Betriebsnummer/ Kreisschlüssel/ Gemeindeschlüssel (linksbündig, restliche Stellen leer)4253915C<p>Physikalischer Empfänger der Datei</p>
+                    <p>(EPNR)</p>Betriebsnummer/ Kreisschlüssel/ Gemeindeschlüssel (linksbündig, restliche Stellen leer)540478N<p>Erstellungsdatum der Datei</p>
+                    <p>(ED)</p>Format "TTMMJJJJ"648536NDateinummerZiffern 000001 bis 99999975410350CAbsender-KurzbezeichnungName und Anschrift des Absenders in freier Form81041052NVersions-NummerVersionsnummer des Datensatzes:01entspricht Stand 01.9802entspricht Stand 01.02&#160;GrundaufbauAnfragedatensatz vom Träger der SozialhilfeZeichendarstellung:C = linksbündig mit nachfolgenden LeerstellenN = linksbündig mit nachfolgenden LeerstellenGrundstellung numerischer Felder (Typ N) = NullGrundstellung alphanumerischer Felder (Typ C) = Leerstellen&#160;SatzbeschreibungStand 01.01.2004DateinameSatzbezeichnungSatzartSOZHIANFLeistungsanfrageSOZHI&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhaltSteuerungsteil01144C<p>Kennung</p>
+                    <p>(KE)</p>MelderichtungSZ =SozialhilfestelleDS =DSRVPO =PostKN =KnappschaftBA =Bundesagentur für ArbeitBF =Bundeszentralamt für Steuern Stellen 1-2 Absender Stellen 3-4 Empfänger02595C<p>Verfahrensmerkmal</p>
+                    <p>(VFMM)</p>SOZHI (Sozialhilfe)0310178N<p>Absender</p>
+                    <p>(ADNR)</p>SZ =Gemeindeschlüssel oder Kreisschlüssel mit nachgestellten NullenDS-BA-BF =Betriebsnummer0418258N<p>Empfänger</p>
+                    <p>(EPNR)</p>Inhalt analog Feld 030526338N<p>Erstellungsdatum</p>
+                    <p>(ED)</p>Erstellungsdatum des Datensatzes in der Form TTMMJJJJ0634&#160;1N<p>Fehlerkennzeichen</p>
+                    <p>(FEKZ)</p>0 =kein Fehler0735&#160;1NAnzahl der Fehlernummern0&#160;Identifikationsteil08364712C<p>Sortiermerkmal 1: Interimsversicherungsnummer</p>
+                    <p>(ITVSNR)</p>Interimsversicherungsnummer in der Form71 TTMMJJ Alpha 000-499 männliche Vers.71 TTMMJJ Alpha 500-999 weibliche Vers.TTMMJJ =Tag, Monat, Jahr des Geburtsdatums 2stelligAlpha =Anfangsbuchstabe des Geburtsnamens&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt0948558N<p>Sortiermerkmal 2: Gemeinde-/ Kreisschlüssel</p>
+                    <p>(GEMSC/KRSC)</p>Gemeindeschlüssel oder Kreisschlüssel um Nullen ergänzt der Sozialhilfestelle10566712C<p>zugehörige Rentenversicherungsnummer</p>
+                    <p>(VSNRZH)</p>Feld enthält Leerstellen, wenn der Datensatz vom Träger der Sozialhilfe geliefert wird. Soweit in der DSRV eine aktuelle Rentenversicherungsnummer zugeordnet werden kann, wird diese in das Feld übertragen.Hinweis:Dieses Feld enthält Blanks, wenn der Anfragedatensatz an das BFF weitergeleitet wird.1168703N<p>Nationalität</p>
+                    <p>(SA)</p>Schlüssel des Stat. BundesamtesHinweis:Dieses Feld enthält Blanks, wenn der Anfragedatensatz an das BFF weitergeleitet wird.1271788N<p>Geburtsdatum</p>
+                    <p>(GBDT)</p>Geburtsdatum des Trägers der Sozialhilfe in der Form TTMMJJJJ- Pflichtfeld -1379&#160;1C<p>Geschlecht</p>
+                    <p>(GE)</p>m = männlichw = weiblichHinweis:Dieses Feld enthält Blanks, wenn der Anfragedatensatz an das BFF weitergeleitet wird.148011940C<p>Familienname</p>
+                    <p>(NA)</p>Familienname des Sozialhilfeempfängers- Pflichtfeld -1512013920C<p>Vorname</p>
+                    <p>(VONA)</p>Vorname des Sozialhilfeempfängers- Pflichtfeld -1614015415C<p>Vorsatzwort</p>
+                    <p>(VOSZWT)</p>Vorsatzwort zum Familiennamen- Kannfeld -1715519945C<p>Geburtsname</p>
+                    <p>(GBNA)</p>Geburtsname- Kannfeld -1820023940C<p>Geburtsort</p>
+                    <p>(GBOT)</p>Geburtsort des Sozialhilfeempfängers- Kannfeld -Hinweis:Dieses Feld enthält Blanks, wenn der Anfragedatensatz an das BFF weitergeleitet wird.1924024910C<p>Postleitzahl</p>
+                    <p>(PLZL)</p>Postleitzahl- Pflichtfeld -Anschrift unbekannt: Feld ausnullen2025028940C<p>Wohnort</p>
+                    <p>(WHOT)</p>Wohnort- Pflichtfeld, wenn Feld 19 nicht als unbekannt bezeichnet ist -2129031425C<p>Straße</p>
+                    <p>(SE)</p>Straße- Pflichtfeld, wenn Feld 19 nicht als unbekannt bezeichnet ist -223153184CHaus.-Nr.Hausnummer2331933416N<p>Leistungszeitraum</p>
+                    <p>(LZR)</p>Es sind die Beginn-Ende-Daten des Leistungsbezuges in der Form TTMMJJJJ anzugeben.Ist das Ende des Leistungszeitraumes nicht bekannt, wird 99999999 angegeben.2433538652C<p>Zeichen des Absenders</p>
+                    <p>(ZE)</p>Hier können Suchmerkmale des Trägers der Sozialhilfe eingetragen werden.Nachlaufsatz&#160;&#160;SatzbeschreibungStand 01.01.2004DateinameSatzbezeichnungSatzartSOZHIANFLeistungsanfrageSOZHI&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt1144C<p>Kennung</p>
+                    <p>(KE)</p>NCSZ2595C<p>Verfahrensmerkmal</p>
+                    <p>(VFMM)</p>SZTDS/DSTSZDSTPO/POTDSDSTKN/KNTDSDSTBA/BATDSDSTBF/BFTDS3102415C<p>Physikalischer Absender der Datei</p>
+                    <p>(ADNR)</p>Betriebsnummer/Kreisschlüssel/ Gemeindeschlüssel (linksbündig, restliche Stellen leer)4253915C<p>Physikalischer Empfänger der Datei</p>
+                    <p>(EPNR)</p>Betriebsnummer/Kreisschlüssel/ Gemeindeschlüssel (linksbündig, restliche Stellen leer)540478N<p>Erstellungsdatum der Datei</p>
+                    <p>(ED)</p>Format "TTMMJJJJ"648536NDateinummerZiffern 000001 bis 999999754618NAnzahl der SätzeAnzahl der logischen Sätze der Sendung ohne Vor- und Nachlaufsatz mit führenden Nullen862632NVersions-NummerVersionsnummer des Datensatzes:01entspricht Stand 01.9802entspricht Stand 01.02</p>
+            </div>
+            <div xml:id="d1251e1516">
+                <head>Anlage 2</head>
+                <p>Fundstelle des Originaltextes: BGBl. I 2001, 4055Zusammenstellung der für die Datenübermittlung anzuwendenden DIN-NormenLfd. Nr.DIN-NormTitelAusgabe1DIN EN 21 864Informationsverarbeitung; unbeschriebenes 12,7 mm (0,5 in) breites Magnetband für den Datenaustausch bei 32, 126 und 356 Flusswechsel/mm (800, 3200 und 9042 Flusswechsel/in)05.942DIN 66 015Auf 9 Spuren mit Richtungstaktschrift beschriebenes Magnetband zur Speicherung digitaler Daten; Bitdichte 63 bit/mm12.773DIN EN ISO/IEC 9661Informationstechnik; Datenaustausch auf Magnetbandkassette 12,7 mm (0,5 in), 18 Spuren, 1491 Datenbytes/mm (37871 Datenbytes/in)01/974DIN 66 029Kennsätze und Dateianordnung auf Magnetbändern für den Datenaustausch09.875DIN 66 303Informationsverarbeitung; 8-Bit-Code - ARV 8 -11.866DIN 66 004 Teil 3 (Magnetband)Informationsverarbeitung; Codierung auf Datenträgern; Darstellung des 8-Bit-Code auf Magnetband 1201.837DIN 66 229Informationstechnik; Kennsätze und Dateianordnung auf Magnetbandkassetten für den Datenaustausch07.978DIN EN 25 652Auf 9 Spuren im GCR-Verfahren beschriebenes Magnetband zur Speicherung digitaler Daten; Zeichendichte: 246 Zeichen/mm05.92</p>
+            </div>
+            <div xml:id="d1251e1620">
+                <head>Anlage 3</head>
+                <p>(Fundstelle des Originaltextes: BGBl. I 1998, 112 - 115;bzgl. der einzelnen Änderungen vgl. Fußnote)Seite 1Magnetbandkassettenorganisationfür die Übermittlung von Daten an die Datenstelleder Rentenversicherungsträger nach den §§ 3 und 7Kennsätze auf dem MagnetbandDIN 66 229, Ausbau-Stufe in Verbindung mit DIN 66 029-3&#160;Es gelten folgende Feldinhalte:VOL 1:<list>
+                        <item n="1.">Bandkennzeichen: Eintragung nach der Systematik des jeweiligen Eigentümers,</item>
+                        <item n="2.">Zugriffsvermerk: Leerzeichen,</item>
+                        <item n="3.">Eigentümer-Kennzeichen: Eintragung, die eine Identifizierung des jeweiligen Eigentümers zuläßt;</item>
+                    </list>HDR1/EOF1/EOV1:<list>
+                        <item n="1.">Dateiname: St. 5-12: SOZIALHI,St. 13-21 Leerzeichen,</item>
+                        <item n="2.">Dateizugriffsvermerk: Leerzeichen;</item>
+                    </list>HDR2/EOF2/EOV2:<list>
+                        <item n="1.">Satzformat: variabel,</item>
+                        <item n="2.">Blocklänge: 32 K.</item>
+                    </list>DateianordnungEine Datei auf einer Magnetbandkassette oder auf mehreren Magnetbandkassetten (Mehrkassettendatei)Reihenfolge der DatensätzeDatensätze unsortiert&#160;Seite 2&#160;DateibeschreibungStand 01.98DateibezeichnungDateiname&#160;&#160;Übermittlungsdatei zwischen der Datenstelle der Rentenversicherungsträger und den SozialhilfestellenSOZIALHIDateiinhaltDateiart*)&#160;&#160;Daten für § 117 SGB XII&#160;DatenträgerEigentümerkennzeichenKennsatzstufeMagnetbandkassette&#160;Ausbaustufe&#160;DateikennwerteSatzformatvariabelSatzlänge-Blocklänge32kDateiumfangSpeicherungsformseriellDateischlüssel*)BezeichnungPositionLängeFormatSortierungunsortiert&#160;SicherungsmaßnahmenSperrfrist, VerfallsdatumSicherungszyklus*)Zahl*)Zugriffsvermerkkein Verfallsdatum&#160;Sicherungsbeständeunbeschränkter ZugriffBemerkungen:<list>
+                        <item n="1.">Zugelassen ist eine Datei auf einer Magnetbandkassette oder mehreren Magnetbandkassetten.</item>
+                        <item n="2.">Die Daten sind im 8-Bit-Code - ARV 8 - nach DIN 66 303, Code-Tabelle 1, und nach DIN 66 004 Teil 3 darzustellen.</item>
+                    </list>&#160;Benutzerkennsätze/DatensätzeLfd. Nr.SatzbezeichnungSatzartSatzlängeBemerkungen1§ 117 SGB XIIVOSZ105Vorlaufsatz-386Anfragedatensatz-386 + xx (variabel)AntwortdatensatzNCSZ63Nachlaufsatz<list>
+                        <item n="*)">Nicht auszufüllen für Datenübermittlungen.</item>
+                    </list>&#160;Seite 3Magnetbandorganisationfür die Übermittlung von Daten an die Datenstelleder Rentenversicherungsträger nach den §§ 3 und 8Kennsätze auf dem MagnetbandDIN 66 029-3&#160;Es gelten folgende Feldinhalte:VOL 1:<list>
+                        <item n="1.">Bandkennzeichen: Eintragung nach der Systematik des jeweiligen Eigentümers,</item>
+                        <item n="2.">Zugriffsvermerk: Leerzeichen,</item>
+                        <item n="3.">Eigentümer-Kennzeichen: Eintragung, die eine Identifizierung des jeweiligen Eigentümers zuläßt;</item>
+                    </list>HDR1/EOF1/EOV1:<list>
+                        <item n="1.">Dateiname: St. 5-12: SOZIALHI,St. 13-21: Leerzeichen,</item>
+                        <item n="2.">Dateizugriffsvermerk: Leerzeichen;</item>
+                    </list>HDR2/EOF2/EOV2:<list>
+                        <item n="1.">Satzformat: variabel,</item>
+                        <item n="2.">Blocklänge: 32 K.</item>
+                    </list>DateianordnungEine Datei auf einem Magnetband oder auf mehreren Magnetbändern (Mehrbanddatei)Reihenfolge der DatensätzeDatensätze unsortiert&#160;Seite 4&#160;DateibeschreibungStand 01.98DateibezeichnungDateiname&#160;&#160;Übermittlungsdatei zwischen der Datenstelle der Rentenversicherungsträger und den SozialhilfestellenSOZIALHIDateiinhaltDateiart*)Daten für § 117 SGB XII&#160;DatenträgerEigentümerkennzeichenKennsatzstufeMagnetband&#160;Ausbaustufe&#160;DateikennwerteSatzformatvariabelSatzlänge-Blocklänge32kDateiumfangSpeicherungsformseriellDateischlüssel*)BezeichnungPositionLängeFormatSortierungunsortiert&#160;SicherungsmaßnahmenSperrfrist, VerfallsdatumSicherungszyklus*)Zahl*)Zugriffsvermerkkein Verfallsdatum&#160;Sicherungsbeständeunbeschränkter ZugriffBemerkungen:<list>
+                        <item n="1.">Zugelassen ist eine Datei auf einem Magnetband oder mehreren Magnetbändern.</item>
+                        <item n="2.">Die Daten sind im 8-Bit-Code - ARV 8 - nach DIN 66 303, Code-Tabelle 1, und nach DIN 66 004 Teil 3 darzustellen.</item>
+                    </list>&#160;Benutzerkennsätze/DatensätzeLfd. Nr.SatzbezeichnungSatzartSatzlängeBemerkungen1§ 117 SGB XIIVOSZ105Vorlaufsatz-386Anfragedatensatz-386 - xx (variabel)AntwortdatensatzNCSZ63Nachlaufsatz<list>
+                        <item n="*)">Nicht auszufüllen für Datenübermittlungen.</item>
+                    </list>
+                </p>
+            </div>
+            <div xml:id="d1251e2155">
+                <head>Anlage 4</head>
+                <p>Fundstelle des Originaltextes: BGBl. I 2001, 4056 - 4073;bzgl. der einzelnen Änderungen vgl. FußnoteDatensatzbeschreibung für Träger der SozialhilfeVorlaufsatz&#160;&#160;SatzbeschreibungStand 01.01.2004DateinameSatzbezeichnungSatzartSOZHIANTLeistungsauskunftSOZHI&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt1144C<p>Kennung</p>
+                    <p>(KE)</p>VOSZ2595C<p>Verfahrensmerkmal</p>
+                    <p>(VFMM)</p>SZTDS/DSTSZDSTPO/POTDSDSTKN/KNTDSDSTBA/BATDSDSTBF/BFTDS3102415C<p>Physikalischer Absender der Datei</p>
+                    <p>(ADNR)</p>Betriebsnummer/ Kreisschlüssel/ Gemeindeschlüssel (linksbündig, restliche Stellen leer)4253915C<p>Physikalischer Empfänger der Datei</p>
+                    <p>(EPNR)</p>Betriebsnummer/ Kreisschlüssel/ Gemeindeschlüssel (linksbündig, restliche Stellen leer)540478N<p>Erstellungsdatum der Datei</p>
+                    <p>(ED)</p>Format "TTMMJJJJ"648536NDateinummerZiffern 000001 bis 99999975410350CAbsender-KurzbezeichnungName und Anschrift des Absenders in freier Form81041052NVersions-NummerVersionsnummer des Datensatzes01entspricht Stand 01.9802entspricht Stand 01.02&#160;Grundaufbau Antwortdatensatz an DSRV/Träger der SozialhilfeZeichendarstellung:C = linksbündig mit nachfolgenden LeerstellenN = linksbündig mit nachfolgenden LeerstellenGrundstellung numerischer Felder (Typ N) = NullGrundstellung alphanumerischer Felder (Typ C) = Leerstellen&#160;SatzbeschreibungStand 01.01.2004DateinameSatzbezeichnungSatzartSOZHIANTLeistungsauskunftSOZHI&#160;&#160;Stellen&#160;&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhaltSteuerungsteil01144C<p>Kennung</p>
+                    <p>(KE)</p>MelderichtungSZ =SozialhilfestelleDS =DSRVPO =PostKN =Deutsche Rentenversicherung Knappschaft-Bahn-See (knappschaftliche Rentenversicherung)BA =Bundesagentur für ArbeitBF =Bundeszentralamt für Steuern Stellen 1-2 Absender Stellen 3-4 Empfänger02595C<p>Verfahrensmerkmal</p>
+                    <p>(VFMM)</p>SOZHI (Sozialhilfe)0310178N<p>Absender</p>
+                    <p>(ADNR)</p>SZ =Gemeindeschlüssel oder Kreisschlüssel mit nachgestellten NullenDS-BA-BF =Betriebsnummer0418258N<p>Empfänger</p>
+                    <p>(EPNR)</p>Inhalt analog Feld 030526338N<p>Erstellungsdatum</p>
+                    <p>(ED)</p>Erstellungsdatum des Datensatzes in der Form TTMMJJJJ0634&#160;1N<p>Fehlerkennzeichen</p>
+                    <p>(FEKZ)</p>0 =kein Fehler1 =Fehler2 =Änderung im Identifikationsteil3 =keine Daten zurück0735&#160;1NAnzahl der Fehlernummern0-9Identifikationsteil08364712C<p>Sortiermerkmal 1: Interimsversicherungsnummer</p>
+                    <p>(ITVSNR)</p>Interimsversicherungsnummer in der Form71 TTMMJJ Alpha 000-499 männliche Vers.71 TTMMJJ Alpha 500-999 weibliche Vers.TTMMJJ =Tag, Monat, Jahr des Geburtsdatums 2stelligAlpha =Anfangsbuchstabe des Geburtsnamens0948558N<p>Sortiermerkmal 2: Gemeinde-/ Kreisschlüssel</p>
+                    <p>(GEMSC/KRSC)</p>Gemeindeschlüssel oder Kreisschlüssel um Nullen ergänzt der Sozialhilfestelle&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt10566712C<p>zugehörige Rentenversicherungsnummer</p>
+                    <p>(VSNRZH)</p>Feld enthält Leerstellen, wenn der Datensatz vom Träger der Sozialhilfe geliefert wird. Soweit in der DSRV eine aktuelle Rentenversicherungsnummer zugeordnet werden kann, wird diese in das Feld übertragen.Hinweis:Dieses Feld enthält Blanks, wenn der Rückmeldedatensatz vom BFF kommt.1168703N<p>Nationalität</p>
+                    <p>(SA)</p>Schlüssel des Stat. BundesamtesHinweis:Dieses Feld enthält Blanks, wenn der Rückmeldedatensatz vom BFF kommt.1271788N<p>Geburtsdatum</p>
+                    <p>(GBDT)</p>Geburtsdatum des Sozialhilfeempfängers in der Form TTMMJJJJ- Pflichtfeld -1379&#160;1C<p>Geschlecht</p>
+                    <p>(GE)</p>m =männlichw =weiblichHinweis:Dieses Feld enthält Blanks, wenn der Rückmeldedatensatz vom BFF kommt.148011940C<p>Familienname</p>
+                    <p>(NA)</p>Familienname des Sozialhilfeempfängers- Pflichtfeld -1512013920C<p>Vorname</p>
+                    <p>(VONA)</p>Vorname des Sozialhilfeempfängers- Pflichtfeld -1614015415C<p>Vorsatzwort</p>
+                    <p>(VOSZWT)</p>Vorsatzwort zum Familiennamen- Kannfeld -1715519945C<p>Geburtsname</p>
+                    <p>(GBNA)</p>Geburtsname- Kannfeld -1820023940C<p>Geburtsort</p>
+                    <p>(GBOT)</p>Geburtsort des Sozialhilfeempfängers- Kannfeld -Hinweis:Dieses Feld enthält Blanks, wenn der Rückmeldedatensatz vom BFF kommt.1924024910C<p>Postleitzahl</p>
+                    <p>(PLZL)</p>Postleitzahl- Pflichtfeld -Anschrift unbekannt: Feld ausnullen2025028940C<p>Wohnort</p>
+                    <p>(WHOT)</p>Wohnort- Pflichtfeld, wenn Feld 19 nicht als unbekannt bezeichnet ist -2129031425C<p>Straße</p>
+                    <p>(SE)</p>Straße- Pflichtfeld, wenn Feld 19 nicht als unbekannt bezeichnet ist -223153184CHaus-Nr.Hausnummer2331933416N<p>Abgleichszeitraum</p>
+                    <p>(AZR)</p>Es sind die Von-Bis-Daten in der Form TTMMJJJJ für den Abgleichszeitraum anzugeben.2433538652C<p>Zeichen des Absenders</p>
+                    <p>(ZE)</p>Hier können Suchmerkmale des Trägers der Sozialhilfe eingetragen werden.Blockzähler bei Rückmeldung2538738802N<p>Anzahl der Blöcke</p>
+                    <p>(AZBL)</p>Anzahl der nachfolgenden BlöckeAuskunftsstelle PostBlock-Nr. 01Laufende Rentenzahlungen der gesetzlichen Rentenversicherung&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt263893902N<p>Block-Nr.</p>
+                    <p>(BLNR)</p>01273913922N<p>Rentenart</p>
+                    <p>(RTAT)</p>01 =Versichertenrente02 =Hinterbliebenenrente283933953N<p>Postabrechnungs-Nr.</p>
+                    <p>(PANR)</p>Stelle 1 = Sonstige AngabenStellen 2-3 = Bereichs-Nummer des Rentenversicherungsträgers2939640914C<p>Rentenversicherungsnummer</p>
+                    <p>(VSNR)</p>Stellen 1-12 = RentenversicherungsnummerStelle 13 = Bescheid-Nr.Stelle 14 = Zahlungsauftrags-Nr.3041042516N<p>Von-Bis-Datum</p>
+                    <p>(VNBS)</p>Von-Bis-Datum in der Form TTMMJJJJ314264327N<p>Rentenbetrag</p>
+                    <p>(RTBT)</p>monatlicher Rentenbetrag 5,2stelligAuskunftsstelle PostBlock-Nr. 02Einmalige Rentenzahlungen der gesetzlichen Rentenversicherung&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt263893902N<p>Block-Nr.</p>
+                    <p>(BLNR)</p>02273913922N<p>Rentenart</p>
+                    <p>(RTAT)</p>01 =Versichertenrente02 =Hinterbliebenenrente283933953N<p>Postabrechnungs-Nr.</p>
+                    <p>(PANR)</p>Stelle 1 = Sonstige AngabenStellen 2-3 = Bereichs-Nr. des Rentenversicherungsträgers2939640914C<p>Rentenversicherungsnummer</p>
+                    <p>(VSNR)</p>Stellen 1-12 = RentenversicherungsnummerStelle 13 = Bescheid-Nr.Stelle 14 = Zahlungsauftrags-Nr.304104178N<p>Verarbeitungstag</p>
+                    <p>(AITG)</p>Tag der maschinellen Verarbeitung in der Form TTMMJJJJAuskunftsstelle PostBlock-Nr. 03Laufende Rentenzahlungen der Unfallversicherung&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt263893902N<p>Block-Nr.</p>
+                    <p>(BLNR)</p>03273913922N<p>Rentenart</p>
+                    <p>(RTAT)</p>01 =Versichertenrente02 =Hinterbliebenenrente283933953N<p>Postabrechnungs-Nr.</p>
+                    <p>(PANR)</p>Postabrechnungs-Nr.2939640914C<p>Aktenzeichen</p>
+                    <p>(AZ)</p>Aktenzeichen3041042516N<p>Von-Bis-Datum</p>
+                    <p>(VNBS)</p>Von-Bis-Datum in der Form TTMMJJJJ314264327N<p>Rentenbetrag</p>
+                    <p>(RTBT)</p>monatlicher Zahlbetrag 5,2stelligAuskunftsstelle PostBlock-Nr. 04Einmalige Zahlungen der Unfallversicherung&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt263893902N<p>Block-Nr.</p>
+                    <p>(BLNR)</p>04273913922N<p>Rentenart</p>
+                    <p>(RTAT)</p>01 =Versichertenrente02 =Hinterbliebenenrente283933953N<p>Postabrechnungs-Nr.</p>
+                    <p>(PANR)</p>Postabrechnungsnummer2939640914C<p>Aktenzeichen</p>
+                    <p>(AZ)</p>Aktenzeichen304104178N<p>Verarbeitungstag</p>
+                    <p>(AITG)</p>Tag der maschinellen Verarbeitung in der Form TTMMJJJJAuskunftsstelle PostBlock-Nr. 05Unfallversicherung ohne Zahlbetrag&#160;&#160;Stellen&#160;&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt263893902N<p>Block-Nr.</p>
+                    <p>(BLNR)</p>05273913933N<p>Postabrechnungs-Nr.</p>
+                    <p>(PANR)</p>Postabrechnungsnummer2839440714C<p>Aktenzeichen</p>
+                    <p>(AZ)</p>AktenzeichenBlock-Nr. 06Auskunftsstelle Bundesagentur für Arbeit&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt263893902N<p>Block-Nr.</p>
+                    <p>(BLNR)</p>06273913922N<p>Leistungsart</p>
+                    <p>(LEAT)</p>Schlüssel:00 =keine Zeiten01 =Arbeitslosengeld02 =Arbeitslosenhilfe03 =Eingliederungshilfe04 =Altersübergangsgeld05 =Unterhaltsgeld06 =ÜbergangsgeldBei 00 enthalten die folgenden Felder Nullen (Format N) bzw. Leerstellen (blank, bei Format C).2839341523Czuständige Agentur für Arbeit ARAMStellen 1-5: PostleitzahlStellen 6-23: Ort2941643015NOrdnungsbegriffOrdnungsbegriff der zuständigen Agentur für Arbeit3043144616N<p>letzter Leistungszeitraum</p>
+                    <p>(LEZR)</p>Von-Bis-Datum in der Form TTMMJJJJ314474537N<p>Höhe der Leistung pro Woche, bei Übergangsgeld pro Monat</p>
+                    <p>(LEBT)</p>Wochenbetrag bzw. Monatsbetrag ggf. unter Berücksichtigung eines Anrechnungsbetrages (siehe unten) (5,2stellig)324544607N<p>Höhe des Anrechnungsbetrages pro Woche - nicht bei Übergangsgeld -</p>
+                    <p>(ANBT)</p>Wochenbetrag des Anrechnungsbetrages - nicht bei Übergangsgeld -(5,2stellig)Auskunftsstelle BundesknappschaftBlock-Nr. 07Laufende Rentenzahlungen der gesetzlichen Rentenversicherung&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt263893902N<p>Block-Nr.</p>
+                    <p>(BLNR)</p>07273913922N<p>Rentenart</p>
+                    <p>(RTAT)</p>01 =Versichertenrente02 =Hinterbliebenenrente283933953N<p>Postabrechnungs-Nr.</p>
+                    <p>(PANR)</p>Stelle 1 = Sonstige AngabenStellen 2-3 = Bereichs-Nr. des Rentenversicherungsträgers2939640914C<p>Rentenversicherungsnummer</p>
+                    <p>(VSNR)</p>Stellen 1-12 = RentenversicherungsnummerStelle 13 = Bescheid-Nr.Stelle 14 = Zahlungsauftrags-Nr.3041042516N<p>Von-Bis-Datum</p>
+                    <p>(VNBS)</p>Von-Bis-Datum in der Form TTMMJJJJ314264327N<p>Rentenbetrag</p>
+                    <p>(RTBT)</p>monatlicher Rentenbetrag 5,2stelligAuskunftsstelle BundesknappschaftBlock-Nr. 08Einmalige Rentenzahlungen der gesetzlichen Rentenversicherung&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt263893902N<p>Block-Nr.</p>
+                    <p>(BLNR)</p>08273913922N<p>Rentenart</p>
+                    <p>(RTAT)</p>01 =Versichertenrente02 =Hinterbliebenenrente283933953N<p>Postabrechnungs-Nr.</p>
+                    <p>(PANR)</p>Stelle 1 = Sonstige AngabenStellen 2-3 = Bereichs-Nr. des Rentenversicherungsträgers2939640914C<p>Rentenversicherungsnummer</p>
+                    <p>(VSNR)</p>Stellen 1-12 = RentenversicherungsnummerStelle 13 = Bescheid-Nr.Stelle 14 = Zahlungsauftrags-Nr.304104178N<p>Verarbeitungstag</p>
+                    <p>(AITG)</p>Tag der maschinellen Verarbeitung in der Form TTMMJJJJAuskunftsstelle BundesknappschaftBlock-Nr. 09Unfallversicherung ohne Zahlbetrag&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt263893902N<p>Block-Nr.</p>
+                    <p>(BLNR)</p>09273913933N<p>Postabrechnungs-Nr.</p>
+                    <p>(PANR)</p>Postabrechnungsnummer2839440714C<p>Aktenzeichen</p>
+                    <p>(AZ)</p>AktenzeichenAuskunftsstelle DSRVBlock-Nr. 10Geringfügig Beschäftigte&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt263893902N<p>Block-Nr.</p>
+                    <p>(BLNR)</p>102739140616N<p>Von-Bis-Datum</p>
+                    <p>(VNBS)</p>Von-Bis-Datum in der Form TTMMJJJJ284074148N<p>Betriebsnummer</p>
+                    <p>(BBNR)</p>Betriebsnummer des Arbeitgebers2941544228C<p>Name des Betriebes</p>
+                    <p>(NABE1)</p>Name des Betriebes3044347028C<p>Name des Betriebes</p>
+                    <p>(NABE2)</p>Name des Betriebes3147149828C<p>Straße</p>
+                    <p>(SE)</p>Straße/Hausnummer324995035N<p>Postleitzahl</p>
+                    <p>(PLZL)</p>Postleitzahl3350453532C<p>Ort</p>
+                    <p>(OT)</p>OrtsbezeichnungAuskunftsstelle DSRVBlock-Nr. 11Versicherungspflichtig Beschäftigte&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt263893902N<p>Block-Nr.</p>
+                    <p>(BLNR)</p>112739140616N<p>Von-Bis-Datum</p>
+                    <p>(VNBS)</p>Von-Bis-Datum in der Form TTMMJJJJ284074148N<p>Betriebsnummer</p>
+                    <p>(BBNR)</p>Betriebsnummer des Arbeitgebers2941544228C<p>Name des Betriebes</p>
+                    <p>(NABE1)</p>Name des Betriebes3044347028C<p>Name des Betriebes</p>
+                    <p>(NABE2)</p>Name des Betriebes3147149828C<p>Straße</p>
+                    <p>(SE)</p>Straße/Hausnummer324995035N<p>Postleitzahl</p>
+                    <p>(PLZL)</p>Postleitzahl3350453532C<p>Ort</p>
+                    <p>(OT)</p>OrtsbezeichnungAuskunftsstelle Träger der SozialhilfeBlock-Nr. 12Weitere Sozialhilfeleistungen&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt263893902N<p>Block-Nr.</p>
+                    <p>(BLNR)</p>122739140616N<p>Von-Bis-Datum</p>
+                    <p>(VNBS)</p>Von-Bis-Datum in der Form TTMMJJJJ284074148N<p>Gemeinde-/ Kreisschlüssel</p>
+                    <p>(GEMSC/KRSC)</p>Gemeinde-/Kreisschlüssel2941546450C<p>Name</p>
+                    <p>(NA)</p>Name und ggf. PLZ der Gemeinde/des Kreises3046548420C<p>Zeichen des Absenders</p>
+                    <p>(ZA)</p>Suchmerkmal des Trägers der SozialhilfeAuskunftsstelle DSRVBlock-Nr. 13Fehleranzeige&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt263893902N<p>Block-Nr.</p>
+                    <p>(BLNR)</p>13273913955N<p>Fehler-Nr.</p>
+                    <p>(FENR)</p>Fehler-Nr.Stellen 1-2 = Feld-Nr.Stellen 3-5 = Fehler-Nr.innerhalb eines FeldesAuskunftsstelleBlock-Nr. 14Bundeszentralamt für Steuern&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt263893902N<p>Block-Nr.</p>
+                    <p>(BLNR)</p>142739143545C<p>Familienname</p>
+                    <p>(NA)</p>Familienname des Auftraggebers2843648045C<p>Geburtsname</p>
+                    <p>(GBNA)</p>Geburtsname des Auftraggebers2948150525C<p>Vorname</p>
+                    <p>(VONA)</p>Vorname des Auftraggebers305065138N<p>Geburtsdatum</p>
+                    <p>(GBDT)</p>Geburtsdatum des Auftraggebers in der Form TTMMJJJJ3151455845C<p>Familienname</p>
+                    <p>(NAEH)</p>Familienname des Ehepartners des Auftraggebers3255960345C<p>Geburtsname</p>
+                    <p>(GBNAEH)</p>Geburtsname des Ehepartners des Auftraggebers3360462825C<p>Vorname</p>
+                    <p>(VONAEH)</p>Vorname des Ehepartners des Auftraggebers346296368N<p>Geburtsdatum</p>
+                    <p>(GBDTEH)</p>Geburtsdatum des Ehepartners des Auftraggebers3563766832C<p>Straße</p>
+                    <p>(SE)</p>Straße des Auftraggebers366696735N<p>Postleitzahl</p>
+                    <p>(PLZL)</p>Postleitzahl des Auftraggebers3767470330C<p>Wohnort</p>
+                    <p>(WHOT)</p>Wohnort des Auftraggebers387047118N<p>Bankleitzahl</p>
+                    <p>(BLZ)</p>Bankleitzahl des Kreditinstitutes, bei dem Auftrag gestellt wurde3971275645CName des KreditinstitutesName des Kreditinstitutes, bei dem Auftrag gestellt wurde407577615NPostleitzahl des KreditinstitutesPostleitzahl des Kreditinstitutes, bei dem Auftrag gestellt wurde4176278625CSitz des KreditinstitutesSitz des Kreditinstitutes, bei dem Auftrag gestellt wurde427877915NSteuerfreier ZinsbetragSteuerfreier Zinsbetrag in vollen DM/Euro43792&#160;1C<p>Währung</p>
+                    <p>(WÄ)</p>D =DME =Euro447937964N<p>Meldejahr</p>
+                    <p>(JA)</p>MeldejahrNachlaufsatz&#160;&#160;SatzbeschreibungStand 01.01.2004DateinameSatzbezeichnungSatzartSOZHIANTLeistungsauskunftSOZHI&#160;&#160;Stellen&#160;&#160;&#160;&#160;FeldvonbisLängeTypFeldnameFeldinhalt1144C<p>Kennung</p>
+                    <p>(KE)</p>NCSZ2595C<p>Verfahrensmerkmal</p>
+                    <p>(VFMM)</p>SZTDS/DSTSZDSTPO/POTDSDSTKN/KNTDSDSTBA/BATDSDSTBF/BFTDS3102415C<p>Physikalischer Absender der Datei</p>
+                    <p>(ADNR)</p>Betriebsnummer/ Kreisschlüssel/ Gemeindeschlüssel (linksbündig, restliche Stellen leer)4253915C<p>Physikalischer Empfänger der Datei</p>
+                    <p>(EPNR)</p>Betriebsnummer/Kreisschlüssel/ Gemeindeschlüssel (linksbündig, restliche Stellen leer)540478N<p>Erstellungsdatum der Datei</p>
+                    <p>(ED)</p>Format "TTMMJJJJ"648536NDateinummerZiffern 000001 bis 999999754618NAnzahl der SätzeAnzahl der logischen Sätze der Sendung ohne Vor- und Nachlaufsatz mit führenden Nullen862632NVersions-NummerVersionsnummer des Datensatzes:01entspricht Stand 01.9802entspricht Stand 01.02</p>Die Blöcke 01-14 können beliebig oft bis maximal 99mal folgen; ist Feld 06 mit 3 (= keine Daten zurück) verschlüsselt, endet der Rückmeldesatz mit Feld 24.</div>
+            <div xml:id="d1251e5755">
+                <head>Anlage 5</head>
+                <p>(Fundstelle des Originaltextes: BGBl. I 2001, 4074 - 4077;bzgl. der einzelnen Änderungen vgl. Fußnote)Datensatzbeschreibung für Träger der SozialhilfeVorlaufsatz&#160;&#160;SatzbeschreibungStand 01.01.2002DateinameSatzbezeichnungSatzartSOZHIANTLeistungsauskunftSOZHI&#160;FeldStellenLängeTypFeldnameFeldinhaltvonbis1144CKennung (KE)Vosz2595CVerfahrensmerkmal (VFMM)SZTDS/DSTSZDSTPO/POTDSDSTKN/KNTDSDSTBA/BATDSDSTBF/BFTDS3102415CPhysikalischer Absender der Datei (ADNR)Betriebsnummer/ Kreisschlüssel/ Gemeindeschlüssel (linksbündig, restliche Stellen leer)4253915CPhysikalischer Empfänger der Datei (EPNR)Betriebsnummer/ Kreisschlüssel/ Gemeindeschlüssel (linksbündig, restliche Stellen leer)540478NErstellungsdatum der Datei (ED)Format "TTMMJJJJ"648536NDateinummerZiffern 000001 bis 99999975410350CAbsender-KurzbezeichnungName und Anschrift des Absenders in freier Form81041052NVersions-NummerVersionsnummer des Datensatzes: 01 entspricht Stand 01.98 02entspricht Stand 01.02&#160;Antwortdatensatz an DSRV/Träger der SozialhilfeZeichendarstellung:C = linksbündig mit nachfolgenden LeerstellenN = linksbündig mit nachfolgenden LeerstellenGrundstellung numerischer Felder (Typ N) = NullGrundstellung alphanumerischer Felder (Typ C) = Leerstellen&#160;&#160;SatzbeschreibungStand 01.01.2004DateinameSatzbezeichnungSatzartSOZHIANTLeistungsauskunftSOZHI&#160;FeldStellenLängeTypFeldnameFeldinhaltvonbisSteuerungsteil01144CKennung (KE)MelderichtungSZ = SozialhilfestelleDS = DSRVPO = PostKN = KnappschaftBA = Bundesagentur für ArbeitBF = Bundeszentralamt für Steuern Stellen 1-2 Absender Stellen 3-4 Empfänger02595CVerfahrensmerkmal (VFMM)SOZHI (Sozialhilfe)0310178NAbsender (ADNR)SZ = Gemeindeschlüssel oder Kreisschlüssel mit nachgestellten Nullen DS-BA-BF = Betriebsnummer0418258NEmpfänger (EPNR)Inhalt analog Feld 030526338NErstellungsdatum (ED)Erstellungsdatum des Datensatzes in der Form TTMMJJJJ0634&#160;1NFehlerkennzeichen (FEKZ)0 = kein Fehler1 = Fehler2 = Änderung im Identifikationsteil3 = keine Datenzurück0735&#160;1NAnzahl der Fehlernummern0-9Identifikationsteil08364712CSortiermerkmal 1:Interimsversicherungsnummer (ITVSNR)Interimsversicherungsnummer in der Form 71 TTMMJJ Alpha 000-499 männliche Vers.71 TTMMJJ Alpha 500-999 weibliche Vers.TTMMJJ = Tag, Monat, Jahr des Geburtsdatums 2stelligAlpha = Anfangsbuchstabe des Geburtsnamens&#160;0948558NSortiermerkmal 2:Gemeinde-/Kreisschlüssel (GEMSC/KRSC)Gemeindeschlüssel oder Kreisschlüssel um Nullen ergänzt der Sozialhilfestelle10566712Czugehörige Rentenversicherungsnummer (VSNRZH)Feld enthält Leerstellen, wenn der Datensatz vom Träger der Sozialhilfe geliefert wird. Soweit in der DSRV eine aktuelle Rentenversicherungsnummer zugeordnet werden kann, wird diese in das Feld übertragen.Hinweis:Dieses Feld enthält Blanks, wenn der Rückmeldedatensatz vom BFF kommt.1168703NNationalität (SA)Schlüssel des Stat. BundesamtesHinweis:Dieses Feld enthält Blanks, wenn der Rückmeldedatensatz vom BFF kommt.1271788NGeburtsdatum (GBDT)Geburtsdatum des Sozialhilfeempfängers in der Form TTMMJJJJ - Pflichtfeld -1379&#160;1CGeschlecht (GE)m = männlich w = weiblichHinweis:Dieses Feld enthält Blanks, wenn der Rückmeldedatensatz vom BFF kommt.148011940CFamilienname (NA)Familienname des Sozialhilfeempfängers - Pflichtfeld -1512013920CVorname (VONA)Vorname des Sozialhilfeempfängers - Pflichtfeld -1614015415CVorsatzwort (VOSZWT)Vorsatzwort zum Familiennamen - Kannfeld -1715519945CGeburtsname (GBNA)Geburtsname - Kannfeld -1820023940CGeburtsort (GBOT)Geburtsort des Sozialhilfeempfängers - Kannfeld -Hinweis:Dieses Feld enthält Blanks, wenn der Rückmeldedatensatz vom BFF kommt.1924024910CPostleitzahl (PLZL)Postleitzahl - Pflichtfeld - Anschrift unbekannt: Feld ausnullen2025028940CWohnort (WHOT)Wohnort - Pflichtfeld, wenn Feld 19 nicht als unbekannt bezeichnet ist -2129031425CStraße (SE)Straße - Pflichtfeld, wenn Feld 19 nicht als unbekannt bezeichnet ist -223153184CHaus-Nr.Hausnummer2331933416NAbgleichszeitraum (AZR)Es sind die Von-Bis-Daten in der Form TTMMJJJJ für den Abgleichszeitraum anzugeben2433538652CZeichen des Absenders (ZE)Hier können Suchmerkmale des Trägers der Sozialhilfe eingetragen werden.&#160;Nachlaufsatz&#160;&#160;SatzbeschreibungStand 01.01.2004DateinameSatzbezeichnungSatzartSOZHIANTLeistungsauskunftSOZHI&#160;FeldStellenLängeTypFeldnameFeldinhaltvonbis1144CKennung (KE)NCSZ2595CVerfahrensmerkmal (VFMM)SZTDS/DSTSZDSTPO/POTDSDSTKN/KNTDSDSTBA/BATDSDSTBF/BFTDS3102415CPhysikalischer Absender der Datei (ADNR)Betriebsnummer/ Kreisschlüssel/ Gemeindeschlüssel (linksbündig, restliche Stellen leer)4253915CPhysikalischer Empfänger der Datei (EPNR)Betriebsnummer/ Kreisschlüssel/ Gemeindeschlüssel (linksbündig, restliche Stellen leer)540478NErstellungsdatum der Datei (ED)Format "TTMMJJJJ"648536NDateinummerZiffern 000001 bis 999999754618NAnzahl der SätzeAnzahl der logischen Sätze der Sendung ohne Vor- und Nachlaufsatz mit führenden862632NVersions-NummerVersionsnummer des Datensatzes:01 entspricht Stand 01.9802 entspricht Stand 01.02</p>
+            </div>
+        </body>
+    </text>
+</TEI>

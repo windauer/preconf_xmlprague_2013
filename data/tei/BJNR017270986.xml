@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR017270986">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wohnungsfürsorge-Zinssenkungsverordnung 1986</title>
+                <title type="short">WoZSenkV 1986</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1986-10-30</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.10.1986 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d830e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 87a Abs. 5 Satz 2 des Zweiten Wohnungsbaugesetzes in der Fassung der Bekanntmachung vom 11. Juli 1985 (BGBl. I S. 1284) und auf Grund des § 38 des Wohnungsbaugesetzes für das Saarland in der Fassung der Bekanntmachung vom 10. September 1985 (Amtsblatt des Saarlandes S. 1185) verordnet die Bundesregierung mit Zustimmung des Bundesrates:</p>
+            </div>
+            <div xml:id="d830e30">
+                <head>§ 1</head>
+                <p>Ist der Zinssatz für Baudarlehen und Annuitätsdarlehen aus Wohnungsfürsorgemitteln durch die Erste Wohnungsfürsorge-Zinserhöhungsverordnung vom 26. Juli 1982 (BGBl. I S. 1009) auf über 7 vom Hundert erhöht worden, wird er vom 1. Oktober 1986 an auf 7 vom Hundert herabgesetzt.</p>
+            </div>
+            <div xml:id="d830e42">
+                <head>§ 2</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 125 des Zweiten Wohnungsbaugesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d830e54">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt mit Wirkung vom 1. Oktober 1986 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

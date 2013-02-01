@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000580991">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Ausarbeitung der Bauleitpläne und die Darstellung des Planinhalts</title>
+                <title type="short">PlanzV 90</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1990-12-18</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 4.1991 +++)Überschrift: IdF d. Art. 2 Nr. 1 G v. 22.7.2011 I 1509 mWv 30.7.2011</p>
+        </front>
+        <body>
+            <div xml:id="d1058e32">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 2 Abs. 5 Nr. 4 des Baugesetzbuchs in der Fassung der Bekanntmachung vom 8. Dezember 1986 (BGBl. I S. 2253) verordnet der Bundesminister für Raumordnung, Bauwesen und Städtebau:</p>
+            </div>
+            <div xml:id="d1058e42">
+                <head>§ 1</head>
+                <p>(1) Als Unterlagen für Bauleitpläne sind Karten zu verwenden, die in Genauigkeit und Vollständigkeit den Zustand des Plangebiets in einem für den Planinhalt ausreichenden Grade erkennen lassen (Planunterlagen). Die Maßstäbe sind so zu wählen, daß der Inhalt der Bauleitpläne eindeutig dargestellt oder festgesetzt werden kann.</p>
+                <p>(2) Aus den Planunterlagen für Bebauungspläne sollen sich die Flurstücke mit ihren Grenzen und Bezeichnungen in Übereinstimmung mit dem Liegenschaftskataster, die vorhandenen baulichen Anlagen, die Straßen, Wege und Plätze sowie die Geländehöhe ergeben. Von diesen Angaben kann insoweit abgesehen werden, als sie für die Festsetzungen nicht erforderlich sind. Der Stand der Planunterlagen (Monat, Jahr) soll angegeben werden.</p>
+            </div>
+            <div xml:id="d1058e56">
+                <head>§ 2</head>
+                <p>(1) Als Planzeichen in den Bauleitplänen sollen die in der Anlage zu dieser Verordnung enthaltenen Planzeichen verwendet werden. Dies gilt auch insbesondere für Kennzeichnungen, nachrichtliche Übernahmen und Vermerke. Die Darstellungsarten können miteinander verbunden werden. Linien können auch in Farbe ausgeführt werden. Kennzeichnungen, nachrichtliche Übernahmen und Vermerke sollen zusätzlich zu den Planzeichen als solche bezeichnet werden.</p>
+                <p>(2) Die in der Anlage enthaltenen Planzeichen können ergänzt werden, soweit dies zur eindeutigen Darstellung des Planinhalts erforderlich ist. Soweit Darstellungen des Planinhalts erforderlich sind, für die in der Anlage keine oder keine ausreichenden Planzeichen enthalten sind, können Planzeichen verwendet werden, die sinngemäß aus den angegebenen Planzeichen entwickelt worden sind.</p>
+                <p>(3) Die Planzeichen sollen in Farbton, Strichstärke und Dichte den Planunterlagen so angepaßt werden, daß deren Inhalt erkennbar bleibt.</p>
+                <p>(4) Die verwendeten Planzeichen sollen im Bauleitplan erklärt werden.</p>
+                <p>(5) Eine Verletzung von Vorschriften der Absätze 1 bis 4 ist unbeachtlich, wenn die Darstellung, Festsetzung, Kennzeichnung, nachrichtliche Übernahme oder der Vermerk hinreichend deutlich erkennbar ist.</p>
+            </div>
+            <div xml:id="d1058e76">
+                <head>§ 3</head>
+                <p>Die bis zum 31. Oktober 1981 sowie die bis zum Inkrafttreten dieser Verordnung geltenden Planzeichen können weiterhin verwendet werden</p>
+                <list>
+                    <item n="1.">für Änderungen oder Ergänzungen von Bauleitplänen, die bis zu diesen Zeitpunkten rechtswirksam geworden sind,</item>
+                    <item n="2.">für Bauleitpläne, deren Aufstellung die Gemeinde bis zu diesen Zeitpunkten eingeleitet hat, wenn mit der Beteiligung der Träger öffentlicher Belange nach § 4 des Baugesetzbuchs oder vor Inkrafttreten des Baugesetzbuchs nach § 2 Abs. 5 des Bundesbaugesetzes begonnen worden ist sowie für Änderungen oder Ergänzungen dieser Bauleitpläne.</item>
+                </list>
+            </div>
+            <div xml:id="d1058e93">
+                <head>§ 4</head>
+                <p>(1) Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden dritten Kalendermonats in Kraft.</p>
+                <p>(2)</p>
+            </div>
+            <div xml:id="d1058e108">
+                <head>Schlußformel</head>
+                <p>Der Bundesrat hat zugestimmt.</p>
+            </div>
+            <div xml:id="d1058e118">
+                <head>Anlage</head>
+                <p>(Inhalt: Nicht erfasster Anlagenband,Fundstelle: Anlagenband zum BGBl. I Nr. 3 v. 22. Januar 1991;bzgl. der einzelnen Änderungen vgl. Fußnote)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

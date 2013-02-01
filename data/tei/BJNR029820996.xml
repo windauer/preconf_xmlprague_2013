@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR029820996">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zu dem Zusatzabkommen vom 12. Februar 1995 zum Abkommen vom 17. Dezember 1973 zwischen der Bundesrepublik Deutschland und dem Staat Israel über Soziale Sicherheit</title>
+                <title type="short">SozSichAbkZusAbkISRG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1996-03-15</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 22. 3.1996 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d920e20">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d920e30">
+                <head>Art 1</head>
+                <p>Dem in Jerusalem am 12. Februar 1995 unterzeichneten Zusatzabkommen zum Abkommen vom 17. Dezember 1973 zwischen der Bundesrepublik Deutschland und dem Staat Israel über Soziale Sicherheit (BGBl. 1975 II S. 245), das durch das Änderungsabkommen vom 7. Januar 1986 (BGBl. 1986 II S. 862) geändert wurde, wird zugestimmt. Das Zusatzabkommen wird nachstehend veröffentlicht.</p>
+            </div>
+            <div xml:id="d920e40">
+                <head>Art 2</head>
+                <p>Die Ausgaben für die Zahlung der auf Zeiten nach dem Fremdrentengesetz beruhenden Leistungen sind Ausgaben der Rentenversicherung für das Beitrittsgebiet.</p>
+            </div>
+            <div xml:id="d920e50">
+                <head>Art 3</head>
+                <p>(1) Dieses Gesetz tritt am Tage seiner Verkündung in Kraft.</p>
+                <p>(2) Der Tag, an dem das Zusatzabkommen nach seinem Artikel 3 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR024790975">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fünfter Erlaß über die Genehmigung der Stiftung und Verleihung von Orden und Ehrenzeichen</title>
+                <title type="short">OrdenErl 5</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1975-09-02</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 16. 9.1975 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d898e20">
+                <head>Art 1</head>
+                <p>Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und Ehrenzeichen vom 26. Juli 1957 (Bundesgesetzbl. I S. 844), zuletzt geändert durch Artikel 33 des Einführungsgesetzes zum Strafgesetzbuch vom 2. März 1974 (Bundesgesetzbl. I S. 469), genehmige ich die Stiftung und Verleihung des</p>
+                <list>
+                    <item n="">Ehrenzeichensdes Technischen Hilfswerks</item>
+                </list>
+                <p>in zwei Klassen.</p>
+            </div>
+            <div xml:id="d898e37">
+                <head>Art 2</head>
+                <p>Ich genehmige die Stiftungsbestimmungen und Verleihungsbedingungen des in Artikel 1 genannten Ehrenzeichens.</p>
+            </div>
+            <div xml:id="d898e47">
+                <head>Art 3</head>
+                <p>Die Stiftungsbestimmungen und die Verleihungsbedingungen sowie die Abbildung und die Beschreibung des nach Artikel 1 genehmigten Ehrenzeichens werden vom Bundesminister des Innern im Bundesanzeiger veröffentlicht.</p>
+            </div>
+            <div xml:id="d898e57">
+                <head>Art 4</head>
+                <p>Jede Änderung der Stiftungsbestimmungen und der Verleihungsbedingungen des nach Artikel 1 genehmigten Ehrenzeichens und jede Änderung seiner Form und seiner Benennung bedarf meiner Genehmigung.</p>
+            </div>
+            <div xml:id="d898e67">
+                <head>Schlußformel</head>
+                <p>Der BundespräsidentDer Bundesminister des Innern</p>
+            </div>
+        </body>
+    </text>
+</TEI>

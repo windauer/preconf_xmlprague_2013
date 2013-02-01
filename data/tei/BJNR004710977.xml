@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004710977">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gauß-Gedenkmünze)</title>
+                <title type="short">Münz5DMBek 1977-03</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1977-03-01</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div xml:id="d1497e17">
+                <head>(XXXX)</head>
+                <p>(1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung ist aus Anlaß der 200. Wiederkehr des Geburtstages von Carl Friedrich Gauß eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden. Die Ausprägung erfolgte in der Hamburgischen Münze, die Auflage beträgt 8 Millionen Stück.</p>
+                <p>(2) Die Münzen werden ab 26. April 1977 in den Verkehr gebracht. Der Entwurf der Münze stammt von Herrn Erich Ott, München (früher Oberammergau).</p>
+                <p>(3) Die Münze besteht aus einer Legierung von 625 Tausendteilen Feinsilber und 375 Tausendteilen Kupfer. Sie hat einen Durchmesser von 29 Millimetern und ein Gewicht von 11,2 Gramm.</p>
+                <p>(4) Das Gepräge auf beiden Seiten ist erhaben und wird von einem schützenden glatten Randstab umgeben.</p>
+                <p>(5) Die Bildseite zeigt das Portrait des Mathematikers und Naturforschers sowie die Umschrift</p>
+                <list>
+                    <item n="">"CARL FRIEDRICH GAUSS 1777-1855".</item>
+                </list>
+                <p>(6) Die Wertseite trägt einen Adler und die Umschrift</p>
+                <list>
+                    <item n="">"BUNDESREPUBLIK DEUTSCHLAND 5 DEUTSCHE MARK.</item>
+                </list>
+                <p>Die in "19" und "77" geteilte Jahreszahl ist beiderseits der Wertziffer 5 angebracht. Das Münzzeichen "J" der Hamburgischen Münze befindet sich im Bogen der Wertziffer 5.</p>
+                <p>(7) Der glatte Münzrand enthält die vertiefte Inschrift</p>
+                <list>
+                    <item n="">"PAUCA SED MATURA".</item>
+                </list>
+                <p>Zwischen Ende und Anfang der Randschrift ist eine Arabeske, zwischen den Worten "PAUCA", "SED" und "MATURA" sind je zwei Sternchen eingeprägt.</p>
+                <p>(8) Dies wird namens der Bundesregierung bekanntgemacht.</p>
+            </div>
+            <div xml:id="d1497e52">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister der Finanzen</p>
+            </div>
+            <div xml:id="d1497e63">
+                <head>(XXXX)</head>
+                <p>(Inhalt: nicht darstellbare Abbildung)Fundstelle: BGBl I 1977, 471</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR005290988">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Freistellung von Versicherungsunternehmen von der Aufsicht nach dem Versicherungsaufsichtsgesetz</title>
+                <title type="short">VAFreistV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1988-04-16</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 5.1988 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d50e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 1 Abs. 2 Satz 3 des Versicherungsaufsichtsgesetzes in der Fassung der Bekanntmachung vom 13. Oktober 1983 (BGBl. I S. 1261), der durch Artikel 1 Nr. 1 des Gesetzes vom 16. Dezember 1986 (BGBl. I S. 2485) angefügt wurde, wird verordnet:</p>
+            </div>
+            <div xml:id="d50e30">
+                <head>§ 1</head>
+                <p>Die Kirchliche Zusatzversorgungskasse Rheinland-Westfalen und die Kirchliche Zusatzversorgungskasse des Verbandes der Diözesen Deutschlands werden von der Aufsicht nach dem Versicherungsaufsichtsgesetz freigestellt.</p>
+            </div>
+            <div xml:id="d50e40">
+                <head>§ 2</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit Artikel 4 des Vierzehnten Gesetzes zur Änderung des Versicherungsaufsichtsgesetzes vom 29. März 1983 (BGBl. I S. 377) auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d50e50">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am 1. Mai 1988 in Kraft.</p>
+            </div>
+            <div xml:id="d50e60">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister der Finanzen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

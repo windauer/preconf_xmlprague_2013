@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000570951">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Änderung und Ergänzung des Personenstandsgesetzes</title>
+                <title type="short">PersStdGÄndG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1951-01-15</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Überschrift: Im Saarland eingeführt durch § 1 Nr. 9 V v. 26.8.1957 I 1255; über Geltung in Berlin vgl. Art. V G v. 18.5.1957 211-3 u. GVBl. Berlin 1951 S. 1162 sowie 1957 S. 558(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1054e23">
+                <head>(XXXX) Art 1 und Art 2</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1054e36">
+                <head>Art 3</head>
+                <p>(1) Die Zweite Hessische Verordnung zur Durchführung des Personenstandsgesetzes vom 3. November 1937 (Reichsgesetzbl. I S. 1146) vom 1. September 1949 (Gesetz- und Verordnungsblatt für das Land Hessen S. 123) wird aufgehoben.</p>
+                <p>(2) Die auf Grund der aufgehobenen Verordnung erfolgten Eintragungen in das Sterbebuch des Sonderstandesamts in Arolsen haben die gleichen Wirkungen, wie wenn sie auf Grund des Artikels 1 Nr. 3 dieses Gesetzes vorgenommen wären.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006670953">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über das gerichtliche Verfahren in Landwirtschaftssachen</title>
+                <title type="short">LwVfG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1953-07-21</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1981 +++)</p>
+        </front>
+        <body>
+            <div>
+                <head>Erster Abschnitt</head>
+                <head type="subtitle">Sachliche Zuständigkeit und Einrichtung der Gerichte</head>
+                <div xml:id="d186e39">
+                    <head>§ 1</head>
+                    <p>Die Bestimmungen dieses Gesetzes gelten in den Verfahren auf Grund der Vorschriften über</p>
+                    <list>
+                        <item n="1.">die Anzeige und Beanstandung von Landpachtverträgen im Landpachtverkehrsgesetz vom 8. November 1985 (BGBl. I S. 2075) und über den Landpachtvertrag in den Fällen des § 585b Abs. 2, der §§ 588, 590 Abs. 2, des § 591 Abs. 2 und 3, der §§ 593, 594d Abs. 2 und der §§ 595 und 595a Abs. 2 und 3 des Bürgerlichen Gesetzbuchs,</item>
+                        <item n="1a.">den Landpachtvertrag im übrigen,</item>
+                        <item n="2.">die rechtsgeschäftliche Veräußerung, die Änderung oder Aufhebung einer Auflage, die gerichtliche Zuweisung eines Betriebes sowie die Festsetzung von Zwangsgeld im Grundstückverkehrsgesetz vom 28. Juli 1961 (Bundesgesetzbl. I S. 1091),</item>
+                        <item n="3.">Einwendungen gegen das siedlungsrechtliche Vorkaufsrecht in § 10 des Reichssiedlungsgesetzes,</item>
+                        <item n="4.">die Aufhebung von Pacht- und sonstigen Nutzungsverhältnissen sowie die Inanspruchnahme von Gebäuden oder Land in §§ 59 und 63 Abs. 3 und 4 des Bundesvertriebenengesetzes in der Fassung der Bekanntmachung vom 3. September 1971 (BGBl. I S. 1565, 1807), ferner die Festsetzung des Ersatzanspruchs und der Entschädigung nach § 7 Abs. 2 des Gesetzes zur Ergänzung des Reichssiedlungsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 2331-2, veröffentlichten bereinigten Fassung,</item>
+                        <item n="5.">das Anerbenrecht einschließlich der Versorgungsansprüche bei Höfen, Hofgütern, Landgütern und Anerbengütern,</item>
+                        <item n="6.">Angelegenheiten, die mit der Aufhebung der früheren Vorschriften über Erbhöfe zusammenhängen,</item>
+                    </list>
+                    <p>jedoch in den in den Nummern 5 und 6 bezeichneten Verfahren nur, soweit die beim Inkrafttreten dieses Gesetzes für diese geltenden oder die künftig erlassenen Vorschriften die Zuständigkeit von Gerichten mit ehrenamtlichen Richtern vorsehen.</p>
+                </div>
+                <div xml:id="d186e66">
+                    <head>§ 2</head>
+                    <p>(1) In den in § 1 bezeichneten Verfahren sind im ersten Rechtszug die Amtsgerichte als Landwirtschaftsgerichte zuständig. Die Zuständigkeit ist auch in bürgerlichen Rechtsstreitigkeiten des § 1 Nr. 1a ausschließlich. Im zweiten Rechtszug sind die Oberlandesgerichte, im dritten Rechtszug der Bundesgerichtshof zuständig.</p>
+                    <p>(2) Soweit dieses Gesetz nichts anderes bestimmt, ist</p>
+                    <list>
+                        <item n="">das Amtsgericht in der Besetzung von einem Richter beim Amtsgericht als Vorsitzenden und zwei ehrenamtlichen Richtern, das Oberlandesgericht in der Besetzung von drei Mitgliedern des Oberlandesgerichts mit Einschluß des Vorsitzenden und zwei ehrenamtlichen Richtern, der Bundesgerichtshof in der Besetzung von drei Mitgliedern des Bundesgerichtshofes mit Einschluß des Vorsitzenden und zwei ehrenamtlichen Richtern</item>
+                    </list>
+                    <p>tätig.</p>
+                    <p>§ 2 Abs. 2: IdF d. Art. 3 Nr. 4 Buchst. b u. Art. 3 Nr. 2 G v. 8.11.1985 I 2065 mWv 1.7.1986; mit dem GG nach Maßgabe der Entscheidungsformel vereinbar, BVerfGE v. 3.6.1980 I 1022</p>
+                </div>
+                <div xml:id="d186e85">
+                    <head>§ 3</head>
+                    <p>(1) Die ehrenamtlichen Richter werden auf die Dauer von fünf Jahren berufen; wiederholte Berufung ist zulässig.</p>
+                    <p>(2) Für das Recht, die Berufung zum ehrenamtlichen Richter abzulehnen, gelten die §§ 35 und 53 des Gerichtsverfassungsgesetzes sinngemäß, jedoch entscheidet über das Gesuch der Präsident des Oberlandesgerichts, bei Gesuchen ehrenamtlicher Richter des Bundesgerichtshofes der Präsident des Bundesgerichtshofes; der Anhörung der Staatsanwaltschaft bedarf es nicht.</p>
+                </div>
+                <div xml:id="d186e98">
+                    <head>§ 4</head>
+                    <p>(1) Die ehrenamtlichen Richter der Amtsgerichte und des Oberlandesgerichts beruft der Präsident des Oberlandesgerichts auf Grund einer Vorschlagsliste. Er bestimmt für jedes Gericht die erforderliche Zahl der ehrenamtlichen Richter.</p>
+                    <p>(2) Die Länder bestimmen, wie die Vorschlagsliste aufzustellen ist. Die Liste ist dem Präsidenten des Oberlandesgerichts mindestens drei Monate vor Ablauf der Amtszeit der ehrenamtlichen Richter für jedes Gericht getrennt vorzulegen.</p>
+                    <p>(3) Als ehrenamtliche Richter sind nur Deutsche vorzuschlagen,</p>
+                    <list>
+                        <item n="1.">die die Landwirtschaft in dem Bezirk selbständig im Haupt- oder Nebenberuf ausüben oder ausgeübt haben,</item>
+                        <item n="2.">bei denen kein Hinderungsgrund nach §§ 32 bis 34 des Gerichtsverfassungsgesetzes vorliegt,</item>
+                        <item n="3.">die nicht Aufgaben der nach Landesrecht zuständigen Behörden auf den in § 1 Nr. 1 und 2 bezeichneten Sachgebieten wahrnehmen,</item>
+                        <item n="4.">die nicht dem Vorstand oder der Geschäftsführung einer land- und forstwirtschaftlichen Berufsvertretung oder ihrer Untergliederungen angehören, soweit diese nach § 32 Abs. 1 am gerichtlichen Verfahren beteiligt werden.</item>
+                    </list>
+                    <p>§ 34 Abs. 1 Nr. 7 des Gerichtsverfassungsgesetzes ist nicht anzuwenden.</p>
+                    <p>(4) Die Zahl der vorzuschlagenden Personen soll das Eineinhalbfache der erforderlichen Zahl der ehrenamtlichen Richter betragen.</p>
+                    <p>(5) Scheidet ein ehrenamtlicher Richter nach seiner Berufung aus, so kann der Präsident des Oberlandesgerichts für die restliche Amtszeit des ausgeschiedenen ehrenamtlichen Richters einen neuen ehrenamtlichen Richter auf Grund der Vorschlagsliste berufen.</p>
+                    <p>(6) Diese Vorschriften gelten für die ehrenamtlichen Richter des Bundesgerichtshofes entsprechend mit der Maßgabe, daß diese von dem Präsidenten des Bundesgerichtshofes auf Grund einer Vorschlagsliste berufen werden, die von dem Zentralausschuß der Deutschen Landwirtschaft aufgestellt wird.</p>
+                </div>
+                <div xml:id="d186e129">
+                    <head>§ 5</head>
+                    <p>Die ehrenamtlichen Richter üben das Richteramt in vollem Umfang und mit gleichem Stimmrecht wie die Berufsrichter aus. Sie sind zur Amtsverschwiegenheit verpflichtet.</p>
+                </div>
+                <div xml:id="d186e140">
+                    <head>§ 6</head>
+                    <p>(1) Die ehrenamtlichen Richter sollen zu den Sitzungen nach der Reihenfolge einer Liste herangezogen werden, die der Vorsitzende des Gerichts vor Beginn des Geschäftsjahres aufstellt. Hierbei kann er bestimmen, daß einzelne dieser ehrenamtlichen Richter bei Verhinderung eines anderen herangezogen werden (stellvertretende ehrenamtliche Richter). Würden hiernach bei der Verhandlung in Pachtsachen zwei ehrenamtliche Richter, die beide Pächter oder beide Verpächter sind, oder in einer in § 1 Nr. 4 bezeichneten Sache zwei ehrenamtliche Richter, die beide dem Personenkreis des § 35 des Bundesvertriebenengesetzes angehören oder nicht angehören, teilnehmen, so gilt der auf Grund der Liste als zweiter heranstehende ehrenamtliche Richter für die Sitzung als verhindert.</p>
+                    <p>(2) Im übrigen ist der Vorsitzende zu einer Änderung der Reihenfolge nur befugt, wenn ehrenamtliche Richter während des Geschäftsjahres ausscheiden, wenn neue ehrenamtliche Richter eintreten oder wenn die Teilnahme an einer früheren Verhandlung in derselben Sache oder die Wahrnehmung eines Termins an Ort und Stelle eine Änderung geboten erscheinen läßt.</p>
+                    <p>(3) Für die Entbindung eines ehrenamtlichen Richters von der Dienstleistung an bestimmten Sitzungstagen gilt § 54 des Gerichtsverfassungsgesetzes sinngemäß.</p>
+                </div>
+                <div xml:id="d186e155">
+                    <head>§ 7</head>
+                    <p>(1) Ein ehrenamtlicher Richter ist seines Amtes zu entheben, wenn das Fehlen einer in § 4 Abs. 3 bezeichneten Voraussetzung nachträglich bekannt wird oder eine solche Voraussetzung nachträglich wegfällt oder wenn er sich einer groben Verletzung seiner Amtspflicht schuldig macht.</p>
+                    <p>(2) Über die Amtsenthebung eines ehrenamtlichen Richters des Amtsgerichts oder des Oberlandesgerichts entscheidet der Erste Zivilsenat des Oberlandesgerichts, über die Amtsenthebung eines ehrenamtlichen Richters des Bundesgerichtshofes der Erste Zivilsenat des Bundesgerichtshofes. Vor der Entscheidung ist der ehrenamtliche Richter zu hören.</p>
+                </div>
+                <div xml:id="d186e168">
+                    <head>§ 8</head>
+                    <p>Die Landesregierung kann durch Rechtsverordnung Geschäfte aus den Bezirken mehrerer Amtsgerichte einem Amtsgericht übertragen. Sie kann eine solche Bestimmung auch für die Oberlandesgerichte treffen. Die Landesregierung kann diese Ermächtigung auf die Landesjustizverwaltung übertragen.</p>
+                </div>
+            </div>
+            <div>
+                <head>Zweiter Abschnitt</head>
+                <head type="subtitle">Landwirtschaftssachen der freiwilligen Gerichtsbarkeit</head>
+                <div xml:id="d186e193">
+                    <head>§ 9</head>
+                    <p>Soweit dieses Gesetz nichts anderes bestimmt, sind in Angelegenheiten des § 1 Nr. 1 und Nr. 2 bis 6 die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sinngemäß anzuwenden.</p>
+                </div>
+                <div xml:id="d186e204">
+                    <head>§ 10</head>
+                    <p>Örtlich zuständig ist das Amtsgericht, in dessen Bezirk die Hofstelle liegt. Ist eine Hofstelle nicht vorhanden, so ist das Amtsgericht örtlich zuständig, in dessen Bezirk die Grundstücke ganz oder zum größten Teil liegen oder die Rechte im wesentlichen ausgeübt werden.</p>
+                </div>
+                <div xml:id="d186e214">
+                    <head>§ 11</head>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d186e225">
+                    <head>§ 12</head>
+                    <p>(1) Hält das Gericht sich für unzuständig, so hat es die Sache an das zuständige Gericht abzugeben. Der Abgabebeschluß kann nach Anhörung der Beteiligten ohne mündliche Verhandlung ergehen. Er ist für das in ihm bezeichnete Gericht bindend. Im Falle der Abgabe an ein Gericht der streitigen Gerichtsbarkeit gilt die Rechtshängigkeit der Sache in dem Zeitpunkt als begründet, in dem der bei dem für Landwirtschaftssachen zuständigen Gericht gestellte Antrag dem Beteiligten bekanntgemacht worden ist, der nach der Abgabe Beklagter ist. § 167 der Zivilprozeßordnung ist entsprechend anzuwenden.</p>
+                    <p>(2) Wird in einem Rechtsstreit eine Angelegenheit des § 1 Nr. 1 oder Nr. 2 bis 6 anhängig gemacht, so hat das Prozeßgericht die Sache insoweit an das für Landwirtschaftssachen zuständige Gericht abzugeben. Absatz 1 Satz 2, 3 ist anzuwenden.</p>
+                    <p>(3) Für die Erhebung der Gerichtskosten ist das Verfahren vor dem abgebenden Gericht als Teil des Verfahrens vor dem übernehmenden Gericht zu behandeln.</p>
+                </div>
+                <div xml:id="d186e240">
+                    <head>§ 13</head>
+                    <p>(1) Als Bevollmächtigte sind, soweit eine Vertretung durch Rechtsanwälte nicht geboten ist, auch berufsständische Vereinigungen der Landwirtschaft für ihre Mitglieder vertretungsbefugt. Sie handeln durch ihre Organe und mit der Verfahrensvertretung beauftragten Vertreter.</p>
+                    <p>(2) Ehrenamtliche Richter dürfen nicht als Bevollmächtigte vor einem Spruchkörper auftreten, dem sie angehören. Das Gericht weist Bevollmächtigte, die nicht vertretungsbefugt sind, durch unanfechtbaren Beschluss zurück. Verfahrenshandlungen eines nicht vertretungsbefugten Bevollmächtigten und Zustellungen oder Mitteilungen an diesen Bevollmächtigten sind bis zu seiner Zurückweisung wirksam. Die Sätze 1 und 2 gelten für Beistände entsprechend.</p>
+                </div>
+                <div xml:id="d186e253">
+                    <head>§ 14</head>
+                    <p>(1) Das Verfahren wird, soweit nicht etwas anderes bestimmt ist, nur auf Antrag eingeleitet.</p>
+                    <p>(2) Das Gericht hat vor seiner Entscheidung den Beteiligten Gelegenheit zu geben, sich zur Sache zu äußern. Für die Vorbereitung der Entscheidung gelten die Vorschriften des § 139 und des § 273 Abs 1, 2, 3 Satz 1 und Abs. 4 der Zivilprozeßordnung sinngemäß.</p>
+                </div>
+                <div xml:id="d186e266">
+                    <head>§ 15</head>
+                    <p>(1) Das Gericht hat auf Antrag eines Beteiligten eine mündliche Verhandlung anzuordnen. Dies gilt nicht für Verfahren vor dem Bundesgerichtshof.</p>
+                    <p>(2) Wird eine mündliche Verhandlung anberaumt, so sind die Beteiligten zu laden.</p>
+                    <p>(3) Bei einer Beweisaufnahme sind § 279 Abs. 2, §§ 357, 367 Abs. 1, §§ 397, 402 der Zivilprozeßordnung sinngemäß anzuwenden.</p>
+                    <p>(4) Über das Ergebnis einer Beweisaufnahme ist stets mündlich zu verhandeln, wenn die Beteiligten nicht übereinstimmend auf mündliche Verhandlung verzichten.</p>
+                    <p>(5) Die Vorschriften der §§ 159 bis 165 der Zivilprozeßordnung über die Niederschrift gelten sinngemäß.</p>
+                </div>
+                <div xml:id="d186e285">
+                    <head>§ 16</head>
+                    <p>Das Gericht kann eines seiner Mitglieder mit der Beweisaufnahme oder mit örtlichen Ermittlungen oder mit Verhandlungen mit den Beteiligten beauftragen. Die Vorschriften der Zivilprozeßordnung über das Verfahren vor dem beauftragten Richter gelten sinngemäß. Zur förmlichen Vernehmung von Beteiligten, Zeugen und Sachverständigen, zur Abnahme von Eiden sowie zur Protokollierung eines Vergleichs sind nur Richter befugt.</p>
+                </div>
+                <div xml:id="d186e295">
+                    <head>§ 17</head>
+                    <p>Alle Behörden sind auf Ersuchen des Gerichts zur Amtshilfe verpflichtet. Die Finanzämter haben auf Ersuchen des Gerichts Auskünfte über den Einheitswert oder den Wirtschaftswert land- oder forstwirtschaftlicher Grundstücke zu erteilen.</p>
+                </div>
+                <div xml:id="d186e307">
+                    <head>§ 18</head>
+                    <p>Bei einstweiligen Anordnungen kann von der Zuziehung der ehrenamtlichen Richter und von der Anwendung des § 14 Abs. 2 abgesehen werden, wenn durch Verzögerung der einstweiligen Anordnung ein Nachteil zu entstehen droht.</p>
+                </div>
+                <div xml:id="d186e318">
+                    <head>§ 19</head>
+                    <p>Enthält ein gerichtlicher Vergleich Bestimmungen über die Veräußerung, Belastung oder Verpachtung von Grundstücken, so kann das Gericht auf Antrag anstelle der sonst zuständigen Behörde darüber entscheiden, ob diese Bestimmungen nach den Vorschriften über den Verkehr mit land- oder forstwirtschaftlichen Grundstücken genehmigt oder nach den Vorschriften des Landpachtverkehrsgesetzes beanstandet werden.</p>
+                </div>
+                <div xml:id="d186e329">
+                    <head>§ 20</head>
+                    <p>(1) Das Gericht kann ohne Zuziehung ehrenamtlicher Richter über</p>
+                    <list>
+                        <item n="1.">die Ausschließung oder die Ablehnung der Gerichtspersonen,</item>
+                        <item n="2.">einen Antrag auf Wiedereinsetzung in den vorigen Stand,</item>
+                        <item n="3.">die Abgabe einer Sache wegen Unzuständigkeit,</item>
+                        <item n="4.">die Unzulässigkeit eines Antrags oder eines Rechtsmittels,</item>
+                        <item n="5.">die Erinnerung gegen die Erteilung oder gegen die Ablehnung des Rechtskraftzeugnisses;</item>
+                        <item n="6.">die Bewilligung der Verfahrenskostenhilfe und die Änderung der Bewilligung sowie die Versagung der Prozeßkostenhilfe oder die Aufhebung der Bewilligung mit der Begründung, daß die persönlichen und wirtschaftlichen Verhältnisse des Antragstellers die Bewilligung der Prozeßkostenhilfe nicht zulassen,</item>
+                        <item n="6a.">die Ernennung des Sachverständigen nach § 585b Abs. 2 des Bürgerlichen Gesetzbuchs,</item>
+                        <item n="7.">Angelegenheiten von geringer Bedeutung, soweit es sich nicht um die Entscheidung in der Hauptsache handelt,</item>
+                        <item n="8.">die Kosten, wenn die Hauptsache erledigt ist,</item>
+                    </list>
+                    <p>entscheiden.</p>
+                    <p>(2) Ein gerichtlicher Vergleich kann beim Amtsgericht vor dem Vorsitzenden, beim Oberlandesgericht und beim Bundesgerichtshof vor dem Vorsitzenden oder einem beauftragten Richter geschlossen werden; die Zuziehung ehrenamtlicher Richter ist nicht erforderlich.</p>
+                    <p>(3) Die Länder können bestimmen, daß die Entscheidung über die Erteilung eines Erbscheins ebenfalls ohne Zuziehung ehrenamtlicher Richter erfolgen kann und daß insoweit die Vorschriften der §§ 14 Abs. 2 und 30 sowie § 38 Abs. 3, §§ 39, 41 Abs. 1 Satz 2, §§ 58 und 66 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit keine Anwendung finden; das gleiche gilt für die Einziehung und die Kraftloserklärung eines Erbscheins.</p>
+                </div>
+                <div xml:id="d186e364">
+                    <head>§ 21</head>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d186e375">
+                    <head>§ 22</head>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d186e386">
+                    <head>§ 23</head>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d186e397">
+                    <head>§ 24</head>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d186e408">
+                    <head>§ 25</head>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d186e419">
+                    <head>§ 26</head>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d186e430">
+                    <head>§ 27</head>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d186e441">
+                    <head>§ 28</head>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d186e453">
+                    <head>§ 29</head>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d186e464">
+                    <head>§ 30</head>
+                    <p>(1) Die gerichtlichen Entscheidungen in der Hauptsache werden erst mit dem Eintritt der Rechtskraft wirksam.</p>
+                    <p>(2) Hat der Beschluß einen vollstreckbaren Inhalt, so kann das Gericht ihn gegen oder ohne Sicherheitsleistung für vorläufig vollstreckbar erklären, dem Schuldner auf Antrag auch nachlassen, die Vollstreckung durch Sicherheitsleistung abzuwenden.</p>
+                </div>
+                <div xml:id="d186e476">
+                    <head>§ 31</head>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d186e487">
+                    <head>§ 32</head>
+                    <p>(1) In den Verfahren wegen Beanstandung eines Landpachtvertrages ist die nach Landesrecht zuständige Behörde, in den Verfahren wegen Genehmigung einer rechtsgeschäftlichen Veräußerung die Genehmigungsbehörde und die land- und forstwirtschaftliche Berufsvertretung zu hören und zu einer mündlichen Verhandlung zu laden.</p>
+                    <p>(2) Soweit nach Absatz 1 die Landwirtschaftsbehörde oder die Genehmigungsbehörde zu hören ist, sind ihr die Entscheidungen in der Hauptsache bekannt zu geben. Die der Landwirtschaftsbehörde oder Genehmigungsbehörde übergeordnete Behörde ist insoweit berechtigt, gegen diese Entscheidungen die Beschwerde und die Rechtsbeschwerde, zu erheben. Erhebt sie eine solche Beschwerde, so gilt sie als Beteiligte.</p>
+                    <p>(3) Die Landesregierung bestimmt durch Rechtsverordnung, welche Organisationen als land- und forstwirtschaftliche Berufsvertretungen gelten.</p>
+                </div>
+                <div xml:id="d186e502">
+                    <head>§ 32a</head>
+                    <p>In den Verfahren auf Grund der Vorschriften über die gerichtliche Zuweisung eines Betriebes (§ 1 Nr. 2) soll der Antrag die Gegenstände bezeichnen, deren Zuweisung beantragt wird. In der Entscheidung über die Zuweisung des Betriebes sollen die zugewiesenen Gegenstände bezeichnet werden. Der Vorsitzende des Gerichts des ersten Rechtszuges ersucht nach Eintritt der Rechtskraft der Entscheidung das Grundbuchamt um Eintragung des Erwerbers.</p>
+                </div>
+                <div xml:id="d186e513">
+                    <head>§ 33</head>
+                    <p>Für die in diesem Abschnitt geregelten gerichtlichen Verfahren gilt die Kostenordnung, soweit sich aus den folgenden Vorschriften nichts anderes ergibt.</p>
+                </div>
+                <div xml:id="d186e524">
+                    <head>§ 34</head>
+                    <p>(1) Über die Kosten ist zugleich mit der Entscheidung über die Hauptsache zu entscheiden.</p>
+                    <p>(2) Den Geschäftswert setzt das Gericht von Amts wegen fest.</p>
+                </div>
+                <div xml:id="d186e537">
+                    <head>§ 35</head>
+                    <p>(1) In gerichtlichen Verfahren auf Grund der Vorschriften des Landpachtverkehrsgesetzes und der §§ 588, 590, 591, 593, 594d, 595 und 595a des Bürgerlichen Gesetzbuchs bestimmt sich der Geschäftswert</p>
+                    <list>
+                        <item n="1.">im Falle des § 8 Abs. 1 des Landpachtverkehrsgesetzes nach dem Wert, der für die Gebührenberechnung im Falle der Beurkundung des Rechtsverhältnisses maßgebend sein würde, auf das sich das Verfahren bezieht;</item>
+                        <item n="2.">im Falle des § 593 des Bürgerlichen Gesetzbuchs,<list>
+                                <item n="a)">soweit es sich um die Neufestsetzung der Leistungen des Pächters handelt, nach dem Wertunterschied zwischen den bisherigen und den neu beantragten Leistungen des Pächters, berechnet auf die Zeit, für die die Neufestsetzung beantragt wird, höchstens jedoch auf drei Jahre, und</item>
+                                <item n="b)">soweit es sich nicht um eine Neufestsetzung der Leistungen des Pächters handelt, nach freiem Ermessen mit der Maßgabe, daß der Höchstwert 4.000 Euro beträgt;</item>
+                            </list>
+                        </item>
+                        <item n="3.">in den Fällen des § 595 Abs. 6, des § 595a Abs. 2 des Bürgerlichen Gesetzbuchs und des § 8 Abs. 2 Satz 1 des Landpachtverkehrsgesetzes nach dem Wert der in dem Pachtvertrag vereinbarten Leistungen des Pächters während zweier Jahre; ist nach den Anträgen ein kürzerer Zeitraum Gegenstand des Verfahrens, so ist dieser maßgebend;</item>
+                        <item n="4.">in den übrigen Fällen nach § 30 der Kostenordnung.</item>
+                    </list>
+                    <p>(2) Ergeht die Entscheidung nur für einen Teil des Pachtgegenstandes, so ist der Festsetzung des Geschäftswertes der entsprechende Teil der Leistungen des Pächters zugrunde zu legen. Die Neufestsetzung der Pacht bleibt in diesem Fall außer Betracht, soweit über die Höhe kein Streit besteht.</p>
+                    <p>(3)</p>
+                    <p>(4) In den in Absatz 1 bezeichneten Verfahren wird je für das Verfahren im allgemeinen und für eine den Rechtszug beendende Entscheidung erhoben</p>
+                    <list>
+                        <item n="1.">im Falle des § 8 Abs. 1 des Landpachtverkehrsgesetzes die Hälfte der vollen Gebühr;</item>
+                        <item n="2.">in den übrigen Fällen das Doppelte der vollen Gebühr.</item>
+                    </list>
+                    <p>Stellt das Gericht im Falle des Absatzes 1 Nr. 1 fest, daß der Vertrag nicht zu beanstanden ist, so wird eine Gebühr nicht erhoben.</p>
+                    <p>(5)</p>
+                </div>
+                <div xml:id="d186e576">
+                    <head>§ 36</head>
+                    <p>(1) In gerichtlichen Verfahren auf Grund der Vorschriften über die rechtsgeschäftliche Veräußerung (§ 1 Nr. 2) bestimmt sich der Geschäftswert nach dem Wert, der für die Gebührenberechnung im Falle der Beurkundung des Rechtsverhältnisses maßgebend sein würde, auf das sich das Verfahren bezieht. Es wird die Hälfte der vollen Gebühr, bei Übergabeverträgen ein Viertel der vollen Gebühr erhoben.</p>
+                    <p>(2) In Verfahren auf Erteilung eines Zeugnisses oder einer Bescheinigung oder auf Änderung oder Aufhebung einer Auflage (§ 22 Abs. 1, 4 des Grundstückverkehrsgesetzes) bestimmt sich der Geschäftswert nach § 30 der Kostenordnung. Es wird die volle Gebühr erhoben.</p>
+                </div>
+                <div xml:id="d186e589">
+                    <head>§ 36a</head>
+                    <p>(1) In gerichtlichen Verfahren auf Grund der Vorschriften über die gerichtliche Zuweisung eines Betriebes (§ 1 Nr. 2) bestimmt sich der Geschäftswert nach § 18 Abs. 3 und § 19 der Kostenordnung. Es wird das Vierfache der vollen Gebühr erhoben.</p>
+                    <p>(2) Endet das Verfahren ohne Zuweisung des Betriebes, so bestimmt sich der Geschäftswert nach § 30 der Kostenordnung. Es wird das Doppelte der vollen Gebühr erhoben.</p>
+                    <p>(3) In Verfahren über Ansprüche nach § 17 sowie in Verfahren nach § 16 Abs. 3 Satz 4 des Grundstückverkehrsgesetzes bestimmt sich der Geschäftswert nach § 30 der Kostenordnung. Es wird die volle Gebühr erhoben.</p>
+                </div>
+                <div xml:id="d186e604">
+                    <head>§ 37</head>
+                    <p>In gerichtlichen Verfahren auf Grund der Vorschriften über Einwendungen gegen das siedlungsrechtliche Vorkaufsrecht (§ 1 Nr. 3) gilt § 36 Abs. 1 sinngemäß.</p>
+                </div>
+                <div xml:id="d186e616">
+                    <head>§ 38</head>
+                    <p>In gerichtlichen Verfahren über die Aufhebung von Pacht- und sonstigen Nutzungsverhältnissen sowie über die Inanspruchnahme von Gebäuden oder Land und die Festsetzung des Ersatzanspruchs oder der Entschädigung (§ 1 Nr. 4) bestimmt sich der Geschäftswert nach § 30 der Kostenordnung. Es wird die volle Gebühr erhoben.</p>
+                </div>
+                <div xml:id="d186e627">
+                    <head>§ 38a</head>
+                    <p>In gerichtlichen Verfahren auf Grund der Vorschriften über Angelegenheiten, die mit der Aufhebung der früheren Vorschriften über Erbhöfe zusammenhängen (§ 1 Nr. 6), bestimmt sich der Geschäftswert nach § 30 der Kostenordnung. Es wird die volle Gebühr erhoben.</p>
+                </div>
+                <div xml:id="d186e638">
+                    <head>§ 39</head>
+                    <p>Für die Entscheidung über den Erlaß einer vorläufigen Anordnung während eines schwebenden Verfahrens wird die Hälfte der vollen Gebühr erhoben.</p>
+                </div>
+                <div xml:id="d186e648">
+                    <head>§ 40</head>
+                    <p>(1) Im Beschwerdeverfahren erhöhen sich die in den §§ 35 bis 39 bestimmten Gebührensätze auf das Eineinhalbfache, im Rechtsbeschwerdeverfahren auf das Doppelte.</p>
+                    <p>(2) In Verfahren nach § 588 Abs. 4, § 590 Abs. 2, § 591 Abs. 2 und 3, §§ 593, 594d Abs. 2, § 595 Abs. 6 und § 595a Abs. 2 und 3 des Bürgerlichen Gesetzbuchs sowie nach § 8 Abs. 2 Satz 3 des Landpachtverkehrsgesetzes werden für das Verfahren über die Beschwerde Gebühren auch dann erhoben, wenn die Beschwerde Erfolg hat.</p>
+                </div>
+                <div xml:id="d186e661">
+                    <head>§ 41</head>
+                    <p>Wird ein Antrag oder eine Beschwerde zurückgenommen, bevor der Gegner zur Äußerung aufgefordert oder Termin zur mündlichen Verhandlung bestimmt ist, oder wird ein Antrag oder eine Beschwerde als unzulässig zurückgewiesen, so wird die Gebühr nur zur Hälfte erhoben. Die nach Landesrecht zuständige Behörde und die Genehmigungsbehörde sowie die übergeordnete Behörde (§ 32 Abs. 2) und die Siedlungsbehörde sind nicht Gegner im Sinne dieser Vorschrift.</p>
+                </div>
+                <div xml:id="d186e672">
+                    <head>§ 42</head>
+                    <p>(1) Aus besonderen Gründen kann das Gericht anordnen, daß von der Erhebung von Gerichtskosten ganz oder teilweise abgesehen wird. Die Entscheidung kann nur gleichzeitig mit der Entscheidung in der Hauptsache ergehen.</p>
+                    <p>(2) Die in § 41 Satz 2 bezeichneten Behörden sind von der Zahlung von Gerichtskosten befreit.</p>
+                </div>
+                <div xml:id="d186e685">
+                    <head>§ 43</head>
+                    <p>(1) Die Gerichtskosten werden erst fällig, wenn das Verfahren in dem Rechtszug beendet ist.</p>
+                    <p>(2) Gebührenvorschüsse werden nicht erhoben.</p>
+                </div>
+                <div xml:id="d186e697">
+                    <head>§ 44</head>
+                    <p>(1) Sind an einem Verfahren mehrere Personen beteiligt, so hat das Gericht nach billigem Ermessen zu entscheiden, wer die Kosten zu tragen hat und wie sie zu verteilen sind.</p>
+                    <p>(2) Bei einem Verfahren, das von einer in § 41 Satz 2 genannten Behörde eingeleitet ist oder auf ihrem Antrag oder ihrer Beschwerde beruht, ist nach billigem Ermessen darüber zu entscheiden, ob und inwieweit anderen am Verfahren Beteiligten die Kosten aufzuerlegen sind.</p>
+                </div>
+                <div xml:id="d186e710">
+                    <head>§ 45</head>
+                    <p>(1) Bei der Entscheidung in der Hauptsache kann das Gericht anordnen, daß die außergerichtlichen Kosten ganz oder teilweise von einem unterliegenden Beteiligten zu erstatten sind. Dies hat dann zu geschehen, wenn der Beteiligte die Kosten durch ein unbegründetes Rechtsmittel oder durch grobes Verschulden veranlaßt hat.</p>
+                    <p>(2) Die Vorschriften der §§ 103 bis 107 der Zivilprozeßordnung gelten entsprechend.</p>
+                </div>
+                <div xml:id="d186e723">
+                    <head>§ 46</head>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d186e734">
+                    <head>§ 47</head>
+                    <p>(1) Soweit einem Beteiligten die Kosten durch gerichtliche Entscheidung auferlegt oder von ihm durch eine vor dem Gericht abgegebene oder dem Gericht mitgeteilte Erklärung übernommen sind, sollen die anderen Beteiligten wegen der Kosten erst in Anspruch genommen werden, wenn eine Zwangsvollstreckung in das bewegliche Vermögen des ersteren Beteiligten erfolglos geblieben ist oder aussichtslos erscheint.</p>
+                    <p>(2) Soweit Kosten einem Beteiligten, dem Gebührenfreiheit zusteht, auferlegt oder von einem solchen Beteiligten übernommen werden, sind Gerichtsgebühren nicht zu erheben und erhobene zurückzuzahlen.</p>
+                </div>
+            </div>
+            <div>
+                <head>Dritter Abschnitt</head>
+                <head type="subtitle">Streitige Landwirtschaftssachen</head>
+                <div xml:id="d186e761">
+                    <head>§ 48</head>
+                    <p>(1) In bürgerlichen Rechtsstreitigkeiten des § 1 Nr. 1a findet die Zivilprozeßordnung Anwendung. Jedoch treten die §§ 10 und 20 Abs. 1 und 2 dieses Gesetzes an die Stelle der entsprechenden Vorschriften der Zivilprozeßordnung; § 315 Abs. 1 Satz 1 der Zivilprozeßordnung gilt mit der Maßgabe, daß es der Unterschrift der ehrenamtlichen Richter nicht bedarf.</p>
+                    <p>(2) Die §§ 13 und 19 dieses Gesetzes sind entsprechend anzuwenden. Jede Entscheidung hat auf das statthafte Rechtsmittel, das Gericht, bei dem es einzulegen ist, dessen Sitz und die einzuhaltende Form und Frist hinzuweisen. Ein fehlendes Verschulden im Sinne des § 233 der Zivilprozessordnung wird vermutet, wenn eine Rechtsmittelbelehrung unterblieben oder fehlerhaft ist.</p>
+                </div>
+                <div xml:id="d186e774">
+                    <head>§ 49</head>
+                    <p>-</p>
+                </div>
+            </div>
+            <div>
+                <head>Vierter Abschnitt</head>
+                <head type="subtitle">Zusatz-, Übergangs- und Schlußbestimmungen</head>
+                <div xml:id="d186e799">
+                    <head>§ 50</head>
+                    <p>Soweit Vorschriften, die nach diesem Gesetz in Kraft bleiben oder von diesem Gesetz nicht berührt werden, bestimmen, daß für ein Verfahren, das nicht unter § 1 fällt, mit landwirtschaftlichen Beisitzern besetzte Gerichte zuständig sind, treten an die Stelle dieser Gerichte die entsprechenden nach den Vorschriften dieses Gesetzes besetzten Gerichte; ist bestimmt, daß an Stelle der landwirtschaftlichen Beisitzer andere Beisitzer mitwirken, so behält es dabei sein Bewenden. Soweit nach den in Satz 1 bezeichneten Vorschriften für das Verfahren Bestimmungen gelten, die durch § 60 außer Kraft gesetzt werden, treten an deren Stelle die entsprechenden Vorschriften dieses Gesetzes.</p>
+                </div>
+                <div xml:id="d186e809">
+                    <head>§ 51</head>
+                    <p>(1)</p>
+                    <p>(2) Die Länder können bestimmen, daß die Vorschriften dieses Gesetzes auf Verträge über die Pacht von Fischereirechten sowie in den auf Grund des § 11 des Landpachtverkehrsgesetzes geregelten Verfahren ganz oder teilweise anzuwenden sind; sie können zusätzliche Vorschriften erlassen, die den Besonderheiten dieser Verfahren entsprechen.</p>
+                </div>
+                <div xml:id="d186e822">
+                    <head>§ 52</head>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d186e833">
+                    <head>(XXXX) §§ 53 bis 59</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d186e844">
+                    <head>§ 60</head>
+                    <p>(1) Dieses Gesetz tritt am 1. Oktober 1953 in Kraft.</p>(2) Folgende Vorschriften treten außer Kraft:<list>
+                        <item n="1.">bis 7.</item>
+                        <item n="8.">§ 31 Abs. 2, §§ 32 bis 47, 54 der Badischen Durchführungsverordnung zum Kontrollratsgesetz Nr. 45 vom 11. Dezember 1948 (Badisches Gesetz- und Verordnungsblatt S. 217);</item>
+                        <item n="9.">§ 32 Abs. 2, §§ 33 bis 48, 55 der Grundstücksverkehrs- und -bewirtschaftungs-Verordnung des Landes Rheinland-Pfalz vom 11. Dezember 1948 (Gesetz- und Verordnungsblatt der Landesregierung Rheinland-Pfalz S. 447);</item>
+                    </list>10.11.<list>
+                        <item n="12.">§ 32 Abs. 2, §§ 33 bis 50, 57 des Ersten Ausführungsgesetzes des Landes Württemberg-Hohenzollern zum Kontrollratsgesetz Nr. 45 vom 2. Mai 1949 (Regierungsblatt für das Land Württemberg-Hohenzollern S. 143);</item>
+                    </list>13. bis 16.<p>(3) Aufgehoben werden die bisher geltenden kostenrechtlichen Vorschriften, soweit sie für das Verfahren der Gerichte mit landwirtschaftlichen Beisitzern gelten, einschließlich der Vorschriften über Rechtsanwaltsgebühren. Die bisher geltenden Vorschriften über die Höhe des Geschäftswertes und der gerichtlichen Kosten gelten jedoch fort</p>
+                    <list>
+                        <item n="a)">in den unter § 1 Nr. 5 fallenden Verfahren,</item>
+                        <item n="b)">in den nicht unter § 1 fallenden Verfahren, die auf in Kraft bleibenden oder unberührt bleibenden Vorschriften beruhen (§ 50).</item>
+                    </list>
+                </div>
+                <div xml:id="d186e881">
+                    <head>§ 61</head>
+                    <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

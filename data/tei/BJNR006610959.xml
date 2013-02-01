@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006610959">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung der Amtsgehilfen</title>
+                <title type="short">BPräsKldgAmtsgehAnO</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1959-08-21</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d178e20">
+                <head>(XXXX)</head>
+                <p>Gemäß § 76 des Bundesbeamtengesetzes übertrage ich dem Bundesminister des Innern die Befugnis, Bestimmungen über die Dienstkleidung der Amtsgehilfen zu erlassen.Für die Dienstkleidung der Amtsgehilfen bei der Verwaltung des Bundestages, des Bundesrates und des Bundesverfassungsgerichts, beim Bundespräsidialamt, beim Bundeskanzleramt, beim Auswärtigen Amt, bei der Bundesverkehrsverwaltung und bei der Deutschen Bundespost verbleibt es bei der bisherigen Regelung.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

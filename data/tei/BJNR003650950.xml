@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR003650950">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über Reichsmarkverbindlichkeiten zwischen Gebietskörperschaften</title>
+                <title type="short">RMVerblG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1950-08-15</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1964 +++)Für Berlin vgl. § 13 Abs. 2 u. Anlage 3 Nr. 8 G v. 4.1.1952 I 1; GVBl. Berlin 1952 S. 414</p>
+        </front>
+        <body>
+            <div xml:id="d1379e24">
+                <head>§ 1</head>
+                <p>(1) Reichsmarkverbindlichkeiten zwischen Ländern, Gemeinden und Gemeindeverbänden (Gebietskörperschaften) erlöschen, soweit sie vor dem 21. Juni 1948 fällig geworden sind.</p>
+                <p>(2) Reichsmarkverbindlichkeiten aus Abgaben zwischen Gebietskörperschaften erlöschen ohne Rücksicht auf den Zeitpunkt der Fälligkeit.</p>
+            </div>
+            <div xml:id="d1379e36">
+                <head>§ 2</head>
+                <p>(1) Folgende Reichsmarkverbindlichkeiten zwischen Gebietskörperschaften erlöschen nicht:</p>
+                <list>
+                    <item n="a)">Verbindlichkeiten aus Darlehen mit einer Laufzeit von mindestens einem Jahr, Anleihen und Wertpapieren, sowie alle sonstigen Verbindlichkeiten, wenn die Forderung der Gläubigerin durch Hypothek, Grund- oder Rentenschuld gesichert ist,</item>
+                    <item n="b)">Verbindlichkeiten, die mit einer von der Gläubigerin nach dem 20. Juni 1948 Dritten gegenüber in Deutscher Mark zu erfüllenden Verbindlichkeit in unmittelbarem wirtschaftlichem Zusammenhang stehen,</item>
+                    <item n="c)">Verbindlichkeiten, die mit einer der Schuldnerin gegen Dritte zustehenden nach dem 20. Juni 1948 zu erfüllenden Forderung in unmittelbarem wirtschaftlichem Zusammenhang stehen,</item>
+                    <item n="d)">Verbindlichkeiten, die nach § 18 Abs. 1 des Umstellungsgesetzes umgestellt werden,</item>
+                    <item n="e)">Verbindlichkeiten zwischen Ländern, die sich aus der Auflösung des Haushalts der britischen Zone ergeben.</item>
+                </list>
+                <p>(2) Absatz 1 Buchstab a gilt nicht für Zinsen, Tilgungsraten und andere regelmäßig wiederkehrende Leistungen, die vor dem 21. Juni 1948 fällig geworden sind.</p>
+            </div>
+            <div xml:id="d1379e60">
+                <head>§ 3</head>
+                <p>(1) Bei Meinungsverschiedenheiten darüber, ob eine Reichsmarkverbindlichkeit auf Grund dieses Gesetzes erlischt, entscheidet eine Schiedsstelle. Diese Schiedsstelle besteht aus einem Vorsitzenden und zwei Beisitzern.</p>
+                <p>(2) Jede Partei hat das Recht, einen der Beisitzer zu bestellen.</p>
+                <p>(3) Sind mehrere Länder oder verschiedenen Ländern angehörige Gemeinden (Gemeindeverbände) beteiligt, so führt ein vom Präsidenten des Bundesrechnungshofes zu bestimmendes Mitglied dieser Behörde den Vorsitz der Schiedsstelle. In den übrigen Fällen bestimmt der Präsident des Landesrechnungshofes ein Mitglied zum Vorsitzenden.</p>
+                <p>(4) Gemeinden (Gemeindeverbände) haben den Antrag auf Bestimmung eines Vorsitzenden und die Mitteilung an die Gegenpartei über die Einleitung des Schiedsverfahrens über die zuständige Aufsichtsbehörde zu leiten.</p>
+                <p>(5) Die Entscheidung der Schiedsstelle ist endgültig.</p>
+            </div>
+            <div xml:id="d1379e78">
+                <head>§ 4</head>
+                <p>Dieses Gesetz findet auf bereits erfüllte Verbindlichkeiten keine Anwendung.</p>
+            </div>
+            <div xml:id="d1379e88">
+                <head>§ 5</head>
+                <p>Dieses Gesetz tritt mit Wirkung vom 21. Juni 1948 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

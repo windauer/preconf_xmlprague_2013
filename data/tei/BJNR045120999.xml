@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR045120999">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Französischen Republik über die Gründung einer Deutsch-Französischen Hochschule</title>
+                <title type="short">HochschulAbk FRA</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1997-09-19</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>V v. 22.6.1999 II 450</p>
+            <p>In Kraft gem. Bek. v. 16.12.1999; 2000 II 43 mWv 13.9.1999</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

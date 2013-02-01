@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BDNR001510946">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Landesverordnung über die Aufhebung von Urteilen der Strafgerichte und die Beseitigung nationalsozialistischer Eingriffe in die Strafrechtspflege</title>
+                <title type="short">UrtAufhV BA</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1946-12-23</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Partielles Recht für (das ehemalige Land) Baden:</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR009300003">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Neubestimmung von Arzneimittel-Festbetragsgruppen</title>
+                <title type="short">FGNV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>2003-01-21</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 3.2003 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d454e26">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 35a Abs. 1 Satz 1 Nr. 2 des Fünften Buches Sozialgesetzbuch - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes vom 20. Dezember 1988, BGBl. I S. 2477, 2482), der durch Artikel 1 Nr. 3 des Gesetzes vom 27. Juli 2001 (BGBl. I S. 1948) eingefügt worden ist, jeweils in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für Gesundheit und Soziale Sicherung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit:</p>
+            </div>
+            <div xml:id="d454e36">
+                <head>§ 1</head>
+                <p>Die in der Anlage Teil 1 aufgeführte Arzneimittel-Festbetragsgruppe wird gemäß § 35a Abs. 3 Satz 1 Nr. 2 des Fünften Buches Sozialgesetzbuch neu bestimmt; die in der Anlage Teil 2 aufgeführte Arzneimittel-Festbetragsgruppe wird gemäß § 35a Abs. 3 Satz 1 Nr. 3 des Fünften Buches Sozialgesetzbuch neu bestimmt. Für die jeweilige Standardpackung werden die in der Anlage Teil 1 und 2 ausgewiesenen Festbeträge in Euro auf Grund von § 35a Abs. 2 des Fünften Buches Sozialgesetzbuch festgesetzt. Für Arzneimittel, die nicht der Standardpackung entsprechen, ergibt sich der Festbetrag in Euro durch Multiplikation des Festbetrages der Standardpackung mit dem Ergebnis der in der Anlage genannten gruppenspezifischen Regressionsgleichung. Die festgesetzten Festbeträge gelten für alle Arzneimittel, die von der jeweiligen Gruppenbeschreibung erfasst werden.</p>
+            </div>
+            <div xml:id="d454e46">
+                <head>§ 2</head>
+                <p>Die nach § 1 Satz 2 festgesetzten Festbeträge sowie die nach § 1 Satz 3 errechneten Festbeträge sind an den nächsten, sich aus den §§ 2 und 3 der Arzneimittelpreisverordnung vom 14. November 1980 (BGBl. I S. 2147), geändert durch Artikel 3 des Gesetzes vom 10. November 2001 (BGBl. I S. 2992), ergebenden Apothekenabgabepreis einschließlich Umsatzsteuer anzugleichen. Bei gleicher Differenz zu zwei Apothekenabgabepreisen gilt der höhere Preis.</p>
+            </div>
+            <div xml:id="d454e56">
+                <head>§ 3</head>
+                <p>(1) Diese Verordnung tritt am 1. März 2003 in Kraft.</p>
+                <p>(2)</p>
+            </div>
+            <div xml:id="d454e69">
+                <head>Anlage</head>
+                <p>Fundstelle des Originaltextes: BGBl. I 2003, 94 - 95Anlage Teil 1Gemäß § 1 Satz 3 der Verordnung ist für die Festbetragsgruppe nach § 35a Abs. 3 Satz 1 Nr. 2 SGB V folgende Formel anzuwenden:p = a x wäf(hoch)b x pk(hoch) cDabei bedeuten:P =Ergebnis der Regressionsgleichungwäf =Wirkstärkenäquivalenzfaktor des Arzneimittels;dieser ergibt sich nach der folgenden Formel:&#160;wäf = w/w/Äf&#160;Dabei bedeuten:&#160;w = Wirkstärke in der jeweils für das Arzneimittel geltenden Einheit&#160;Äf = Äquivalenzfaktor gemäß Gruppenbeschreibungpk =Packungsgröße in der jeweils für das Arzneimittel geltenden Einheita =Multiplikationsfaktor als Ergebnis der Regressionsanalyseb =Exponent des Wirkstärkenäquivalenzfaktors als Ergebnis der Regressionsanalysec =Exponent der Packungsgröße als Ergebnis der RegressionsanalyseFestbetragsgruppe: (§ 35a Abs. 3 Satz 1Nr. 2 SGB V)ACE-HemmerGruppenbeschreibungStandardpackungWirkstoffeÄquivalenzfaktoren (Äf)Wirkstärkenäquivalenzfaktor (wäf)3,97Benazepril0,62Packungsgröße (pk)100 StückCaptopril6,29Festbetrag34,60 EuroCilazapril0,31&#160;&#160;Enalapril1,0&#160;&#160;Fosinopril1,64&#160;&#160;Lisinopril1,19&#160;&#160;Moexipril1,11&#160;&#160;Perindopril0,28&#160;&#160;Quinapril1,78&#160;&#160;Ramipril0,31&#160;&#160;Trandolapril0,27Regressionsgleichungorale Darreichungsformen Kapseln, Tabletten, Filmtablettenp = 0,016864788 x wäf(hoch)0,507722 x pk(hoch)0,734500Anlage Teil 2Gemäß § 1 Satz 3 der Verordnung ist für die Festbetragsgruppe nach § 35a Abs. 3 Satz 1 Nr. 3 SGB V folgende Formel anzuwenden:p = a x wvf(hoch)b x pk(hoch)cDabei bedeuten:P =Ergebnis der Regressionsgleichungwvf =Wirkstärkenvergleichsfaktor des jeweiligen Arzneimittels; dieser ergibt sich nach der folgenden Formel:&#160;wvf = swf/Vf&#160;Dabei bedeuten:&#160;sw = Summe der Wirkstärken der Einzelwirkstoffe in den jeweils für das Arzneimittel geltenden Einheiten&#160;Vf = Vergleichsfaktor gemäß Gruppenbeschreibungpk =Packungsgröße in der jeweils für das Arzneimittel geltenden Einheita =Multiplikationsfaktor als Ergebnis der Regressionsanalyseb =Exponent des Wirkstärkenvergleichsfaktors als Ergebnis der Regressionsanalysec =Exponent der Packungsgröße als Ergebnis der RegressionsanalyseFestbetragsgruppe: (§ 35a Abs. 3 Satz 1 Nr. 3 SGB V)Kombinationen von Hydrochlorothiazid mit ACE-HemmernGruppenbeschreibungStandardpackungWirkstoffeVergleichsfaktoren (Vf)Wirkstärkenvergleichsfaktor (wvf)1,4Benazepril 10 mg + Hydrochlorothiazid 12,5 mg10,65Packungsgröße (pk)100 StückFestbetrag71,42 EuroBenazepril 20 mg + Hydrochlorothiazid 25 mg10,65&#160;&#160;Captopril 25 mg + Hydrochlorothiazid 12,5 mg41,78&#160;&#160;Captopril 25 mg + Hydrochlorothiazid 25 mg35,78&#160;&#160;Captopril 50 mg + Hydrochlorothiazid 25 mg41,78&#160;&#160;Cilazapril 5 mg + Hydrochlorothiazid 12,5 mg8,28&#160;&#160;Enalapril 10 mg + Hydrochlorothiazid 25 mg17,5&#160;&#160;Lisinopril 10 mg + Hydrochlorothiazid 12,5 mg16,79&#160;&#160;Lisinopril 20 mg + Hydrochlorothiazid 12,5 mg14,9&#160;&#160;Quinapril 10 mg + Hydrochlorothiazid 12,5 mg21,19&#160;&#160;Quinapril 20 mg + Hydrochlorothiazid 12,5 mg20,02&#160;&#160;Quinapril 20 mg + Hydrochlorothiazid 25 mg21,19&#160;&#160;Ramipril 2,5 mg + Hydrochlorothiazid 12,5 mg11,48&#160;&#160;Ramipril 5 mg + Hydrochlorothiazid 25 mg11,48Regressionsgleichungorale Darreichungsformen Tabletten, Filmtablettenp = 0,012512592 x wvf(hoch)0,204579 x pk(hoch)0,936379</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006000962">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung zu § 35 des Warenzeichengesetzes</title>
+                <title type="short">WZG§35HKGBek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1962-08-21</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d121e20">
+                <head>(XXXX)</head>
+                <p>Auf Grund des § 35 Abs. 1 des Warenzeichengesetzes in der Fassung vom 9. Mai 1961 (Bundesgesetzbl. I S. 574) wird gemäß einer Erklärung des Kolonialsekretärs der britischen Kronkolonie Hongkong bekanntgemacht:Deutsche Warenbezeichnungen werden in der britischen Kronkolonie Hongkong in demselben Umfang wie inländische zum gesetzlichen Schutz zugelassen.</p>
+            </div>
+            <div xml:id="d121e33">
+                <head>Schlussformel</head>
+                <p>Der Bundesminister der Justiz</p>
+            </div>
+        </body>
+    </text>
+</TEI>

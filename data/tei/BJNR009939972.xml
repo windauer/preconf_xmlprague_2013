@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR009939972">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Änderung des Gesetzes über die Entschädigung der Mitglieder des Bundestages</title>
+                <title type="short">DiätenGÄndG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1972-06-22</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 1.1970 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d502e20">
+                <head/>
+            </div>
+            <div xml:id="d502e32">
+                <head>§ 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d502e49">
+                <head>§ 2</head>
+                <p>§ 1 Nr. 1 und 2 gilt auch für die vor dem Inkrafttreten aus dem Bundestag ausgeschiedenen Mitglieder sowie für ihre Hinterbliebenen.</p>
+            </div>
+            <div xml:id="d502e64">
+                <head>§ 3</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d502e81">
+                <head/>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d502e94">
+                <head/>
+                <p>Dieses Gesetz tritt mit Ausnahme des Artikels I § 1 Nr. 4, Nr. 5 und Nr. 8, die ab 1. Januar 1970 in Kraft treten, am Tage nach seiner Verkündung in Kraft.</p>
+            </div>
+            <div xml:id="d502e107">
+                <head>Schlußformel</head>
+                <p>Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113 des Grundgesetzes erforderliche Zustimmung erteilt.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002930959">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zweiter Erlaß über die Genehmigung der Stiftung und Verleihung von Orden und Ehrenzeichen</title>
+                <title type="short">OrdenErl 2</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1959-06-15</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1317e20">
+                <head>Art 1</head>
+                <p>Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und Ehrenzeichen vom 26. Juli 1957 (Bundesgesetzbl. I S. 844) genehmige ich die Stiftung und Verleihung der folgenden Ehrenzeichen der Balley Brandenburg des Ritterlichen Ordens St. Johannis vom Spital zu Jerusalem, genannt der Johanniterorden:</p>
+                <list>
+                    <item n="1.">Herrenmeisterkreuz,</item>
+                    <item n="2.">Kreuz der Ehrenmitglieder,</item>
+                    <item n="3.">Kommendatorenkreuz,</item>
+                    <item n="4.">Rechtsritterkreuz,</item>
+                    <item n="5.">Ehrenritterkreuz.</item>
+                </list>
+            </div>
+            <div xml:id="d1317e41">
+                <head>Art 2</head>
+                <p>Ich genehmige die Stiftungsbestimmungen und die Verleihungsbedingungen der in Artikel 1 genannten Ehrenzeichen.</p>
+            </div>
+            <div xml:id="d1317e51">
+                <head>Art 3</head>
+                <p>Die Stiftungsbestimmungen und die Verleihungsbedingungen sowie die Abbildungen und die Beschreibungen der nach Artikel 1 genehmigten Ehrenzeichen werden vom Bundesminister des Innern im Bundesanzeiger veröffentlicht.</p>
+            </div>
+            <div xml:id="d1317e61">
+                <head>Art 4</head>
+                <p>Jede Änderung der Stiftungsbestimmungen und der Verleihungsbedingungen der nach Artikel 1 genehmigten Ehrenzeichen und jede Änderung ihrer Form und ihrer Benennung bedarf meiner Genehmigung.</p>
+            </div>
+            <div xml:id="d1317e71">
+                <head>Schlußformel</head>
+                <p>Der BundespräsidentDer Bundesminister des Innern</p>
+            </div>
+        </body>
+    </text>
+</TEI>

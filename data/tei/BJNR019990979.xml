@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR019990979">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung zu § 4 des Warenzeichengesetzes</title>
+                <title type="short">WZG§4EPO/EPABek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1979-11-22</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 5.12.1979 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d859e20">
+                <head>(XXXX)</head>
+                <p>(1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird bekanntgemacht, daß die Bezeichnungen, die Abkürzungen und das Kennzeichen der Europäischen Patentorganisation und des Europäischen Patentamts (Anlage) von der Eintragung als Warenzeichen ausgeschlossen sind.</p>
+                <p>(2) Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 29. Oktober 1979 (BGBl. I S. 1800).</p>
+            </div>
+            <div xml:id="d859e32">
+                <head>Schlussformel</head>
+                <p>Der Bundesminister der Justiz</p>
+            </div>
+            <div xml:id="d859e42">
+                <head>Anlage</head>Bezeichnungen<list>
+                    <item n="">Europäische Patentorganisation Europäisches Patentamt European Patent Organisation European Patent Office Organisationeuropeenne des brevets Officeeuropeen des brevets</item>
+                </list>Abkürzungen<list>
+                    <item n="">EPO EPA EPO EPO OEB OEB</item>
+                </list>Kennzeichen(Inhalt: Nicht darstellbare Kennzeichen und Bezeichnungen,Fundstelle: BGBl. I 1979, 1999)</div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR011480984">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Drucker-(Buchdrucker-)Handwerk</title>
+                <title type="short">DruckMstrV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1984-08-16</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.1.1985 +++)</p>
+        </front>
+        <body>
+            <div>
+                <head>1. Abschnitt</head>
+                <head type="subtitle">Berufsbild</head>
+                <div xml:id="d622e38">
+                    <head>§ 1</head>
+                    <p>(1) Dem Drucker-(Buchdrucker-)Handwerk sind folgende Tätigkeiten zuzurechnen:Herstellung von Druck-Erzeugnissen, insbesondere Anfertigung von Druckformen und Drucken sowie Weiterverarbeitung von Drucken, in handwerksüblichen Verfahren.</p>
+                    <p>(2) Dem Drucker-(Buchdrucker-)Handwerk sind folgende Kenntnisse und Fertigkeiten zuzurechnen:</p>
+                    <list>
+                        <item n="1.">Druckvorlagenherstellung:<list>
+                                <item n="a)">Kenntnisse über Reprovorlagen,</item>
+                                <item n="b)">Kenntnisse über Gestaltungsmöglichkeiten,</item>
+                                <item n="c)">Kenntnisse der Retusche,</item>
+                                <item n="d)">Kenntnisse über Stanzformzeichnungen,</item>
+                                <item n="e)">Kenntnisse der Sensitometrie,</item>
+                                <item n="f)">Kenntnisse der Farbenlehre,</item>
+                                <item n="g)">Kenntnisse über Reproduktionsmaterialien einschließlich ihrer Verarbeitung,</item>
+                                <item n="h)">Kenntnisse der Reproduktionstechniken,</item>
+                                <item n="i)">Kenntnisse der Geräte und Maschinen,</item>
+                                <item n="k)">Beurteilen der Reprovorlagen, der Retuschen und der Reprofilme sowie Bestimmen ihrer notwendigen Korrekturen,</item>
+                                <item n="l)">Festlegen der Herstellungsverfahren für einen Arbeitsauftrag,</item>
+                                <item n="m)">Einteilen und Disponieren von Arbeitsaufträgen entsprechend den vorhandenen Produktionsmitteln;</item>
+                            </list>
+                        </item>
+                        <item n="2.">Druckformherstellung:<list>
+                                <item n="a)">Kenntnisse der Druckformarten,</item>
+                                <item n="b)">Kenntnisse der Layouttechnik,</item>
+                                <item n="c)">Kenntnisse der Manuskriptvorbereitung,</item>
+                                <item n="d)">Kenntnisse der Satzarten,</item>
+                                <item n="e)">Kenntnisse der Setzverfahren,</item>
+                                <item n="f)">Kenntnisse der Korrekturzeichen,</item>
+                                <item n="g)">Kenntnisse der berufsbezogenen Maßsysteme und Berechnungen,</item>
+                                <item n="h)">Kenntnisse des Umbruchs und der Montage,</item>
+                                <item n="i)">Kenntnisse der Druckformkorrektur,</item>
+                                <item n="k)">Kenntnisse des Andrucks,</item>
+                                <item n="l)">Kenntnisse der Geräte, Maschinen, Chemikalien und Hilfsstoffe,</item>
+                                <item n="m)">Kenntnisse der Falz- und der Ausschieß-Schemen,</item>
+                                <item n="n)">Beurteilen der Druckform und Bestimmen ihrer notwendigen Korrekturen,</item>
+                                <item n="o)">Festlegen der Montagemethoden,</item>
+                                <item n="p)">Herstellen der Einteilungs- und Standbogen,</item>
+                                <item n="q)">Festlegen der Kopiermethoden,</item>
+                                <item n="r)">Korrigieren der Texte,</item>
+                                <item n="s)">Festlegen der Herstellungsverfahren für einen Arbeitsauftrag,</item>
+                                <item n="t)">Einteilen und Disponieren von Arbeitsaufträgen entsprechend den vorhandenen Produktionsmitteln;</item>
+                            </list>
+                        </item>
+                        <item n="3.">Druck und Druckverarbeitung:<list>
+                                <item n="a)">Kenntnisse der Druckverfahren,</item>
+                                <item n="b)">Kenntnisse der Druckmaschinensysteme,</item>
+                                <item n="c)">Kenntnisse der Vorbereitung und Einrichtung von Druckmaschinen,</item>
+                                <item n="d)">Kenntnisse des Fortdrucks,</item>
+                                <item n="e)">Kenntnisse über Prägen und Stanzen,</item>
+                                <item n="f)">Kenntnisse der Weiterverarbeitung, insbesondere des Schneidens, Falzens, Heftens und Klebens,</item>
+                                <item n="g)">Festlegen der Herstellungsverfahren für einen Arbeitsauftrag,</item>
+                                <item n="h)">Einteilen und Disponieren von Arbeitsaufträgen entsprechend den vorhandenen Produktionsmitteln,</item>
+                                <item n="i)">Vorbereiten und Einrichten von Druckmaschinen,</item>
+                                <item n="k)">Farbmischen,</item>
+                                <item n="l)">Drucken ein- und mehrfarbiger Produkte,</item>
+                                <item n="m)">Prägen und Stanzen auf der Druckmaschine,</item>
+                                <item n="n)">Kontrollieren der laufenden Produktion,</item>
+                                <item n="o)">Beurteilen der fertigen Druck-Erzeugnisse;</item>
+                            </list>
+                        </item>
+                        <item n="4.">Werk- und Hilfsstoffe:<list>
+                                <item n="a)">Kenntnisse der Bedruckstoffe, der Druckfarben, der Druckformen und -platten sowie der lichtempfindlichen Materialien, insbesondere ihrer Eigenschaften und Verwendung,</item>
+                                <item n="b)">Kenntnisse über Klebstoffe, insbesondere ihrer Eigenschaften und Verwendung,</item>
+                                <item n="c)">Kenntnisse über Schmierstoffe, insbesondere ihrer Eigenschaften und Verwendung,</item>
+                                <item n="d)">Kenntnisse der berufsbezogenen Meß- und Prüftechniken,</item>
+                                <item n="e)">Prüfen der Eigenschaften von Werk- und Hilfsstoffen,</item>
+                                <item n="f)">Anwenden der berufsbezogenen Werkstoffnormen;</item>
+                            </list>
+                        </item>
+                        <item n="5.">Betriebstechnik:<list>
+                                <item n="a)">Kenntnisse über die wichtigsten Geräte, Maschinen und Anlagen, insbesondere ihren Aufbau, ihre Wirkungsweise, ihren Betrieb, ihre Wartung und Instandhaltung,</item>
+                                <item n="b)">Kenntnisse über die Energieversorgung im Betrieb, insbesondere über energiesparende Maßnahmen,</item>
+                                <item n="c)">Kenntnisse über Elektronik,</item>
+                                <item n="d)">Kenntnisse über Steuer- und Regeltechnik,</item>
+                                <item n="e)">Kenntnisse über Klimatisierung,</item>
+                                <item n="f)">Überwachen technischer Betriebsmittel;</item>
+                            </list>
+                        </item>
+                        <item n="6.">Qualitätskontrolle:<list>
+                                <item n="a)">Kenntnisse über Qualitätssicherung und -kontrolle,</item>
+                                <item n="b)">Kenntnisse über Prüf- und Kontrollmethoden,</item>
+                                <item n="c)">Kenntnisse der Abnahme- und Lieferbedingungen,</item>
+                                <item n="d)">Anwenden von Prüfmethoden;</item>
+                            </list>
+                        </item>
+                        <item n="7.">Arbeitsschutz und Unfallverhütung:<list>
+                                <item n="a)">Kenntnisse der berufsbezogenen Vorschriften der Unfallverhütung, des Arbeitsschutzes, der Arbeitssicherheit und des Immissionsschutzes,</item>
+                                <item n="b)">Kenntnisse über Arbeitsmedizin und Arbeitshygiene,</item>
+                                <item n="c)">Kenntnisse über persönliche Schutzausrüstung,</item>
+                                <item n="d)">Kenntnisse über Arbeitsplatzgestaltung.</item>
+                            </list>
+                        </item>
+                    </list>
+                </div>
+            </div>
+            <div>
+                <head>2. Abschnitt</head>
+                <head type="subtitle">Prüfungsanforderungen in den Teilen I und II der Meisterprüfung</head>
+                <div xml:id="d622e224">
+                    <head>§ 2</head>
+                    <p>(1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.</p>
+                    <p>(2) Die Anfertigung der Meisterprüfungsarbeit soll nicht länger als fünf Arbeitstage, die Ausführung der Arbeitsprobe nicht länger als 16 Stunden dauern.</p>
+                    <p>(3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.</p>
+                </div>
+                <div xml:id="d622e240">
+                    <head>§ 3</head>
+                    <p>(1) Als Meisterprüfungsarbeit kommt insbesondere nachstehende Arbeit in Betracht:Anfertigen eines Druck-Erzeugnisses im Format DIN A2, bestehend aus vier Seiten DIN A4 Text und Bilder, davon zwei Seiten mehrfarbig und zwei Seiten einfarbig.</p>
+                    <p>(2) Mit der Meisterprüfungsarbeit sind abzuliefern:15 Fortdruckbogen von jeder Farbe, 15 Fortdruckbogen vom Zusammendruck, Andruckskala, Standbogen und, soweit erforderlich, Platten oder Montagen.</p>
+                </div>
+                <div xml:id="d622e260">
+                    <head>§ 4</head>
+                    <p>(1) Als Arbeitsprobe sind drei der nachstehenden Arbeiten, davon in jedem Fall die nach den Nummern 1 und 2, auszuführen:</p>
+                    <list>
+                        <item n="1.">Umstellen der Druckmaschine auf verschiedene Bedruckstoffe sowie Justieren der Druckwalzen und Anlagemarken,</item>
+                        <item n="2.">Nachmischen von mindestens drei Farbtönen,</item>
+                        <item n="3.">Einrichten einer einfarbigen Druckform, bestehend aus Text- und Bildteilen im Mindestformat DIN A2 mit einem Bildanteil von insgesamt etwa einer DIN A4-Seite.</item>
+                        <item n="4.">Einrichten einer mehrfarbigen Druckform, bestehend aus Text- und Bildteilen im Mindestformat DIN A3.</item>
+                    </list>
+                    <p>(2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.</p>
+                </div>
+                <div xml:id="d622e283">
+                    <head>§ 5</head>
+                    <p>(1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:</p>
+                    <list>
+                        <item n="1.">Technische Mathematik:<list>
+                                <item n="a)">Umrechnung von metrischen ins typografische Maßsystem und umgekehrt,</item>
+                                <item n="b)">Satzspiegelberechnung einschließlich Vergrößern und Verkleinern,</item>
+                                <item n="c)">Papierbedarfs-, Nutzen- und Manuskriptberechnung,</item>
+                                <item n="d)">Farbverbrauchsberechnung,</item>
+                                <item n="e)">Lohn- und Arbeitszeitberechnung;</item>
+                            </list>
+                        </item>
+                        <item n="2.">Fachtechnologie:<list>
+                                <item n="a)">Druckverfahren,</item>
+                                <item n="b)">Druckmaschinensysteme,</item>
+                                <item n="c)">Satzherstellung,</item>
+                                <item n="d)">Ausschießen,</item>
+                                <item n="e)">Herstellung von Originalen,</item>
+                                <item n="f)">Herstellung von Reproduktionen, Filmmontagen und Druckplatten,</item>
+                                <item n="g)">Physik und Chemie des Drucks,</item>
+                                <item n="h)">Besonderheiten der Herstellung von Formularsätzen,</item>
+                                <item n="i)">Weiterverarbeitung der Druck-Erzeugnisse,</item>
+                                <item n="k)">Farbenlehre,</item>
+                                <item n="l)">berufsbezogene DIN-Normen,</item>
+                                <item n="m)">Qualitätskontrolle,</item>
+                                <item n="n)">technische Hilfsmittel für die Qualitätskontrolle,</item>
+                                <item n="o)">Arbeitsschutz und Unfallverhütung;</item>
+                            </list>
+                        </item>
+                        <item n="3.">Werk- und Hilfsstoffkunde:<list>
+                                <item n="a)">Arten, Eigenschaften, Bezeichnung, Verwendung und Verarbeitung der Bedruckstoffe,</item>
+                                <item n="b)">Arten, Eigenschaften, Bezeichnung und Verwendung der Druckfarben und Druckhilfsmittel,</item>
+                                <item n="c)">Arten, Eigenschaften, Bezeichnung und Verwendung der Reprofilme und Druckplatten,</item>
+                                <item n="d)">Papierherstellung,</item>
+                                <item n="e)">Druckfarbenherstellung;</item>
+                            </list>
+                        </item>
+                        <item n="4.">Diktat:<list>
+                                <item n="a)">Schreiben eines Diktats,</item>
+                                <item n="b)">Korrekturlesen einschließlich Angabe der Korrekturzeichen nach DIN 16511;</item>
+                            </list>
+                        </item>
+                        <item n="5.">Kalkulation: Kostenermittlung mit allen für die Preisbildung wesentlichen Faktoren einschließlich der Berechnung für die Angebots- und die Nachkalkulation.</item>
+                    </list>
+                    <p>(2) Die Prüfung ist schriftlich und mündlich durchzuführen.</p>
+                    <p>(3) Die schriftliche Prüfung soll insgesamt nicht länger als 18 Stunden, die mündliche je Prüfling nicht länger als eine halbe Stunde dauern. In der schriftlichen Prüfung soll an einem Tag nicht länger als sechs Stunden geprüft werden.</p>
+                    <p>(4) Der Prüfling ist von der mündlichen Prüfung auf Antrag zu befreien, wenn er im Durchschnitt mindestens gute schriftliche Leistungen erbracht hat.</p>
+                    <p>(5) Mindestvoraussetzung für das Bestehen des Teils II sind jeweils ausreichende Leistungen in den Prüfungsfächern nach Absatz 1 Nr. 1, 2, 3 und 5.</p>
+                </div>
+            </div>
+            <div>
+                <head>3. Abschnitt</head>
+                <head type="subtitle">Übergangs- und Schlußvorschriften</head>
+                <div xml:id="d622e385">
+                    <head>§ 6</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d622e396">
+                    <head>§ 7</head>
+                    <p>Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.</p>
+                </div>
+                <div xml:id="d622e408">
+                    <head>§ 8</head>
+                    <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.</p>
+                </div>
+                <div xml:id="d622e420">
+                    <head>§ 9</head>
+                    <p>(1) Diese Verordnung tritt am 1. Januar 1985 in Kraft.</p>
+                    <p>(2) Die auf Grund des § 122 der Handwerksordnung weiter anzuwendenden Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.</p>
+                </div>
+                <div xml:id="d622e435">
+                    <head>Schlußformel</head>
+                    <p>Der Bundesminister für Wirtschaft</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

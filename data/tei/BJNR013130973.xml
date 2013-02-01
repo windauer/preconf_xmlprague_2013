@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR013130973">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zweite Wassersicherstellungsverordnung</title>
+                <title type="short">WasSV 2</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1973-09-11</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.4.1978 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d748e27">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 3 Nr. 3 des Wassersicherstellungsgesetzes vom 24. August 1965 (Bundesgesetzblatt I S. 1225), geändert durch das Einführungsgesetz zum Gesetz über Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I S. 503), verordnet die Bundesregierung mit Zustimmung des Bundesrates:</p>
+            </div>
+            <div xml:id="d748e37">
+                <head>§ 1</head>
+                <p>Die Bestimmungen dieser Verordnung gelten für Brunnen und Quellfassungen, die als selbständig zu betreibende Einzelanlagen zur</p>
+                <list>
+                    <item n="1.">Deckung des lebensnotwendigen Bedarfs an Trinkwasser,</item>
+                    <item n="2.">Versorgung mit Betriebswasser im unentbehrlichen Umfang,</item>
+                    <item n="3.">Deckung des Bedarfs an Löschwasser</item>
+                </list>
+                <p>nach dem Wassersicherstellungsgesetz gebaut oder umgebaut werden. Sie gelten nicht für Brunnen und Quellfassungen der zentralen Wasserversorgung.</p>
+            </div>
+            <div xml:id="d748e57">
+                <head>§ 2</head>
+                <p>Brunnen und Quellfassungen sind nach den allgemein anerkannten Regeln der Technik zu bauen oder umzubauen, soweit diese Verordnung nichts anderes bestimmt.</p>
+            </div>
+            <div xml:id="d748e69">
+                <head>§ 3</head>
+                <p>(1) Bauweise und Baustoffe von Brunnen müssen so beschaffen sein, daß sie elektrolytischen und chemischen Einwirkungen für eine möglichst lange Zeit widerstehen. Die Bauweise der Brunnen muß den hydrogeologischen Verhältnissen entsprechen.</p>
+                <p>(2) Brunnenschacht und Brunnenkopf müssen so hergestellt werden, daß das Wasser für seine vorgesehene Verwendung nicht durch Einwirkung von außen, insbesondere durch radioaktive Niederschläge oder biologische oder chemische Kampfmittel, beeinträchtigt werden kann.</p>
+                <p>(3) Art und Ausbildung der Förderanlage werden bestimmt durch die hydrogeologischen Verhältnisse und die Wasserbereitstellung. Bei ausreichendem Grundwasserstand und einer Wasserbereitstellung bis3 cbm/h sind weitgehend Handpumpen einzusetzen. In allen anderen Fällen soll die Förderanlage aus Pumpe und Motor bestehen; Abweichungen dürfen in begründeten Fällen vorgesehen werden. Entsprechend der Konstruktion kann ein Hydrant mit Schlüssel und Standrohr zur Förderanlage gehören. Für Pumpen mit Elektromotor ist außer dem Netzanschluß der Anschluß für ein Notstromaggregat oder eine gleichwertige Einrichtung vorzusehen.</p>
+                <p>(4) Die unmittelbare Umgebung von Brunnen ist so zu befestigen, daß sie jederzeit befahrbar ist und das anfallende Niederschlagswasser oberirdisch abfließen kann. Werden Pumpen mit Verbrennungsmotoren eingesetzt, muß der Standplatz so gewählt oder hergerichtet werden, daß Mineralöl weder versickern noch in das abzugebende Wasser gelangen kann.</p>
+            </div>
+            <div xml:id="d748e89">
+                <head>§ 4</head>
+                <p>(1) Neu zu bauende Brunnen, die zur Versorgung mit Trinkwasser bestimmt sind, müssen in der Regel als Bohrbrunnen gebaut werden. Sie müssen aus folgenden Teilen bestehen:</p>
+                <list>
+                    <item n="">Sumpfrohr mit Boden, Filterrohr, Aufsatzrohr, Brunnenkopf, Förderleitung und Brunnenschacht mit tagwasserdichter Schachtabdeckung.</item>
+                </list>
+                <p>Abweichungen dürfen nur in begründeten Ausnahmefällen vorgesehen werden. Es sind Förderanlagen nach § 3 Abs. 3 vorzusehen.</p>
+                <p>(2) Umzubauende Brunnen, die zur Versorgung mit Trinkwasser bestimmt sind, müssen mindestens eine tagwasserdichte Abdeckung sowie eine Förderanlage nach § 3 Abs. 3 haben.</p>
+            </div>
+            <div xml:id="d748e107">
+                <head>§ 5</head>Die Bauteile eines Brunnens müssen folgenden Anforderungen genügen:<list>
+                    <item n="1.">Brunnenschacht<list>
+                            <item n="a)">Es ist ein kreisförmiger Querschnitt mit möglichst kleinem Durchmesser zu wählen.</item>
+                            <item n="b)">Nacheinander sind folgende Lastfälle anzusetzen:<list>
+                                    <item n="aa)">eine gleichmäßig verteilte senkrechte Gebrauchslast in Geländehöhe von200 kN/qm,</item>
+                                    <item n="bb)">ein gleichmäßig verteilter Außendruck (Kreisringdruck) von150 kN/qm.</item>
+                                </list>
+                            </item>
+                            <item n="c)">Der Kreisringquerschnitt muß unter einem horizontal in einer Richtung wirkenden Bodendruck"p" (kN/qm) entweder<list>
+                                    <item n="aa)">eine Verformung von 1% seines Durchmessers ohne Überschreitung der zulässigen Spannungen aufnehmen oder</item>
+                                    <item n="bb)">für ein Biegemoment</item>
+                                </list>
+                            </item>
+                        </list>
+                    </item>
+                </list>a(tief)a(hoch)2M = p(tief)o --------------- (kN x m)2<list>
+                    <item n="">
+                        <list>
+                            <item n="">
+                                <list>
+                                    <item n="">bemessen werden oder</item>
+                                    <item n="cc)">eine Scheiteldrucklast von</item>
+                                </list>
+                            </item>
+                        </list>
+                    </item>
+                </list>a(tief)a(hoch)2 x PiP = 1,7 x p(tief)o x --------------------- (kN/m)2 x a(tief)i<list>
+                    <item n="">
+                        <list>
+                            <item n="">
+                                <list>
+                                    <item n="">aufnehmen.</item>
+                                </list>Hierbei bedeuten:P(tief)o = 50 (kN/qm)a(tief)a = Außenradius (m)a(tief)i = Innenradius (m).</item>
+                        </list>
+                    </item>
+                    <item n="2.">Brunnenrohre und Brunnenkopf Die als Brunnenelemente verwendeten Rohre sind nacheinander für folgende Lastfälle zu bemessen:<list>
+                            <item n="a)">einen gleichmäßig verteilten Außendruck (Kreisringdruck) von200 kN/qm</item>
+                            <item n="b)">unter einem horizontal in einer Richtung wirkenden Bodendruck"p" (kN/qm) muß eine Verformung von 1% des Durchmessers ohne Überschreitung der zulässigen Spannungen aufgenommen werden können.</item>
+                        </list>
+                    </item>
+                </list>
+            </div>
+            <div xml:id="d748e197">
+                <head>§ 6</head>
+                <p>(1) Quellfassungen dürfen nur dann gebaut oder umgebaut werden, wenn eine ausreichende Quellschüttung gewährleistet ist.</p>
+                <p>(2) Bauweise und Baustoffe von Quellfassungen müssen sich nach Art der Quelle und nach den örtlichen Verhältnissen richten. Die Quellfassungen müssen so beschaffen sein, daß sie elektrolytischen und chemischen Einwirkungen für eine möglichst lange Zeit widerstehen.</p>
+                <p>(3) Quellfassungen müssen die Bauteile enthalten, die zur Wasserfassung und Wasserabgabe erforderlich sind. Die Quellfassungen und der Sammelschacht sind entsprechend der vorgesehenen Verwendung des Wassers gegen unter- und oberirdische Verunreinigung abzudichten. Über der Sickerleitung soll eine Deckschicht von mindestens 3 m liegen. Überschüssiges Quellwasser muß ungehindert und ohne Schaden für die Umgebung abfließen können.</p>
+                <p>(4) Eine Pumpanlage ist nur vorzuhalten, wenn sie zur Wasserförderung für einen notwendigen Druck des Wassers an der Verteilerstelle erforderlich ist. Die Art der Pumpanlage richtet sich nach der Quellschüttung und nach dem Fördervermögen der Zuleitung bis zur Verteilerstelle. Bei Quellen mit einer Schüttung bis zu3 cbm/h sind weitgehend Handpumpen, in allen anderen Fällen Motorpumpen zu verwenden. Für Pumpen mit Elektromotor ist außer dem Netzanschluß der Anschluß für ein Notstromaggregat vorzusehen.</p>
+                <p>(5) Die unmittelbare Umgebung der Wasserentnahmestelle ist so zu befestigen, daß sie begehbar ist. Bei Pumpen mit Verbrennungsmotor muß der Standplatz so hergerichtet werden, daß Mineralöl weder versickern noch in das abzugebende Wasser gelangen kann.</p>
+            </div>
+            <div xml:id="d748e219">
+                <head>§ 7</head>
+                <p>Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

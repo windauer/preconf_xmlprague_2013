@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002520968">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung des Bundespräsidenten über die Übertragung der Befugnis zur Festsetzung von Amtsbezeichnungen</title>
+                <title type="short">BPräsAmtsbezÜbAnO</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1968-03-29</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 10. 4.1968 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1271e20">
+                <head>(XXXX)</head>
+                <p>Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes übertrage ich die Befugnis zur Festsetzung der Amtsbezeichnung für den Leiter der Verwaltung des Deutschen Bundestages auf den Präsidenten des Deutschen Bundestages und für den Leiter der Verwaltung des Bundesrates auf den Präsidenten des Bundesrates.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR003010952">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über die Aufnahme eines Kredits durch den Bund im Rahmen der von den Vereinigten Staaten gewährten Wirtschaftshilfe</title>
+                <title type="short">KredAufnG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1952-05-23</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1323e20">
+                <head>§ 1</head>
+                <p>Der Bundesminister der Finanzen wird ermächtigt, einen Betrag bis zur Höhe von sechzehn Millionen neunhunderttausend US-Dollar im Wege des Kredits zu beschaffen.</p>
+            </div>
+            <div xml:id="d1323e30">
+                <head>§ 2</head>
+                <p>Dieses Gesetz tritt mit dem Tage seiner Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

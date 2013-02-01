@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002000006">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln nach den Grundsätzen der guten fachlichen Praxis beim Düngen</title>
+                <title type="short">DüV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>2006-01-10</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Die Verordnung dient auch der Umsetzung der Richtlinie 91/676/EWG des Rates vom 12. Dezember 1991 zum Schutz der Gewässer vor Verunreinigungen durch Nitrat aus landwirtschaftlichen Quellen (ABl. EG Nr. L 375 S. 1).</p>
+            <p>(+++ Textnachweis ab: 14.1.2006 +++)(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:Umsetzung derEWGRL 676/91 (CELEX Nr: 31991L0676) +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1201e44">
+                <head>§ 1</head>
+                <p>Die Verordnung regelt</p>
+                <list>
+                    <item n="1.">die gute fachliche Praxis bei der Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln auf landwirtschaftlich genutzten Flächen,</item>
+                    <item n="2.">das Vermindern von stofflichen Risiken durch die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln auf landwirtschaftlich genutzten Flächen und auf anderen Flächen, soweit diese Verordnung dies ausdrücklich bestimmt.</item>
+                </list>
+            </div>
+            <div xml:id="d1201e62">
+                <head>§ 2</head>
+                <p>Im Sinne dieser Verordnung sind:</p>
+                <list>
+                    <item n="1.">landwirtschaftlich genutzte Fläche: pflanzenbaulich genutztes Ackerland, gartenbaulich genutzte Flächen, Grünland, Obstflächen, weinbaulich genutzte Flächen, Hopfenflächen, Baumschulflächen; zur landwirtschaftlich genutzten Fläche gehören auch befristet aus der landwirtschaftlichen Erzeugung genommene Flächen, soweit diesen Flächen Düngemittel, Bodenhilfsstoffe, Kultursubstrate oder Pflanzenhilfsmittel zugeführt werden; zur landwirtschaftlich genutzten Fläche gehören nicht in geschlossenen oder bodenunabhängigen Kulturverfahren genutzte Flächen;</item>
+                    <item n="2.">Schlag: eine einheitlich bewirtschaftete, räumlich zusammenhängende und mit der gleichen Pflanzenart oder mit Pflanzenarten mit vergleichbaren Nährstoffansprüchen bewachsene oder zur Bestellung vorgesehene Fläche;</item>
+                    <item n="3.">Bewirtschaftungseinheit: mehrere Schläge, die vergleichbare Standortverhältnisse aufweisen, einheitlich bewirtschaftet werden und mit der gleichen Pflanzenart oder mit Pflanzenarten mit vergleichbaren Nährstoffansprüchen bewachsen oder zur Bestellung vorgesehen sind;</item>
+                    <item n="4.">Düngejahr: Zeitraum von zwölf Monaten, auf den sich die Bewirtschaftung des überwiegenden Teiles der landwirtschaftlich genutzten Fläche, insbesondere die dazugehörige Düngung, bezieht;</item>
+                    <item n="5.">Düngung: Zufuhr von Pflanzennährstoffen über Düngemittel, Bodenhilfsstoffe, Kultursubstrate oder Pflanzenhilfsmittel zur Erzeugung von Nutzpflanzen sowie zur Erhaltung der Fruchtbarkeit der Böden;</item>
+                    <item n="6.">Nährstoffzufuhr: Summe der über Düngung und dem Nährstoffeintrag außerhalb einer Düngung zugeführten Nährstoffmengen;</item>
+                    <item n="7.">Nährstoffbedarf: Nährstoffmenge, die zur Erzielung eines bestimmten Ertrages oder einer bestimmten Qualität notwendig ist;</item>
+                    <item n="8.">Düngebedarf: Nährstoffmenge, die den Nährstoffbedarf einer Kultur nach Abzug sonstiger verfügbarer Nährstoffmengen und unter Berücksichtigung der Nährstoffversorgung des Bodens abdeckt;</item>
+                    <item n="9.">wesentliche Nährstoffmenge: eine zugeführte Nährstoffmenge je Hektar und Jahr von mehr als 50 Kilogramm Stickstoff (Gesamt-N) oder 30 Kilogramm Phosphat(P(tief)2O(tief)5);</item>
+                    <item n="10.">wesentlicher Nährstoffgehalt: Nährstoffgehalt in der Trockenmasse von mehr als 1,5 vom Hundert Stickstoff (Gesamt-N) oder 0,5 vom Hundert Phosphat(P(tief)2O(tief)5);</item>
+                    <item n="11.">wesentlicher Gehalt an verfügbarem Stickstoff: der in einer Calciumchloridlösung lösliche Anteil von über 10 vom Hundert bei einem Gesamtstickstoffgehalt in der Trockenmasse von mehr als 1,5 vom Hundert;</item>
+                    <item n="12.">gefrorener Boden: Boden, der durchgängig gefroren ist und im Verlauf des Tages nicht oberflächig auftaut.</item>
+                </list>
+            </div>
+            <div xml:id="d1201e105">
+                <head>§ 3</head>
+                <p>(1) Vor der Aufbringung von wesentlichen Nährstoffmengen an Stickstoff oder Phosphat mit Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln ist der Düngebedarf der Kultur sachgerecht festzustellen. Erfordernisse für die Erhaltung der standortbezogenen Bodenfruchtbarkeit sind zusätzlich zu berücksichtigen. Die Düngebedarfsermittlung muss so erfolgen, dass ein Gleichgewicht zwischen dem voraussichtlichen Nährstoffbedarf und der Nährstoffversorgung gewährleistet ist.</p>
+                <p>(2) Die Ermittlung des Düngebedarfs erfolgt für jeden Schlag oder jede Bewirtschaftungseinheit unter Berücksichtigung folgender Einflussfaktoren:</p>
+                <list>
+                    <item n="1.">des Nährstoffbedarfs des Pflanzenbestandes für die unter den jeweiligen Standort- und Anbaubedingungen zu erwartenden Erträge und Qualitäten; dabei sind für Stickstoff die Werte nach Anlage 1 heranzuziehen,</item>
+                    <item n="2.">der im Boden verfügbaren und voraussichtlich während des Wachstums des jeweiligen Pflanzenbestandes als Ergebnis der Standortbedingungen, besonders des Klimas, der Bodenart und des Bodentyps, zusätzlich pflanzenverfügbar werdenden Nährstoffmengen, sowie der Nährstofffestlegung; dabei sind<list>
+                            <item n="a)">für die Nachlieferung von Stickstoff aus der Vorkultur während des Wachstums die Werte nach Anlage 2 und</item>
+                            <item n="b)">für die Ausnutzung des Stickstoffs aus organischen Düngemitteln die Werte nach Anlage 3</item>
+                        </list>heranzuziehen,</item>
+                    <item n="3.">des Kalkgehalts oder der Bodenreaktion (pH-Wert) und des Humusgehalts des Bodens,</item>
+                    <item n="4.">der durch Bewirtschaftung - ausgenommen Düngung - einschließlich Bewässerung zugeführten und während des Wachstums des Pflanzenbestandes nutzbaren Nährstoffmengen,</item>
+                    <item n="5.">der Anbaubedingungen, welche die Nährstoffverfügbarkeit beeinflussen, besonders Kulturart, Vorfrucht, Bodenbearbeitung und Bewässerung.</item>
+                </list>
+                <p>Zusätzlich sollen Ergebnisse regionaler Feldversuche herangezogen werden.</p>
+                <p>(3) Vor der Aufbringung wesentlicher Nährstoffmengen sind die im Boden verfügbaren Nährstoffmengen vom Betrieb zu ermitteln</p>
+                <list>
+                    <item n="1.">für Stickstoff auf jedem Schlag oder jeder Bewirtschaftungseinheit - außer auf Dauergrünlandflächen - für den Zeitpunkt der Düngung, mindestens aber jährlich,<list>
+                            <item n="a)">durch Untersuchung repräsentativer Proben oder</item>
+                            <item n="b)">nach Empfehlung der nach Landesrecht für die landwirtschaftliche Beratung zuständigen Stelle oder einer von dieser empfohlenen Beratungseinrichtung<list>
+                                    <item n="aa)">durch Übernahme der Ergebnisse der Untersuchungen vergleichbarer Standorte oder</item>
+                                    <item n="bb)">durch Anwendung von Berechnungs- und Schätzverfahren, die auf fachspezifischen Erkenntnissen beruhen.</item>
+                                </list>
+                            </item>
+                        </list>Die Probennahmen und Untersuchungen sind nach Vorgaben der nach Landesrecht zuständigen Stelle durchzuführen.</item>
+                    <item n="2.">für Phosphat auf Grundlage der Untersuchung repräsentativer Bodenproben, die für jeden Schlag ab ein Hektar, in der Regel im Rahmen einer Fruchtfolge, mindestens alle sechs Jahre durchzuführen sind. Ausgenommen sind Flächen nach § 5 Abs. 4 Nr. 2.</item>
+                </list>
+                <p>Die Bodenuntersuchungen sind von einem durch die zuständige Stelle nach anderen Vorschriften zugelassenen Labor durchzuführen.</p>
+                <p>(4) Aufbringungszeitpunkt und -menge sind bei Düngemitteln, Bodenhilfsstoffen, Kultursubstraten oder Pflanzenhilfsmitteln so zu wählen, dass verfügbare oder verfügbar werdende Nährstoffe den Pflanzen weitestmöglich zeitgerecht in einer dem Nährstoffbedarf der Pflanzen entsprechenden Menge zur Verfügung stehen.</p>
+                <p>(5) Das Aufbringen von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln mit wesentlichen Nährstoffgehalten an Stickstoff oder Phosphat darf nicht erfolgen, wenn der Boden überschwemmt, wassergesättigt, gefroren oder durchgängig höher als fünf Zentimeter mit Schnee bedeckt ist. Abweichend von Satz 1 dürfen Kalkdünger nach Anlage 1 Abschnitt 1 der Düngemittelverordnung mit einem Gehalt von weniger als 2 vom Hundert Phosphat(P(tief)2O(tief)5) auf gefrorenen Boden aufgebracht werden.</p>
+                <p>(6) Beim Aufbringen von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsstoffen mit wesentlichen Nährstoffgehalten an Stickstoff oder Phosphat ist</p>
+                <list>
+                    <item n="1.">ein direkter Eintrag von Nährstoffen in oberirdische Gewässer durch Einhaltung eines Abstandes von mindestens drei Metern zwischen dem Rand der durch die Streubreite bestimmten Ausbringungsfläche und der Böschungsoberkante des jeweiligen oberirdischen Gewässers zu vermeiden,</item>
+                    <item n="2.">dafür zu sorgen, dass kein Abschwemmen in oberirdische Gewässer erfolgt.</item>
+                </list>
+                <p>Abweichend von Satz 1 Nr. 1 beträgt der Abstand mindestens einen Meter, soweit für das Ausbringen der Stoffe nach Satz 1 Geräte, bei denen die Streubreite der Arbeitsbreite entspricht oder die über eine Grenzstreueinrichtung verfügen, verwendet werden.</p>
+                <p>(7) Auf Ackerflächen, die innerhalb eines Abstandes von 20 Metern zur Böschungsoberkante eines Gewässers nach Absatz 6 eine Hangneigung von durchschnittlich mehr als 10 vom Hundert zu diesem Gewässer aufweisen (stark geneigte Flächen), dürfen innerhalb dieses Bereichs Düngemittel mit wesentlichen Nährstoffgehalten an Stickstoff oder Phosphat innerhalb eines Abstandes von drei Metern zur Böschungsoberkante nicht und im Übrigen nur wie folgt aufgebracht werden:</p>
+                <list>
+                    <item n="1.">innerhalb des Bereichs zwischen drei und zehn Metern Entfernung zur Böschungsoberkante nur, wenn die Düngemittel direkt in den Boden eingebracht werden,</item>
+                    <item n="2.">auf dem verbleibenden Teil der Fläche<list>
+                            <item n="a)">bei unbestellten Ackerflächen nur bei sofortiger Einarbeitung,</item>
+                            <item n="b)">auf bestellten Ackerflächen<list>
+                                    <item n="aa)">mit Reihenkultur (Reihenabstand von 45 Zentimetern und mehr) nur bei entwickelter Untersaat oder bei sofortiger Einarbeitung,</item>
+                                    <item n="bb)">ohne Reihenkultur nur bei hinreichender Bestandsentwicklung oder</item>
+                                    <item n="cc)">nach Anwendung von Mulch- oder Direktsaatverfahren.</item>
+                                </list>
+                            </item>
+                        </list>
+                    </item>
+                </list>
+                <p>Satz 1 Nr. 1 gilt nicht für die Aufbringung von Festmist, ausgenommen Geflügelkot. Die Vorgaben des Satzes 1 Nr. 2 gelten für die Aufbringung von Festmist für den gesamten Bereich zwischen drei und 20 Metern Entfernung zur Böschungsoberkante. Absatz 6 bleibt unberührt.</p>
+                <p>(8) Die Absätze 6 und 7 gelten nicht für Gewässer, soweit diese nach § 2 Absatz 2 des Wasserhaushaltsgesetzes von dessen Anwendung ausgenommen sind.</p>
+                <p>(9) Wasserrechtliche Abstands- und Bewirtschaftungsregelungen, die über die Regelungen der Absätze 6 und 7 hinausgehen, bleiben unberührt.</p>
+                <p>(10) Geräte zum Ausbringen von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten oder Pflanzenhilfsmitteln müssen den allgemein anerkannten Regeln der Technik entsprechen. Das Aufbringen von Stoffen nach Satz 1 mit Geräten nach Anlage 4 ist ab dem 1. Januar 2010 verboten. Geräte, die bis zum 14. Januar 2006 in Betrieb genommen wurden, dürfen abweichend von Satz 2 noch bis zum 31. Dezember 2015 für das Aufbringen benutzt werden.</p>
+            </div>
+            <div xml:id="d1201e197">
+                <head>§ 4</head>
+                <p>(1) Das Aufbringen von organischen Düngemitteln oder organisch-mineralischen Düngemitteln nach Anlage 1 Abschnitt 3 der Düngemittelverordnung, Bodenhilfsstoffen, Kultursubstraten oder Pflanzenhilfsmitteln mit jeweils überwiegend organischen Bestandteilen einschließlich Wirtschaftsdünger darf nur erfolgen, wenn vor dem Aufbringen ihre Gehalte an Gesamtstickstoff und Phosphat, im Falle von Gülle, Jauche, sonstigen flüssigen organischen Düngemitteln oder Geflügelkot zusätzlich der Ammoniumstickstoff</p>
+                <list>
+                    <item n="1.">auf Grund vorgeschriebener Kennzeichnung dem Betrieb bekannt,</item>
+                    <item n="2.">auf der Grundlage von Daten der nach Landesrecht zuständigen Stelle von dem Betrieb ermittelt worden oder</item>
+                    <item n="3.">auf der Grundlage wissenschaftlich anerkannter Messmethoden vom Betrieb oder in dessen Auftrag festgestellt worden sind.</item>
+                </list>
+                <p>(2) Wer Gülle, Jauche, sonstige flüssige organische oder organisch-mineralische Düngemittel mit wesentlichen Gehalten an verfügbarem Stickstoff oder Geflügelkot auf unbestelltes Ackerland aufbringt, hat diese unverzüglich einzuarbeiten.</p>
+                <p>(3) Aus Wirtschaftsdüngern tierischer Herkunft, auch in Mischungen, dürfen unbeschadet der Vorgaben nach § 3 Nährstoffe nur so ausgebracht werden, dass die aufgebrachte Menge an Gesamtstickstoff im Durchschnitt der landwirtschaftlich genutzten Flächen des Betriebes 170 Kilogramm Gesamtstickstoff je Hektar und Jahr nicht überschreitet. Für die Ermittlung der mit Wirtschaftsdüngern tierischer Herkunft aufgebrachten Stickstoffmenge einschließlich des Weideganges sind mindestens die Werte nach Anlage 5 und Anlage 6 Zeilen 6 bis 9 Spalte 2 oder 3 anzusetzen. Andere Werte dürfen verwendet werden bei der Haltung von Tierarten, die mit Anlage 6 nicht erfasst werden oder wenn der Betrieb gegenüber der nach Landesrecht zuständigen Stelle nachweist, dass die aufgebrachte Stickstoffmenge - insbesondere durch besondere Haltungs- oder Fütterungsverfahren - abweicht. Flächen, die für eine Aufbringung nach Absatz 4 herangezogen werden, sind vor der Berechnung des Flächendurchschnitts von der zu berücksichtigenden Fläche abzuziehen.</p>
+                <p>(4) Auf Grünland und auf Feldgras dürfen Wirtschaftsdünger tierischer Herkunft so aufgebracht werden, dass die mit ihnen aufgebrachte Menge an Gesamtstickstoff im Durchschnitt dieser Flächen 230 Kilogramm Gesamtstickstoff je Hektar und Jahr nicht überschreitet, soweit</p>
+                <list>
+                    <item n="1.">bei Grünlandnutzung dieses Grünland jährlich mit mindestens vier Schnitten oder drei Schnitten und Weidehaltung intensiv genutzt wird,</item>
+                    <item n="2.">ausschließlich Schleppschlauch, Schleppschuh, Schlitzscheibe oder andere den Stickstoffverlust vermindernde Verfahren eingesetzt werden,</item>
+                    <item n="3.">der betriebliche Nährstoffüberschuss bei Stickstoff im Vorjahr die Werte nach § 6 Abs. 2 nicht überschritten hat,</item>
+                    <item n="4.">durch die erhöhte Düngung der betriebliche Nährstoffüberschuss für Phosphat(P(tief)2O(tief)5) den in § 6 Abs. 2 Nr. 2 genannten Wert nicht überschreitet,</item>
+                    <item n="5.">der nach Landesrecht zuständigen Stelle für diese Flächen die Düngebedarfsermittlung nach § 3 Abs. 1 und 2 und für die drei Jahre vor Antragstellung die Nährstoffvergleiche nach § 5 Abs. 1 vorliegen und die nach Landesrecht zuständige Stelle das Aufbringen in der vorgesehenen Höhe genehmigt; die nach Landesrecht zuständige Stelle hat bei ihrer Entscheidung die Bewirtschaftungsziele im Sinne der §§ 27 bis 31, 44 und 47 des Wasserhaushaltsgesetzes einzubeziehen,</item>
+                    <item n="6.">die tatsächlichen Voraussetzungen nach Nummer 1 sich im genehmigten Zeitraum nicht ändern.</item>
+                </list>
+                <p>Die Genehmigung nach Satz 1 Nr. 5 ist nach jeweils einem Jahr erneut zu beantragen. Für die Ermittlung der mit Wirtschaftsdüngern tierischer Herkunft aufgebrachten Stickstoffmenge einschließlich des Weideganges sind mindestens die Werte nach Anlage 5 und Anlage 6 Zeilen 6 bis 9 Spalte 2 oder 3 anzusetzen. Andere Werte dürfen verwendet werden bei der Haltung von Tierarten, die mit Anlage 6 nicht erfasst werden oder wenn der Landwirt gegenüber der zuständigen Behörde nachweist, dass die ausgebrachte Stickstoffmenge - insbesondere durch besondere Fütterungsverfahren - abweicht. In den Jahren 2006 bis 2008 kann die nach Landesrecht zuständige Stelle an Stelle der Nachweise nach Satz 1 Nr. 5 andere betriebliche Nachweise der Entscheidung zugrunde legen.</p>
+                <p>(5) Düngemittel mit wesentlichem Gehalt an verfügbarem Stickstoff, ausgenommen Festmist ohne Geflügelkot, dürfen zu den nachfolgend genannten Zeiten nicht aufgebracht werden:</p>
+                <list>
+                    <item n="1.">auf Ackerland vom 1. November bis 31. Januar,</item>
+                    <item n="2.">auf Grünland vom 15. November bis 31. Januar.</item>
+                </list>
+                <p>Die nach Landesrecht zuständige Stelle kann für die zeitliche Begrenzung nach Satz 1 andere Zeiten genehmigen, soweit die Dauer des Zeitraumes ohne Unterbrechung bei Ackerland zwölf Wochen und bei Grünland zehn Wochen nicht unterschreitet. Für die Genehmigung sind regionaltypische Gegebenheiten, insbesondere Witterung oder Beginn und Ende des Pflanzenwachstums, sowie Ziele des Boden- und des Gewässerschutzes heranzuziehen. Die zuständige Stelle kann dazu weitere Auflagen zur Ausbringung treffen und die Dauer der Genehmigung zeitlich begrenzen.</p>
+                <p>(6) Auf Ackerland dürfen nach der Ernte der letzten Hauptfrucht vor dem Winter Gülle, Jauche und sonstige flüssige organische sowie organisch-mineralische Düngemittel mit wesentlichen Gehalten an verfügbarem Stickstoff oder Geflügelkot nur</p>
+                <list>
+                    <item n="1.">zu im gleichen Jahr angebauten Folgekulturen einschließlich Zwischenfrüchten bis in Höhe des aktuellen Düngebedarfes an Stickstoff der Kultur oder</item>
+                    <item n="2.">als Ausgleichsdüngung zu auf dem Feld verbliebenem Getreidestroh,</item>
+                </list>
+                <p>jedoch insgesamt nicht mehr als 40 Kilogramm Ammoniumstickstoff oder 80 Kilogramm Gesamtstickstoff je Hektar aufgebracht werden.</p>
+            </div>
+            <div xml:id="d1201e255">
+                <head>§ 5</head>
+                <p>(1) Der Betriebsinhaber hat jährlich spätestens bis zum 31. März gemäß Anlage 7 einen betrieblichen Nährstoffvergleich für Stickstoff und für Phosphat für das abgelaufene Düngejahr als</p>
+                <list>
+                    <item n="1.">Flächenbilanz oder</item>
+                    <item n="2.">aggregierte Schlagbilanz auf der Grundlage von Nährstoffvergleichen für jeden Schlag oder jede Bewirtschaftungseinheit</item>
+                </list>
+                <p>zu erstellen und zu einem jährlich fortgeschriebenen mehrjährigen Nährstoffvergleich nach Anlage 8 zusammenzufassen.</p>
+                <p>(2) Bei Verwendung von Wirtschaftsdüngern tierischer Herkunft hat der Betriebsinhaber zur Feststellung des zugeführten Stickstoffs mindestens die Werte nach Anlage 6 Spalten 4 und 5 Zeilen 6 bis 9, für den anteiligen Weidegang den Wert nach Anlage 6 Zeile 10, zugrunde zu legen. Der Betriebsinhaber darf entsprechend der von ihm eingesetzten Ausbringungstechnik höchstens die sich daraus ergebenden Verluste berücksichtigen.</p>
+                <p>(3) Um Besonderheiten bei bestimmten Betriebstypen, bei der Anwendung bestimmter Düngemittel, beim Anbau bestimmter Kulturen, der Erzeugung bestimmter Qualitäten, der Haltung bestimmter Tierarten oder der Nutzung bestimmter Haltungsformen oder nicht zu vertretender Ernteausfälle Rechnung zu tragen, darf der Betriebsinhaber weitere unvermeidliche Überschüsse oder erforderliche Zuschläge nach Vorgabe oder in Abstimmung mit der nach Landesrecht zuständigen Stelle berücksichtigen (Anlage 6 Zeile 15). Außerdem darf der Betriebsinhaber für die Ermittlung der Ergebnisse des Stickstoffvergleichs die Werte nach Anlage 6 Zeilen 12 bis 14, bezogen auf die letzte Kultur vor dem Winter, beim Anbau der dort genannten Kulturen berücksichtigen. Satz 2 gilt nicht beim einmaligen Anbau einer Gemüsekultur innerhalb einer Fruchtfolge innerhalb eines Düngejahres.</p>
+                <p>(4) Von Absatz 1 sind ausgenommen:</p>
+                <list>
+                    <item n="1.">Flächen, auf denen nur Zierpflanzen angebaut werden, Baumschul-, Rebschul- und Baumobstflächen sowie nicht im Ertrag stehende Dauerkulturflächen des Wein- und Obstbaus,</item>
+                    <item n="2.">Flächen mit ausschließlicher Weidehaltung bei einem jährlichen Stickstoffanfall (Stickstoffausscheidung) an Wirtschaftsdüngern tierischer Herkunft von bis zu 100 Kilogramm Stickstoff je Hektar, wenn keine zusätzliche Stickstoffdüngung erfolgt,</item>
+                    <item n="3.">Betriebe, die auf keinem Schlag wesentliche Nährstoffmengen an Stickstoff oder Phosphat mit Düngemitteln, Bodenhilfsstoffen, Kultursubstraten, Pflanzenhilfsmitteln oder Abfälle zur Beseitigung nach § 28 des Kreislaufwirtschaftsgesetzes aufbringen,</item>
+                    <item n="4.">Betriebe, die<list>
+                            <item n="a)">abzüglich von Flächen nach den Nummern 1 und 2 weniger als 10 Hektar landwirtschaftlich genutzte Fläche bewirtschaften,</item>
+                            <item n="b)">höchstens bis zu einem Hektar Gemüse, Hopfen oder Erdbeeren anbauen und</item>
+                            <item n="c)">einen jährlichen Nährstoffanfall aus Wirtschaftsdüngern tierischer Herkunft von nicht mehr als 500 Kilogramm Stickstoff je Betrieb aufweisen.</item>
+                        </list>
+                    </item>
+                </list>
+            </div>
+            <div xml:id="d1201e296">
+                <head>§ 6</head>
+                <p>(1) Der Betriebsinhaber hat der nach Landesrecht zuständigen Stelle die betrieblichen Nährstoffvergleiche nach § 5 Abs. 1 auf Anforderung vorzulegen.</p>
+                <p>(2) Soweit der betriebliche Nährstoffvergleich nach § 5 Abs. 1</p>
+                <list>
+                    <item n="1.">für Stickstoff einen betrieblichen Nährstoffüberschuss nach Anlage 8 Zeile 10 im Durchschnitt der drei letzten Düngejahre<list>
+                            <item n="a)">in den 2006, 2007 und 2008 begonnenen Düngejahren von über 90 Kilogramm Stickstoff je Hektar und Jahr,</item>
+                            <item n="b)">in den 2007, 2008 und 2009 begonnenen Düngejahren von über 80 Kilogramm Stickstoff je Hektar und Jahr,</item>
+                            <item n="c)">in den 2008, 2009 und 2010 begonnenen Düngejahren von über 70 Kilogramm Stickstoff je Hektar und Jahr oder</item>
+                            <item n="d)">in den 2009, 2010 und 2011 und später begonnenen Düngejahren von über 60 Kilogramm Stickstoff je Hektar und Jahr</item>
+                        </list>
+                    </item>
+                </list>
+                <p>oder</p>
+                <list>
+                    <item n="2.">für Phosphat(P(tief)2O(tief)5) einen betrieblichen Nährstoffüberschuss nach Anlage 8 Zeile 10 im Durchschnitt der sechs letzten Düngejahre von über 20 Kilogramm je Hektar und Jahr</item>
+                </list>
+                <p>nicht überschreitet, wird vermutet, dass die Anforderungen des § 3 Abs. 4 erfüllt sind. Diese Vermutung gilt auch, soweit der Wert für Phosphat nach Satz 1 Nr. 2 überschritten wird, wenn die Bodenuntersuchungen nach § 3 Abs. 3 Satz 1 Nr. 2 ergeben, dass der Phosphatgehalt im Durchschnitt (gewogenes Mittel) 20 Milligramm</p>
+                <p>P(tief)2O(tief)5 je 100 Gramm Boden nach dem Calcium-Acetat-Lactat-Extraktionsverfahren (CAL-Methode), 25 Milligramm</p>
+                <p>P(tief)2O(tief)5 je 100 Gramm Boden nach dem Doppel-Lactat-Verfahren (DL-Methode) oder 3,6 Milligramm P je 100 Gramm Boden nach dem Elektro-Ultrafiltrationsverfahren (EUF-Verfahren) nicht überschreitet. Im Falle des Satzes 1 Nr. 2 stehen vor dem 14. Januar 2006 auf der Grundlage der Düngeverordnung vom 26. Januar 1996 (BGBl. I S. 118), zuletzt geändert durch die Verordnung vom 14. Februar 2003 (BGBl. I S. 235), erstellte Nährstoffvergleiche den Nährstoffvergleichen nach Satz 1 Nr. 2 gleich.</p>
+            </div>
+            <div xml:id="d1201e334">
+                <head>§ 7</head>
+                <p>(1) Betriebsinhaber haben bis zum 31. März des auf das jeweils abgelaufene Düngejahr folgenden Kalenderjahres aufzuzeichnen</p>
+                <list>
+                    <item n="1.">die ermittelten Nährstoffmengen nach § 3 Abs. 3 einschließlich der zu ihrer Ermittlung angewendeten Verfahren,</item>
+                    <item n="2.">die Werte nach § 4 Abs. 1 einschließlich der zu ihrer Ermittlung angewendeten Verfahren und</item>
+                    <item n="3.">die Ausgangsdaten und Ergebnisse der Nährstoffvergleiche nach § 5 Abs. 1 nach den Anlagen 7 und 8.</item>
+                </list>
+                <p>Ausgenommen von Satz 1 Nr. 1 und 2 sind Flächen und Betriebe nach § 5 Abs. 4.</p>
+                <p>(2) Bei einer Zufuhr von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten oder Pflanzenhilfsmitteln, die unter Verwendung von Fleischmehlen, Knochenmehlen oder Fleischknochenmehlen hergestellt wurden, auf landwirtschaftlich genutzte Flächen sind ferner innerhalb eines Monats nach der jeweiligen Düngungsmaßnahme aufzuzeichnen</p>
+                <list>
+                    <item n="1.">der Schlag, auf den die Stoffe aufgebracht wurden, einschließlich der Bezeichnung und der Größe des Flurstücks sowie der darauf angebauten Kultur,</item>
+                    <item n="2.">die Art und Menge des zugeführten Stoffes und das Datum der Aufbringung,</item>
+                    <item n="3.">der Inverkehrbringer des Stoffes gemäß der Kennzeichnung nach der Düngemittelverordnung,</item>
+                    <item n="4.">der enthaltene tierische Stoff gemäß der Kennzeichnung nach der Düngemittelverordnung,</item>
+                    <item n="5.">bei Düngemitteln die Typenbezeichnung gemäß der Kennzeichnung nach der Düngemittelverordnung.</item>
+                </list>
+                <p>(3) Die Aufzeichnungen nach den Absätzen 1 und 2 sind sieben Jahre nach Ablauf des Düngejahres aufzubewahren.</p>
+            </div>
+            <div xml:id="d1201e370">
+                <head>§ 8</head>
+                <p>(1) Düngemittel außer Wirtschaftsdünger dürfen nur angewendet werden, wenn sie einem durch die Düngemittelverordnung oder durch die Verordnung (EG) 2003/2003 des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über Düngemittel (ABl. EU Nr. L 304 S. 1) zugelassenen Typ entsprechen. Wirtschaftsdünger, Bodenhilfsstoffe, Kultursubstrate und Pflanzenhilfsmittel dürfen nur angewendet werden, wenn sie den Bestimmungen der Düngemittelverordnung hinsichtlich der Zusammensetzung und sachgerechter Angabe der Inhaltsstoffe entsprechen. Ausgenommen von Satz 2 sind Wirtschaftsdünger, Bodenhilfsstoffe, Kultursubstrate und Pflanzenhilfsmittel, die ausschließlich aus Stoffen, die im eigenen Betrieb angefallen sind, erzeugt wurden. Die nach Landesrecht zuständige Stelle kann auf Antrag Ausnahmen von Satz 2 zulassen.</p>
+                <p>(2) Die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten oder Pflanzenhilfsmitteln, die unter Verwendung von Knochenmehl, Fleischknochenmehl oder Fleischmehl hergestellt wurden, ist auf landwirtschaftlich genutztem Grünland und zur Kopfdüngung im Gemüse- oder Feldfutterbau verboten. Wer die in Satz 1 bezeichneten Stoffe auf sonstigen landwirtschaftlich genutzten Flächen aufbringt, hat diese sofort einzuarbeiten.</p>
+                <p>(3) Die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten oder Pflanzenhilfsmitteln, zu deren Herstellung Kieselgur verwendet wurde, ist auf bestelltem Ackerland, Grünland, im Feldfutterbau sowie auf Flächen, die für den Gemüse- oder bodennahen Obstanbau vorgesehen sind, verboten. Wer die in Satz 1 bezeichneten Stoffe auf sonstigen landwirtschaftlich genutzten Flächen aufbringt, hat diese sofort einzuarbeiten. Die Anwendung von trockenen Düngemitteln, Bodenhilfsstoffen, Kultursubstraten oder Pflanzenhilfsmitteln, zu deren Herstellung Kieselgur verwendet wurde, ist verboten. Die Anwendung der in den Sätzen 1 und 3 bezeichneten Stoffe außerhalb landwirtschaftlich genutzter Flächen ist verboten.</p>
+                <p>(4) Düngemittel mit der Kennzeichnung "zur Düngung von Rasen" oder "zur Düngung von Zierpflanzen" nach Anlage 1 Abschnitt 5 der Düngemittelverordnung dürfen nur zur Düngung dieser Kulturen verwendet werden.</p>
+                <p>(5) Die Anwendung von</p>
+                <list>
+                    <item n="1.">Düngemitteln, ausgenommen Düngemittel, die als EG-Düngemittel bezeichnet sind,</item>
+                    <item n="2.">Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln,</item>
+                </list>
+                <p>welche die Grenzwerte nach Anlage 2 Tabelle 1 der Düngemittelverordnung überschreiten, ist ab dem 4. Dezember 2007 verboten. Ausgenommen von Satz 1 sind Wirtschaftsdünger, Bodenhilfsstoffe, Kultursubstrate und Pflanzenhilfsmittel, die ausschließlich aus Stoffen, die im eigenen Betrieb angefallen sind, erzeugt wurden. Abweichend von Satz 1 dürfen</p>
+                <list>
+                    <item n="1.">bis zum 4. Dezember 2008 die Düngemittel, die dem Düngemitteltypen "Kohlensaurer Kalk", "Branntkalk" und "Mischkalk" entsprechen, auch bei Überschreiten der Grenzwerte nach Anlage 2 Tabelle 1 der Düngemittelverordnung angewendet werden,</item>
+                    <item n="2.">im Falle von Bodenhilfsstoffen und Kultursubstraten, die unter überwiegender Verwendung von Rinden hergestellt wurden, diese<list>
+                            <item n="a)">bis zum 4. Dezember 2008 auch bei Überschreiten der Grenzwerte für Cadmium im Ausgangsstoff Rinde nach Anlage 2 Tabelle 1 der Düngemittelverordnung angewendet werden,</item>
+                            <item n="b)">nach dem 4. Dezember 2008 außerhalb landwirtschaftlich genutzter Flächen, ausgenommen Kinderspielplätze sowie Haus- und Kleingärten, angewendet werden, soweit der Grenzwert für Cadmium im Ausgangsstoff Rinde nach Anlage 2 Tabelle 1 der Düngemittelverordnung um nicht mehr als 15 vom Hundert überschritten wird.</item>
+                        </list>
+                    </item>
+                </list>
+                <p>Abweichend von Satz 1 gelten für Klärschlämme die Anforderungen an die Schadstoffe und Grenzwerte der Klärschlammverordnung und abweichend von den Sätzen 1 und 3 Nr. 2 gelten für Bioabfälle die Anforderungen an die Schadstoffe und Grenzwerte der Bioabfallverordnung.</p>
+            </div>
+            <div xml:id="d1201e408">
+                <head>§ 9</head>
+                <p>Soweit die nach Landesrecht zuständige Stelle auf Grund dieser Verordnung Genehmigungen erteilt oder Anordnungen trifft, hat sie dabei besonders zu berücksichtigen, dass die Fruchtbarkeit des Bodens, die Gesundheit von Menschen und Tieren sowie der Naturhaushalt, insbesondere die Gewässerqualität, nicht gefährdet werden und andere öffentlich-rechtliche Vorschriften nicht entgegenstehen.</p>
+            </div>
+            <div xml:id="d1201e422">
+                <head>§ 10</head>
+                <p>(1) Ordnungswidrig im Sinne des § 14 Abs. 2 Nr. 1 Buchstabe a des Düngegesetzes handelt, wer vorsätzlich oder fahrlässig</p>
+                <list>
+                    <item n="1.">entgegen § 3 Abs. 5 Satz 1 oder Abs. 7 Satz 1 einen Stoff oder ein dort genanntes Düngemittel aufbringt,</item>
+                    <item n="2.">entgegen § 3 Abs. 6 Satz 1 Nr. 1, auch in Verbindung mit Satz 2 einen Eintrag nicht vermeidet,</item>
+                    <item n="3.">entgegen § 3 Abs. 10 Satz 2 einen Stoff mit einem dort genannten Gerät aufbringt,</item>
+                    <item n="4.">entgegen § 4 Abs. 2 einen dort genannten Stoff oder dort genanntes Düngemittel nicht oder nicht rechtzeitig einarbeitet,</item>
+                    <item n="5.">entgegen § 4 Abs. 3 Satz 1 oder Abs. 5 Satz 1 einen Stoff, Wirtschaftsdünger tierischer Herkunft oder Düngemittel aufbringt,</item>
+                    <item n="6.">entgegen § 5 Abs. 1 Satz 1 einen Nährstoffvergleich nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt,</item>
+                    <item n="7.">entgegen § 6 Abs. 1 einen Nährstoffvergleich nicht vorlegt,</item>
+                    <item n="8.">entgegen § 7 Abs. 1 Satz 1 oder Abs. 2 eine Aufzeichnung nicht, nicht richtig, nicht rechtzeitig oder nicht vollständig macht,</item>
+                    <item n="9.">entgegen § 7 Abs. 3 eine Aufzeichnung nicht oder nicht mindestens sieben Jahre aufbewahrt.</item>
+                </list>
+                <p>(2) Ordnungswidrig im Sinne des § 14 Abs. 2 Nr. 1 Buchstabe a des Düngegesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 8 Abs. 1 Satz 1, Abs. 2 Satz 1, Abs. 3 Satz 1, 3 oder 4 oder Abs. 5 Satz 1 ein Düngemittel, einen Bodenhilfsstoff, ein Kultursubstrat oder ein Pflanzenhilfsmittel anwendet.</p>
+            </div>
+            <div xml:id="d1201e456">
+                <head>§ 11</head>
+                <p>Abweichend von § 4 Abs. 4 Satz 1 dürfen Düngemittel mit wesentlichem Gehalt an verfügbarem Stickstoff, ausgenommen Festmist ohne Geflügelkot, im Jahr 2006 bereits ab dem 16. Januar auf Acker- und Grünland aufgebracht werden. Die sich aus § 8 Abs. 1 ergebenden Anwendungsverbote gelten ab dem 4. Dezember 2006.</p>
+            </div>
+            <div xml:id="d1201e469">
+                <head>§ 11a</head>
+                <p>(1) § 6 Abs. 2 der Düngeverordnung vom 26. Januar 1996 (BGBl. I S. 118), die zuletzt durch die Verordnung vom 14. Februar 2003 (BGBl. I S. 235) geändert worden ist, ist bis zum 31. Dezember 2015 weiterhin anzuwenden.</p>
+                <p>(2) § 4 Abs. 4 ist auch auf Sachverhalte anzuwenden, die im Jahr 2006 entstanden sind.</p>
+            </div>
+            <div xml:id="d1201e484">
+                <head>§ 12</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1201e497">
+                <head>Anlage 1</head>
+                <p>(Fundstelle des Originaltextes: BGBl. I 2007, 228 - 232)Tabelle 1Ackerkulturen12345KulturErnteprodukt% TS in der FrischmasseHNV 1) 1 : xkg N/dt FrischmasseGetreide, KörnermaisWeizenKorn (12% RP 2))86–1,81Stroh86–0,50Korn + Stroh 3)–0,82,21Korn (14% RP 2))86–2,11Stroh86–0,50Korn + Stroh 3)–0,82,51Korn (16% RP 2))86–2,41Stroh86–0,50Korn + Stroh 3)–0,82,81WintergersteKorn (12% RP 2))86–1,65Stroh86–0,50Korn + Stroh 3)–0,72,00Korn (13% RP 2))86–1,79Stroh86–0,50Korn + Stroh 3)–0,72,14RoggenKorn (11% RP 2))86–1,51Stroh86–0,50Korn + Stroh 3)–0,91,96Korn (12% RP 2))86–1,65Stroh86–0,50Korn + Stroh 3)–0,92,10WintertriticaleKorn (12% RP 2))86–1,65Stroh86–0,50Korn + Stroh 3)–0,92,10Korn (13% RP 2))86–1,79Stroh86–0,50Korn + Stroh 3)–0,92,24SommerfuttergersteKorn (12% RP 2))86–1,65Stroh86–0,50Korn + Stroh 3)–0,82,05Korn (13% RP 2))86–1,79Stroh86–0,50Korn + Stroh 3)–0,82,19BraugersteKorn (10% RP 2))86–1,38Stroh86–0,50Korn + Stroh 3)–0,71,73Korn (11% RP 2))86–1,51Stroh86–0,50Korn + Stroh 3)–0,71,86HaferKorn (11% RP 2))86–1,51Stroh86–0,50Korn + Stroh 3)–1,12,06Korn (12% RP 2))86–1,65Stroh86–0,50Korn + Stroh 3)–1,12,20GetreideGanzpflanze35–0,56KörnermaisKorn (10% RP 2))86–1,38Stroh86–0,90Korn + Stroh 3)–1,02,28Korn (11% RP 2))86–1,51Stroh86–0,90Korn + Stroh 3)–1,02,41Einjährige KörnerleguminosenAckerbohneKorn (30% RP 2))86–4,10Stroh86–1,50Korn + Stroh 3)–1,05,60ErbseKorn (26% RP 2))86–3,60Stroh86–1,50Korn + Stroh 3)–1,05,10Lupine blauKorn (33% RP 2))86–4,48Stroh86–1,50Korn + Stroh 3)–1,05,98SojabohneKorn (32% RP 2))86–4,40Stroh86–1,50Korn + Stroh 3)–1,05,90ÖlfrüchteRapsKorn (23% RP 2))91–3,35Stroh86–0,70Korn + Stroh 3)–1,74,54SonnenblumeKorn (20% RP 2))91–2,91Stroh86–1,00Korn + Stroh 3)–2,04,91SenfKorn91–5,08Stroh86–0,70Korn + Stroh 3)–1,56,13ÖlleinKorn91–3,50Stroh86–0,53Korn + Stroh 3)–1,54,30FaserpflanzenFlachs (Faserlein)Ganzpflanze86–1,00Hanf (100 bis 150 dt/ha TM)Ganzpflanze40–0,40Miscanthus (150 bis 200 dt/ha TM)Ganzpflanze80–0,15HackfrüchteKartoffelKnolle22–0,35Kraut15–0,20Knolle + Kraut 3)–0,20,39ZuckerrübeRübe23–0,18Blatt18–0,40Rübe + Blatt 3)–0,70,46GehaltsrübeRübe15–0,18Blatt16–0,30Rübe + Blatt 3)–0,40,30MassenrübeRübe12–0,14Blatt16–0,25Rübe + Blatt 3)–0,40,24FutterpflanzenSilomaisGanzpflanze28–0,38RotkleeGanzpflanze20–0,55LuzerneGanzpflanze20–0,60KleegrasGanzpflanze20–0,52LuzernegrasGanzpflanze20–0,54Weidelgras (Ackergras)Ganzpflanze20–0,48FutterzwischenfrüchteGanzpflanze15–0,35VermehrungspflanzenGrassamenvermehrungSamen86–2,20Stroh86–1,50Samen + Stroh 3)–8,014,20Klee-, LuzernevermehrungSamen91–5,50Stroh86–1,50Samen + Stroh 3)–8,017,50&#160;<list>
+                        <item n="1)">Haupternteprodukt-Nebenernteprodukt-Verhältnis</item>
+                    </list>
+                    <list>
+                        <item n="2)">Rohproteingehalt in der Trockenmasse</item>
+                    </list>
+                    <list>
+                        <item n="3)">Nährstoffgehalt Haupternte- und Nebenernteprodukt bezogen auf das Haupternteprodukt</item>
+                    </list>&#160;Tabelle 2Gemüse&#160;123KulturProduktionsverfahrenkg N/dt FrischmasseFeldgemüseAuberginen&#160;0,32Batavia 1)&#160;0,19Blattsalate 1)&#160;0,19Blumenkohl6er0,32Bohne 1)&#160;0,35Bohnenkraut 1)&#160;0,32Brokkoli&gt; 500g0,37Buschbohne&#160;0,36Chicoree 1)Rübenanbau0,25Chinakohl&#160;0,16Dill 1)&#160;0,30Eissalat&#160;0,13Endivie 1)&#160;0,25Feldsalat 1)&#160;0,45Grünkohl&#160;0,46Gurke&#160;0,17Knoblauch 1)trocken0,48Knollenfenchel&#160;0,24Kohlrabi8 bis 10 cm0,30Kohlrübe 1)&#160;0,28Kopfsalat&#160;0,18Mangold 1)&#160;0,25Markerbsen 1)&#160;0,49Meerrettich 1)&#160;0,51Möhre 1)&#160;0,17Paprika 1)&#160;0,29Pastinake 1)&#160;0,33Petersilie 1)&#160;0,44Porree&#160;0,27Radicchio&#160;0,25Radies&#160;0,20Rettich 1)&#160;0,17Rhabarber 1)&#160;0,29Romana 1)normal0,20Rosenkohlnur Röschen0,47Rote Rüben&#160;0,27Rotkohl&#160;0,28Schnittlauch 1)&#160;0,50Schwarzwurzel 1)&#160;0,24Sellerie&#160;0,27Spargel 2)nur Ernteprodukt0,25Speisekürbis 1)&#160;0,25Spinat&#160;0,43Tomate&#160;0,22Weißkohl&#160;0,26Wirsingkohl 1)&#160;0,38Zucchini 1)&#160;0,23Zuckerhut 1)&#160;0,20Zuckermais 1)&#160;0,32Zuckermelone 1)&#160;0,21ZwiebelTrockenspeise0,22&#160;<list>
+                        <item n="1)">eingeschränkter Stichprobenumfang bei der Erhebung der Daten</item>
+                    </list>
+                    <list>
+                        <item n="2)">bei Spargel zusätzlicher Bedarf für Einlagerung in Wurzeln und Rhizome:<list>
+                                <item n="1.">Standjahr: 5g N/Pflanze</item>
+                                <item n="2.">Standjahr: 6g N/Pflanze</item>
+                                <item n="3.">Standjahr: 5g N/ha</item>
+                                <item n="ab 4.">Standjahr: 3g N/Pflanze</item>
+                            </list>
+                        </item>
+                    </list>&#160;Tabelle 3Grünland&#160;GrünlandErnteproduktStickstoffgehalt in kg N/dt Trockenmasse1 Nutzung (40 dt/ha TM)Ganzpflanze1,302 Nutzungen (55 dt/ha TM)Ganzpflanze1,803 Nutzungen (75 dt/ha TM)Ganzpflanze2,204 Nutzungen (90 dt/ha TM)Ganzpflanze2,705 Nutzungen (110 dt/ha TM)Ganzpflanze2,80</p>
+            </div>
+            <div xml:id="d1201e2084">
+                <head>Anlage 2</head>
+                <p>(Fundstelle des Originaltextes: BGBl. I 2007, 233)Tabelle 1Pflanzennutzbare Stickstoff-Lieferung aus Ernteresten der Vorfrucht (Hauptfrucht des Vorjahres)VorfruchtN-Lieferung in kg N/haGetreide, Kartoffeln, Lein, Sonnenblumen, Silomais0Körnermais, Raps, einjähriges Weidelgras, Rotationsbrache ohne Leguminosen10Rübsen, Senf, Futterrübe (Blatt verblieben), Feldgras und mehrjähriges Weidelgras20Körnerleguminosen, Zuckerrübe (Blatt verblieben), Luzerne, Klee, Kleegras, Rotationsbrache mit Leguminosen, Gemüse30mehrjährig begrünte Flächen (Wechselgrünland, Dauerbrache)40&#160;Tabelle 2Pflanzennutzbare Stickstoff-Lieferung aus Zwischenfrüchten sowie aus organischen oder mineralischen Stickstoffgaben nach der Hauptfruchternte des VorjahresBewirtschaftungStickstoff-Lieferung in kg N/ha&#160;keine N-DüngungMineraldüngung oder GülledüngungFestmist oder sonstiger organischer Düngerohne Zwischenfrucht Herbstdüngung zur Winterung02030Stickstoffgabe zur Strohrotte02020mit Zwischenfrucht Nichtleguminosen abgefahren01020Einarbeitung im Herbst102030Einarbeitung im Frühjahr203040mit Zwischenfrucht Leguminosen abgefahren20(20)(20)Einarbeitung im Herbst30(30)(30)Einarbeitung im Frühjahr40(40)(40)Für die N-Lieferung aus Ernteresten der Vorfrucht (Tab. 1) und aus Zwischenfrüchten sowie aus organischer und mineralischer Düngung nach der Hauptfruchternte des Vorjahres (Tab. 2) werden in der Summe höchstens 40 kg N/ha angerechnet.</p>
+            </div>
+            <div xml:id="d1201e2246">
+                <head>Anlage 3</head>
+                <p>(Fundstelle des Originaltextes: BGBl. I 2007, 234)TierartGülleFestmistJaucheRinder502590Schweine603090Geflügel60 2)30 3)–Pferde/Schafe–25–<list>
+                        <item n="1)">Basis: N-Ausscheidung abzgl. Lagerverluste bzw. Ermittlung des N-Gehaltes vor der Ausbringung</item>
+                        <item n="2)">incl. Geflügeltrockenkot</item>
+                        <item n="3)">mit Einstreu.</item>
+                    </list>
+                </p>
+            </div>
+            <div xml:id="d1201e2326">
+                <head>Anlage 4</head>
+                <p>Fundstelle des Originaltextes: BGBl. I 2007, 234</p>
+                <list>
+                    <item n="1.">Festmiststreuer ohne gesteuerte Mistzufuhr zum Verteiler,</item>
+                    <item n="2.">Güllewagen und Jauchewagen mit freiem Auslauf auf den Verteiler,</item>
+                    <item n="3.">zentrale Prallverteiler, mit denen nach oben abgestrahlt wird,</item>
+                    <item n="4.">Güllewagen mit senkrecht angeordneter, offener Schleuderscheibe als Verteiler zur Ausbringung von unverdünnter Gülle,</item>
+                    <item n="5.">Drehstrahlregner zur Verregnung von unverdünnter Gülle.</item>
+                </list>
+            </div>
+            <div xml:id="d1201e2356">
+                <head>Anlage 5</head>
+                <p>(Fundstelle des Originaltextes: BGBl. I 2007, 235 - 237)&#160;ProduktionsverfahrenDunganfall&#160;kg N-Ausscheidung je belegtem Stallplatz und Jahrin 6 Monaten je belegtem Stallplatz (inkl. Tränke- und Reinigungswasser)cbmcbmGülleJauche 1)&#160;1234561.Milchviehhaltung2.Kälberaufzucht0 bis 16 Wochen; 80 kg Zuwachs; 3 Durchgänge p. a.15,31,50,2 2)3.JungrinderaufzuchtErstkalbealter27 Monate; 580 kg ZuwachsGrünlandkonventionell604,651,2 2)4.extensiv545.Ackerfutterbaumit Weide496.Stallhaltung427.Milchkuh 4,0% Fett, 3,4% Protein; 0,9 KälberGrünland6.000 kg ECM1199,53,0 2)8.8.000 kg ECM13210,03,2 2)9.10.000 kg ECM14910,53,4 2)10.Ackerfutterbau6.000 kg ECM1049,53,0 2)11.8.000 kg ECM11810,03,2 2)12.10.000 kg ECM13810,53,4 2)13.Ackerfutterbau ohne Weide mit Heu6.000 kg ECM1009,53,0 2)14.8.000 kg ECM11510,03,2 2)15.10.000 kg ECM13510,53,4 2)16.Rindermast17.Mastbulleab 45 bis 625 kg LM (18 Mon.)353,351,2 2)18.ab 45 bis 700 kg LM403,651,5 2)19.ab 80 bis 700 kg LM443,351,5 2)20.ab 200 bis 700 kg LM463,851,5 2)21.Mutterkuh500 kg LM; 0,9 Kälber p. a. (180 kg Absetzgewicht)878,02,75 2)22.700 kg LM; 0,9 Kälber p. a. (220 kg Absetzgewicht)10610,03,0 2)23.Jungrindermast80 bis 220 kg LM; 2,5 Umtriebe p. a. ("Fresser-Produktion")18,42,75-3)24.50 bis 250 kg LM; 2,1 Umtriebe p. a. ("Kälbermast")131,25- 3)25.Ferkelerzeugung26.SauenhaltungFerkel bis 8 kg LM&#160;&#160;&#160;27.20 aufgez. Ferkel 200 kg Zuwachs je Platz p. a.Standardfutter26,22,00,628.N-/P-reduziert24,629.22 aufgez. Ferkel 216 kg Zuwachs je Platz p. a.Standardfutter26,330.N-/P-reduziert24,731.Ferkel bis 28 kg LM&#160;&#160;&#160;&#160;32.20 aufgez. Ferkel 600 kg Zuwachs je Platz p. a.Standardfutter36,63,00,7533.N-/P-reduziert34,334.22 aufgez. Ferkel 656 kg Zuwachs je Platz p. a.Standardfutter37,335.N-/P-reduziert34,936.Spezialisierte Ferkelaufzucht8 bis 28 kg LM 130 kg Zuwachs je Platz p. a.Standardfutter3,420,30,1537.N-/P-reduziert3,2938.Jungsauenaufzucht28 bis 115 kg LM 180 kg Zuwachs je Platz p. a.Standardfutter10,80,90,339.N-/P-reduziert940.Jungsaueneingliederung95 bis 135 kg LM 240 kg Zuwachs je Platz p. a.Standardfutter15,51,250,541.N-/P-reduziert13,342.Eberhaltung60 kg Zuwachs je Platz p. a.22,11,80,7543.Schweinemast44.Mastschwein28 bis 117 kg LM; 700 g tägliche Zunahme; 210 kg ZuwachsStandardfutter11,90,750,345.N-/P-reduziert9,846.28 bis 117 kg LM; 800 g tägliche Zunahme; 240 kg ZuwachsStandardfutter13,60,750,347.N-/P-reduziert11,248.Pferdehaltung49.Reitpferde 500 bis 600 kg LMStallhaltung51,1- 4)50.Stall-/Weidehaltung53,651.Reitponys 300 kg LMStallhaltung34,952.Stall-/Weidehaltung33,453.ZuchtstutenGroßpferd (600 kg LM); Stall-/Weidehaltung; 0,5 Fohlen p. a.63,554.Pony (350 kg LM); Stall-/Weidehaltung; 0,5 Fohlen p. a.42,355.AufzuchtpferdeGroßpferd; 365 kg Zuwachs; Stall-/Weidehaltung; 6. bis 36. Monat44,5- 4)56.Pony; 150 kg Zuwachs; Stall-/Weidehaltung; 6. bis 36. Monat31,657.Lammfleischerzeugung58.Mutterschaf mit Nachzucht1,3 Lämmer/Schaf 40 kg Zuwachskonventionell18,6- 4)59.extensiv18,160.Ziegenmilcherzeugung61.Milchziege mit Nachzucht800 kg Milch/Ziege p. a.; 1,5 Lämmer je Ziege; 16 kg Zuwachs/Lamm14,8- 4)62.Kaninchenhaltung63.Aufzucht 52 aufgezogene Jungtiere/Häsin p. a.Aufzucht bis 0,6 kg LM2,6- 4)64.Aufzucht bis 3 kg LM9,765.Mast0,6 bis 3 kg LM; 14 kg Zuwachs/Platz0,7- 4)66.Gehegewild67.DamtiereFleischerzeugung 45 kg Zuwachs je (1 Alttier + 0,85 Kalb)21,6- 4)68.Eiererzeugung69.Junghennenaufzucht3,3 kg Zuwachs 4/5 Phasen-FütterungStandardfutter 4 Phasen0,286- 4)70.N-/P-reduziert 5 Phasen0,24471.Legehennenhaltung17,6 kg EimasseStandardfutter0,786- 4)72.N-/P-reduziert0,75473.Geflügelmast74.Hähnchenmast40 Tage; 2,2 kg Zuwachs/TierStandardfutter0,469- 4)75.N-/P-reduziert0,40376.37 bis 40 Tage; 2,0 kg Zuwachs/TierStandardfutter0,39277.N-/P-reduziert0,33378.bis 37 Tage; 1,7 kg Zuwachs/TierStandardfutter0,31979.N-/P-reduziert0,26680.Putenmast Hähne20,4 kg Zuwachs 22 Wochen Mast (56,8 kg Futter) 2,2 UmtriebeStandardfutter2,140- 4)81.N-/P-reduziert2,00282.teilw. P-reduziert2,14083.Putenmast Hennen10,9 kg Zuwachs 17 Wochen Mast (27,9 kg Futter) 2,8 UmtriebeStandardfutter1,57984.N-/P-reduziert1,49285.teilw. P-reduziert1,55786.Entenmast; Pekingenten (Ausmast)3,4 kg Zuwachs/Tier; 13 Durchgänge bis 26 Tage Mast1,482- 4)87.Entenmast Flugenten15,4 kg Zuwachs/Platz p. a.; 4 Durchgänge; 2,7 kg weibl., 5,0 kg männl. (w:m = 1 : 1)0,58888.GänsemastSchnellmast, 5,0 kg Zuwachs/Tier0,183- 4)89.Mittelmast, 6,8 kg Zuwachs/Tier0,55490.Spät-/Weidemast, 7,8 kg Zuwachs/Tier1,040&#160;<list>
+                        <item n="1)">niedrige Stroheinstreumenge: 3 bis 4 kg/GV und Tag</item>
+                    </list>
+                    <list>
+                        <item n="2)">Bei mittlerer Stroheinstreumenge (6 bis 8 kg/GV und Tag) ist angegebener Jaucheanfall zu halbieren, bei hoher Stroheinstreumenge (&gt; 11 kg/GV und Tag) fällt keine Jauche an.</item>
+                    </list>
+                    <list>
+                        <item n="3)">Verfahrenskombination nicht relevant, d. h. keine Aufstallung auf Stroh</item>
+                    </list>
+                    <list>
+                        <item n="4)">kein Jaucheanfall wegen hoher Einstreumenge oder Entmistungsverfahren</item>
+                    </list>
+                </p>
+            </div>
+            <div xml:id="d1201e3329">
+                <head>Anlage 6</head>(Fundstelle des Originaltextes: BGBl. I 2007, 238)1.I. Anzurechnende Mindestwerte in % der Ausscheidungen anGesamtstickstoff in Wirtschaftsdüngern tierischer Herkunft undandere Kenngrößen2.&#160;AusbringungZufuhr3.&#160;Nach Abzug der Stall- und LagerungsverlusteNach Abzug der Stall-, Lagerungs- und Ausbringungsverluste4.TierartGülleFestmist, Jauche, TiefstallGülleFestmist, Jauche, Tiefstall5.123456.Rinder857070607.Schweine706560558.Geflügel&#160;60&#160;509.andere (Pferde, Schafe)&#160;55&#160;5010.Weidegang, alle Tierarten 1)2511.II. Weitere unvermeidliche Überschüsse/erforderlicheZuschläge für Stickstoff12.GemüsebauFür die letzte Kultur vor Winter, je nach Kultur, Kulturverfahren oder Produkten bis zu 50 kg N/ha und Jahr:Rettich, Radies, Feldsalat, Grünkohl, Dill, Möhren, Rote Rüben, Schnittlauch, Markerbse, Zwiebel, Kürbis, Petersilie, Salate, Spinat, Chicoree.Weitere Differenzierung oder nicht genannte Kulturen nach Angabe oder in Abstimmung mit der nach Landesrecht zuständigen Stelle.13.Gemüsebau IIFür die letzte Kultur vor Winter, je nach Kultur, Kulturverfahren oder Produkten bis zu 80 kg N/ha und Jahr:Sellerie, Chinakohl, Buschbohnen, Kohlrabi, Rosenkohl, Rotkohl, Gurke, Porree, Knollenfenchel.Weitere Differenzierung oder nicht genannte Kulturen nach Angabe oder in Abstimmung mit der nach Landesrecht zuständigen Stelle.14.Gemüsebau IIIFür die letzte Kultur vor Winter, je nach Kultur, Kulturverfahren oder Produkten bis zu 120 kg N/ha und Jahr. Bis zu 160 kg N/ha und Jahr, wenn, soweit möglich, geeignete Maßnahmen zur Reduktion des Stickstoffaustrags vorgenommen werden, insbesondere Begrünung oder Anbau von Ackerwinterkulturen:Brokkoli, Blumenkohl, Wirsing, Zucchini, Stangenbohnen, Weißkohl, Zuckermais.Weitere Differenzierung oder nicht genannte Kulturen nach Angabe oder in Abstimmung mit der nach Landesrecht zuständigen Stelle.15.Besonderheiten bei bestimmten Betriebstypen, bei der Anwendung bestimmter Düngemittel, beimAnbau bestimmter Kulturen, der Erzeugung bestimmter Qualitäten, der Haltung bestimmter Tierarten oder der Nutzung bestimmter Haltungsformen oder nicht zu vertretender ErnteausfälleNach Vorgabe oder in Abstimmung mit der nach Landesrecht zuständigen Stelle.<list>
+                    <item n="1)">Bei ausschließlichem Weidegang. Bei anteiliger Schnittnutzung sind für diese die Werte gemäß Spalte 4 bzw. 5 anzusetzen.</item>
+                </list>
+            </div>
+            <div xml:id="d1201e3528">
+                <head>Anlage 7</head>(Fundstelle des Originaltextes: BGBl. I 2007, 239;bzgl. der einzelnen Änderungen vgl. Fußnote)1. Erfassung der Daten für den betrieblichen NährstoffvergleichDer betriebliche Nährstoff- 1.1 Zusammenfassung der ( )vergleich erfolgt durch Ergebnisse von Vergleichen fürSchläge oder Bewirtschaftungs-einheiten,1.2 Vergleich von Zufuhr und ( )Abfuhr für die landwirtschaftlichgenutzte Fläche insgesamt.Eindeutige Bezeichnung des Betriebes: .................................Größe des Betriebes in Hektar landwirtschaftlich genutzter Fläche: ....Beginn und Ende des Düngejahres: ......................................Datum der Erstellung: .................................................2. Erfassung von Daten für auf den Schlag oder auf die ( )Bewirtschaftungseinheit bezogene Nährstoffvergleiche(für diespätere Zusammenfassung von Schlagbilanzen nach Nr. 1.1)- Eindeutige Bezeichnung des Schlages, der Bewirtschaftungseinheit: ...- Größe des Schlages, der Bewirtschaftungseinheit: ....................- Bei Grünland: ....................Anzahl der Schnittnutzungen: ....................Zahl der Weidetage auf dem Schlag: ....................Anzahl und Art der auf der Weide gehaltenen Tiere: .....-------------------------------------------------------------------------------1. I 1 I 2 I 3 I 4-------------------------------------------------------------------------------2. I Zufuhr I Nährstoff I Abfuhr I NährstoffI (auf die Gesamtfläche, I in kg I (von der Gesamtfläche, I in kgI Bewirtschaftungseinheit, I Bewirtschaftungseinheit,I Einzelschlag) I I Einzelschlag) I-------------------------------------------------------------------------------3. I Mineralische I I Ernteprodukte 2) II Düngemittel I I I-------------------------------------------------------------------------------4. I Wirtschaftsdünger I I Nebenprodukte II tierischer Herkunft 1) I I I-------------------------------------------------------------------------------5. I Sonstige organische I I II Düngemittel I I I-------------------------------------------------------------------------------6. I Bodenhilfsstoffe I I I-------------------------------------------------------------------------------7. I Kultursubstrate I I I-------------------------------------------------------------------------------8. I Pflanzenhilfsmittel I I I-------------------------------------------------------------------------------9. I Abfälle zur Beseitigung I II (§ 28 Absatz 2 oder I I II Absatz 3 KrWG) I I I-------------------------------------------------------------------------------10. I Stickstoffbindung I I II durch Leguminosen I I I-------------------------------------------------------------------------------11. I Summe der Zufuhr I I Summe der Abfuhr I-------------------------------------------------------------------------------12. I Ggf. Summe der Zu-/ I I II Abschläge nach Anlage I I II 6 Zeilen 12 bis 15 3) I I I-------------------------------------------------------------------------------13. I Differenz zwischen I II Zufuhr und Abfuhr I I-------------------------------------------14. I Differenz je Hektar I II (nicht für Schlag- I II bilanzen) I I-------------------------------------------------------------------------------<list>
+                    <item n="1)">Bei Weidegang anteilige Nährstoffzufuhr in Abhängigkeit von der Zahl der Weidetage nach § 4 Abs. 1.</item>
+                    <item n="2)">Bei Grünland in Abhängigkeit der standortabhängigen Nutzungshäufigkeit und der Standortgüte.</item>
+                    <item n="3)">Detaillierte Aufschlüsselung erforderlich.</item>
+                </list>
+            </div>
+            <div xml:id="d1201e3700">
+                <head>Anlage 8</head>
+                <p>(Fundstelle des Originaltextes: BGBl. I 2007, 240)Letztes berücksichtigtes Dünge- bzw. Wirtschaftsjahr: ...Beginn und Ende des Düngejahres:Eindeutige Bezeichnung des Betriebes:Größe des Betriebes in Hektar landwirtschaftlich genutzter Fläche:Art der Bilanzierung der Ausgangsdaten:Datum der Erstellung:1.Betrieblicher Nährstoffvergleich im Durchschnittmehrerer aufeinander folgender Jahre nach Anlage 72.&#160;Differenz im Dünge- bzw. WirtschaftsjahrKilogramm/Hektar3.&#160;Stickstoff: Düngejahr und zwei VorjahrePhosphat: Düngejahr und fünf Vorjahre4.Vorjahr:-&#160;5.Vorjahr:-&#160;6.Vorjahr:-&#160;7.Vorjahr:&#160;&#160;8.Vorjahr:&#160;&#160;9.Düngejahr:&#160;&#160;10.Durchschnittlicher betrieblicher Überschuss je ha und Jahr&#160;&#160;</p>
+            </div>
+        </body>
+    </text>
+</TEI>

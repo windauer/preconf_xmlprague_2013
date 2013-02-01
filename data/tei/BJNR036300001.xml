@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR036300001">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Änderung von Vordrucken für das arbeitsgerichtliche Mahnverfahren</title>
+                <title type="short">AGMahnVordrVÄndV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>2001-03-07</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 4.2001 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d934e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 46a Abs. 8 des Arbeitsgerichtsgesetzes, der durch Artikel 2 Nr. 01 des Gesetzes vom 29. Juni 1998 (BGBl. I S. 1694) neu gefasst wurde, verordnet das Bundesministerium für Arbeit und Sozialordnung:</p>
+            </div>
+            <div xml:id="d934e30">
+                <head>Art 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d934e41">
+                <head>Art 2</head>
+                <p>Für das Mahnverfahren sind die bisherigen Vordrucke zu verwenden, wenn der Antrag auf Erlass eines Mahnbescheids vor Inkrafttreten dieser Verordnung eingereicht worden ist.</p>
+            </div>
+            <div xml:id="d934e53">
+                <head>Art 3</head>
+                <p>Diese Verordnung tritt am 1. April 2001 in Kraft.</p>
+            </div>
+            <div xml:id="d934e65">
+                <head>Schlussformel</head>
+                <p>Der Bundesrat hat zugestimmt.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

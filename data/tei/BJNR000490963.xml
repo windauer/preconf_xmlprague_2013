@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000490963">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über die Durchführung von Statistiken auf dem Gebiet der Kriegsopferfürsorge</title>
+                <title type="short">SHStatG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1963-01-15</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 21.3.1980 +++)</p>
+            <p>Überschrift: IdF d. Art. 9 Nr. 1 G v. 23.6.1993 I 944 mWv 1.1.1994</p>
+        </front>
+        <body>
+            <div xml:id="d1048e26">
+                <head>§ 1</head>
+                <p>(1) Auf dem Gebiet der Kriegsopferfürsorge werden statistische Erhebungen als Bundesstatistik durchgeführt.</p>
+                <p>(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates höchstens einmal in zwei Jahren Zusatzstatistiken über Sonderfragen auf diesem Gebiet anzuordnen.</p>
+            </div>
+            <div xml:id="d1048e39">
+                <head>§ 2</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1048e50">
+                <head>§ 3</head>
+                <p>In der Statistik der Kriegsopferfürsorge werden jährlich ab 2000 zweijährlich erfragt</p>
+                <list>
+                    <item n="1.">die Zahl der Empfänger der Kriegsopferfürsorge und die Aufwendungen im Berichtsjahr, aufgegliedert nach Empfängergruppen und Leistungsarten,</item>
+                    <item n="2.">die Einnahmen im Berichtsjahr, aufgegliedert nach Einnahmearten.</item>
+                </list>
+            </div>
+            <div xml:id="d1048e66">
+                <head>§ 4</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1048e77">
+                <head>§ 5</head>
+                <p>(1) Für die Angaben nach § 3 sind die für die Durchführung der Kriegsopferfürsorge sachlich zuständigen Stellen auskunftspflichtig.</p>
+                <p>(2) Die Zusatzstatistiken nach § 1 Abs. 2 werden repräsentativ für bis zu 20 v.H. der Empfänger dieser Hilfen durchgeführt. Werden die Zusatzstatistiken auf einen Teilbereich dieser Hilfen beschränkt, kann von dem bezeichneten Auswahlsatz abgewichen werden, wenn dies für die Gewinnung zuverlässiger Ergebnisse notwendig ist.</p>
+            </div>
+            <div xml:id="d1048e90">
+                <head>§ 6</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1048e101">
+                <head>§ 7</head>
+                <p>Dieses Gesetz tritt mit Wirkung vom 1. Januar 1963 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006740992">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Aufhebung des Strukturhilfegesetzes und zur Aufstockung des Fonds "Deutsche Einheit"</title>
+                <title type="short">StruktHiGAufhDEFASG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1992-03-16</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 31.12.1991 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d195e23">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d195e33">
+                <head>Art 1</head>
+                <p>(1)Das Strukturhilfegesetz vom 20. Dezember 1988 (BGBl. I S. 2358) wird mit Ablauf des 31. Dezember 1991 aufgehoben.</p>
+                <p>(2) Der Bund leistet im Jahre 1992 als Finanzhilfe und einmalige pauschale Überbrückungshilfe an die LänderBayern96.700.000 DM,Berlin44.100.000 DM,Bremen38.600.000 DM,Hamburg69.200.000 DM,Niedersachsen399.200.000 DM,Nordrhein-Westfalen462.800.000 DM,Rheinland-Pfalz166.500.000 DM,Saarland68.600.000 DM,und Schleswig-Holstein154.300.000 DM.</p>
+                <p>(3) Auf Finanzhilfen, die bis zum 31. Dezember 1991 nach dem Strukturhilfegesetz gewährt worden sind, sowie auf die als pauschale Überbrückungshilfe nach Absatz 2 gewährten Finanzhilfen sind die Vorschriften des Strukturhilfegesetzes auch nach dem 31. Dezember 1991 anzuwenden.</p>
+                <p>Art. 1 Abs. 1 Kursivdruck: Aufhebungsvorschrift</p>
+            </div>
+            <div xml:id="d195e105">
+                <head>(XXXX) Art 2 und 3</head>
+            </div>
+            <div xml:id="d195e115">
+                <head>Art 4</head>
+                <p>Dieses Gesetz tritt am 31. Dezember 1991 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

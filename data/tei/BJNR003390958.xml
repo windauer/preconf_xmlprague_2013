@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR003390958">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten und Soldaten gegenüber Angehörigen der Niederlande</title>
+                <title type="short">BeamtHaftNLDBek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1958-05-06</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1353e20">
+                <head>(XXXX)</head>
+                <p>Auf Grund des § 7 des Gesetzes über die Haftung des Reichs für seine Beamten vom 22. Mai 1910 (Reichsgesetzbl. S. 798) wird bekanntgemacht, daß durch die Gesetzgebung der Niederlande die Gegenseitigkeit ohne die in der Bekanntmachung des Reichsministers der Justiz vom 18. Dezember 1928 (Reichsgesetzbl. I S. 414) genannte Einschränkung verbürgt ist.Der Bundesminister der Justiz</p>
+            </div>
+        </body>
+    </text>
+</TEI>

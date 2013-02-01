@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR008990958">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Änderung des Luftverkehrsgesetzes</title>
+                <title type="short">LuftVGÄndG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1958-12-05</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d427e20">
+                <head>Art 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d427e31">
+                <head>Art 2</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d427e42">
+                <head>Art 3</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d427e53">
+                <head>Art 4</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d427e64">
+                <head>Art 5</head>
+                <p>(1) Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes. Die Beschränkungen der Lufthoheit im Land Berlin bleiben unberührt.</p>
+                <p>(2) Soweit in Artikel 1 Nr. 12 und 19 auf Vorschriften verwiesen wird, die im Land Berlin nicht gelten, treten bei Anwendung dieses Gesetzes in Berlin die dort geltenden entsprechenden Bestimmungen an deren Stelle.</p>
+                <p>(3) Soweit Behörden angeführt sind, die im Land Berlin nicht bestehen, sind in Berlin die entsprechenden Berliner Behörden zuständig.</p>
+            </div>
+            <div xml:id="d427e79">
+                <head>Art 6</head>
+                <p>(1) Soweit in diesem Gesetz auf Vorschriften verwiesen wird, die im Saarland nicht gelten, treten im Saarland die entsprechenden saarländischen Bestimmungen an deren Stelle. Einer Verweisung steht es gleich, wenn die Anwendbarkeit einer Bestimmung stillschweigend vorausgesetzt wird.</p>
+                <p>(2) Soweit Behörden angeführt sind, die im Saarland nicht bestehen, sind im Saarland die entsprechenden saarländischen Behörden zuständig.</p>
+            </div>
+            <div xml:id="d427e92">
+                <head>Art 7</head>
+                <p>Dieses Gesetz tritt einen Monat nach dem Tage seiner Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

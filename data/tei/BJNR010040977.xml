@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR010040977">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Durchführung des § 31 des Beamtenversorgungsgesetzes (Bestimmung von Krankheiten für die beamtenrechtliche Unfallfürsorge)</title>
+                <title type="short">BeamtVG§31DV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1977-06-20</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 30. 6.1977 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d510e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 31 Abs. 3 Satz 3 des Beamtenversorgungsgesetzes vom 24. August 1976 (BGBl. I S. 2485) verordnet die Bundesregierung mit Zustimmung des Bundesrates:</p>
+            </div>
+            <div xml:id="d510e30">
+                <head>§ 1</head>
+                <p>Als Krankheiten im Sinne des § 31 Abs. 3 des Beamtenversorgungsgesetzes werden die in der Anlage 1 zur Berufskrankheiten-Verordnung vom 8. Dezember 1976 (BGBl. I S. 3329) in der jeweils geltenden Fassung genannten Krankheiten mit den dort im einzelnen bezeichneten Maßgaben bestimmt.</p>
+            </div>
+            <div xml:id="d510e40">
+                <head>§ 2</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 108 Satz 2 des Beamtenversorgungsgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d510e50">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

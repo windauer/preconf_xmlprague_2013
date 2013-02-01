@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000420997">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zu dem Vertragswerk vom 17. Dezember 1994 über die Energiecharta</title>
+                <title type="short">ECHVertrG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1996-12-20</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 8.1.1997 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1043e25">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d1043e35">
+                <head>Art 1</head>
+                <p>Dem in Lissabon am 17. Dezember 1994 unterzeichneten Vertrag über die Energiecharta und dem Energiechartaprotokoll über Energieeffizienz und damit verbundene Umweltaspekte sowie den in der Schlußakte vom selben Tag enthaltenen Klarstellungen und Erklärungen wird zugestimmt. Das Vertragswerk wird nachstehend veröffentlicht.</p>
+            </div>
+            <div xml:id="d1043e47">
+                <head>Art 2</head>
+                <p>Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, Beschlüsse über die Modifikationen und technischen Änderungen der Anlagen EM und NI, die die Energiechartakonferenz gemäß Artikel 36 Abs. 1 Buchstabe d und e faßt, durch Rechtsverordnung ohne Zustimmung des Bundesrates in Kraft zu setzen.</p>
+            </div>
+            <div xml:id="d1043e60">
+                <head>Art 3</head>
+                <p>(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.</p>
+                <p>(2) Der Tag, an dem der Vertrag nach seinem Artikel 44 und das Energiechartaprotokoll nach seinem Artikel 18 für die Bundesrepublik Deutschland in Kraft treten, ist im Bundesgesetzblatt bekanntzugeben.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

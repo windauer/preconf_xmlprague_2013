@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR005150936">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über Fremdwährungs-Schuldverschreibungen</title>
+                <title type="short">SchVerschrFrdWäG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1936-06-26</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d29e25">
+                <head>Eingangsformel</head>
+                <p>Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit verkündet wird:</p>
+            </div>
+            <div xml:id="d29e35">
+                <head>§ 1</head>
+                <p>Lautet eine im Ausland aufgenommene, in Wertpapieren verbriefte Anleihe auf eine ausländische Währung - unbeschadet ob mit oder ohne Goldklausel -, so ist im Falle einer Abwertung dieser Währung für den Umfang der Zahlungsverpflichtung des Schuldners die abgewertete Währung maßgebend.</p>
+            </div>
+            <div xml:id="d29e45">
+                <head>§ 2</head>
+                <p>(1) Rechtskräftige Entscheidungen stehen der Anwendung dieses Gesetzes nicht entgegen.</p>
+                <p>(2) Vereinbarungen, durch die nach dem Eintritt einer Abwertung der ausländischen Währung der Umfang der Schuldverpflichtung von § 1 abweichend geregelt ist, werden durch das Gesetz nicht berührt. Dies gilt auch, wenn die Beteiligten den Umtausch von Schuldverschreibungen, die auf eine ausländische Währung lauten, in Deutsche Mark-Schuldverschreibungen vereinbart haben.</p>
+                <p>(3) Bereits geleistete Zahlungen können auf Grund des Gesetzes nicht zurückgefordert werden.</p>
+            </div>
+            <div xml:id="d29e60">
+                <head>§ 3</head>
+                <p>Die Vorschriften dieses Gesetzes finden sinngemäß auch auf nicht in Wertpapieren verbriefte Schuldverpflichtungen des zwischenstaatlichen Geld- und Kapitalverkehrs Anwendung, die aus Auslandskrediten oder Ausländerguthaben herrühren und auf ausländische Währung mit oder ohne Goldklausel lauten.</p>
+            </div>
+            <div xml:id="d29e71">
+                <head>§ 4</head>
+            </div>
+        </body>
+    </text>
+</TEI>

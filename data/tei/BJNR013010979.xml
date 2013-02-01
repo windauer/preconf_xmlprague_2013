@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR013010979">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zweites Gesetz zur Änderung dienstrechtlicher Vorschriften (Angehörige des öffentlichen Dienstes in Landesparlamenten)</title>
+                <title type="short">DienstRÄndG 2</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1979-07-30</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.10.1979 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d12e23">
+                <head>Eingangsformel</head>
+                <p>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</p>
+            </div>
+            <div xml:id="d12e33">
+                <head>(XXXX) Art 1 bis Art 8</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d12e46">
+                <head>Art 9</head>
+                <p>Für die nach dem 1. Juni 1978 in die gesetzgebende Körperschaft eines Landes gewählten Arbeitnehmer des öffentlichen Dienstes des Bundes oder einer bundesunmittelbaren Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts gilt § 40 Abs. 1 und § 90 Abs. 3 des Bundesbeamtengesetzes sinngemäß.</p>
+            </div>
+            <div xml:id="d12e59">
+                <head>Art 10</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d12e72">
+                <head>Art 11</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d12e83">
+                <head>Art 12</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d12e96">
+                <head>Art 13</head>
+                <p>Artikel 10 Abs. 2 tritt mit Wirkung vom 1. Juni 1978, Artikel 3 Nr. 2 mit Wirkung vom 1. Januar 1979, Artikel 11 am Tage nach der Verkündung in Kraft; im übrigen tritt das Gesetz am 1. Oktober 1979 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

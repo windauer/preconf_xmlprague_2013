@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR001660933">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über den Deutschen Sparkassen- und Giroverband</title>
+                <title type="short">SparkGiroVerbG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1933-04-06</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1161e20">
+                <head>Eingangsformel</head>
+                <p>Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit verkündet wird:</p>
+            </div>
+            <div xml:id="d1161e30">
+                <head>§ 1</head>
+                <p>Der Deutsche Sparkassen- und Giroverband in Berlin (Verband) wird zu dem in § 2 Satz 2 angegebenen Zeitpunkt eine öffentliche Körperschaft desReichs.</p>
+            </div>
+            <div xml:id="d1161e42">
+                <head>§ 2</head>
+                <p>Der Verband hat binnen drei Monaten nach dem Inkrafttreten dieserVerordnungseine Satzung derReichsregierungzur Genehmigung vorzulegen. Mit der Genehmigung der Satzung tritt die in § 1 bezeichnete Rechtswirkung ein.</p>
+                <p>§§ 2, 4 u. 5 Kursivdruck "Verordnung": Vgl. Überschrift</p>
+            </div>
+            <div xml:id="d1161e61">
+                <head>§ 3</head>
+                <p>(1) Der Verband steht unter Aufsicht derReichsregierung.</p>
+                <p>(2) Die näheren Bestimmungen über die Organisation und Verwaltung des Verbandes trifft die Satzung. Änderungen der Satzung bedürfen der Genehmigung derReichsregierung.</p>
+            </div>
+            <div xml:id="d1161e77">
+                <head>§ 4</head>
+                <p>DieReichsregierungerläßt die zur Durchführung derVerordnungerforderlichen Rechts- und allgemeinen Verwaltungsvorschriften.</p>
+                <p>§§ 2, 4 u. 5 Kursivdruck "Verordnung": Vgl. Überschrift</p>
+            </div>
+            <div xml:id="d1161e97">
+                <head>§ 5</head>
+                <p>DieVerordnungtritt mit ihrer Verkündung in Kraft.</p>
+                <p>§§ 2, 4 u. 5 Kursivdruck "Verordnung": Vgl. Überschrift</p>
+            </div>
+        </body>
+    </text>
+</TEI>

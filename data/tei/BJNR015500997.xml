@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR015500997">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Einundzwanzigste Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des Auslandsunterhaltsgesetzes</title>
+                <title type="short">AUG§1Abs2Bek 21</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1997-01-07</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 7. 2.1997 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d808e20">
+                <head>(XXXX)</head>
+                <p>Auf Grund des § 1 Abs. 2 des Auslandsunterhaltsgesetzes vom 19. Dezember 1986 (BGBl. I S. 2563) wird bekanntgemacht, daß die Gegenseitigkeit im Sinne dieses Gesetzes verbürgt ist im Verhältnis zu dem US-Bundesstaat</p>
+                <list>
+                    <item n="">Maine.</item>
+                </list>
+                <p>Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 28. Oktober 1996 (BGBl. I S. 1733).</p>
+                <p>Bundesministerium der Justiz</p>
+            </div>
+        </body>
+    </text>
+</TEI>

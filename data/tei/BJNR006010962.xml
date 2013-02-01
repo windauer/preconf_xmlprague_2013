@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006010962">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Befreiung bestimmter Beförderungsfälle von den Vorschriften des Personenbeförderungsgesetzes</title>
+                <title type="short">FrStllgV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1962-08-30</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 23.6.1967 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d124e25">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 58 Abs. 1 Nr. 1 des Personenbeförderungsgesetzes vom 21. März 1961 (Bundesgesetzbl. I S. 241) wird mit Zustimmung der Bundesrates verordnet:</p>
+            </div>
+            <div xml:id="d124e35">
+                <head>§ 1</head>
+                <p>Von den Vorschriften des Personenbeförderungsgesetzes werden freigestellt</p>
+                <list>
+                    <item n="1.">Beförderungen mit Kraftfahrzeugen außerhalb öffentlicher Straßen und Plätze im Sinne des Straßenverkehrsgesetzes;</item>
+                    <item n="2.">Beförderungen mit Kraftfahrzeugen in Ausübung hoheitlicher Tätigkeit;</item>
+                    <item n="3.">Beförderungen mit Personenkraftwagen, die nach ihrer Bauart und Ausstattung zur Beförderung von nicht mehr als sechs Personen (einschließlich Führer) geeignet und bestimmt sind, es sei denn, daß für die Beförderungen ein Entgelt zu entrichten ist;</item>
+                    <item n="4.">Beförderungen<list>
+                            <item n="a)">von Berufstätigen mit Kraftfahrzeugen zu und von ihrer Eigenart nach wechselnden Arbeitsstellen, insbesondere Baustellen, sofern nicht ein solcher Verkehr zwischen gleichbleibenden Ausgangs- und Endpunkten länger als ein Jahr betrieben wird,</item>
+                            <item n="b)">von Berufstätigen mit Kraftfahrzeugen zu und von Arbeitsstellen in der Land- und Forstwirtschaft,</item>
+                            <item n="c)">mit Kraftfahrzeugen durch oder für Kirchen oder sonstige Religionsgesellschaften zu und von Gottesdiensten,</item>
+                            <item n="d)">mit Kraftfahrzeugen durch oder für Schulträger zum und vom Unterricht,</item>
+                            <item n="e)">von Kranken aus Gründen der Beschäftigungstherapie oder zu sonstigen Behandlungszwecken durch Krankenhäuser oder Heilanstalten mit eigenen Kraftfahrzeugen,</item>
+                            <item n="f)">von Berufstätigen mit Personenkraftwagen von und zu ihren Arbeitsstellen,</item>
+                            <item n="g)">von körperlich, geistig oder seelisch behinderten Personen mit Kraftfahrzeugen zu und von Einrichtungen, die der Betreuung dieser Personenkreise dienen,</item>
+                            <item n="h)">von Arbeitnehmern durch den Arbeitgeber zu betrieblichen Zwecken zwischen Arbeitsstätten desselben Betriebes,</item>
+                            <item n="i)">mit Kraftfahrzeugen durch oder für Kindergartenträger zwischen Wohnung und Kindergarten,</item>
+                        </list>es sei denn, daß von den Beförderten ein Entgelt zu entrichten ist;</item>
+                    <item n="5.">Beförderungen durch die Streitkräfte mit eigenen Kraftfahrzeugen;</item>
+                    <item n="6.">Beförderungen durch die Polizei mit eigenen Kraftfahrzeugen;</item>
+                    <item n="7.">die Mitnahme von<list>
+                            <item n="a)">umziehenden Personen in besonders für die Möbelbeförderung eingerichteten Fahrzeugen,</item>
+                            <item n="b)">Personen in Kraftfahrzeugen, die zur Leichenbeförderung bestimmt sind.</item>
+                        </list>
+                    </item>
+                </list>
+                <p>Satz 1 Nummer 4 gilt für entgeltliche Beförderungen mit einem Kraftomnibus nur dann, wenn</p>
+                <list>
+                    <item n="1.">die Voraussetzungen nach Artikel 1 Absatz 4 Buchstabe b oder c der Verordnung (EG) Nr. 1071/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Festlegung gemeinsamer Regeln für die Zulassung zum Beruf des Kraftverkehrsunternehmers und zur Aufhebung der Richtlinie 96/26/EG des Rates (ABl. L 300 vom 14.11.2009, S. 51) erfüllt sind,</item>
+                    <item n="2.">der Unternehmer ausschließlich innerstaatliche Beförderungen im Sinne des Artikels 1 Absatz 5 der Verordnung (EG) Nr. 1071/2009 durchführt oder</item>
+                    <item n="3.">das Fahrzeug durch den Unternehmer auch bei Beförderungen eingesetzt wird, für die er eine Genehmigung nach dem Personenbeförderungsgesetz besitzt.</item>
+                </list>
+                <p>§ 1 Satz 1 Nr. 5: Gilt nicht in Berlin gemäß § 2</p>
+            </div>
+            <div xml:id="d124e96">
+                <head>§ 2</head>
+                <p>Diese Verordnung - mit Ausnahme des § 1 Nr. 5 - gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 66 des Personenbeförderungsgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d124e106">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.</p>
+            </div>
+            <div xml:id="d124e116">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Verkehr</p>
+            </div>
+        </body>
+    </text>
+</TEI>

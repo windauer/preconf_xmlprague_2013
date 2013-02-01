@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR021900998">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Geigenbauer-Handwerk</title>
+                <title type="short">GeigbMstrV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1998-01-26</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 4.1998 +++)</p>
+        </front>
+        <body>
+            <div>
+                <head>1. Abschnitt</head>
+                <head type="subtitle">Berufsbild</head>
+                <div xml:id="d881e38">
+                    <head>§ 1</head>
+                    <p>(1) Dem Geigenbauer-Handwerk sind folgende Tätigkeiten zuzurechnen:Entwurf, Herstellung, Instandhaltung und Restaurierung von Streichinstrumenten, insbesondere von Geigen, Bratschen, Celli, Kontrabässen und Gamben.</p>
+                    <p>(2) Dem Geigenbauer-Handwerk sind folgende Kenntnisse und Fertigkeiten zuzurechnen:</p>
+                    <list>
+                        <item n="1.">Kenntnisse der Streichinstrumente, insbesondere ihrer Herstellung,</item>
+                        <item n="2.">Kenntnisse der berufsbezogenen Werk- und Hilfsstoffe,</item>
+                        <item n="3.">Kenntnisse der berufsbezogenen Werkzeuge, Geräte und Maschinen,</item>
+                        <item n="4.">Kenntnisse der berufsbezogenen Musik- und Musikinstrumentengeschichte sowie der Stilkunde,</item>
+                        <item n="5.">Kenntnisse auf dem Gebiet der Musiktheorie,</item>
+                        <item n="6.">Kenntnisse der berufsbezogenen Physik, insbesondere Akustik und Statik,</item>
+                        <item n="7.">Kenntnisse der Mensuren sowie der berufsbezogenen Normen,</item>
+                        <item n="8.">Kenntnisse der Möglichkeiten zur klanglichen und spieltechnischen Beeinflussung von Streichinstrumenten,</item>
+                        <item n="9.">Kenntnisse der Instandhaltung und Restaurierung von Streichinstrumenten,</item>
+                        <item n="10.">Kenntnisse der Arten und Eigenschaften von Saiten,</item>
+                        <item n="11.">Kenntnisse der Arten und Eigenschaften von Streichbögen,</item>
+                        <item n="12.">Kenntnisse der berufsbezogenen Vorschriften des Umweltschutzes,</item>
+                        <item n="13.">Kenntnisse der berufsbezogenen Vorschriften der Arbeitssicherheit und des Arbeitsschutzes,</item>
+                        <item n="14.">Entwerfen und Anfertigen von Skizzen und Werkzeichnungen sowie Anfertigen von Schablonen und Zulagen,</item>
+                        <item n="15.">Auswählen, Zuschneiden, Lagern und Messen der Hölzer,</item>
+                        <item n="16.">Bearbeiten der Werkstoffe, insbesondere Sägen, Bohren, Hobeln, Biegen und Schneiden,</item>
+                        <item n="17.">Herstellen von Verbindungen, insbesondere durch Fugen, Leimen und Kleben,</item>
+                        <item n="18.">Fugen, Abrichten sowie Ausarbeitung der Wölbung, insbesondere Stechen, Hobeln und Putzen,</item>
+                        <item n="19.">Ausschneiden der F-Löcher sowie Anpassen und Anleimen des Baßbalkens,</item>
+                        <item n="20.">Anfertigen des Halses, insbesondere Ausstechen und Schnitzen,</item>
+                        <item n="21.">Zusammenbauen des Instrumentes,</item>
+                        <item n="22.">Herstellen und Anbringen von Einlagen,</item>
+                        <item n="23.">manuelle und maschinelle Oberflächenbearbeitung, insbesondere Putzen, Schleifen, Grundieren, Lackieren und Polieren,</item>
+                        <item n="24.">Anfertigen und Einsetzen des Stimmstockes,</item>
+                        <item n="25.">Anfertigen und Aufpassen des Steges,</item>
+                        <item n="26.">Zurichten und Aufbringen des Griffbrettes,</item>
+                        <item n="27.">Anbringen von Mechaniken und Einpassen von Wirbeln,</item>
+                        <item n="28.">Beziehen, Stimmen und Anspielen,</item>
+                        <item n="29.">Pflegen und Instandhalten von Streichinstrumenten,</item>
+                        <item n="30.">Pflegen und Instandhalten der berufsbezogenen Werkzeuge, Geräte und Maschinen.</item>
+                    </list>
+                </div>
+            </div>
+            <div>
+                <head>2. Abschnitt</head>
+                <head type="subtitle">Prüfungsanforderungen in den Teilen I und II der Meisterprüfung</head>
+                <div xml:id="d881e132">
+                    <head>§ 2</head>
+                    <p>(1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.</p>
+                    <p>(2) Die Anfertigung der Meisterprüfungsarbeit soll nicht länger als 30 Arbeitstage, die Ausführung der Arbeitsprobe nicht länger als acht Stunden dauern.</p>
+                    <p>(3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.</p>
+                </div>
+                <div xml:id="d881e148">
+                    <head>§ 3</head>
+                    <p>(1) Als Meisterprüfungsarbeit ist eine der nachstehend genannten Arbeiten anzufertigen:</p>
+                    <list>
+                        <item n="1.">Bau einer lackierten und spielfertigen Geige,</item>
+                        <item n="2.">Bau einer lackierten und spielfertigen Bratsche,</item>
+                        <item n="3.">Bau eines lackierten und spielfertigen Cellos,</item>
+                        <item n="4.">Bau eines lackierten und spielfertigen Kontrabasses,</item>
+                        <item n="5.">Bau einer lackierten und spielfertigen Gambe.</item>
+                    </list>
+                    <p>(2) Der Prüfling hat vor Anfertigung der Meisterprüfungsarbeit dem Meisterprüfungsausschuß eine technische Zeichnung zur Genehmigung vorzulegen.</p>
+                    <p>(3) Mit der Meisterprüfungsarbeit sind die technische Zeichnung und die Kalkulation vorzulegen.</p>
+                    <p>(4) Die technische Zeichnung und die Kalkulation sind bei der Bewertung der Meisterprüfungsarbeit zu berücksichtigen.</p>
+                </div>
+                <div xml:id="d881e177">
+                    <head>§ 4</head>
+                    <p>(1) Als Arbeitsprobe sind drei der nachstehend genannten Arbeiten, davon in jedem Fall die nach Nummer 1, auszuführen:</p>
+                    <list>
+                        <item n="1.">Anfertigen eines Halsanschäfters,</item>
+                        <item n="2.">Einpassen eines Wirbelkastenfutters,</item>
+                        <item n="3.">Einpassen eines Baßbalkens,</item>
+                        <item n="4.">Umschneiden eines Randes und Einlegen eines Spanes,</item>
+                        <item n="5.">Montieren eines Streichinstrumentes,</item>
+                        <item n="6.">Anfertigen eines Griffbrettes,</item>
+                        <item n="7.">Herstellen und Einpassen einer Stimme sowie Aufschneiden eines Steges,</item>
+                        <item n="8.">Ausschneiden eines F-Loches,</item>
+                        <item n="9.">Reparieren eines Deckenrisses,</item>
+                        <item n="10.">Ansetzen eines Deckenrandes oder einer Deckenecke mit Verputzen und Retuschieren.</item>
+                    </list>
+                    <p>(2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.</p>
+                </div>
+                <div xml:id="d881e212">
+                    <head>§ 5</head>
+                    <p>(1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:</p>
+                    <list>
+                        <item n="1.">Technische Mathematik:<list>
+                                <item n="a)">Verschnittberechnungen,</item>
+                                <item n="b)">Mensuren,</item>
+                                <item n="c)">Flächen-, Längen-, Gewichts-, Volumen- und Körperberechnungen;</item>
+                            </list>
+                        </item>
+                        <item n="2.">Fachtechnologie:<list>
+                                <item n="a)">Instandhaltung und Restaurierung von Streichinstrumenten,</item>
+                                <item n="b)">berufsbezogene Physik, insbesondere Akustik und Statik,</item>
+                                <item n="c)">Arten und Eigenschaften von Saiten,</item>
+                                <item n="d)">Arten und Eigenschaften von Streichbögen,</item>
+                                <item n="e)">berufsbezogene Vorschriften der Arbeitssicherheit und des Arbeitsschutzes;</item>
+                            </list>
+                        </item>
+                        <item n="3.">Werkstoffkunde: Arten, Eigenschaften, Bezeichnungen, Verwendung, Verarbeitung, Lagerung und Entsorgung der berufsbezogenen Werk- und Hilfsstoffe;</item>
+                        <item n="4.">Stilkunde, Musik- und Musikinstrumentengeschichte, Musiktheorie:<list>
+                                <item n="a)">Stilkunde,</item>
+                                <item n="b)">Musik- und Musikinstrumentengeschichte, insbesondere der Streichinstrumente,</item>
+                                <item n="c)">Musiktheorie;</item>
+                            </list>
+                        </item>
+                        <item n="5.">Kalkulation: Kostenermittlung unter Einbeziehung aller für die Preisbildung wesentlichen Faktoren.</item>
+                    </list>
+                    <p>(2) Die Prüfung ist schriftlich und mündlich durchzuführen.</p>
+                    <p>(3) Die schriftliche Prüfung soll insgesamt nicht länger als zwölf Stunden, die mündliche je Prüfling nicht länger als eine halbe Stunde dauern. In der schriftlichen Prüfung soll an einem Tag nicht länger als sechs Stunden geprüft werden.</p>
+                    <p>(4) Der Prüfling ist von der mündlichen Prüfung auf Antrag zu befreien, wenn er im Durchschnitt mindestens gute schriftliche Leistungen erbracht hat.</p>
+                    <p>(5) Mindestvoraussetzung für das Bestehen des Teils II sind ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 2.</p>
+                </div>
+            </div>
+            <div>
+                <head>3. Abschnitt</head>
+                <head type="subtitle">Übergangs- und Schlußvorschriften</head>
+                <div xml:id="d881e282">
+                    <head>§ 6</head>
+                    <p>Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.</p>
+                </div>
+                <div xml:id="d881e294">
+                    <head>§ 7</head>
+                    <p>Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.</p>
+                </div>
+                <div xml:id="d881e306">
+                    <head>§ 8</head>
+                    <p>(1) Diese Verordnung tritt am 1. April 1998 in Kraft.</p>
+                    <p>(2) Die auf Grund des § 122 der Handwerksordnung weiter anzuwendenden Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

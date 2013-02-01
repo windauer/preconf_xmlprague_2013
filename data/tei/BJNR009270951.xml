@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR009270951">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erlaß über die Amtsschilder der Bundesbehörden</title>
+                <title type="short">AmtsschErl</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1951-09-25</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d452e20">
+                <head>Eingangsformel</head>
+                <p>Auf Beschluß der Bundesregierung gebe ich folgendes bekannt:</p>
+            </div>
+            <div xml:id="d452e30">
+                <head>1.</head>
+                <p>(1) Das Amtsschild der Bundesbehörden ist ein rotgerändertes, goldfarbenes Rechteck, in dem sich der schwarze Bundesadler befindet, den Kopf nach rechts gewendet, die Flügel offen, aber mit geschlossenem Gefieder, Schnabel, Zunge und Fänge von roter Farbe.</p>
+                <p>(2) Unter dem Bundesadler ist (in der Regel ohne Angabe des Ortes) die Dienststellenbezeichnung mit schwarzer Schrift angebracht. In der Beschriftung ist der Artikel wegzulassen.</p>
+            </div>
+            <div xml:id="d452e42">
+                <head>2.</head>
+                <p>(1) Befinden sich in einem Gebäude mehrere zur Führung des Amtsschildes der Bundesbehörden berechtigte Dienststellen, so können sie ein gemeinsames Schild mit dem Bundesadler verwenden.</p>
+                <p>(2) Die Dienststellenbezeichnungen werden in diesem Fall auf besonderen, untereinander aufgehängten Anhängeschildern angeführt.</p>
+            </div>
+            <div xml:id="d452e54">
+                <head>3.</head>
+                <p>(1) Es sind drei Größen für Amtsschilder zugelassen. Die Abmessungen betragen in Zentimetern:GrößeIIIIIIa) Breite4229,721b) Höhe&#160;&#160;&#160;&#160;1. des allgemeinen Amtsschildes (Ziffer 1)59,44229,7&#160;2. des gemeinsamen Amtsschildes mehrerer Dienststellen (Ziffer 2)42,43021,2&#160;3. der Anhängeschilder zu Ziffer 2&#160;&#160;&#160;&#160;bei einzeiliger Beschriftung17128,5&#160;bei zweizeiliger Beschriftung241712</p>
+                <p>(2) Welche der zugelassenen Größen des Amtsschildes gewählt wird, bestimmt sich nach der Größe und Gestaltung des Gebäudes und der Fläche, auf der das Amtsschild befestigt werden soll.</p>
+            </div>
+            <div xml:id="d452e157">
+                <head>4.</head>
+                <p>Für die Gestaltung der Amtsschilder und ihre Beschriftung ist das beigefügte Muster maßgebend.</p>
+            </div>
+            <div xml:id="d452e168">
+                <head>5.</head>
+                <p>(1) Zur Führung des Amtsschildes nach Ziffer 1 sind alle Bundesbehörden sowie die Bundesanstalt für Arbeitsvermittlung und Arbeitslosenversicherung berechtigt.</p>
+                <p>(2) Die übrigen rechtsfähigen bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts gehören nicht zu den Bundesbehörden im Sinne des Absatzes 1.</p>
+                <p>(3) Über die Berechtigung zur Führung des Amtsschildes entscheidet in Zweifelsfällen der Bundesminister des Innern im Benehmen mit den zuständigen Fachministern.</p>
+            </div>
+            <div xml:id="d452e183">
+                <head>6.</head>
+                <p>Die Bestimmungen über die Amtsschilder der deutschen Vertretungen im Ausland erläßt das Auswärtige Amt.</p>
+            </div>
+            <div xml:id="d452e193">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister des Innern</p>
+            </div>
+        </body>
+    </text>
+</TEI>

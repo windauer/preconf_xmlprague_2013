@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR009300009">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dritte Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen</title>
+                <title type="short">AusbBerAufhV 3</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>2009-01-22</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 31.1.2009 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d455e21">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 4 Absatz 1 in Verbindung mit § 104 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:</p>
+            </div>
+            <div xml:id="d455e31">
+                <head>§ 1</head>
+                <p>Die Anerkennung des Ausbildungsberufes Schiffszimmerer/Schiffszimmerin wird aufgehoben.</p>
+            </div>
+            <div xml:id="d455e43">
+                <head>§ 2</head>
+                <p>Personen, die vor Inkrafttreten dieser Verordnung in dem in § 1 genannten Ausbildungsberuf ausgebildet worden sind oder im Zeitpunkt des Inkrafttretens dieser Verordnung darin ausgebildet werden und diese Berufsausbildung nach § 4 Absatz 4 des Berufsbildungsgesetzes fortsetzen, bleiben in ihrem Ausbildungsstatus unberührt.</p>
+            </div>
+            <div xml:id="d455e55">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am Tag nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

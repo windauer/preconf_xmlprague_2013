@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR008850972">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten für kirchliche Berufe</title>
+                <title type="short">KirchenberufeV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1972-06-08</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.7.1980 +++)</p>
+            <p>V tritt in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anl. I Kap. XVI Sachgeb. B Abschn. II EingS. EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 1132 am 1.1.1991 in Kraft</p>
+        </front>
+        <body>
+            <div xml:id="d419e28">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 2 Abs. 3 des Bundesausbildungsförderungsgesetzes vom 26. August 1971 (Bundesgesetzbl. I S. 1409) verordnet die Bundesregierung mit Zustimmung des Bundesrates:</p>
+            </div>
+            <div xml:id="d419e38">
+                <head>§ 1</head>
+                <p>(1) Ausbildungsförderung nach dem Bundesausbildungsförderungsgesetz wird geleistet für den Besuch von Ausbildungsstätten für</p>
+                <list>
+                    <item n="1.">Diakone,</item>
+                    <item n="2.">Gemeindehelfer, kirchliche Jugend- und Jugendbildungssekretäre, Katecheten, Missionsanwärter und Seelsorgehelfer,</item>
+                    <item n="3.">Kirchenmusiker mit A- und B-Ausbildung,</item>
+                    <item n="4.">Missionare, Pastoren, Pfarrvikare, Pfarrverwalter und Prediger.</item>
+                </list>
+                <p>(2) Ausbildungsförderung wird nur geleistet, wenn die zuständige Landesbehörde anerkennt, daß der Besuch der Ausbildungsstätte dem Besuch einer öffentlichen Einrichtung oder einer genehmigten Ersatzschule gleichwertig ist.</p>
+            </div>
+            <div xml:id="d419e61">
+                <head>§ 2</head>
+                <p>Die Auszubildenden erhalten Ausbildungsförderung für den Besuch der in</p>
+                <list>
+                    <item n="1.">§ 1 Abs. 1 Nr. 1 und 2 bezeichneten Ausbildungsstätten wie Schüler von Fachschulen,</item>
+                    <item n="2.">§ 1 Abs. 1 Nr. 3 bezeichneten Ausbildungsstätten wie Studierende an Höheren Fachschulen,</item>
+                    <item n="3.">§ 1 Abs. 1 Nr. 4 bezeichneten Ausbildungsstätten in den ersten beiden Ausbildungsjahren wie Schüler von Berufsaufbauschulen, in den anschließenden Ausbildungsjahren wie Studierende an Höheren Fachschulen.</item>
+                </list>
+                <p>Abweichend von Satz 1 Nr. 3 erhalten Auszubildende an den Evangelischen freikirchlichen theologischen Seminaren in Hamburg, Dietzhölztal und Reutlingen im ersten Ausbildungsjahr Ausbildungsförderung wie Schüler von Fachoberschulklassen, deren Besuch eine abgeschlossene Berufsausbildung voraussetzt, in den anschließenden Ausbildungsjahren wie Studenten an Hochschulen.</p>
+            </div>
+            <div xml:id="d419e82">
+                <head>§ 3</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 67 des Bundesausbildungsförderungsgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d419e94">
+                <head>§ 4</head>
+                <p>Diese Verordnung tritt mit Wirkung vom 1. Oktober 1971 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

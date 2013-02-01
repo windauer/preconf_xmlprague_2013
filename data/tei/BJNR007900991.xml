@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR007900991">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Änderung der Beitragssätze in der gesetzlichen Rentenversicherung und bei der Bundesanstalt für Arbeit</title>
+                <title type="short">BeitrSRV/BAÄndG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1991-03-22</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 4.1991 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d329e22">
+                <head>(XXXX) Art 1 bis 3</head>
+            </div>
+            <div xml:id="d329e32">
+                <head>Art 4</head>
+                <p>Bei der Zahlung von freiwilligen Beiträgen für die Monate Januar bis März 1991 gilt abweichend von den allgemeinen Regelungen über die Zahlung von Beiträgen zur freiwilligen Versicherung ein Beitragssatz von 18,7 v. H.</p>
+            </div>
+            <div xml:id="d329e44">
+                <head>Art 5</head>
+                <p>Dieses Gesetz tritt am 1. April 1991 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

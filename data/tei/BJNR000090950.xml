@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000090950">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz betreffend das Abkommen über Wirtschaftliche Zusammenarbeit zwischen den Vereinigten Staaten von Amerika und der Bundesrepublik Deutschland vom 15. Dezember 1949</title>
+                <title type="short">MarshallplAbkG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1950-01-31</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)Für Berlin vgl. GVBl. 1953 S. 199</p>
+        </front>
+        <body>
+            <div xml:id="d995e28">
+                <head>Art I</head>
+                <p>Dem am 15. Dezember 1949 in Bonn unterzeichneten Abkommen über Wirtschaftliche Zusammenarbeit zwischen den Vereinigten Staaten von Amerika und der Bundesrepublik Deutschland wird zugestimmt.</p>
+            </div>
+            <div xml:id="d995e39">
+                <head>Art II</head>
+                <p>(1) Das Abkommen wird nachstehend mit Gesetzeskraft veröffentlicht.</p>
+                <p>(2)</p>
+            </div>
+            <div xml:id="d995e52">
+                <head>Art III</head>
+                <p>Die im Zusammenhang mit dem Abkommen der Bundesrepublik Deutschland entstandenen und noch entstehenden Vermögenswerte bilden ein Sondervermögen des Bundes, auf das die Vorschriften der Bundeshaushaltsordnung Anwendung finden. Die Rechnungsprüfung erfolgt durch den Bundesrechnungshof.</p>
+            </div>
+            <div xml:id="d995e63">
+                <head>Art IV</head>
+                <p>Die Bundesregierung wird ermächtigt, im Wege der Rechtsverordnung gemäß Artikel II Abs. 1 des Abkommens Ausführungsbestimmungen über die Kontrolle der Lieferung und Verwendung der mit Marshallplan-Mitteln finanzierten Einfuhrwaren (Marshallplanwaren) dahin zu erlassen, daß die Einführer oder späteren Besitzer von Marshallplanwaren verpflichtet werden, Auskünfte zu erteilen, Bescheinigungen anerkannter Kontrolleure oder öffentlich bestellter und vereidigter Sachverständiger vorzulegen und Rechte aus unvollständiger oder mangelhafter Lieferung geltend zu machen, ferner Prüfungen der Handelsbücher, der Geschäftspapiere und der Lagerbestände vornehmen zu lassen. Diese Ermächtigung umfaßt das Recht der Bundesregierung, sich bei der Ausübung der bezeichneten Befugnisse der Hilfe einer Warenrevisionsstelle zu bedienen, mit deren Geschäftsführung eine öffentlich bestellte Wirtschaftsprüfungsgesellschaft beauftragt werden kann.</p>
+            </div>
+            <div xml:id="d995e74">
+                <head>Art V</head>
+                <p>Dieses Gesetz tritt mit dem Tag nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

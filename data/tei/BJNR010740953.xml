@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR010740953">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Gleichstellung von aus dem Saargebiet verdrängten Deutschen</title>
+                <title type="short">SaarGlV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1953-08-25</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>Überschrift: Gilt nicht im Saarland gem. § 2 IV C Nr. 6 G v. 30.6.1959 101-3(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d573e23">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 14 des Gesetzes über die Angelegenheiten der Vertriebenen und Flüchtlinge (Bundesvertriebenengesetz) vom 19. Mai 1953 (Bundesgesetzbl. I S. 201) verordnet die Bundesregierung mit Zustimmung des Bundesrates:</p>
+            </div>
+            <div xml:id="d573e33">
+                <head>§ 1</head>
+                <p>(1) Deutsche Staatsangehörige oder deutsche Volkszugehörige, die im Zeitpunkt der Besetzung ihren Wohnsitz im Saargebiet hatten und diesen auf Grund politisch bedingter und von ihnen nicht zu vertretender Maßnahmen der Besatzungsmacht oder der Saarbehörden aufgeben mußten oder aus den gleichen Gründen dorthin nicht zurückkehren konnten, werden Sowjetzonenflüchtlingen im Sinne des § 3 des Bundesvertriebenengesetzes gleichgestellt.</p>
+                <p>(2) § 1 Abs. 1 Satz 2und 3,Abs. 2 Nr. 4 und Abs. 3 des Bundesvertriebenengesetzes findet sinngemäß Anwendung.</p>
+                <p>§ 1 Abs. 2: Kursivdruck jetzt § 1 Abs. 4 BVFG 240-1</p>
+            </div>
+            <div xml:id="d573e51">
+                <head>§ 2</head>
+                <p>Nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 107 des Bundesvertriebenengesetzes vom 19. Mai 1953 gilt diese Verordnung auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d573e61">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

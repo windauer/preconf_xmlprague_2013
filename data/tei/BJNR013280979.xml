@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR013280979">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung über die Bestimmung der zuständigen Stelle nach § 84 des Berufsbildungsgesetzes</title>
+                <title type="short">BBiG§84AnO 10</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1979-07-26</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 5. 8.1979 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d761e20">
+                <head>I.</head>
+                <p>Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), geändert durch Gesetz vom 12. März 1971 (BGBl. I S. 185), sowie des § 1 Abs. 3 des Gesetzes über die Errichtung des Bundesverwaltungsamtes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 200-2, veröffentlichten bereinigten Fassung bestimme ich im Einvernehmen mit dem Bundesminister des Innern</p>
+                <list>
+                    <item n="">
+                        <list>
+                            <item n="">das Bundesverwaltungsamt</item>
+                        </list>
+                    </item>
+                </list>
+                <p>zur zuständigen Stelle im Sinne des § 84 des Berufsbildungsgesetzes für meinen Geschäftsbereich.</p>
+            </div>
+            <div xml:id="d761e36">
+                <head>II.</head>
+                <p>Diese Anordnung tritt am Tag nach der Bekanntmachung in Kraft.</p>
+            </div>
+            <div xml:id="d761e46">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Raumordnung, Bauwesen und Städtebau</p>
+            </div>
+        </body>
+    </text>
+</TEI>

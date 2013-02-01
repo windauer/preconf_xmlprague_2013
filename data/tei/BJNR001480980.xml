@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR001480980">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung zu § 4 des Warenzeichengesetzes</title>
+                <title type="short">WZG§4COMECONBek 1980</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1980-02-11</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 22. 2.1980 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1141e20">
+                <head>(XXXX)</head>
+                <p>(1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird bekanntgemacht, daß die Bezeichnungen, Abkürzungen und Kennzeichen des Rates für Gegenseitige Wirtschaftshilfe (Anlagen 1 und 2) von der Eintragung als Warenzeichen ausgeschlossen sind.</p>
+                <p>(2) Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 22. November 1979 (BGBl. I S. 1999).*</p>
+            </div>
+            <div xml:id="d1141e33">
+                <head>Schlussformel</head>
+                <p>Der Bundesminister der Justiz</p>
+            </div>
+            <div xml:id="d1141e43">
+                <head>Anlage 1</head>
+                <p>(Inhalt: Nicht darstellbare Bezeichnungen,Fundstelle: BGBl. I 1980, 149)</p>
+            </div>
+            <div xml:id="d1141e60">
+                <head>Anlage 2</head>
+                <p>(Inhalt: Nicht darstellbare Kennzeichen,Fundstelle: BGBl. I 1980, 150)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

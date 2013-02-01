@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000220985">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arzneimittel-Warnhinweisverordnung</title>
+                <title type="short">AMWarnV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1984-12-21</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>(+++ Textnachweis ab: 1. 4.1985 +++)(+++ Änderungen aufgrund EinigVtr vgl. § 6 +++)(+++ Stand: EinigVtr v. 31. 8.1990 iVm Art. 1 G v. 23. 9.1990 +++)<list>
+                <item n="">
+                    <list>
+                        <item n="">
+                            <list>
+                                <item n="">- BGBl. II 1990, 885, 1085 -</item>
+                            </list>
+                        </item>
+                    </list>
+                </item>
+            </list>
+        </front>
+        <body>
+            <div xml:id="d1022e34">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 12 Abs. 1 Nr. 1 und 3 des Arzneimittelgesetzes vom 24. August 1976 (BGBl. I S. 2445, 2448) wird im Einvernehmen mit dem Bundesminister für Wirtschaft mit Zustimmung des Bundesrates verordnet:</p>
+            </div>
+            <div xml:id="d1022e44">
+                <head>§ 1</head>
+                <p>(1) Diese Verordnung ist anzuwenden auf Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1 des Arzneimittelgesetzes, die dazu bestimmt sind, in einer zur Abgabe an den Verbraucher bestimmten Packung in den Verkehr gebracht zu werden und die</p>
+                <list>
+                    <item n="1.">Äthanol enthalten und zur inneren Anwendung bei Menschen bestimmt sind, sofern sie<list>
+                            <item n="a)">flüssige Zubereitungen zur oralen Einnahme sind und der Äthanolgehalt in der maximalen Einzelgabe nach der Dosierungsanleitung mindestens 0,05 g beträgt oder</item>
+                            <item n="b)">Injektionslösungen, Infusionslösungen, Munddesinfektionsmittel oder Rachendesinfektionsmittel sind und der Äthanolgehalt in der maximalen Einzelgabe nach der Dosierungsanleitung mindestens 0,05 g beträgt oder</item>
+                        </list>
+                    </item>
+                    <item n="2.">Tartrazin enthalten und zur Anwendung bei Menschen bestimmt sind.</item>
+                </list>
+                <p>§ 10 Abs. 1 und 2 und § 11 Abs. 1 und 2 des Arzneimittelgesetzes gelten, soweit sie die Angabe des nach dieser Verordnung vorgeschriebenen Warnhinweises betreffen, auch für Arzneimittel nach Satz 1, die keine Fertigarzneimittel sind.</p>
+                <p>(2) Diese Verordnung ist nicht anzuwenden auf Arzneimittel, die zur klinischen Prüfung bestimmt sind.</p>
+            </div>
+            <div xml:id="d1022e70">
+                <head>§ 2</head>
+                <p>(1) Arzneimittel nach § 1 Abs. 1 Satz 1 Nr. 1 Buchstabe a dürfen nur in den Verkehr gebracht werden, wenn unter Angabe des Volumprozentgehaltes an Äthanol nachstehende Warnhinweise angebracht sind:</p>
+                <list>
+                    <item n="1.">Bei Arzneimitteln, die in der maximalen Einzelgabe nach der Dosierungsanleitung 0,05 g bis 0,5 g Äthanol enthalten: "Enthält ... Vol.-% Alkohol." und</item>
+                    <item n="2.">bei Arzneimitteln, die in der maximalen Einzelgabe nach der Dosierungsanleitung über 0,5 g Äthanol enthalten: "Enthält ... Vol.-% Alkohol; Packungsbeilage beachten!".</item>
+                </list>
+                <p>(2) Arzneimittel nach § 1 Abs. 1 Satz 1 Nr. 1 Buchstabe b dürfen nur in den Verkehr gebracht werden, wenn unter Angabe des Volumprozentgehaltes an Äthanol der Warnhinweis "Enthält ... Vol.-% Alkohol." angebracht ist.</p>
+                <p>(3) Arzneimittel nach § 1 Abs. 1 Satz 1 Nr. 2 dürfen nur in den Verkehr gebracht werden, wenn der Warnhinweis "Enthält Tartrazin; Packungsbeilage beachten!" angebracht ist.</p>
+                <p>(4) Die Warnhinweise müssen auf den Behältnissen und äußeren Umhüllungen in leicht lesbarer Schrift und auf dauerhafte Weise angebracht sein.</p>
+            </div>
+            <div xml:id="d1022e93">
+                <head>§ 3</head>
+                <p>(1) Arzneimittel nach § 1 Abs. 1 Satz 1 Nr. 1 Buchstabe a dürfen nur in den Verkehr gebracht werden, wenn auf der Packungsbeilage in leicht lesbarer Schrift ein Warnhinweis angebracht ist, der unter Angabe des Volumprozentgehaltes an Äthanol</p>
+                <list>
+                    <item n="1.">bei Arzneimitteln, die in der maximalen Einzelgabe nach der Dosierungsanleitung 0,05 g bis 0,5 g Äthanol enthalten, folgenden Wortlaut hat: "Enthält ... Vol.-% Alkohol.",</item>
+                    <item n="2.">bei Arzneimitteln, die in der maximalen Einzelgabe nach der Dosierungsanleitung über 0,5 g bis 3,0 g Äthanol enthalten, folgenden Wortlaut hat:"WarnhinweisDieses Arzneimittel enthält ... Vol.-% Alkohol. Bei Beachtung der Dosierungsanleitung werden bei jeder Einnahme bis zu ... g Alkohol zugeführt. Ein gesundheitliches Risiko besteht u. a. bei Leberkranken, Alkoholkranken, Epileptikern, Hirngeschädigten, Schwangeren und Kindern. Die Wirkung anderer Arzneimittel kann beeinträchtigt oder verstärkt werden." und</item>
+                    <item n="3.">bei Arzneimitteln, die in der maximalen Einzelgabe nach der Dosierungsanleitung über 3,0 g Äthanol enthalten, folgenden Wortlaut hat:"WarnhinweisDieses Arzneimittel enthält ... Vol.-% Alkohol. Bei Beachtung der Dosierungsanleitung werden bei jeder Einnahme bis zu ... g Alkohol zugeführt. Vorsicht ist geboten. Dieses Arzneimittel darf nicht angewendet werden bei Leberkranken, Alkoholkranken, Epileptikern, Hirngeschädigten, Schwangeren und Kindern. Die Wirkung anderer Arzneimittel kann beeinträchtigt oder verstärkt werden. Im Straßenverkehr und bei der Bedienung von Maschinen kann das Reaktionsvermögen beeinträchtigt werden."</item>
+                </list>
+                <p>In den Warnhinweisen nach Satz 1 Nr. 2 und 3 ist nach dem Wort "Einnahme" die Anzahl der für die Einnahme angegebenen Teelöffel, Eßlöffel, Meßlöffel, Meßbecher oder eine andere in der Dosierungsanleitung angegebene Menge in Klammern anzugeben.</p>
+                <p>(2) Arzneimittel nach § 1 Abs. 1 Satz 1 Nr. 1 Buchstabe b dürfen nur in den Verkehr gebracht werden, wenn auf der Packungsbeilage in leicht lesbarer Schrift ein Warnhinweis angebracht ist, der unter Angabe des Volumprozentgehaltes an Äthanol folgenden Wortlaut hat:"Enthält ... Vol.-% Alkohol".</p>
+                <p>(3) Arzneimittel nach § 1 Abs. 1 Satz 1 Nr. 2 dürfen nur in den Verkehr gebracht werden, wenn auf der Packungsbeilage in leicht lesbarer Schrift ein Warnhinweis angebracht ist, der folgenden Wortlaut hat:"WarnhinweisDieses Arzneimittel enthält den Farbstoff Tartrazin, der bei Personen, die gegen diesen Stoff besonders empfindlich sind, allergieartige Reaktionen hervorrufen kann".</p>
+                <p>(4) Die Absätze 1 bis 3 gelten für Arzneimittel, die</p>
+                <list>
+                    <item n="1.">im Einzelfall auf besondere Anforderung oder Bestellung hergestellt werden,</item>
+                    <item n="2.">gemäß Artikel 3 § 11 Abs. 2 des Gesetzes zur Neuordnung des Arzneimittelrechts ohne Packungsbeilage in den Verkehr gebracht werden,</item>
+                </list>
+                <p>nur dann, wenn der vorgeschriebene Warnhinweis von dem in § 2 genannten Warnhinweis abweicht, und mit der Maßgabe, daß der Warnhinweis nach Absatz 1, 2 oder 3 in leicht lesbarer Schrift dem Behältnis beigefügt oder auf ihm angebracht sein muß.</p>
+            </div>
+            <div xml:id="d1022e139">
+                <head>§ 3a</head>
+                <p>Der nach § 3 Abs. 1, 2 oder 3 vorgeschriebene Warnhinweis ist auch auf der Fachinformation anzugeben.</p>
+            </div>
+            <div xml:id="d1022e152">
+                <head>§ 4</head>
+                <p>Wer vorsätzlich oder fahrlässig</p>
+                <list>
+                    <item n="1.">entgegen § 2 Arzneimittel ohne den vorgeschriebenen Warnhinweis in den Verkehr bringt, handelt nach § 97 Abs. 2 Nr. 4 des Arzneimittelgesetzes ordnungswidrig oder</item>
+                    <item n="2.">entgegen § 3 Abs. 1, 2 oder 3 Arzneimittel ohne den vorgeschriebenen Warnhinweis in den Verkehr bringt, handelt nach § 97 Abs. 2 Nr. 5 des Arzneimittelgesetzes ordnungswidrig.</item>
+                </list>
+            </div>
+            <div xml:id="d1022e169">
+                <head>§ 5</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 99 des Arzneimittelgesetzes auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d1022e181">
+                <head>§ 6</head>
+                <p>(1) Diese Verordnung tritt am 1. April 1985 in Kraft.</p>
+                <p>(2) Arzneimittel, die sich am 1. April 1985 im Verkehr befinden, dürfen vom pharmazeutischen Unternehmer noch bis zum 31. Dezember 1985 und von Groß- und Einzelhändlern noch bis zum 31. Dezember 1986 ohne die vorgeschriebenen Warnhinweise oder mit den Warnhinweisen, die vor Inkrafttreten der Verordnung durch die zuständige Bundesoberbehörde nach § 28 des Arzneimittelgesetzes angeordnet worden sind, weiter in den Verkehr gebracht werden.</p>
+                <p>(3) Arzneimittel, die den Bestimmungen der §§ 1 bis 3a nicht entsprechen und die sich bei Wirksamwerden des Beitritts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet in Verkehr befinden, dürfen dort von pharmazeutischen Unternehmen noch bis zum 31. Dezember 1991 und danach noch von Groß- und Einzelhändlern in den Verkehr gebracht werden, sofern sie den vor Wirksamwerden des Beitritts geltenden arzneimittelrechtlichen Vorschriften der Deutschen Demokratischen Republik entsprechen.</p>
+            </div>
+            <div xml:id="d1022e198">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Jugend, Familie und Gesundheit</p>
+            </div>
+        </body>
+    </text>
+</TEI>

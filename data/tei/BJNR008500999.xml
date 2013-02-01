@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR008500999">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Anwendung von Normen für voll digitale Fernsehdienste</title>
+                <title type="short">FDNormV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1999-02-04</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 19. 2.1999 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d384e22">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 3 Abs. 1 Satz 2 des Fernsehsignalübertragungs-Gesetzes vom 14. November 1997 (BGBl. I S. 2710) in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705), dem Organisationserlaß vom 17. Dezember 1997 (BGBl. 1998 I S. 68) und dem Organisationserlaß vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Wirtschaft und Technologie:</p>
+            </div>
+            <div xml:id="d384e32">
+                <head>§ 1</head>
+                <p>(1) Für Übertragungssysteme für voll digitale Fernsehdienste müssen nachstehende Normen des Europäischen Instituts für Telekommunikationsnormen ETSI angewendet werden:</p>
+                <list>
+                    <item n="a)">Terrestrische Übertragungssysteme: DIN ETS 300744 "Digitaler Fernsehrundfunk (DVB); Rahmenstruktur, Kanalcodierung und Modulation für das digitale terrestrische Fernsehen (DVB-T)"</item>
+                    <item n="b)">Satelliten-Übertragungssysteme: DIN ETS 300421 "Digitale Rundfunk-Systeme für Fernsehen, Ton und Datendienste; Rahmenstruktur, Kanalcodierung und Modulation für Dienste über Satellit bei 11/12 GHz"</item>
+                    <item n="c)">Kabel-Übertragungssysteme: DIN ETS 300429 "Digitale Rundfunk-Systeme für Fernsehen, Ton und Datendienste; Rahmenstruktur, Kanalcodierung und Modulation bei Kabelsystemen"</item>
+                </list>
+                <p>(2) Für die unter Absatz 1 genannten Normen gilt die jeweilige aktuelle Fassung unter der Voraussetzung, daß die Abwärtskompatibilität gewährleistet ist. Dies schließt das Überführen der Normen von DIN ETS nach DIN EN ein.</p>
+            </div>
+            <div xml:id="d384e53">
+                <head>§ 2</head>
+                <p>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

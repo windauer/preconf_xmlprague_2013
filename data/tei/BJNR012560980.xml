@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR012560980">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registrierung von Verbänden und deren Vertreter (Anlage 2 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)</title>
+                <title type="short">BTGO1980Anl 2</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1980-06-25</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.10.1980 +++)</p>
+            <p>(+++ Text der Geschäftsordnung siehe: BTGO 1980 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d707e23">
+                <head>(XXXX)</head>
+                <p>(1) Der Präsident des Bundestages führt eine öffentliche Liste, in der alle Verbände, die Interessen gegenüber dem Bundestag oder der Bundesregierung vertreten, eingetragen werden.</p>
+                <p>(2) Eine Anhörung ihrer Vertreter findet nur statt, wenn sie sich in diese Liste eingetragen haben und dabei folgende Angaben gemacht haben:</p>
+                <list>
+                    <item n="">Name und Sitz des Verbandes Zusammensetzung von Vorstand und Geschäftsführung Interessenbereich des Verbandes Mitgliederzahl Namen der Verbandsvertreter sowie Anschrift der Geschäftsstelle am Sitz von Bundestag und Bundesregierung.</item>
+                </list>
+                <p>(3) Hausausweise für Interessenvertreter werden nur ausgestellt, wenn die Angaben nach Absatz 2 gemacht wurden.</p>
+                <p>(4) Die Eintragung in die Liste begründet keinen Anspruch auf Anhörung oder Ausstellung eines Hausausweises.</p>
+                <p>(5) Die Liste ist vom Präsidenten jährlich im Bundesanzeiger zu veröffentlichen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

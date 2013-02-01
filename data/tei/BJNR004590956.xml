@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004590956">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Regelung des militärischen Vorgesetztenverhältnisses</title>
+                <title type="short">SVorgesV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1956-06-04</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1964 +++)</p>
+            <p>Überschrift: IdF d. Art. 1 Nr. 1 V v. 7.10.1981 I 1129 mWv 25.10.1981. Eingeführt im Saarland gem. § 1 Nr. 65 V v. 26.8.1957 I 1255</p>
+        </front>
+        <body>
+            <div>
+                <head>I.</head>
+                <head type="subtitle">Vorgesetztenverhältnis auf Grund der Dienststellung</head>
+                <div xml:id="d1483e44">
+                    <head>§ 1</head>
+                    <p>(1) Ein Soldat, der einen militärischen Verband, eine militärische Einheit oder Teileinheit führt oder der eine militärische Dienststelle leitet, hat die allgemeine Befugnis, den ihm unterstellten Soldaten in und außer Dienst Befehle zu erteilen.</p>
+                    <p>(2) In den Fachdienst der Untergebenen, die der Leitung und Dienstaufsicht von Fachvorgesetzten unterstehen, soll der unmittelbare Vorgesetzte nicht eingreifen.</p>
+                </div>
+                <div xml:id="d1483e59">
+                    <head>§ 2</head>
+                    <p>Ein Soldat, dem nach seiner Dienststellung die Leitung des Fachdiensts von Soldaten obliegt, hat die Befugnis, ihnen im Dienst zu fachdienstlichen Zwecken Befehle zu erteilen.</p>
+                </div>
+                <div xml:id="d1483e71">
+                    <head>§ 3</head>
+                    <p>Ein Soldat, dem nach seiner Dienststellung ein besonderer Aufgabenbereich zugewiesen ist, hat im Dienst die Befugnis, anderen Soldaten Befehle zu erteilen, die zur Erfüllung seiner Aufgaben notwendig sind. Wenn sich dies aus seinem Aufgabenbereich ergibt, hat er Befehlsbefugnis auch gegenüber Soldaten, die sich nicht im Dienst befinden.</p>
+                </div>
+            </div>
+            <div>
+                <head>II.</head>
+                <head type="subtitle">Vorgesetztenverhältnis auf Grund des Dienstgrads</head>
+                <div xml:id="d1483e97">
+                    <head>§ 4</head>
+                    <p>(1) In den Kompanien und in den entsprechenden Einheiten sowie innerhalb der Besatzung eines Schiffes steht die Befugnis, im Dienst Befehle zu erteilen, zu</p>
+                    <list>
+                        <item n="1.">den Offizieren gegenüber allen Unteroffizieren und Mannschaften,</item>
+                        <item n="2.">den Unteroffizieren vom Feldwebel an aufwärts gegenüber allen Stabsunteroffizieren, Unteroffizieren und Mannschaften,</item>
+                        <item n="3.">den Stabsunteroffizieren und den Unteroffizieren gegenüber allen Mannschaften.</item>
+                    </list>
+                    <p>An Bord von Schiffen haben die Angehörigen der Besatzung und deren unmittelbare Vorgesetzte in und außer Dienst Befehlsbefugnis nach Satz 1 auch gegenüber Soldaten, die sich nicht im Dienst befinden oder nicht zu bestimmtem Dienst eingeteilt sind, und gegenüber Soldaten, die nicht zur Besatzung gehören.</p>
+                    <p>(2) In Stäben und anderen militärischen Dienststellen gilt Absatz 1 Satz 1 entsprechend, jedoch kann der Kommandeur oder der Leiter der Dienststelle die Befehlsbefugnis auf Untergliederungen des Stabes oder der Dienststelle beschränken.</p>
+                    <p>(3) Innerhalb umschlossener militärischer Anlagen können Soldaten einer höheren Dienstgradgruppe den Soldaten einer niedrigeren Dienstgradgruppe in und außer Dienst Befehle erteilen.</p>
+                </div>
+            </div>
+            <div>
+                <head>III.</head>
+                <head type="subtitle">Vorgesetztenverhältnis auf Grund besonderer Anordnung</head>
+                <div xml:id="d1483e134">
+                    <head>§ 5</head>
+                    <p>(1) Ein Vorgesetzter kann innerhalb seiner Befehlsbefugnis Untergebene einem Soldaten für eine bestimmte Aufgabe vorübergehend unterstellen. Dabei soll ein im Dienstgrad niedrigerer Soldat einem im Dienstgrad höheren Soldaten nur vorgesetzt werden, wenn besondere dienstliche Gründe dies erfordern.</p>
+                    <p>(2) Durch die Anordnung der Unterstellung, die den Untergebenen dienstlich bekanntzugeben ist, erhält der Soldat die Befugnis, den unterstellten Soldaten Befehle zu erteilen, die zur Erfüllung seiner Aufgabe notwendig sind.</p>
+                </div>
+            </div>
+            <div>
+                <head>IV.</head>
+                <head type="subtitle">Vorgesetztenverhältnis auf Grund eigener Erklärung</head>
+                <div xml:id="d1483e160">
+                    <head>§ 6</head>
+                    <p>(1) Ein Offizier oder Unteroffizier kann sich in und außer Dienst über andere Soldaten, die im Dienstgrad nicht über ihm stehen, zum Vorgesetzten erklären, wenn er dies für notwendig hält, weil</p>
+                    <list>
+                        <item n="1.">eine Notlage sofortige Hilfe erfordert,</item>
+                        <item n="2.">zur Aufrechterhaltung der Disziplin oder Sicherheit ein sofortiges Eingreifen unerläßlich ist oder</item>
+                        <item n="3.">eine einheitliche Befehlsgebung an Ort und Stelle unabhängig von der gliederungsmäßigen Zusammengehörigkeit der Soldaten zur Behebung einer kritischen Lage hergestellt werden muß.</item>
+                    </list>
+                    <p>(2) Niemand kann sich zum Vorgesetzten von Soldaten erklären, die auf Grund der §§ 1 bis 3 und 5 Befehlsbefugnis über ihn haben.</p>
+                    <p>(3) Mit der Erklärung erhält der Offizier oder Unteroffizier die Befugnis, den Soldaten, an die er die Erklärung gerichtet hat, Befehle zu erteilen, die nach der Lage erforderlich sind. In eine fachliche Tätigkeit soll nur ein facherfahrener Offizier oder Unteroffizier eingreifen.</p>
+                </div>
+            </div>
+            <div>
+                <head>V.</head>
+                <head type="subtitle">Inkrafttreten</head>
+                <div xml:id="d1483e195">
+                    <head>§ 7</head>
+                    <p>Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.</p>
+                </div>
+                <div xml:id="d1483e205">
+                    <head>Schlußformel</head>
+                    <p>Der Bundesminister für Verteidigung</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

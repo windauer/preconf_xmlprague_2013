@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR387000009">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Gestaltung und Verwendung des Akkreditierungssymbols der Akkreditierungsstelle</title>
+                <title type="short">SymbolVO</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>2009-12-15</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 23.12.2009 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1535e24">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 6 Absatz 2 des Akkreditierungsstellengesetzes vom 31. Juli 2009 (BGBl. I S. 2625) verordnet das Bundesministerium für Wirtschaft und Technologie:</p>
+            </div>
+            <div xml:id="d1535e34">
+                <head>§ 1</head>
+                <p>(1) Das Akkreditierungssymbol besteht aus dem Zeichen der Akkreditierungsstelle in Kombination mit der individuellen Registrierungsnummer der verwendenden Konformitätsbewertungsstelle. Es ergibt sich folgendes Schriftbild:&#160;</p>
+                <p>(2) Das Zeichen der Akkreditierungsstelle besteht aus einem Schriftzug, einem Siegelelement und dem ausgeschriebenen Namen der Akkreditierungsstelle. Die Farben sind Schwarz, Rot, Gold und Quarzgrüngrau. Eine Darstellung in entsprechenden Grautönen ist möglich.</p>
+                <p>(3) Die individuelle Registrierungsnummer ist von der verwendenden Konformitätsbewertungsstelle unterhalb des ausgeschriebenen Namens der Akkreditierungsstelle anzugeben.</p>
+            </div>
+            <div xml:id="d1535e54">
+                <head>§ 2</head>
+                <p>Das Zeichen der Akkreditierungsstelle wird als Marke beim Deutschen Patent- und Markenamt angemeldet.</p>
+            </div>
+            <div xml:id="d1535e66">
+                <head>§ 3</head>
+                <p>Die Akkreditierungsstelle gestattet einer Konformitätsbewertungsstelle auf Antrag, das auf ihre Akkreditierung hinweisende Akkreditierungssymbol zu verwenden.</p>
+            </div>
+            <div xml:id="d1535e78">
+                <head>§ 4</head>
+                <p>(1) Das Akkreditierungssymbol darf als Hinweis auf die Akkreditierung in Prüfberichten, Kalibrierscheinen, Zertifikaten und Inspektionsberichten, die im Rahmen des Akkreditierungsbereiches ausgestellt werden, verwendet werden. Eine darüber hinaus gehende Verwendung des Akkreditierungssymbols kann auf Antrag von der Akkreditierungsstelle genehmigt werden, soweit diese nicht dem Ruf der Akkreditierungsstelle schadet.</p>
+                <p>(2) Das Akkreditierungssymbol kann unter Wahrung der Proportionen seiner Bestandteile in jeder beliebigen Gesamtgröße verwendet werden.</p>
+                <p>(3) Das Verwendungsrecht an dem Akkreditierungssymbol besteht während der gesamten Dauer der Akkreditierung.</p>
+                <p>(4) Die Konformitätsbewertungsstellen sind verantwortlich für die korrekte Verwendung des Akkreditierungssymbols. Bei Missbrauch des Akkreditierungssymbols kann die Akkreditierungsstelle die Gestattung der Verwendung des Akkreditierungssymbols widerrufen.</p>
+            </div>
+            <div xml:id="d1535e96">
+                <head>§ 5</head>
+                <p>Die Verordnung tritt am Tag nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

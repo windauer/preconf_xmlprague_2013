@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR008580977">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung</title>
+                <title type="short">BPräsAmtsbezAnO 1977-06</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1977-06-01</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 23. 6.1977 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d394e20">
+                <head>(XXXX)</head>
+                <p>Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende Amtsbezeichnung fest:</p>
+                <list>
+                    <item n="">Direktor und Professor bei der Physikalisch-Technischen Bundesanstalt<list>
+                            <item n="-">als Leiter der Abteilung Sicherstellung und Endlagerung radioaktiver Abfälle - .</item>
+                        </list>
+                    </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR005550966">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Durchführung des § 122 Abs. 3 des Bewertungsgesetzes</title>
+                <title type="short">BewG§122Abs3DV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1966-09-02</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 11.9.1966 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d78e23">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 122 Abs. 3 und des § 123 Abs. 1 des Bewertungsgesetzes in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861) verordnet die Bundesregierung mit Zustimmung des Bundesrates:</p>
+            </div>
+            <div xml:id="d78e33">
+                <head>§ 1</head>
+                <p>Bei der Ermittlung der Einheitswerte auf der Grundlage der Wertverhältnisse vom 1. Januar 1964 sind bei den in Berlin (West) belegenen bebauten Grundstücken die nach den §§ 78 bis 94 des Gesetzes ermittelten Grundstückswerte für Feststellungszeitpunkte vor dem 1. Januar 1994 um 20 vom Hundert zu ermäßigen.</p>
+            </div>
+            <div xml:id="d78e44">
+                <head>§ 2</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d78e55">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

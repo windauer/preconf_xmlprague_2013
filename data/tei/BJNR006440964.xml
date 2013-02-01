@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006440964">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dritter Erlaß über die Anerkennung als Ehrenzeichen</title>
+                <title type="short">EhrZAnerkErl 3</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1964-08-03</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 22. 8.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d158e20">
+                <head>Art 1</head>
+                <p>Auf Grund des § 3 Abs. 2 des Gesetzes über Titel, Orden und Ehrenzeichen vom 26. Juli 1957 (Bundesgesetzbl. I S. 844) erkenne ich</p>
+                <list>
+                    <item n="1.">das Leistungsabzeichen und das Lehrabzeichen der Deutschen Lebens-Rettungs-Gesellschaft e.V.,</item>
+                    <item n="2.">das Leistungsabzeichen und das Lehrabzeichen der Wasserwacht des Deutschen Roten Kreuzes</item>
+                </list>
+                <p>als Ehrenzeichen an.</p>
+            </div>
+            <div xml:id="d158e36">
+                <head>Art 2</head>
+                <p>Die Verleihungsbedingungen sowie die Abbildungen und Beschreibungen der nach Artikel 1 anerkannten Ehrenzeichen werden vom Bundesminister des Innern im Bundesanzeiger veröffentlicht.</p>
+            </div>
+            <div xml:id="d158e46">
+                <head>Art 3</head>
+                <p>Jede Änderung der Verleihungsbedingungen und jede Änderung der Form oder Benennung der hiermit anerkannten Ehrenzeichen ist mir vor dem Inkraftsetzen anzuzeigen.</p>
+            </div>
+            <div xml:id="d158e56">
+                <head>Schlußformel</head>
+                <p>Der BundespräsidentDer Bundesminister des Innern</p>
+            </div>
+        </body>
+    </text>
+</TEI>

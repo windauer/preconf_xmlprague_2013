@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002270989">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Achte Verordnung zur Änderung der Arbeitszeitverordnung</title>
+                <title type="short">ArbZVÄndV 8</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1989-02-09</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.4.1989 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1242e25">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 72 Abs. 4 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 27. Februar 1985 (BGBl. I S. 479) verordnet die Bundesregierung:</p>
+            </div>
+            <div xml:id="d1242e35">
+                <head>Art 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1242e46">
+                <head>Art 2</head>
+                <p>Für die im Zustelldienst der Deutschen Bundespost beschäftigten Beamten kann die regelmäßige Arbeitszeit weiterhin im Durchschnitt 40 Stunden in der Woche betragen und vom 1. August 1989 an auf im Durchschnitt 38 1/2 Stunden herabgesetzt werden.</p>
+            </div>
+            <div xml:id="d1242e56">
+                <head>Art 3</head>
+                <p>Der Bundesminister des Innern kann den Wortlaut der Arbeitszeitverordnung in der vom 1. April 1990 an geltenden Fassung im Bundesgesetzblatt bekanntmachen.</p>
+            </div>
+            <div xml:id="d1242e66">
+                <head>Art 4</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1242e79">
+                <head>Art 5</head>
+                <p>Diese Verordnung tritt am 1. April 1989 in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

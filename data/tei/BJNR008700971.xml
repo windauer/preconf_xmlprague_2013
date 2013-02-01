@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR008700971">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung über die Ausprägung einer Bundesmünze im Nennwert von 10 Deutschen Mark (2. Motiv der Olympiamünze - Ausgabe 1970)</title>
+                <title type="short">OlympiaMünz2Bek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1971-07-02</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div xml:id="d404e17">
+                <head>(XXXX)</head>
+                <p>(1) Auf Grund des Gesetzes über die Ausprägung einer Olympiamünze vom 18. April 1969 (Bundesgesetzbl. I S. 305) wird aus Anlaß der Spiele der XX. Olympiade 1972 in München eine Bundesmünze im Nennwert von 10 Deutschen Mark (Olympiamünze) geprägt.</p>
+                <p>(2) Von den vier angekündigten Motiven wird das 2. Motiv, ebenfalls von den vier Münzämtern zu gleichen Teilen geprägt, mit einer Auflage von 20 Millionen Stück ab 20. Juli 1971 in den Verkehr gebracht.</p>
+                <p>(3) Die Legierung besteht aus 625 Tausendteilen Feinsilber und aus 375 Tausendteilen Kupfer. Der Durchmesser beträgt 32,5 mm und das Gewicht 15,5 Gramm.</p>
+                <p>(4) Der Entwurf für das 2. Motiv - Ausgabe 1970 - stammt von Herrn Reinhardt Heinsdorff, 8201 Lehen, Post Großkarolinenfeld. Er zeigt auf der Bildseite vor einem fächerartigen Hintergrund ineinander verschlungene Arme als symbolische Darstellung der olympischen Idee. Die Umschrift lautet: OLYMPISCHE SPIELE 1972 IN MÜNCHEN.</p>
+                <p>(5) Die Wertseite mit der Umschrift: BUNDESREPUBLIK DEUTSCHLAND DEUTSCHE MARK zeigt in der Mitte den Bundesadler. Die Wertziffer 10, besonders hervorgehoben, ist in dem freien Raum zwischen den Krallen des Adlers, unterhalb der Schwanzfeder und oberhalb der zur Umschrift gehörenden Worte DEUTSCHE MARK untergebracht. Das jeweilige Münzzeichen befindet sich unterhalb der gespreizten rechten Kralle des Adlers.</p>
+                <p>(6) Der glatte Münzrand ist mit der vertieften Inschrift: CITIUS ALTIUS FORTIUS und mit Ornamenten zwischen den Worten versehen.</p>
+                <p>(7) Dies wird namens der Bundesregierung bekanntgegeben.</p>
+            </div>
+            <div xml:id="d404e39">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Wirtschaft und Finanzen</p>
+            </div>
+            <div xml:id="d404e50">
+                <head>(XXXX)</head>
+                <p>(Inhalt: nicht darstellbare Abbildung)Fundstelle: BGBl I 1971, 870</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR007400956">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erlaß über die Stiftung der Zelter-Plakette</title>
+                <title type="short">ZelterPlErl</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1956-08-07</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+            <p>Erlass im Saarland in Kraft gesetzt mWv 1.1.1957 durch Nr. 8 Anordnung v. 23.1.1957 I 1</p>
+        </front>
+        <body>
+            <div xml:id="d255e23">
+                <head>(XXXX)</head>
+                <p>(1) Als Auszeichnung für Chorvereinigungen, die sich in langjährigem Wirken besondere Verdienste um die Pflege der Chormusik und des deutschen Volksliedes und damit um die Förderung des kulturellen Lebens erworben haben, stifte ich die</p>
+                <list>
+                    <item n="">Zelter-Plakette.</item>
+                </list>
+                <p>(2) Die Einzelheiten der Verleihung werden durch besondere Richtlinien festgelegt.</p>
+            </div>
+            <div xml:id="d255e38">
+                <head>Schlußformel</head>
+                <p>Der BundespräsidentDer Stellvertreter des BundeskanzlersDer Bundesminister des Innern</p>
+            </div>
+        </body>
+    </text>
+</TEI>

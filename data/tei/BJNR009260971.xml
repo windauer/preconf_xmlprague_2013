@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR009260971">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur vorläufigen Aufrechterhaltung weinrechtlicher Vorschriften</title>
+                <title type="short">WeinV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1971-07-15</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.1.1984 +++)</p>
+            <p>Die V wurde vom Bundesminister für Jugend, Familie u. Gesundheit erlassen.Überschrift: IdF d. Art. 5 Abs. 3 Nr. 1 V v. 9.5.1995 I 630 mWv 1.9.1995</p>
+        </front>
+        <body>
+            <div xml:id="d451e33">
+                <head>(XXXX) §§ 1 bis 21</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d451e46">
+                <head>§ 22</head>
+                <p>Durch Vermischen von Wein, Schaumwein und Schaumwein mit zugesetzter Kohlensäure, Perlwein oder Perlwein mit zugesetzter Kohlensäure mit alkoholfreien Getränken und alkoholhaltigen Getränken auf Fruchtbasis hergestellte Getränke dürfen in den Verkehr gebracht werden, wenn der Anteil der Erzeugnisse wenigstens 15 und höchstens 50 vom Hundert beträgt; er ist in Raumhundertteilen auf den Behältnissen, Getränkekarten und bei Preisangeboten unter Zusatz des Wortes "Mischgetränk" kenntlich zu machen.</p>
+            </div>
+            <div xml:id="d451e61">
+                <head>(XXXX) §§ 23 und 24</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d451e74">
+                <head>§ 25</head>
+                <p>(weggefallen)</p>
+            </div>
+            <div xml:id="d451e84">
+                <head>§ 26</head>
+                <p>Nach § 67 Abs. 2 bis 4 des Weingesetzes wird bestraft, wer vorsätzlich oder fahrlässig entgegen § 22 Mischgetränke ohne die vorgeschriebene Kenntlichmachung in den Verkehr bringt.</p>
+            </div>
+            <div xml:id="d451e97">
+                <head>(XXXX) §§ 27 und 28</head>
+                <p>-</p>
+            </div>
+        </body>
+    </text>
+</TEI>

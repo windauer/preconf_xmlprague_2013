@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002100871">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz betreffend die Inhaberpapiere mit Prämien</title>
+                <title type="short">InhPapG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1871-06-08</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1975 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1215e25">
+                <head>§ 1</head>
+                <p>Auf den Inhaber lautende Schuldverschreibungen, in welchen allen Gläubigern oder einem Teil derselben außer der Zahlung der verschriebenen Geldsumme eine Prämie dergestalt zugesichert wird, daß durch Auslosung oder durch eine andere auf den Zufall gestellte Art der Ermittlung die zu prämierenden Schuldverschreibungen und die Höhe der ihnen zufallenden Prämie bestimmt werden sollen (Inhaberpapiere mit Prämien), dürfen im Inland nur auf Grund eines Bundesgesetzes und nur zum Zweck der Anleihe des Bundes oder eines Landes ausgegeben werden.</p>
+            </div>
+            <div xml:id="d1215e36">
+                <head>§ 2</head>
+                <p>Inhaberpapiere mit Prämien, welche nach Verkündigung des gegenwärtigen Gesetzes, der Bestimmung in § 1 zuwider, im Inland ausgegeben sein möchten, desgleichen Inhaberpapiere mit Prämien, welche nach dem 30. April 1871 im Ausland ausgegeben sind, dürfen weder weiter begeben, noch an den Börsen, noch an anderen zum Verkehr mit Wertpapieren bestimmten Versammlungsorten zum Gegenstand eines Geschäfts oder einer Geschäftsvermittlung gemacht werden.</p>
+            </div>
+            <div xml:id="d1215e46">
+                <head>§ 3</head>
+                <p>Dasselbe gilt vom 15. Juli 1871 ab von ausländischen Inhaberpapieren mit Prämien, deren Ausgabe vor dem 1. Mai 1871 erfolgt ist, sofern dieselben nicht abgestempelt sind. ...</p>
+            </div>
+            <div xml:id="d1215e57">
+                <head>§ 4</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1215e68">
+                <head>§ 5</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1215e79">
+                <head>§ 6</head>
+                <p>-</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000300009">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Einkommensteuer-Zuständigkeitsverordnung</title>
+                <title type="short">EStZustV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>2009-01-02</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1.1.2009 +++)(+++ Zur Anwendung vgl. § 2 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1028e24">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 19 Abs. 6 Satz 1 und 2 der Abgabenordnung in der Fassung der Bekanntmachung vom 1. Oktober 2002 (BGBl. I S. 3866, 2003 I S. 61), der zuletzt durch Artikel 10 Nr. 3 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) geändert worden ist, verordnet das Bundesministerium der Finanzen:</p>
+            </div>
+            <div xml:id="d1028e34">
+                <head>§ 1</head>
+                <p>Für die Besteuerung nach dem Einkommen von Personen, die nach § 1 Abs. 4 des Einkommensteuergesetzes beschränkt einkommensteuerpflichtig sind und ausschließlich mit Einkünften im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes zu veranlagen sind, ist das Finanzamt Neubrandenburg örtlich zuständig. Das Finanzamt Neubrandenburg ist ebenfalls zuständig in den Fällen des § 19 Abs. 6 Satz 2 der Abgabenordnung.</p>
+            </div>
+            <div xml:id="d1028e46">
+                <head>§ 2</head>
+                <p>Diese Verordnung ist erstmals für den Veranlagungszeitraum 2005 und letztmals für den Veranlagungszeitraum 2013 anzuwenden.</p>
+            </div>
+            <div xml:id="d1028e58">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt mit Wirkung vom 1. Januar 2009 in Kraft.</p>
+            </div>
+            <div xml:id="d1028e70">
+                <head>Schlussformel</head>
+                <p>Der Bundesrat hat zugestimmt.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

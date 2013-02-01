@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000090963">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fünftes Gesetz zur Änderung und Ergänzung des Hypothekenbankgesetzes</title>
+                <title type="short">HypBkGÄndG 5</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1963-01-14</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.7.1988 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d996e23">
+                <head>Art I</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d996e34">
+                <head>Art II</head>
+                <p>Für die Münchener Hypothekenbank eG gelten folgende Vorschriften:</p>
+                <list>
+                    <item n="1.">Bei der Anwendung des § 10 Abs. 1 Satz 1 des Kreditwesengesetzes ist für die Berechnung des haftenden Eigenkapitals nach § 10 Abs. 2b Satz 1 Nr. 8 des Kreditwesengesetzes anstelle eines durch Rechtsverordnung festzusetzenden Zuschlags ein Zuschlag von drei Vierteln des Gesamtbetrags der Haftsummen und von höchstens fünfzig vom Hundert der Geschäftsguthaben und der Rücklagen zu berücksichtigen. Die Satzung bedarf der Genehmigung durch die zuständige Behörde des Landes Bayern.</item>
+                    <item n="2.">Die vom Land Bayern ausgeübte besondere staatliche Aufsicht bleibt unberührt.</item>
+                </list>
+            </div>
+            <div xml:id="d996e50">
+                <head>Art III</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d996e61">
+                <head>Art IV</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d996e72">
+                <head>Art V</head>
+                <p>(weggefallen)</p>
+            </div>
+            <div xml:id="d996e83">
+                <head>Art VI</head>
+                <p>Dieses Gesetz tritt mit Wirkung vom 1. Januar 1963 in Kraft,Artikel I Nr. 28 bis 31jedoch erst am Tage nach der Verkündung des Gesetzes.</p>
+                <p>Art. VI Kursivdruck: §§ 37 bis 39a des Hypothekenbankgesetzes</p>
+            </div>
+        </body>
+    </text>
+</TEI>

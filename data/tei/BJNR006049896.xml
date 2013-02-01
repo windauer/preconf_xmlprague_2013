@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006049896">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Einführungsgesetz zum Bürgerlichen Gesetzbuche</title>
+                <title type="short">BGBEG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1896-08-18</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1980 +++)</p>
+        </front>
+        <body>
+            <div>
+                <head>Erster Teil</head>
+                <head type="subtitle">Allgemeine Vorschriften</head>
+                <div xml:id="d128e44">
+                    <head/>
+                </div>
+                <div>
+                    <head>Zweites Kapitel</head>
+                    <head type="subtitle">Internationales Privatrecht</head>
+                    <div xml:id="d128e72">
+                        <head/>
+                    </div>
+                    <div xml:id="d128e87">
+                        <head/>
+                    </div>
+                    <div xml:id="d128e101">
+                        <head/>
+                    </div>
+                    <div xml:id="d128e115">
+                        <head/>
+                    </div>
+                    <div xml:id="d128e129">
+                        <head/>
+                    </div>
+                    <div xml:id="d128e144">
+                        <head/>
+                    </div>
+                    <div>
+                        <head>Siebter Abschnitt</head>
+                        <head type="subtitle">Besondere Vorschriften zur Durchführung von Regelungen der Europäischen Gemeinschaft nach Artikel 3 Nr. 1</head>
+                        <div xml:id="d128e174">
+                            <head/>
+                        </div>
+                        <div xml:id="d128e189">
+                            <head/>
+                        </div>
+                    </div>
+                </div>
+                <div xml:id="d128e204">
+                    <head/>
+                </div>
+            </div>
+            <div xml:id="d128e219">
+                <head/>
+            </div>
+            <div xml:id="d128e233">
+                <head/>
+            </div>
+            <div xml:id="d128e247">
+                <head/>
+            </div>
+            <div xml:id="d128e261">
+                <head/>
+            </div>
+            <div xml:id="d128e275">
+                <head/>
+            </div>
+            <div xml:id="d128e289">
+                <head/>
+            </div>
+        </body>
+    </text>
+</TEI>

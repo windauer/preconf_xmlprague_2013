@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004470951">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz betreffend die Industriekreditbank Aktiengesellschaft</title>
+                <title type="short">IndKredBkG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1951-07-15</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1472e23">
+                <head>§ 1</head>
+                <p>(1) Gibt die Industriekreditbank Aktiengesellschaft Schuldverschreibungen auf den Inhaber aus und bildet sie für eine bestimmte Gattung von Schuldverschreibungen eine gesonderte Deckungsmasse, so gehen, falls über ihr Vermögen das Insolvenzverfahren eröffnet wird, in Ansehung der Befriedigung aus der gesonderten Deckungsmasse die Forderungen der Inhaber der Schuldverschreibungen, für die die gesonderte Deckungsmasse gebildet ist, einschließlich ihrer seit Eröffnung des Insolvenzverfahrens laufenden Zinsforderungen den Forderungen aller anderen Insolvenzgläubiger vor. Die Inhaber dieser Schuldverschreibungen haben untereinander gleichen Rang.</p>
+                <p>(2) Auf die Ansprüche der Inhaber der Schuldverschreibungen, für die die gesonderte Deckungsmasse gebildet ist, auf Befriedigung aus dem sonstigen Vermögen der Gesellschaft sind die §§ 52, 190 und 192 der Insolvenzordnung über die abgesonderte Befriedigung sinngemäß anzuwenden.</p>
+                <p>(3) Die Satzung der Industriekreditbank Aktiengesellschaft hat nähere Bestimmungen über die Zusammensetzung und Verwaltung der Deckungsmasse zu treffen.</p>
+            </div>
+            <div xml:id="d1472e38">
+                <head>§ 2</head>
+                <p>Das Bundesministerium der Finanzen bestellt einen Treuhänder und einen Stellvertreter. Der Treuhänder hat darauf zu achten, daß die Ausgabe, Verwaltung und Deckung der Schuldverschreibungen den gesetzlichen, satzungsmäßigen oder sonst in verbindlicher Form ergangenen Bestimmungen sowie den Anleihebedingungen entspricht.</p>
+            </div>
+            <div xml:id="d1472e49">
+                <head>§ 3</head>
+                <p>Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

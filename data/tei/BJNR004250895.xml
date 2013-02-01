@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004250895">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz betreffend die Bestrafung des Sklavenraubes und des Sklavenhandels</title>
+                <title type="short">SklHG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1895-07-28</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1975 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1449e25">
+                <head>§ 1</head>
+            </div>
+            <div xml:id="d1449e37">
+                <head>§ 2</head>
+                <p>Wer Sklavenhandel betreibt oder bei der diesem Handel dienenden Beförderung von Sklaven vorsätzlich mitwirkt, wird mit Freiheitsstrafe nicht unter einem Jahr bestraft. In minder schweren Fällen ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.</p>
+            </div>
+            <div xml:id="d1449e48">
+                <head>(XXXX) §§ 3 bis 5</head>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR208100986">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Übereinkommen über das auf vertragliche Schuldverhältnisse anzuwendende Recht</title>
+                <title type="short">EuVtrÜbk</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1980-06-19</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>G v. 25.7.1986 II 809Inkraft gem. Bek. v. 12.7.1991 I 871 mWv 1.4.1991</p>
+        </front>
+        <body/>
+    </text>
+</TEI>

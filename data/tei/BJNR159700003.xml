@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR159700003">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zu dem Vertrag vom 27. Januar 2003 zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland - Körperschaft des öffentlichen Rechts -</title>
+                <title type="short">ZJDVtrG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>2003-08-10</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 15.8.2003 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d969e25">
+                <head>Art 1</head>
+                <p>(1) Dem in Berlin am 27. Januar 2003 unterzeichneten Vertrag zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland - Körperschaft des öffentlichen Rechts - wird zugestimmt.</p>
+                <p>(2) Der Vertrag wird nachstehend veröffentlicht.</p>
+            </div>
+            <div xml:id="d969e37">
+                <head>Art 2</head>
+                <p>Anpassungen der Staatsleistung im Sinne des Artikels 2 Abs. 2 und des Artikels 7 des Vertrages bedürfen der Zustimmung des Deutschen Bundestages in der Form eines Bundesgesetzes.</p>
+            </div>
+            <div xml:id="d969e47">
+                <head>Art 3</head>
+                <p>Das Gesetz tritt am Tag nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

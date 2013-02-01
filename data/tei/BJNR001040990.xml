@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR001040990">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Glasapparatebauer-Handwerk</title>
+                <title type="short">GlAppMstrV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1990-01-11</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 5.1990 +++)</p>
+        </front>
+        <body>
+            <div>
+                <head>1. Abschnitt</head>
+                <head type="subtitle">Berufsbild</head>
+                <div xml:id="d1095e38">
+                    <head>§ 1</head>
+                    <p>(1) Dem Glasapparatebauer-Handwerk sind folgende Tätigkeiten zuzurechnen:</p>
+                    <list>
+                        <item n="1.">Entwurf, Konstruktion und Herstellung von Instrumenten, Meßgeräten und Apparaturen aus verschiedenen Gläsern sowie aus glasverwandten und anderen Werkstoffen,</item>
+                        <item n="2.">Wartung und Instandsetzung der in Nummer 1 genannten Instrumente, Meßgeräte und Apparaturen,</item>
+                        <item n="3.">Herstellung von Gebrauchs- und Kunstgegenständen aus Glas.</item>
+                    </list>
+                    <p>(2) Dem Glasapparatebauer-Handwerk sind folgende Kenntnisse und Fertigkeiten zuzurechnen:</p>
+                    <list>
+                        <item n="1.">Kenntnisse über die Funktion, die Einsatz- und Betriebsbedingungen sowie die meßtechnische Anwendung der herzustellenden Geräte,</item>
+                        <item n="2.">Kenntnisse über die Herstellung von Glas,</item>
+                        <item n="3.">Kenntnisse der Arten, Sorten, Kennzeichnung, Daten und Verwendung von Gläsern und der mit ihnen verschmelzbaren Metalle und Keramiken,</item>
+                        <item n="4.">Kenntnisse der Werk-, Betriebs- und Hilfsstoffe,</item>
+                        <item n="5.">Kenntnisse der gebräuchlichsten Brenngase, ihrer Handhabung und Lagerung,</item>
+                        <item n="6.">Kenntnisse der Flächen-, Volumen- und Druckberechnungen,</item>
+                        <item n="7.">Kenntnisse der Volumen- und Temperaturmessungen,</item>
+                        <item n="8.">Kenntnisse über lösbare Verbindungsteile, insbesondere Schliffe, sowie über Absperrhähne und -ventile,</item>
+                        <item n="9.">Kenntnisse über das Justieren, Graduieren, Kalibrieren, Wachsen sowie Ätzen,</item>
+                        <item n="10.">Kenntnisse über Vakuumtechnik,</item>
+                        <item n="11.">Kenntnisse der berufsbezogenen Eich- und Normvorschriften,</item>
+                        <item n="12.">Kenntnisse der berufsbezogenen Vorschriften der Arbeitssicherheit und des Arbeitsschutzes,</item>
+                        <item n="13.">Kenntnisse über die berufsbezogenen Vorschriften des Umwelt-, insbesondere des Immissionsschutzes,</item>
+                        <item n="14.">Kenntnisse über Energieeinsparung,</item>
+                        <item n="15.">Lesen und Anfertigen von Skizzen und Zeichnungen,</item>
+                        <item n="16.">manuelles und maschinelles Heißverformen des Glases, insbesondere durch Biegen, Einblasen, Erweitern, Verbinden und Einschmelzen,</item>
+                        <item n="17.">Erkennen, Vermeiden und Beseitigen von Spannungen in Gläsern,</item>
+                        <item n="18.">Kaltbearbeiten des Glases, insbesondere durch Schleifen, Bohren, Trennen, Verspiegeln und Einfärben,</item>
+                        <item n="19.">Verschmelzen von Glas mit Metallen und Keramiken,</item>
+                        <item n="20.">Gestalten von Gebrauchs- und Kunstgegenständen aus Glas,</item>
+                        <item n="21.">Warten und Instandhalten der berufsbezogenen Maschinen, Werkzeuge und Geräte.</item>
+                    </list>
+                </div>
+            </div>
+            <div>
+                <head>2. Abschnitt</head>
+                <head type="subtitle">Prüfungsanforderungen in den Teilen I und II der Meisterprüfung</head>
+                <div xml:id="d1095e117">
+                    <head>§ 2</head>
+                    <p>(1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.</p>
+                    <p>(2) Die Anfertigung der Meisterprüfungsarbeit soll nicht länger als sieben Arbeitstage, die Ausführung der Arbeitsprobe nicht länger als acht Stunden dauern.</p>
+                    <p>(3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.</p>
+                </div>
+                <div xml:id="d1095e133">
+                    <head>§ 3</head>
+                    <p>(1) Als Meisterprüfungsarbeit sind zwei der nachstehend genannten Arbeiten anzufertigen:</p>
+                    <list>
+                        <item n="1.">Herstellen einer dreistufigen Diffusionspumpe nach Zeichnung,</item>
+                        <item n="2.">Anfertigen einer Glockenbodenkolonne mit 5 Böden und unverspiegeltem Vakuummantel,</item>
+                        <item n="3.">Anfertigen eines Kolonnenkopfes als Dampfteiler oder Flüssigkeitsteiler mit Vakuummantel,</item>
+                        <item n="4.">Herstellen eines vollständigen Extraktionsapparates nach Soxhlet, 1.000 ml Inhalt,</item>
+                        <item n="5.">Anfertigen eines Dreikugelkühlers nach Soxhlet, Durchmesser der einzelnen Kugeln 60, 90 und 120 mm, mit Schliffhülse und Schliffkern NS 29/32,</item>
+                        <item n="6.">Anfertigen eines mehrwandigen Reaktionsgefäßes, höchstens 2.000 ml Inhalt,</item>
+                        <item n="7.">Anfertigen einer Siedepunktbestimmungsapparatur,</item>
+                        <item n="8.">Anfertigen eines Dünnschichtverdampfers,</item>
+                        <item n="9.">Anfertigen einer Apparatur zur Flüssig-Flüssigextraktion für spezifisch leichtere oder spezifisch schwerere Lösungsmittel,</item>
+                        <item n="10.">Anfertigen eines Wärmetauschers.</item>
+                    </list>
+                    <p>(2) Der Prüfling hat vor Anfertigung der Meisterprüfungsarbeit dem Meisterprüfungsausschuß die Skizzen mit Maßangaben und eine Vorkalkulation zur Genehmigung vorzulegen.</p>
+                    <p>(3) Die maßstabsgerechten Zeichnungen mit Maßangaben und die Nachkalkulation sind bei der Bewertung der Meisterprüfungsarbeit zu berücksichtigen.</p>
+                </div>
+                <div xml:id="d1095e170">
+                    <head>§ 4</head>
+                    <p>(1) Als Arbeitsprobe sind zwei der nachstehend genannten Arbeiten auszuführen:</p>
+                    <list>
+                        <item n="1.">Anfertigen eines Dreiwegehahnes, 10 mm Bohrung, mit Hohlstopfen, ungeschliffen,</item>
+                        <item n="2.">Anfertigen eines Durchgangshahnes, 15 mm Bohrung, mit Hohlstopfen, geschliffen,</item>
+                        <item n="3.">Blasen des Mittelteils eines Extraktionsapparates nach Soxhlet, 500 ml Inhalt,</item>
+                        <item n="4.">Anfertigen eines Vier-Hals-Kolbens, 2.000 ml Inhalt, Mittelhals mit Schliffhülse NS 45/40, Seitenhälse mit Schliffhülsen NS 29/32,</item>
+                        <item n="5.">Anfertigen eines heizbaren Schliffwinkels,90 Grad, mit Schliffhülse und Schliffkern NS 29/32,</item>
+                        <item n="6.">Anfertigen eines heizbaren Tropftrichters mit Druckausgleich, 500 ml Inhalt,</item>
+                        <item n="7.">Anfertigen eines Intensivkühlers, Mantellänge 250 mm,</item>
+                        <item n="8.">Herstellen einer Metall-Glas-Verbindung,</item>
+                        <item n="9.">Einschleifen eines Hahnrohlings, 6 mm Bohrung.</item>
+                    </list>
+                    <p>Die Arbeiten nach Nummer 3 bis 7 sind unter Verwendung fertiger Normschliffe und Rundkolben auszuführen.</p>
+                    <p>(2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.</p>
+                </div>
+                <div xml:id="d1095e206">
+                    <head>§ 5</head>
+                    <p>(1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:</p>
+                    <list>
+                        <item n="1.">Technische Mathematik: Berechnen von Körpern, Flächen, Ausdehnungen, Drücken, Winkeln und Drehzahlen;</item>
+                        <item n="2.">Technisches Zeichnen:<list>
+                                <item n="a)">Anfertigen von maßstabsgerechten Zeichnungen der Glasapparate,</item>
+                                <item n="b)">Skizzieren eines Glasapparates mit Bemaßung;</item>
+                            </list>
+                        </item>
+                        <item n="3.">Fachtechnologie:<list>
+                                <item n="a)">Wirkungsweise und Anwendung von Glasinstrumenten und Glasapparaturen,</item>
+                                <item n="b)">Heißbearbeitung, einschließlich Verschmelzungen mit Metall und Keramik,</item>
+                                <item n="c)">Kaltbearbeitung, insbesondere Trennen, Schleifen, Bohren und Verspiegeln,</item>
+                                <item n="d)">lösbare Verbindungsteile, insbesondere Schliffe, sowie Absperrhähne und -ventile,</item>
+                                <item n="e)">Justieren, Graduieren, Einfärben, Wachsen, Ätzen und Kalibrieren,</item>
+                                <item n="f)">Vakuumtechnik,</item>
+                                <item n="g)">berufsbezogene Eich- und Normvorschriften,</item>
+                                <item n="h)">berufsbezogene Vorschriften der Arbeitssicherheit und des Arbeitsschutzes,</item>
+                                <item n="i)">berufsbezogene Vorschriften des Umwelt-, insbesondere des Immissionsschutzes,</item>
+                                <item n="k)">berufsbezogene Werkzeuge, Maschinen und Geräte;</item>
+                            </list>
+                        </item>
+                        <item n="4.">Werkstoffkunde:<list>
+                                <item n="a)">Rohstoffe und Herstellung von Glas,</item>
+                                <item n="b)">Halbzeuge,</item>
+                                <item n="c)">Arten, Sorten, Kennzeichnung und Daten der Gläser und der mit ihnen verschmelzbaren Metalle und Keramiken sowie ihre Verwendung und ihr Einsatz,</item>
+                                <item n="d)">Anwendung und Einsatz von Hilfs- und Betriebsstoffen, insbesondere unter Berücksichtigung der Umweltverträglichkeit,</item>
+                                <item n="e)">gebräuchliche Säuren und Laugen in der Glasverarbeitung;</item>
+                            </list>
+                        </item>
+                        <item n="5.">Kalkulation: Kostenermittlung unter Einbeziehung aller für die Preisbildung wesentlichen Faktoren.</item>
+                    </list>
+                    <p>(2) Die Prüfung ist schriftlich und mündlich durchzuführen.</p>
+                    <p>(3) Die schriftliche Prüfung soll insgesamt nicht länger als zwölf Stunden, die mündliche je Prüfling nicht länger als eine halbe Stunde dauern. In der schriftlichen Prüfung soll an einem Tag nicht länger als sechs Stunden geprüft werden.</p>
+                    <p>(4) Der Prüfling ist von der mündlichen Prüfung auf Antrag zu befreien, wenn er im Durchschnitt mindestens gute schriftliche Leistungen erbracht hat.</p>
+                    <p>(5) Mindestvoraussetzung für das Bestehen des Teils II sind jeweils ausreichende Leistungen in jedem der Prüfungsfächer nach Absatz 1 Nr. 3 und 4.</p>
+                </div>
+            </div>
+            <div>
+                <head>3. Abschnitt</head>
+                <head type="subtitle">Übergangs- und Schlußvorschriften</head>
+                <div xml:id="d1095e288">
+                    <head>§ 6</head>
+                    <p>Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.</p>
+                </div>
+                <div xml:id="d1095e300">
+                    <head>§ 7</head>
+                    <p>Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.</p>
+                </div>
+                <div xml:id="d1095e312">
+                    <head>§ 8</head>
+                    <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.</p>
+                </div>
+                <div xml:id="d1095e324">
+                    <head>§ 9</head>
+                    <p>(1) Diese Verordnung tritt am 1. Mai 1990 in Kraft.</p>
+                    <p>(2) Die auf Grund des § 122 der Handwerksordnung weiter anzuwendenden Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

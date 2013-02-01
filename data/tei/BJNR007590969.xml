@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR007590969">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über das Meß- und Eichwesen</title>
+                <title type="short">EichG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1969-07-11</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 6.6.1986 +++)(+++ Maßgaben aufgrund des EinigVtr vgl. EichG Anhang EV +++)</p>
+        </front>
+        <body>
+            <div>
+                <head>Erster Abschnitt</head>
+                <head type="subtitle">Zweckbestimmung, Zulassung, Eichung und andere Prüfungen von Meßgeräten</head>
+                <div xml:id="d289e48">
+                    <head>§ 1</head>
+                    <p>Zweck dieses Gesetzes ist es,</p>
+                    <list>
+                        <item n="1.">den Verbraucher beim Erwerb meßbarer Güter und Dienstleistungen zu schützen und im Interesse eines lauteren Handelsverkehrs die Voraussetzungen für richtiges Messen im geschäftlichen Verkehr zu schaffen,</item>
+                        <item n="2.">die Meßsicherheit im Gesundheitsschutz, Arbeitsschutz und Umweltschutz und in ähnlichen Bereichen des öffentlichen Interesses zu gewährleisten und</item>
+                        <item n="3.">das Vertrauen in amtliche Messungen zu stärken.</item>
+                    </list>
+                </div>
+                <div xml:id="d289e67">
+                    <head>§ 2</head>
+                    <p>(1) Meßgeräte, die im geschäftlichen oder amtlichen Verkehr, Arbeitsschutz, Umweltschutz oder Strahlenschutz oder im Verkehrswesen verwendet werden, müssen zugelassen und geeicht sein, sofern dies zur Gewährleistung der Meßsicherheit erforderlich ist. Das Gleiche gilt für Messgeräte im Gesundheitsschutz, soweit sie nicht in anderen Rechtsvorschriften geregelt sind.</p>
+                    <p>(2) Die Bundesregierung wird ermächtigt, zur Gewährleistung der Meßsicherheit in den in Absatz 1 genannten Bereichen oder zur Umsetzung von Rechtsakten der Europäischen Gemeinschaften durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, welche Meßgeräte nur in den Verkehr gebracht, in Betrieb genommen, bereitgehalten oder verwendet werden dürfen, wenn sie zugelassen und geeicht sind.</p>
+                    <p>(3) Die Bundesregierung wird ferner ermächtigt, zu den gleichen Zwecken durch Rechtsverordnung mit Zustimmung des Bundesrates andere Maßnahmen vorzuschreiben, durch die eine ausreichende Meßsicherheit zu erwarten ist. Sie kann dabei insbesondere die Wartung von Meßgeräten, die Vornahme von Kontrolluntersuchungen und die Teilnahme an Vergleichsmessungen vorschreiben.</p>
+                    <p>(4) Die Eichung wird, soweit in einer nach Absatz 2 erlassenen Rechtsverordnung nichts anderes bestimmt ist, von den zuständigen Behörden und von staatlich anerkannten Prüfstellen für Meßgeräte für Elektrizität, Gas, Wasser oder Wärme vorgenommen (amtliche Eichung). Die Eichung neuer Meßgeräte kann nach Maßgabe dieser Verordnung auch vom Hersteller vorgenommen werden (Eichung durch den Hersteller).</p>
+                    <p>(5) Vor Erlaß von Rechtsverordnungen nach den Absätzen 2 und 3 sind die betroffenen Kreise zu hören.</p>
+                </div>
+                <div xml:id="d289e88">
+                    <head>§ 3</head>
+                    <p>(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zur Durchführung des § 2 und der auf Grund von § 2 erlassenen Rechtsverordnungen zu erlassen. Sie kann dabei insbesondere</p>
+                    <list>
+                        <item n="1.">Anforderungen an Meßgeräte und ihre Verwendung festlegen,</item>
+                        <item n="2.">die Gültigkeitsdauer der Eichung festlegen sowie die Wiederholung von Prüfungen und die Häufigkeit von Wartungsarbeiten vorschreiben,</item>
+                        <item n="3.">Vorschriften erlassen über<list>
+                                <item n="a)">die Voraussetzungen, den Umfang und das Verfahren der Zulassung, der Eichung und sonstiger Prüfungen sowie die Voraussetzungen der Rücknahme und des Widerrufs der Zulassung,</item>
+                                <item n="b)">die Voraussetzungen, den Umfang und das Verfahren der Anerkennung von Prüfstellen und der öffentlichen Bestellung und Verpflichtung des Prüfstellenpersonals sowie die Voraussetzungen der Rücknahme und des Widerrufs der Bestellung, den Betrieb der Prüfstelle, die Aufsicht über die Prüfstelle und die Haftung für ihre Tätigkeit,</item>
+                                <item n="c)">die Voraussetzungen, den Umfang und das Verfahren der Anerkennung und Überwachung anderer mit der Durchführung dieses Gesetzes betrauter Stellen, sowie deren Zusammenarbeit untereinander und mit ausländischen Behörden und Stellen,</item>
+                                <item n="d)">die Mitwirkungspflichten des Besitzers eines Meßgerätes bei der Eichung oder sonstigen Prüfung der meßtechnischen Eigenschaften,</item>
+                                <item n="e)">die Überprüfung von Meßergebnissen,</item>
+                                <item n="f)">die Ausnutzung von Fehlergrenzen und Abweichungen,</item>
+                                <item n="g)">den Schutz vorgeschriebener Kennzeichen,</item>
+                                <item n="h)">die Untersagung des Inverkehrbringens, der Inbetriebnahme, der Bereithaltung und der Verwendung in anderen Staaten mit EG-Zeichen versehener vorschriftswidriger Meßgeräte durch die Physikalisch-Technische Bundesanstalt.</item>
+                            </list>
+                        </item>
+                    </list>
+                    <p>(1a) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates</p>
+                    <list>
+                        <item n="1.">die Anerkennung und Überwachung von Stellen nach Absatz 1 Satz 2 Nr. 3 Buchstabe c dem Bundesministerium für Wirtschaft und Technologie zuzuweisen,</item>
+                        <item n="2.">die für die Durchführung des Gesetzes zuständigen Behörden und Stellen zu bestimmen,</item>
+                        <item n="3.">Vorschriften über die Überwachung des Inverkehrbringens von Messgeräten durch die zuständigen Behörden zu erlassen, insbesondere über<list>
+                                <item n="a)">ein bei der Überwachung anzuwendendes einheitliches Konzept sowie die Abstimmung der Tätigkeit der Behörden,</item>
+                                <item n="b)">die behördlichen Maßnahmen einschließlich des Verbots oder der Beschränkung des Inverkehrbringens oder des Verwendens,</item>
+                            </list>
+                        </item>
+                        <item n="4.">der Physikalisch-Technischen Bundesanstalt die Entscheidung darüber zuzuweisen, dass im Ausland hergestellte Messgeräte nach Maßgabe einer nach den Absätzen 1 und 2 in Verbindung mit § 2 Abs. 2 oder 3 erlassenen Rechtsverordnung Messgeräten, die dieser Rechtsverordnung entsprechen, gleichgestellt und insoweit von deren Anwendung ausgenommen sind; dabei kann auch das Verfahren einschließlich einer Veröffentlichung der Entscheidung geregelt werden.</item>
+                    </list>
+                    <p>(2) Die Bundesregierung wird ferner ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates</p>
+                    <list>
+                        <item n="1.">zum Schutze des geschäftlichen Verkehrs vorzuschreiben, daß<list>
+                                <item n="a)">Werte für Größen nur angegeben werden dürfen, wenn sie mit einem geeichten Meßgerät ermittelt und nach einem bestimmten Verfahren umgerechnet sind,</item>
+                                <item n="b)">Gewichtswerte nur als Nettowerte angegeben werden dürfen,</item>
+                            </list>
+                        </item>
+                        <item n="2.">zur Erleichterung des Handelsverkehrs Vorschriften zu erlassen über die Anerkennung in anderen Staaten durchgeführter Zulassungen, Eichungen und Prüfungen von Meßgeräten,</item>
+                        <item n="3.">zur Erleichterung des Handels mit Getreide Vorschriften über die Schüttdichte von Getreide zu erlassen.</item>
+                    </list>
+                    <p>(3) Vor dem Erlaß von Rechtsverordnungen nach den Absätzen 1 bis 2 sind die betroffenen Kreise zu hören.</p>
+                </div>
+                <div xml:id="d289e157">
+                    <head>§ 4</head>
+                    <p>Soweit in den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen nichts anderes bestimmt ist, stehen Zusatzeinrichtungen den Meßgeräten gleich.</p>
+                </div>
+                <div xml:id="d289e169">
+                    <head>§ 5</head>
+                    <p>(1) Die Gemeinden haben die zuständigen Behörden bei der Durchführung örtlicher Eichtage außerhalb der Amtsstelle zu unterstützen. Soweit erforderlich, haben sie insbesondere</p>
+                    <list>
+                        <item n="1.">geeignete Räume bereitzustellen,</item>
+                        <item n="2.">Zeit und Ort der Eichungen in ortsüblicher Weise bekanntzugeben,</item>
+                        <item n="3.">Hilfskräfte zur Verfügung zu stellen.</item>
+                    </list>
+                    <p>(2) Die Gemeinden können von der zuständigen Behörde die Erstattung ihrer baren Auslagen verlangen.</p>
+                </div>
+            </div>
+            <div>
+                <head>Zweiter Abschnitt</head>
+                <head type="subtitle">Fertigpackungen und Ausschankmaße</head>
+                <div xml:id="d289e205">
+                    <head>§ 6</head>
+                    <p>(1) Fertigpackungen im Sinne dieses Gesetzes sind Erzeugnisse in Verpackungen beliebiger Art, die in Abwesenheit des Käufers abgepackt und verschlossen werden, wobei die Menge des darin enthaltenen Erzeugnisses ohne Öffnen oder merkliche Änderung der Verpackung nicht verändert werden kann.</p>
+                    <p>(2) Im Sinne dieses Gesetzes ist:</p>
+                    <list>
+                        <item n="1.">Füllmenge die Menge, die eine einzelne Fertigpackung enthält,</item>
+                        <item n="2.">Nennfüllmenge die Menge, die die Fertigpackung enthalten soll,</item>
+                        <item n="3.">Inverkehrbringen das Anbieten, Vorrätighalten zum Verkauf oder zur sonstigen Abgabe, Feilhalten und jedes Abgeben an andere.</item>
+                    </list>
+                </div>
+                <div xml:id="d289e226">
+                    <head>§ 7</head>
+                    <p>(1) Fertigpackungen dürfen nur hergestellt, in den Geltungsbereich dieses Gesetzes verbracht oder in den Verkehr gebracht werden, wenn die Nennfüllmenge angegeben ist und die Füllmenge den festgelegten Anforderungen entspricht.</p>
+                    <p>(2) Fertigpackungen müssen so gestaltet und befüllt sein, daß sie keine größere Füllmenge vortäuschen, als in ihnen enthalten ist.</p>
+                </div>
+                <div xml:id="d289e240">
+                    <head>§ 8</head>
+                    <p>(1) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz, hinsichtlich der Anforderungen nach § 7 Abs. 2 auch im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit, zum Schutze des Verbrauchers, zur Erleichterung des Handels mit Fertigpackungen und zur Umsetzung von Rechtsakten der Europäischen Gemeinschaften durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen insbesondere über</p>
+                    <list>
+                        <item n="1.">die Angabe von Nennfüllmengen bei Fertigpackungen und die Art und Weise dieser Angabe,</item>
+                        <item n="2.">die Anforderungen an die Genauigkeit der Füllmenge,</item>
+                        <item n="3.">die Kontrollen und Aufzeichnungen, die von den Betrieben zur Einhaltung der Genauigkeitsanforderungen nach Nummer 2 vorzunehmen sind, sowie die Meßgeräte, die hierbei zu verwenden sind,</item>
+                        <item n="4.">Meßgeräte, die zur Kontrolle durch den Verbraucher bereitzuhalten sind,</item>
+                        <item n="5.">Voraussetzungen und Methoden für eine einheitliche Füllmengenbestimmung,</item>
+                        <item n="6.">Anforderungen an die Genauigkeit des Volumens von Behältnissen und ihre Kennzeichnung,</item>
+                        <item n="7.">die Angabe dessen, der Fertigpackungen oder Behältnisse herstellt, in den Geltungsbereich dieses Gesetzes verbringt oder in den Verkehr bringt und über die Anbringung von Aufschriften und Zeichen auf Fertigpackungen und Behältnissen und ihre Anerkennung durch die Physikalisch- Technische Bundesanstalt,</item>
+                        <item n="8.">Art und Umfang der von den zuständigen Behörden durchzuführenden Prüfungen zur Überwachung der Einhaltung der auf Grund der Nummern 2, 3, 5 und 6 erlassenen Vorschriften und über die Anerkennung in anderen Staaten durchgeführter Prüfungen,</item>
+                        <item n="9.">die Angabe eines Grundpreises bei Fertigpackungen und über die Art und Weise dieser Angabe,</item>
+                        <item n="10.">verbindliche Nennfüllmengen für Fertigpackungen und über die Pflicht zur Verwendung bestimmter Behältnisse bestimmten Volumens oder bestimmter Abmessungen für die Herstellung von Fertigpackungen,</item>
+                        <item n="11.">Ausnahmen von § 7 Abs. 1,</item>
+                        <item n="12.">die Gestaltung und Befüllung von Fertigpackungen, damit diese den Anforderungen des § 7 Abs. 2 genügen.</item>
+                    </list>
+                    <p>Das Bundesministerium für Wirtschaft und Technologie wird ferner ermächtigt, zu den gleichen Zwecken entsprechende Vorschriften für andere Verkaufseinheiten zu erlassen.</p>
+                    <p>(2) Vor dem Erlaß von Verordnungen nach Absatz 1 soll ein jeweils auszuwählender Kreis von Sachkennern aus der Verbraucherschaft und der beteiligten Wirtschaft gehört werden.</p>
+                </div>
+                <div xml:id="d289e282">
+                    <head>§ 9</head>
+                    <p>(1) Ausschankmaße sind Gefäße, die zum gewerbsmäßigen Ausschank von Getränken gegen Entgelt bestimmt sind und bei Bedarf gefüllt werden.</p>
+                    <p>(2) Ausschankmaße dürfen nur in den Verkehr gebracht, verwendet oder bereitgehalten werden, wenn sie die festgelegten Volumen einhalten und das Volumen auf ihnen gekennzeichnet und angegeben ist.</p>
+                    <p>(3) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze des Verbrauchers oder zur Umsetzung von Rechtsakten der Europäischen Gemeinschaften</p>
+                    <list>
+                        <item n="1.">bestimmte Volumen für Ausschankmaße festzulegen,</item>
+                        <item n="2.">Vorschriften zu erlassen über die Kennzeichnung des Volumens und die dabei einzuhaltenden Anforderungen an die Genauigkeit, die Angabe des Volumens, die Art und Weise der Kennzeichnung und der Angabe sowie über die Angabe eines Herstellerzeichens und seine Anerkennung durch die Physikalisch-Technische Bundesanstalt,</item>
+                        <item n="3.">Ausnahmen von Absatz 2 zuzulassen.</item>
+                    </list>
+                </div>
+            </div>
+            <div>
+                <head>Dritter Abschnitt</head>
+                <head type="subtitle">Öffentliche Waagen</head>
+                <div xml:id="d289e320">
+                    <head>§ 10</head>
+                    <p>(1) Öffentliche Waagen sind Waagen, mit denen Wägegut für jedermann gewogen wird.</p>
+                    <p>(2) Der Betreiber öffentlicher Waagen hat sicherzustellen, dass die Ergebnisse der Wägungen schriftlich bescheinigt werden.</p>
+                    <p>(3) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, zur Gewährleistung richtiger Wägungen und zum Nachweis dieser Wägungen Vorschriften durch Rechtsverordnung mit Zustimmung des Bundesrates zu erlassen über</p>
+                    <list>
+                        <item n="1.">die Ausstattung, die Unterhaltung und den Betrieb öffentlicher Waagen, die Untersagung des Betriebes, die Durchführung von Wägungen und die dem Betreiber einer öffentlichen Waage obliegenden Anzeigepflichten,</item>
+                        <item n="2.">die Anforderungen an die Sachkunde und Unabhängigkeit des Betreibers und des Betriebspersonals und die Prüfung dieser Anforderungen,</item>
+                        <item n="3.">den Nachweis der Wägungen und die Aufbewahrung der Unterlagen,</item>
+                        <item n="4.">die Kennzeichnung der öffentlichen Waagen,</item>
+                        <item n="5.">das Verfahren im Zusammenhang mit den Nummern 1 bis 4.</item>
+                    </list>
+                </div>
+            </div>
+            <div>
+                <head>Vierter Abschnitt</head>
+                <head type="subtitle">Zuständigkeiten</head>
+                <div xml:id="d289e362">
+                    <head>§ 11</head>
+                    <p>(1) Die Landesregierungen oder die von ihnen bestimmten Stellen bestimmen die für die Ausführung dieses Gesetzes zuständigen Behörden, soweit nicht die Physikalisch-Technische Bundesanstalt zuständig oder auf Grund dieses Gesetzes etwas anderes bestimmt ist.</p>
+                    <p>(2) Örtlich zuständig für die Eichung und sonstige Prüfung von Meßgeräten an der Amtsstelle ist jede nach Absatz 1 sachlich zuständige Behörde, bei der eine solche Amtshandlung beantragt wird.</p>
+                </div>
+                <div xml:id="d289e377">
+                    <head>§ 12</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d289e390">
+                    <head>§ 13</head>
+                    <p>(1) Die Physikalisch-Technische Bundesanstalt hat zur Sicherung der Einheitlichkeit des gesetzlichen Meßwesens</p>
+                    <list>
+                        <item n="1.">Bauarten von Meßgeräten zuzulassen,</item>
+                        <item n="2.">Normalgeräte und Prüfungshilfsmittel der zuständigen Behörden und der staatlich anerkannten Prüfstellen auf Antrag zu prüfen,</item>
+                        <item n="3.">die für die Durchführung dieses Gesetzes zuständigen Landesbehörden sowie die staatlich anerkannten Prüfstellen zu beraten und</item>
+                        <item n="4.">die Zusammenarbeit der nach § 3 Abs. 1 Satz 2 Nr. 3 Buchstabe c anerkannten Stellen abzustimmen.</item>
+                    </list>
+                    <p>(2) Die Physikalisch-Technische Bundesanstalt hat ferner</p>
+                    <list>
+                        <item n="1.">das physikalisch-technische Meßwesen wissenschaftlich zu bearbeiten, insbesondere wissenschaftliche Forschung auf diesem Gebiet zu betreiben und</item>
+                        <item n="2.">Prüfungen und Untersuchungen auf dem Gebiet des physikalisch-technischen Meßwesens vorzunehmen.</item>
+                    </list>
+                </div>
+            </div>
+            <div>
+                <head>Fünfter Abschnitt</head>
+                <head type="subtitle">Kosten, Auskunft und Nachschau</head>
+                <div xml:id="d289e434">
+                    <head>§ 13a</head>
+                    <p>Für</p>
+                    <list>
+                        <item n="1.">Amtshandlungen nach den §§ 2 bis 4, 8 bis 10, 21 und 25,</item>
+                        <item n="2.">die Prüfung von Normalgeräten und Prüfungshilfsmitteln,</item>
+                        <item n="3.">Maßnahmen zur Überwachung der Einhaltung der Vorschriften dieses Gesetzes</item>
+                        <item n="4.">(weggefallen)</item>
+                    </list>
+                    <p>werden Kosten (Gebühren und Auslagen) erhoben.</p>
+                </div>
+                <div xml:id="d289e457">
+                    <head>§ 14</head>
+                    <p>Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die gebührenpflichtigen Amtshandlungen näher sowie die Gebührensätze für die einzelnen Amtshandlungen zu bestimmen. In der Rechtsverordnung kann bestimmt werden, daß eine Gebühr auch für eine Amtshandlung erhoben werden kann, die nicht begonnen worden ist, wenn die Gründe hierfür von demjenigen zu vertreten sind, der die Amtshandlung veranlaßt hat.</p>
+                </div>
+                <div xml:id="d289e470">
+                    <head>§ 15</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d289e483">
+                    <head>§ 16</head>
+                    <p>(1) Die für die Einhaltung der Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen verantwortlichen Personen haben der zuständigen Behörde die für die Durchführung dieses Gesetzes erforderlichen Auskünfte zu erteilen.</p>
+                    <p>(2) Soweit es zur Durchführung dieses Gesetzes erforderlich ist, sind die von der zuständigen Behörde mit der Überwachung beauftragten Personen befugt, Grundstücke und Betriebsräume des Auskunftspflichtigen sowie die dazugehörigen Geschäftsräume während der üblichen Betriebs- oder Geschäftszeiten zu betreten, Prüfungen und Besichtigungen vorzunehmen, Proben zu entnehmen und in die geschäftlichen Unterlagen des Auskunftspflichtigen Einsicht zu nehmen. Der Auskunftspflichtige oder eine für ihn handelnde Person hat die Maßnahmen nach Satz 1 zu dulden und die in der Überwachung tätigen Personen bei der Erfüllung ihrer Aufgaben zu unterstützen, insbesondere ihnen auf Verlangen die Räume und Unterlagen zu bezeichnen, Räume und Behältnisse zu öffnen und die Entnahme der Proben zu ermöglichen.</p>
+                    <p>(3) Werden Fertigpackungen oder andere Verkaufseinheiten in den Geltungsbereich dieses Gesetzes verbracht und dabei vom Importeur unmittelbar an den Handel geliefert, so ist der Händler verpflichtet, Prüfungen auf Grund einer Rechtsverordnung nach § 8 Abs. 1 Satz 1 Nr. 8 in seinem Betrieb zu dulden und der zuständigen Behörde die erforderlichen Auskünfte zu erteilen. Werden Behältnisse in den Geltungsbereich dieses Gesetzes verbracht und dabei vom Importeur unmittelbar an den Abfüllbetrieb geliefert, so ist der Betriebsinhaber verpflichtet, Prüfungen auf Grund einer Rechtsverordnung nach § 8 Abs. 1 Satz 1 Nr. 8 zu dulden und der zuständigen Behörde die erforderlichen Auskünfte zu erteilen. Absatz 2 gilt entsprechend.</p>
+                    <p>(4) Werden Fertigpackungen oder andere Verkaufseinheiten für Prüfungen auf Grund einer Rechtsverordnung nach § 8 Abs. 1 Satz 1 Nr. 8 als Probe entnommen und zerstört, so ist eine angemessene Entschädigung in Geld zu leisten, sofern sich kein Grund zur Beanstandung ergeben hat.</p>
+                    <p>(5) Der zur Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.</p>
+                </div>
+                <div xml:id="d289e503">
+                    <head>§ 17</head>
+                    <p>Die Zolldienststellen sind befugt, den Eichaufsichtsbehörden der Länder Auskünfte zu erteilen über die Einfuhr von Fertigpackungen, offenen Packungen, Maßbehältnissen, Schankgefäßen und Meßgeräten, die das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium der Finanzen bestimmt. Der Einfuhr steht das sonstige Verbringen in den Geltungsbereich des Gesetzes gleich. Das Postgeheimnis (Artikel 10 Abs. 1 des Grundgesetzes) wird insoweit eingeschränkt.</p>
+                </div>
+                <div xml:id="d289e516">
+                    <head>§ 18</head>
+                    <p>Zur Abwehr oder Unterbindung von Zuwiderhandlungen gegen dieses Gesetz oder gegen die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen haben die Beauftragten der zuständigen Behörden die Befugnisse von Polizeibeamten. Die Landesregierungen können diese Befugnisse durch Rechtsverordnung einschränken. Sie können diese Ermächtigung durch Rechtsverordnung auf andere Behörden übertragen.</p>
+                </div>
+            </div>
+            <div>
+                <head>Sechster Abschnitt</head>
+                <head type="subtitle">Bußgeldvorschriften</head>
+                <div xml:id="d289e542">
+                    <head>§ 19</head>
+                    <p>(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig</p>
+                    <list>
+                        <item n="1.">Fertigpackungen, die entgegen § 7 Abs. 2 gestaltet oder befüllt sind, herstellt, herstellen läßt oder in den Geltungsbereich dieses Gesetzes verbringt,</item>
+                        <item n="2.">entgegen § 16 Abs. 1 oder 3 Satz 1 oder 2 eine Auskunft nicht, nicht richtig oder nicht vollständig erteilt, entgegen § 16 Abs. 2 Satz 2 eine Maßnahme nicht duldet oder eine in der Überwachung tätige Person nicht unterstützt oder entgegen § 16 Abs. 3 Satz 1 oder 2 eine Prüfung nicht duldet,</item>
+                        <item n="3.">nicht geeichte Meßgeräte entgegen § 25 Abs. 1 Satz 1 verwendet oder entgegen § 25 Abs. 1 Satz 1 Nr. 1, 4 oder 5 bereithält,</item>
+                        <item n="4.">einer Rechtsverordnung nach § 2 Abs. 2 oder 3, § 3 Abs. 1 oder 2, § 8 Abs. 1 Satz 1 Nr. 1 bis 7, 9, 10 oder 12, jeweils auch in Verbindung mit Satz 2, § 9 Abs. 3, § 10 Abs. 3 oder § 21 Satz 1 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,</item>
+                        <item n="5.">Verordnungen des Rates oder der Kommission der Europäischen Gemeinschaften im Sinne des § 21 zuwiderhandelt, soweit eine Rechtsverordnung nach Absatz 3 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.</item>
+                    </list>
+                    <p>(2) Absatz 1 Nr. 2 gilt auch bei Verordnungen des Rates oder der Kommission der Europäischen Gemeinschaften im Sinne des § 21 und den zu ihrer Durchführung erlassenen Verordnungen.</p>
+                    <p>(3) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates die einzelnen Tatbestände der Verordnungen, die nach Absatz 1 Nr. 5 als Ordnungswidrigkeiten mit Geldbuße geahndet werden können, zu bezeichnen, soweit dies zur Durchführung der Verordnungen erforderlich ist.</p>
+                    <p>(4) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend Euro geahndet werden.</p>
+                    <p>(5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist, soweit das Gesetz von der Physikalisch-Technischen Bundesanstalt ausgeführt wird, die Behörde oder Stelle, die von der Landesregierung durch Rechtsverordnung bestimmt wird. Die Landesregierung kann die Ermächtigung auf die zuständige oberste Landesbehörde übertragen.</p>
+                </div>
+                <div xml:id="d289e574">
+                    <head>§ 20</head>
+                    <p>(1) Ist eine in § 19 bezeichnete Ordnungswidrigkeit begangen worden, so können Gegenstände, die durch die Ordnungswidrigkeit hervorgebracht oder zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind oder auf die sich die Ordnungswidrigkeit bezieht, eingezogen werden.</p>
+                    <p>(2) § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.</p>
+                </div>
+            </div>
+            <div>
+                <head>Siebenter Abschnitt</head>
+                <head type="subtitle">Schlußvorschriften</head>
+                <div xml:id="d289e602">
+                    <head>§ 21</head>
+                    <p>Soweit es zur Durchführung von Verordnungen des Rates oder der Kommission der Europäischen Gemeinschaften, die einer Regelung nach den §§ 7 und 8 entsprechen, erforderlich ist, kann das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz mit Zustimmung des Bundesrates durch Rechtsverordnung die erforderlichen Ausführungsvorschriften erlassen. Die §§ 11, 16 bis 18, 20 und 23 finden für die Durchführung der in Satz 1 genannten Rechtsakte der Europäischen Gemeinschaften und der zu ihrer Ausführung erlassenen Rechtsverordnungen entsprechende Anwendung.</p>
+                </div>
+                <div xml:id="d289e615">
+                    <head>§ 22</head>
+                    <p>-</p>
+                </div>
+                <div xml:id="d289e628">
+                    <head>§ 23</head>
+                    <p>Zur Festlegung technischer Anforderungen und Prüfverfahren kann in Rechtsverordnungen auf Grund dieses Gesetzes auf Veröffentlichungen sachverständiger Stellen verwiesen werden. Hierbei sind in der Rechtsverordnung das Datum der Veröffentlichung und die Bezugsquelle anzugeben.</p>
+                </div>
+                <div xml:id="d289e640">
+                    <head>§ 24</head>
+                    <p>(1) Die Eichung und die eichamtliche Beglaubigung eines Meßgeräts vor Inkrafttreten dieses Gesetzes gilt im bisherigen Umfang als Eichung im Sinne dieses Gesetzes; die Zulassung eines Meßgeräts vor Inkrafttreten dieses Gesetzes gilt im bisherigen Umfang als Zulassung im Sinne dieses Gesetzes.</p>
+                    <p>(2) Die amtliche Beglaubigung oder amtliche Prüfung von Meßgeräten für Elektrizität vor Inkrafttreten dieses Gesetzes und die Beglaubigung nach den bis zum 30. Juni 1992 geltenden Vorschriften dieses Gesetzes gelten im bisherigen Umfang als Eichung im Sinne dieses Gesetzes.</p>
+                    <p>(3) Die öffentliche Bestellung und Vereidigung eines Wägers an öffentlichen Waagen vor Inkrafttreten dieses Gesetzes gilt als öffentliche Bestellung im Sinne dieses Gesetzes.</p>
+                    <p>(4) Die Verpflichtung und Vereidigung der Leiter von Elektrischen Prüfämtern, Prüfamtsaußenstellen und Nebenprüfämtern sowie ihrer Stellvertreter, gilt als öffentliche Bestellung im Sinne dieses Gesetzes.</p>
+                    <p>(5) Die bei Inkrafttreten dieses Gesetzes bestehenden Befugnisse und Verpflichtungen der Elektrischen Prüfämter, Prüfamtsaußenstellen und Nebenprüfämter gelten im bisherigen Umfang weiter. Die Befugnis zur amtlichen Beglaubigung und amtlichen Prüfung von Meßgeräten für Elektrizität und die nach den bis zum 30. Juni 1992 geltenden Vorschriften bestehende Befugnis zur Beglaubigung von Meßgeräten für Elektrizität, Gas, Wasser und Wärme gelten als Befugnis zur Eichung.</p>
+                    <p>(6) Soweit Prüfstellen vor dem 2. März 1985 staatlich anerkannt worden sind, kann die Anerkennung auch nachträglich mit einer Auflage verbunden werden.</p>
+                </div>
+                <div xml:id="d289e662">
+                    <head>§ 25</head>
+                    <p>(1) Es ist verboten,</p>
+                    <list>
+                        <item n="1.">Meßgeräte zur Bestimmung<list>
+                                <item n="a)">der Länge, der Fläche, des Volumens, der Masse, der thermischen oder elektrischen Energie, der thermischen oder elektrischen Leistung, der Durchflußstärke von Flüssigkeiten oder Gasen oder der Dichte oder des Gehalts von Flüssigkeiten,</item>
+                                <item n="b)">des Wassergehalts von Speisefetten, des Feuchtgehaltes von Getreide oder Ölfrüchten, der Schüttdichte von Getreide, des Fettgehalts von Milch oder Milcherzeugnissen oder des Stärkegehalts von Kartoffeln,</item>
+                                <item n="c)">des Fahrpreises bei Kraftfahrzeugen</item>
+                            </list>ungeeicht im geschäftlichen Verkehr zu verwenden oder so bereitzuhalten, daß sie ohne besondere Vorbereitung in Gebrauch genommen werden können,</item>
+                        <item n="2.">die in Nummer 1 bezeichneten Meßgeräte sowie Meßgeräte zur Bestimmung des Drucks von Flüssigkeiten oder Gasen und der Temperatur<list>
+                                <item n="a)">für Messungen nach dem Zoll- und Steuerrecht sowie dem Branntweinmonopolrecht,</item>
+                                <item n="b)">zur Bestimmung von Beförderungsgebühren,</item>
+                                <item n="c)">zur Schiffsvermessung und Schiffseichung,</item>
+                                <item n="d)">zur Durchführung öffentlicher Überwachungsaufgaben,</item>
+                                <item n="e)">zur Erstattung von Gutachten für staatsanwaltschaftliche oder gerichtliche Verfahren, Schiedsverfahren oder für andere amtliche Zwecke oder</item>
+                                <item n="f)">zur Erstattung von Schiedsgutachten</item>
+                            </list>ungeeicht zu verwenden,</item>
+                        <item n="3.">Meßgeräte für die amtliche Überwachung des Straßenverkehrs ungeeicht zu verwenden,</item>
+                        <item n="4.">Meßgeräte zur Prüfung des Reifenluftdrucks an Kraftfahrzeugen in öffentlichen Tankstellen und Betrieben des Kraftfahrzeuggewerbes ungeeicht zu verwenden oder so bereitzuhalten, daß sie ohne besondere Vorbereitung in Gebrauch genommen werden können,</item>
+                        <item n="5.">Meßgeräte zur Bestimmung der Masse, des Volumens, des Drucks, der Temperatur, der Dichte oder des Gehalts bei der Herstellung von Arzneimitteln in Apotheken auf Grund ärztlicher Verschreibung oder bei Analysen in pharmazeutischen Laboratorien ungeeicht zu verwenden oder so bereitzuhalten, daß sie ohne besondere Vorbereitung in Gebrauch genommen werden können,</item>
+                    </list>
+                    <p>soweit nicht die Bundesregierung in einer Rechtsverordnung nach § 2 eine neue Regelung trifft. Satz 1 Nr. 2 Buchstabe d steht der Verwendung nichtgeeichter Meßgeräte zur Durchführung öffentlicher Überwachungsaufgaben nicht entgegen, wenn</p>
+                    <list>
+                        <item n="1.">die Meßgeräte ihrer Beschaffenheit nach nicht die Voraussetzungen der Eichfähigkeit erfüllen und in anderer Weise als durch Eichung sichergestellt ist, daß die Verwendung der Geräte zu einer genaueren Bestimmung von Meßwerten führt, als sie nach dem Stand von Wissenschaft und Technik mit Hilfe geeichter Meßgeräte erreicht werden kann oder</item>
+                        <item n="2.">die Meßsicherheit der Geräte für den Bereich, in welchem sie bei der Durchführung der Überwachungsaufgabe Verwendung finden, ohne Bedeutung ist.</item>
+                    </list>
+                    <p>(2) Absatz 1 Satz 1 Nr. 1, soweit sie die Bestimmung des Gehalts betrifft, und Nummern 2 und 3 gelten nicht für Meßgerätearten, die am 1. Januar 1985 nicht eichfähig waren.</p>
+                    <p>(3) Den Meßgeräten stehen gleich</p>
+                    <list>
+                        <item n="1.">Zusatzeinrichtungen, deren Wirkungsweise vom zugehörigen Meßgerät beeinflußt wird oder die eine Wirkung auf das zugehörige Meßgerät ausüben oder ausüben können, und</item>
+                        <item n="2.">Zusatzeinrichtungen zur Ermittlung des Preises in offenen Verkaufsstellen.</item>
+                    </list>
+                </div>
+                <div xml:id="d289e723">
+                    <head>§ 26</head>
+                    <p>(weggefallen)</p>
+                </div>
+                <div xml:id="d289e734">
+                    <head>§ 27</head>
+                    <p>Soweit in Gesetzen oder Verordnungen des Bundesrechts auf Vorschriften des Maß- und Gewichtsgesetzes verwiesen wird, beziehen sich diese Verweisungen auf die entsprechenden Vorschriften dieses Gesetzes.</p>
+                </div>
+                <div xml:id="d289e746">
+                    <head>Anhang EV</head>
+                    <p>Abschnitt IIIBundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:...Eichgesetz in der Fassung der Bekanntmachung vom 22. Februar 1985 (BGBl. I S. 410), zuletzt geändert gemäß Artikel 12 der Verordnung vom 26. November 1986 (BGBl. I S. 2089),mit folgenden Maßgaben:<list>
+                            <item n="">
+                                <list>
+                                    <item n="a)">Meßgeräte, für die das Amt für Standardisierung, Meßwesen und Warenprüfung der Deutschen Demokratischen Republik eine Bauartzulassung erteilt hat, sind in dem in Artikel 3 des Vertrages genannten Gebiet für die Gültigkeitsdauer der Zulassung, längstens jedoch bis zum 31. Dezember 1993, zur Ersteichung und unbefristet zur Nacheichung zugelassen.</item>
+                                    <item n="b)">Meßgeräte, die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet im eichpflichtigen Verkehr verwendet oder bereitgehalten werden und zur Eichung zugelassen sind, aber auf Grund der bisher dort geltenden Vorschriften nicht eichpflichtig waren, müssen bis spätestens 31. Dezember 1991 geeicht sein.</item>
+                                    <item n="c)">Meßgeräte, die in dem in Artikel 3 des Vertrages genannten Gebiet im eichpflichtigen Verkehr verwendet oder bereitgehalten werden und die auf Grund der bisher dort geltenden Vorschriften weder zulassungspflichtig noch eichpflichtig waren, können erstgeeicht und bis zum 31. Dezember 1996 nachgeeicht werden, wenn sie die in der Eichordnung festgelegten Verkehrsfehlergrenzen sowie die in Teil 7 der Eichordnung genannten allgemeinen Anforderungen einhalten. Sie müssen bis spätestens 31. Dezember 1991 geeicht sein.</item>
+                                    <item n="d)">Schankgefäße im Sinne von § 18 Abs. 3 dürfen in dem in Artikel 3 des Vertrages genannten Gebiet bis zum 31. Dezember 1991 gewerbsmäßig in den Verkehr gebracht und bis 31. Dezember 1992 zum Ausschank von Getränken verwendet oder bereitgehalten werden, wenn sie den bisher dort geltenden Vorschriften entsprechen. Schankgefäße ohne Füllstrich dürfen nur noch bis zum 31. Dezember 1991 verwendet oder bereitgehalten werden.</item>
+                                    <item n="e)">Meßgeräte und Schankgefäße, die nur den vorstehenden Übergangsvorschriften entsprechen, dürfen in dem Gebiet, in dem das Grundgesetz schon vor dem Tage des Wirksamwerdens des Beitritts gegolten hat, weder in den Verkehr gebracht noch verwendet oder bereitgehalten werden.</item>
+                                    <item n="f)">Bis zur Einrichtung der erforderlichen Länderbehörden und staatlich anerkannten Prüfstellen, längstens bis zum 31. Dezember 1992, können die Regierungen der Länder in dem in Artikel 3 des Vertrages genannten Gebiet oder die von ihnen bestimmten Stellen abweichend von § 27 des Eichgesetzes andere Stellen mit der Durchführung des Gesetzes und der Eichordnung betrauen. Diese Stellen erheben für gebührenpflichtige Tätigkeiten Kosten nach der Eich- und Beglaubigungskostenverordnung vom 21. April 1982 (BGBl. I S. 428) in der jeweils geltenden Fassung.</item>
+                                </list>
+                            </item>
+                        </list>
+                    </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

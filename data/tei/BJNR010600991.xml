@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR010600991">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung über die Ernennung und Entlassung von Beamten im Bereich der Deutschen Bundespost POSTDIENST</title>
+                <title type="short">POSTDIENSTErnAnO 1991</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1991-04-22</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 1. 7.1991 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d558e20">
+                <head>I.</head>
+                <p>Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Bundesbeamten und Richter im Bundesdienst vom 14. Juli 1975 (BGBl. I S. 1915), geändert durch die Anordnung vom 21. Juni 1978 (BGBl. I S. 921), übertragen wir die Ausübung des Rechts zur Ernennung und Entlassung der Bundesbeamten der Besoldungsgruppen A 1 bis A 13 (gehobener Dienst) - je für ihren Geschäftsbereich - den Oberpostdirektionen, den Direktionen Postdienst und dem Posttechnischen Zentralamt.</p>
+            </div>
+            <div xml:id="d558e30">
+                <head>II.</head>
+                <p>Für besondere Fälle behalten wir uns die Ernennung und Entlassung der in Abschnitt I genannten Beamten vor.</p>
+            </div>
+            <div xml:id="d558e40">
+                <head>III.</head>
+                <p>Diese Anordnung tritt am 1. Juli 1991 in Kraft.</p>
+            </div>
+            <div xml:id="d558e51">
+                <head>Schlußformel</head>
+                <p>Deutsche Bundespost POSTDIENSTGeneraldirektionDer Vorstand</p>
+            </div>
+        </body>
+    </text>
+</TEI>

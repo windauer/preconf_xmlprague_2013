@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004800962">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung zu § 4 des Warenzeichengesetzes</title>
+                <title type="short">WZG§4ITABek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1962-06-30</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1944 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1507e20">
+                <head>(XXXX)</head>
+                <p>Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung vom 9. Mai 1961 (Bundesgesetzbl. I S. 574) werden in der Anlage amtliche Prüf- und Gewährzeichen bekanntgemacht, die in der Republik Italien für bestimmte Waren eingeführt sind.</p>
+            </div>
+            <div xml:id="d1507e30">
+                <head>Schlussformel</head>
+                <p>Der Bundesminister der Justiz</p>
+            </div>
+            <div xml:id="d1507e40">
+                <head>Anlage</head>
+                <p>(Fundstelle: BGBl. I 1962, 480)(Inhalt: nicht darstellbare Prüf- und Gewährzeichen)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

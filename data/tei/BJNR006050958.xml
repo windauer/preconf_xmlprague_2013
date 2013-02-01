@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR006050958">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über die Preisstatistik</title>
+                <title type="short">PreisStatG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1958-08-09</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1.1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d129e23">
+                <head>§ 1</head>
+                <p>Im Geltungsbereich dieses Gesetzes wird eine Preisstatistik als Bundesstatistik durchgeführt.</p>
+            </div>
+            <div xml:id="d129e33">
+                <head>§ 2</head>
+                <p>Die Statistik erstreckt sich auf</p>
+                <list>
+                    <item n="1.">Preise für land- und forstwirtschaftliche und gewerbliche Güter auf der Stufe der Erzeugung oder Gewinnung, der Be- und Verarbeitung, des Großhandels, des Einzelhandels und des Außenhandels,</item>
+                    <item n="2.">Preise und Entgelte für Werk- und Dienstleistungen, soweit nicht in Nummer 3 genannt,</item>
+                    <item n="3.">Preise und Entgelte für Verkehrsleistungen sowie Entgelte für die Vercharterung von Schiffen,</item>
+                    <item n="4.">Mieten und Pachten für Räume und Grundstücke,</item>
+                    <item n="5.">Preise für Grundstücke.</item>
+                </list>
+            </div>
+            <div xml:id="d129e54">
+                <head>§ 3</head>
+                <p>(1) Die Statistik nach § 2 Nr. 1 erfaßt die Preise für nach Art, Sorte, Qualität und Handelsbedingungen bezeichnete Güter.</p>(2) Auskunftspflichtig sind die landwirtschaftlichen, forstwirtschaftlichen und gewerblichen Unternehmen, Behörden und Einrichtungen. Die Erhebungen werden bei höchstens 25.000*) Auskunftspflichtigen durchgeführt.-----<list>
+                    <item n="*)">Gemäß Art. 1 Nr. 1 der Statistikanpassungsverordnung vom 26. März 1991 (BGBl. I S. 846) gilt abweichend von § 3 Abs. 2 Satz 2:"Die Erhebungen werden bei höchstens 50.000 Auskunftspflichtigen, ab 1. Januar 1995 bei höchstens 34.000 Auskunftspflichtigen durchgeführt."</item>
+                </list>
+            </div>
+            <div xml:id="d129e75">
+                <head>§ 4</head>
+                <p>(1) Die Statistik nach § 2 Nr. 2 erfaßt die Preise und Entgelte für nach Arten und Merkmalen bezeichnete Werk- und Dienstleistungen.</p>(2) Auskunftspflichtig sind die Unternehmen und selbständig tätigen Personen des Werk- und Dienstleistungsbereichs sowie Behörden und Einrichtungen. Die Erhebungen werden bei höchstens 10.000*) Auskunftspflichtigen durchgeführt.-----<list>
+                    <item n="*)">Gemäß Art. 1 Nr. 2 der Statistikanpassungsverordnung vom 26. März 1991 (BGBl. I S. 846) gilt abweichend von § 4 Abs. 2 Satz 2:"Die Erhebungen werden bei höchstens 20.000 Auskunftspflichtigen, ab 1. Januar 1995 bei höchstens 14.000 Auskunftspflichtigen durchgeführt."</item>
+                </list>
+            </div>
+            <div xml:id="d129e96">
+                <head>§ 5</head>
+                <p>(1) Die Statistik nach § 2 Nr. 3 erfaßt die Preise und Entgelte für nach Arten und Merkmalen bezeichnete Leistungen und Nebenleistungen im Verkehr sowie die Entgelte für die Vercharterung von nach Arten bezeichneten Schiffen.</p>
+                <p>(2) Auskunftspflichtig sind die Unternehmen und selbständig tätigen Personen, die Verkehrsleistungen erbringen oder vermitteln oder - in Fällen der Einfuhr von Gütern - in Anspruch nehmen, Schiffsmieten bezahlen oder erhalten sowie Behörden und Einrichtungen des Verkehrswesens.</p>
+            </div>
+            <div xml:id="d129e108">
+                <head>§ 6</head>
+                <p>(1) Die Statistik nach § 2 Nr. 4 erfaßt</p>
+                <list>
+                    <item n="1.">die Mieten und Pachten einschließlich Umlagen und Zuschläge für nach Arten und Merkmalen bezeichneten Wohnraum und Gewerberaum,</item>
+                    <item n="2.">die Mieten und Pachten für nach Arten und Merkmalen bezeichnete Grundstücke.</item>
+                </list>(2) Auskunftspflichtig sind die Vertragsparteien. Die Erhebungen werden bei höchstens 25.000*) Auskunftspflichtigen durchgeführt.-----<list>
+                    <item n="*)">Gemäß Art. 1 Nr. 3 der Statistikanpassungsverordnung vom 26. März 1991 (BGBl. I S. 846) gilt abweichend von § 6 Abs. 2 Satz 2:"Die Erhebungen werden bei höchstens 50.000 Auskunftspflichtigen, ab 1. Januar 1995 bei höchstens 38.000 Auskunftspflichtigen durchgeführt."</item>
+                </list>
+            </div>
+            <div xml:id="d129e134">
+                <head>§ 7</head>
+                <p>(1) Die Statistik nach § 2 Nr. 5 erfaßt die Preise für nach Arten und Merkmalen bezeichnete Grundstücke.</p>
+                <p>(2) Auskunftspflichtig sind die Finanzämter oder die Geschäftsstellen der Gutachterausschüsse für Grundstückswerte.</p>
+            </div>
+            <div xml:id="d129e147">
+                <head>§ 7a</head>
+                <p>Für Unternehmen, deren Inhaber Existenzgründer im Sinne des § 7g Abs. 7 Satz 2 und 3 des Einkommensteuergesetzes in der Fassung der Bekanntmachung vom 19. Oktober 2002 (BGBl. I S. 4210, 2003 I S. 179) sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von § 3 Abs. 2 Satz 1, § 4 Abs. 2 Satz 1 und § 5 Abs. 2 keine Auskunftspflicht. In den beiden folgenden Kalenderjahren besteht dann keine Auskunftspflicht, wenn das Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 500.000 Euro erwirtschaftet hat.</p>
+            </div>
+            <div xml:id="d129e158">
+                <head>§ 8</head>
+                <p>(1) Die Erhebungen nach §§ 3 bis 7 finden monatlich statt.</p>
+                <p>(2) Bei lebenswichtigen Gütern oder Dienstleistungen können die Erhebungen in kürzeren Zeitabständen durchgeführt werden, soweit wirtschaftspolitische Gründe es zwingend erfordern.</p>
+                <p>(3) Bei Gütern oder Dienstleistungen, bei denen Preisveränderungen nur in längeren Zeitabständen aufzutreten pflegen, können die Erhebungen in größeren Zeitabständen durchgeführt werden.</p>
+                <p>(4) Die Bundesregierung bestimmt durch Rechtsverordnung, welche nicht der Zustimmung des Bundesrates bedarf, die Durchführung der Erhebungen nach den Absätzen 2 und 3.</p>
+            </div>
+            <div xml:id="d129e176">
+                <head>§ 9</head>
+                <p>(1) Die Statistik wird hinsichtlich der Preise für Leistungen des Post- und Fernmeldewesens, für Verkehrsleistungen der Eisenbahnen und der Preise und Entgelte für Seeverkehrsleistungen sowie hinsichtlich der Entgelte für die Vercharterung von Schiffen vom Statistischen Bundesamt erhoben und aufbereitet, soweit nicht die Bundesregierung gemäß§ 9 Abs. 2 des Gesetzes über die Statistik für Bundeszwecke (StatG) vom 3. September 1953 (Bundesgesetzbl. I S. 1314)etwas anderes bestimmt.</p>
+                <p>(2) Absatz 1 gilt hinsichtlich der Preise für Verkehrsleistungen der Eisenbahn nicht im Land Berlin.</p>
+                <p>§ 9 Abs. 1 Kursivdruck: StatG aufgeh. durch § 17 Abs. 2 G v. 14.3.1980 I 289, vgl. sodann BStatG aufgeh. durch § 28 Nr. 1 G v. 22.1.1987 I 462 mWv 30.1.1987, anschl. BStatG 1987 I 462, 565</p>
+            </div>
+            <div xml:id="d129e194">
+                <head>§ 10</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.</p>
+            </div>
+            <div xml:id="d129e205">
+                <head>§ 11</head>
+                <p>Dieses Gesetz gilt im Saarland von dem Zeitpunkt an, zu dem das Gesetz über die Statistik für Bundeszwecke vom 3. September 1953 (Bundesgesetzbl. I S. 1314) im Saarland in Kraft tritt.</p>
+            </div>
+            <div xml:id="d129e216">
+                <head>§ 12</head>
+                <p>Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

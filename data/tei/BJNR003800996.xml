@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR003800996">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Aufhebung des Gesetzes über den Abbau von Salzen im Grenzgebiet an der Werra</title>
+                <title type="short">WerraSalzGAufhG</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1996-01-17</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 25. 1.1996 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1395e20">
+                <head>Art 1</head>
+                <p>-</p>
+            </div>
+            <div xml:id="d1395e31">
+                <head>Art 2</head>
+                <p>Die bei Inkrafttreten dieses Gesetzes nach Maßgabe des Gesetzes über den Abbau von Salzen im Grenzgebiet an der Werra in den Abbaugebieten im Sinne des § 1 des Gesetzes bestehenden Rechte, insbesondere Bergwerkseigentum, Bewilligungen, Zulassungen und Genehmigungen, bleiben unberührt.</p>
+            </div>
+            <div xml:id="d1395e41">
+                <head>Art 3</head>
+                <p>Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

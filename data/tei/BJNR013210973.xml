@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR013210973">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Übertragung von Zuständigkeiten nach dem Arbeitssicherstellungsgesetz auf Dienststellen im Geschäftsbereich des Bundesministers der Verteidigung</title>
+                <title type="short">ASGZustV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1973-08-18</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 21. 9.1973 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d756e23">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 38 des Arbeitssicherstellungsgesetzes vom 9. Juli 1968 (Bundesgesetzbl. I S. 787), geändert durch das Gesetz über die Fortzahlung des Arbeitsentgelts im Krankheitsfalle und über Änderungen des Rechts der gesetzlichen Krankenversicherung vom 27. Juli 1969 (Bundesgesetzbl. I S. 946), wird verordnet:</p>
+            </div>
+            <div xml:id="d756e33">
+                <head>§ 1</head>
+                <p>Für Arbeitnehmer bei der Bundeswehr gelten § 7 Abs. 1, § 9 Abs. 1 und 2 und § 32 Abs. 1 Nr. 1 des Arbeitssicherstellungsgesetzes mit der Maßgabe, daß an die Stelle der Agentur für Arbeit die personalbearbeitende Dienststelle tritt, die für die Beendigung des Arbeitsverhältnisses zuständig ist.</p>
+            </div>
+            <div xml:id="d756e44">
+                <head>§ 2</head>
+                <p>§ 32 Abs. 4 des Arbeitssicherstellungsgesetzes ist für Arbeitnehmer der Bundeswehr mit der Maßgabe anzuwenden, daß an die Stelle der Agentur für Arbeit die Standortverwaltung tritt.</p>
+            </div>
+            <div xml:id="d756e55">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.</p>
+            </div>
+            <div xml:id="d756e65">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister der Verteidigung</p>
+            </div>
+        </body>
+    </text>
+</TEI>

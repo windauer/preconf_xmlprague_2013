@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR013300993">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Siebte Verordnung zum Produktsicherheitsgesetz (Gasverbrauchseinrichtungsverordnung)</title>
+                <title type="short">GSGV 7</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1993-01-26</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 5.2.1993 +++)</p>
+            <p>Überschrift: IdF d. Art. 18 Nr. 1 G v. 8.11.2011 I 2178 mWv 1.12.2011</p>
+        </front>
+        <body>
+            <div xml:id="d762e28">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 4 Abs. 1 des Gerätesicherheitsgesetzes, der durch Artikel 1 Nr. 6 Buchstabe a des Gesetzes vom 26. August 1992 (BGBl. I S. 1564) neu gefaßt worden ist, verordnet die Bundesregierung nach Anhörung des Ausschusses für technische Arbeitsmittel:</p>
+            </div>
+            <div xml:id="d762e40">
+                <head>§ 1</head>
+                <p>(1) Diese Verordnung gilt für die Bereitstellung von neuen Gasverbrauchseinrichtungen (Geräte und Ausrüstungen) auf dem Markt.</p>
+                <p>(2) Geräte im Sinne dieser Verordnung sind Geräte, die zum Kochen, zum Heizen, zur Warmwasserbereitung, zu Kühl-, Beleuchtungs- oder Waschzwecken verwendet und mit gasförmigen Brennstoffen betrieben werden und bei denen, soweit mit ihnen Wasser erwärmt wird, die Wassertemperatur 105Grad C nicht übersteigt. Gas-Gebläsebrenner und die zugehörigen Wärmetauscher sind den Geräten gleichgestellt.</p>
+                <p>(3) Ausrüstungen im Sinne dieser Verordnung sind Sicherheits-, Kontroll- und Regelvorrichtungen sowie Baugruppen - mit Ausnahme von Gas-Gebläsebrennern und ihren zugehörigen Wärmetauschern -, die für gewerbliche Zwecke gesondert auf dem Markt bereitgestellt werden und in eine Gasverbrauchseinrichtung eingebaut oder zu einer solchen zusammengebaut werden sollen.</p>
+                <p>(4) Gasförmiger Brennstoff im Sinne dieser Verordnung ist jeder Brennstoff, der sich bei einer Temperatur von 15 Grad Celsius und unter einem Druck von einem Bar in einem gasförmigen Zustand befindet.</p>
+                <p>(5) Vorschriftsmäßig verwendete Geräte im Sinne dieser Verordnung sind Geräte, die</p>
+                <list>
+                    <item n="1.">nach den Anweisungen des Herstellers vorschriftsmäßig eingebaut sind und regelmäßig gewartet werden,</item>
+                    <item n="2.">mit den üblichen Schwankungen der Gasqualität und des Eingangsdruckes betrieben werden und</item>
+                    <item n="3.">zweckentsprechend oder in einer vorhersehbaren Weise verwendet werden.</item>
+                </list>
+                <p>(6) Diese Verordnung gilt nicht für Geräte, die speziell zur Verwendung bei industriellen Verfahren in Industriebetrieben bestimmt sind.</p>
+            </div>
+            <div xml:id="d762e74">
+                <head>§ 2</head>
+                <p>Geräte und Ausrüstungen dürfen nur auf dem Markt bereitgestellt werden, wenn sie den grundlegenden Anforderungen nach Anhang I der Richtlinie 2009/142/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über Gasverbrauchseinrichtungen (ABl. L 330 vom 16.12.2009, S. 10), entsprechen und die Geräte bei vorschriftsmäßiger Verwendung die Sicherheit von Personen, Haustieren und Gütern nicht gefährden.</p>
+            </div>
+            <div xml:id="d762e89">
+                <head>§ 3</head>
+                <p>(1) Ein Gerät darf nur auf dem Markt bereitgestellt werden, wenn es mit der CE-Kennzeichnung gemäß § 4 Absatz 1 und 2 versehen ist, durch die der Hersteller oder sein in der Gemeinschaft oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum niedergelassener Bevollmächtigter bestätigt, daß</p>
+                <list>
+                    <item n="1.">die Sicherheitsanforderungen nach § 2 erfüllt sind,</item>
+                    <item n="2.">das serienmäßig hergestellte Gerät mit dem geprüften Baumuster übereinstimmt, für das eine zugelassene Stelle nach Durchführung einer EG-Baumusterprüfung gemäß Anhang II Nr. 1 dieser Richtlinie bescheinigt hat, daß die Bauart des Gerätes den Bestimmungen dieser Richtlinie entspricht,</item>
+                    <item n="3.">das Verfahren der<list>
+                            <item n="a)">EG-Baumusterkonformitätserklärung nach Anhang II Nr. 2 der Richtlinie 2009/142/EG,</item>
+                            <item n="b)">EG-Baumusterkonformitätserklärung nach Anhang II Nr. 3 der Richtlinie 2009/142/EG (Zusicherung der Produktionsqualität),</item>
+                            <item n="c)">EG-Baumusterkonformitätserklärung nach Anhang II Nr. 4 der Richtlinie 2009/142/EG (Zusicherung der Produktqualität) oder</item>
+                            <item n="d)">EG-Prüfung nach Anhang II Nr. 5 der Richtlinie 2009/142/EG</item>
+                        </list>eingehalten wurde und</item>
+                    <item n="4.">der Hersteller seine Verpflichtungen gegenüber der von ihm beauftragten zugelassenen Stelle erfüllt hat.</item>
+                </list>
+                <p>(2) Bei der Herstellung eines Gerätes in Einzelfertigung oder in geringer Stückzahl kann der Hersteller statt der Verfahren nach Absatz 1 Nr. 2 und 3 die gerätespezifische EG-Prüfung nach Anhang II Nr. 6 der Richtlinie 2009/142/EG wählen.</p>
+                <p>(3) Unterliegt das Gerät auch anderen Rechtsvorschriften, die die CE-Kennzeichnung vorschreiben, wird durch die CE-Kennzeichnung auch bestätigt, daß das Gerät ebenfalls den Bestimmungen dieser anderen einschlägigen Rechtsvorschriften entspricht. Steht jedoch gemäß einer oder mehrerer dieser Rechtsvorschriften dem Hersteller während einer Übergangszeit die Wahl der anzuwendenden Regelung frei, so bestätigt die CE-Kennzeichnung in diesem Fall lediglich, daß das Gerät den vom Hersteller angewandten Rechtsvorschriften nach Satz 1 entspricht. In diesen Fällen müssen in den schriftlichen Informationen nach § 5 alle Nummern der den von ihm angewandten Rechtsvorschriften zugrundeliegenden Gemeinschaftsrichtlinien entsprechend ihrer Veröffentlichung im Amtsblatt der Europäischen Gemeinschaft aufgeführt sein.</p>
+                <p>(4) Die Ausrüstung darf nur auf dem Markt bereitgestellt werden, wenn ihr eine Bescheinigung nach Artikel 8 Absatz 4 der Richtlinie 2009/142/EG beigefügt ist, mit der der Hersteller oder sein in der Gemeinschaft oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum niedergelassener Bevollmächtigter bestätigt, daß die in § 2 genannten, für die Ausrüstung geltenden grundlegenden Anforderungen erfüllt sind. Absatz 1 Nr. 2 bis 4 gilt entsprechend. Die Ausrüstung darf die CE-Kennzeichnung nicht tragen.</p>
+            </div>
+            <div xml:id="d762e129">
+                <head>§ 4</head>
+                <p>(1) Die nach § 3 Abs. 1 erforderliche CE-Kennzeichnung und die Aufschriften nach Anhang III der Richtlinie 2009/142/EG sind sichtbar, gut lesbar und dauerhaft auf dem Gerät oder einer an dem Gerät befestigten Datenplakette anzubringen. Die Datenplakette ist so auszulegen, daß sie nicht wiederverwendet werden kann.</p>
+                <p>(2) Die CE-Kennzeichnung besteht aus den Buchstaben 'CE' nach Anhang III der Richtlinie 2009/142/EG. Hinter der CE-Kennzeichnung steht die Kennummer der mit der Produktionsüberwachung beauftragten notifizierten Stelle.</p>
+                <p>(3) Es dürfen auf dem Gerät keine Kennzeichnungen angebracht werden, durch die Dritte hinsichtlich der Bedeutung und des Schriftbildes irregeführt werden könnten. Jede andere Kennzeichnung darf auf dem Gerät oder der Datenplakette angebracht werden, wenn sie die Sichtbarkeit und Lesbarkeit der CE-Kennzeichnung nicht beeinträchtigt.</p>
+                <p>(4) (weggefallen)</p>
+            </div>
+            <div xml:id="d762e150">
+                <head>§ 5</head>
+                <p>Geräte dürfen nur auf dem Markt bereitgestellt werden, wenn ihnen die in Anhang I Nummer 1.2 der Richtlinie 2009/142/EG aufgeführten Unterlagen in deutscher Sprache beigefügt sind.</p>
+            </div>
+            <div xml:id="d762e165">
+                <head>§ 6</head>
+                <p>Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe a des Produktsicherheitsgesetzes handelt, wer entgegen § 3 Absatz 1 oder Absatz 4 Satz 1 oder § 5 ein Gerät oder eine Ausrüstung auf dem Markt bereitstellt.</p>
+            </div>
+            <div xml:id="d762e180">
+                <head>§ 7</head>
+            </div>
+            <div xml:id="d762e194">
+                <head>§ 8</head>
+                <p>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+            <div xml:id="d762e209">
+                <head>Schlußformel</head>
+                <p>Der Bundesrat hat zugestimmt.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

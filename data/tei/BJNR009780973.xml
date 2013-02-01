@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR009780973">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung des Bundespräsidenten über die Festsetzung von Amtsbezeichnungen</title>
+                <title type="short">BPräsAmtsbezAnO 1973-08</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1973-08-02</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 11. 8.1973 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d486e20">
+                <head>(XXXX)</head>
+                <p>Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende Amtsbezeichnungen fest:</p>
+                <list>
+                    <item n="">Präsident der Bundesstelle für Umweltangelegenheiten, Vizepräsident der Bundesstelle für Umweltangelegenheiten, Erster Direktor und Professor bei der Bundesstelle für Umweltangelegenheiten.</item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

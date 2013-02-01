@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR007090972">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bekanntmachung zu dem Gesetz über den rechtlichen Status der Rhein-Main-Donau-Großschiffahrtsstraße zwischen dem Main und Nürnberg und über die damit zusammenhängenden Eigentumsverhältnisse</title>
+                <title type="short">RheinMainDonSchStrGBek</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1972-04-18</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 28. 4.1972 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d228e20">
+                <head>(XXXX)</head>
+                <p>Gemäß § 1 Abs. 3 des Gesetzes über den rechtlichen Status der Rhein-Main-Donau-Großschiffahrtsstraße zwischen dem Main und Nürnberg und über die damit zusammenhängenden Eigentumsverhältnisse vom 29. November 1967 (Bundesgesetzbl. II S. 2521) wird bekanntgegeben, daß die Teilstrecke des Main-Donau-Kanals vom Unterwasser der Schleuse Kriegenbrunn (Kanalkilometer 48,00) bis einschließlich der Lände Fürth (Kanalkilometer 55,50) vom 1. Juni 1972 an dem allgemeinen Verkehr dient.Der Bundesminister für Verkehr</p>
+            </div>
+        </body>
+    </text>
+</TEI>

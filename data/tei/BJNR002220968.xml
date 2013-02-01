@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR002220968">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erlaß über die Stiftung der PRO MUSICA-Plakette</title>
+                <title type="short">ProMusPlErl</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1968-03-07</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 22. 3.1968 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1233e20">
+                <head>(XXXX)</head>
+                <p>Als Auszeichnung für Vereinigungen von Musikliebhabern, die sich in langjährigem Wirken besondere Verdienste um die Pflege des instrumentalen Musizierens und damit um die Förderung des kulturellen Lebens erworben haben, stifte ich die</p>
+                <list>
+                    <item n="">PRO MUSICA-Plakette.</item>
+                </list>
+                <p>Die Einzelheiten der Verleihung werden durch besondere Richtlinien festgelegt.</p>
+            </div>
+            <div xml:id="d1233e34">
+                <head>Schlußformel</head>
+                <p>Der BundespräsidentDer BundeskanzlerDer Bundesminister des Innern</p>
+            </div>
+        </body>
+    </text>
+</TEI>

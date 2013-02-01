@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR000300978">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung zur Errichtung von Sachverständigen-Ausschüssen für Standardzulassungen, Apothekenpflicht und Verschreibungspflicht von Arzneimitteln</title>
+                <title type="short">AMSachvV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1978-01-02</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 18.2.1983 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1030e23">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 53 des Arzneimittelgesetzes vom 24. August 1976 (BGBl. I S. 2445, 2448) wird verordnet:</p>
+            </div>
+            <div xml:id="d1030e33">
+                <head>§ 1</head>
+                <p>Das Bundesministerium für Gesundheit (Bundesministerium) hört vor Erlaß einer Rechtsverordnung</p>
+                <list>
+                    <item n="1.">nach § 36 Abs. 1 des Arzneimittelgesetzes einen Sachverständigen-Ausschuß für Standardzulassungen,</item>
+                    <item n="2.">nach § 45 Abs. 1 und § 46 Abs. 1 des Arzneimittelgesetzes einen Sachverständigen-Ausschuß für Apothekenpflicht und</item>
+                    <item n="3.">nach § 48 Abs. 2 des Arzneimittelgesetzes einen Sachverständigen-Ausschuß für Verschreibungspflicht</item>
+                </list>
+                <p>an. Soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind, tritt in den Fällen des Satzes 1 Nr. 2 und 3 an die Stelle des Bundesministeriums das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz.</p>
+            </div>
+            <div xml:id="d1030e52">
+                <head>§ 2</head>
+                <p>(1) Dem Ausschuß für Standardzulassungen gehören an -</p>
+                <list>
+                    <item n="">drei Hochschullehrer der Pharmakologie, davon einer aus dem Fach Veterinärmedizin</item>
+                    <item n="-">zwei Hochschullehrer der Pharmazie</item>
+                    <item n="-">ein Vertreter der Deutsche Krankenhausgesellschaft</item>
+                    <item n="-">ein Vertreter der Krankenhausapotheker</item>
+                    <item n="-">ein Vertreter der Arzneimittelkommission der Deutschen Ärzteschaft</item>
+                    <item n="-">ein Arzt für Allgemeinmedizin</item>
+                    <item n="-">ein Zahnarzt</item>
+                    <item n="-">ein Tierarzt</item>
+                    <item n="-">ein Heilpraktiker</item>
+                    <item n="-">drei Vertreter der Pharmazeutischen Industrie,</item>
+                </list>
+                <p>davon einer für die veterinärpharmazeutische Industrie</p>
+                <list>
+                    <item n="-">ein Vertreter der Apothekerschaft</item>
+                    <item n="-">ein Vertreter der Reformwaren-Hersteller</item>
+                    <item n="-">ein Vertreter des Einzelhandels außerhalb der Apotheken</item>
+                    <item n="-">ein Vertreter der Arbeitsgemeinschaft der Verbraucher</item>
+                    <item n="-">ein Vertreter der Gewerkschaften</item>
+                    <item n="-">zwei Vertreter der Sozialversicherungsträger.</item>
+                </list>
+                <p>(2) Dem Ausschuß für Apothekenpflicht gehören an</p>
+                <list>
+                    <item n="-">drei Hochschullehrer der Medizin,</item>
+                </list>
+                <p>davon je ein Hochschullehrer der Pharmakologie, der Inneren Medizin und des Faches Veterinärmedizin</p>
+                <list>
+                    <item n="-">ein Hochschullehrer der Pharmazie</item>
+                    <item n="-">ein Vertreter der Deutschen Krankenhausgesellschaft</item>
+                    <item n="-">ein Arzt für Allgemeinmedizin</item>
+                    <item n="-">ein Zahnarzt</item>
+                    <item n="-">ein Tierarzt</item>
+                    <item n="-">ein Heilpraktiker</item>
+                    <item n="-">zwei Vertreter der humanpharmazeutischen Industrie</item>
+                    <item n="-">zwei Vertreter der veterinärpharmazeutischen Industrie</item>
+                    <item n="-">ein Vertreter der Reformwaren-Hersteller</item>
+                    <item n="-">zwei Vertreter der Apothekerschaft</item>
+                    <item n="-">zwei Vertreter des Einzelhandels außerhalb der Apotheken</item>
+                    <item n="-">ein Vertreter der Arbeitsgemeinschaft der Verbraucher</item>
+                    <item n="-">zwei Vertreter der Sozialversicherungsträger.</item>
+                </list>
+                <p>(3) Dem Ausschuß für Verschreibungspflicht gehören an</p>
+                <list>
+                    <item n="-">drei Hochschullehrer der Pharmakologie,</item>
+                </list>
+                <p>davon einer aus dem Fach Veterinärmedizin</p>
+                <list>
+                    <item n="-">ein Hochschullehrer der Medizinischen Statistik oder Epidemiologie</item>
+                    <item n="-">ein Hochschullehrer der Pharmazie</item>
+                    <item n="-">ein Arzt für Allgemeinmedizin</item>
+                    <item n="-">ein Facharzt für innere Medizin</item>
+                    <item n="-">ein Facharzt für Kinderkrankheiten</item>
+                    <item n="-">ein Zahnarzt</item>
+                    <item n="-">ein Tierarzt</item>
+                    <item n="-">ein Heilpraktiker</item>
+                    <item n="-">ein Vertreter der Apothekerschaft</item>
+                    <item n="-">zwei Vertreter der humanpharmazeutischen Industrie</item>
+                    <item n="-">ein Vertreter der veterinärpharmazeutischen Industrie.</item>
+                </list>
+                <p>(4) Jedes Mitglied der Ausschüsse hat einen Stellvertreter.</p>
+            </div>
+            <div xml:id="d1030e163">
+                <head>§ 3</head>
+                <p>(1) Die Mitglieder der Ausschüsse und deren Stellvertreter werden durch das Bundesministerium im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz einheitlich für den Zeitraum von jeweils fünf Jahren berufen. Nachfolger für vorzeitig ausscheidende Mitglieder oder Stellvertreter werden nur für den Rest des jeweiligen Berufungszeitraums berufen.</p>
+                <p>(2) Wiederholte Berufungen sind zulässig.</p>
+                <p>(3) Mitglieder und Stellvertreter können durch Erklärung gegenüber dem Bundesministerium ihre Mitgliedschaft in einem Ausschuß jederzeit beenden.</p>
+                <p>(4) Die Tätigkeit in den Ausschüssen wird ehrenamtlich ausgeübt.</p>
+            </div>
+            <div xml:id="d1030e180">
+                <head>§ 4</head>
+                <p>Die Mitglieder der Ausschüsse und deren Stellvertreter haben, auch nach Beendigung ihrer ehrenamtlichen Tätigkeit, über die ihnen dabei bekanntgewordenen Angelegenheiten Verschwiegenheit zu wahren. Dies gilt nicht für Mitteilungen über Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen.</p>
+            </div>
+            <div xml:id="d1030e190">
+                <head>§ 5</head>
+                <p>(1) Die Ausschüsse beraten unter dem Vorsitz des Direktor und Professor des Bundesinstitutes für Arzneimittel und Medizinprodukte.</p>
+                <p>(2) Die Geschäfte der Ausschüsse führt das Bundesinstitut für Arzneimittel und Medizinprodukte.</p>
+            </div>
+            <div xml:id="d1030e203">
+                <head>§ 6</head>
+                <p>Die Ausschüsse verfahren nach der Geschäftsordnung, die der Verordnung als Anlage beigefügt ist.</p>
+            </div>
+            <div xml:id="d1030e213">
+                <head>§ 7</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit Artikel 8 des Gesetzes zur Neuordnung des Arzneimittelrechts vom 24. August 1976 (BGBl. I S. 2445) auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d1030e223">
+                <head>§ 8</head>
+                <p>Diese Verordnung tritt am Tag nach der Verkündung in Kraft.</p>
+            </div>
+            <div xml:id="d1030e234">
+                <head>Schlußformel</head>
+                <p>Der Bundesminister für Jugend, Familie und Gesundheit</p>
+            </div>
+        </body>
+    </text>
+</TEI>

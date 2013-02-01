@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR005170957">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz zur Ergänzung des Dritten Gesetzes über die Übernahme von Sicherheitsleistungen und Gewährleistungen zur Förderung der deutschen Wirtschaft</title>
+                <title type="short">ERPBürgschG 2</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1957-05-17</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d31e22">
+                <head>§ 1</head>
+                <p>(1) Der in § 2 Satz 1 des Dritten Gesetzes über die Übernahme von Sicherheitsleistungen und Gewährleistungen zur Förderung der deutschen Wirtschaft vom 6. Dezember 1954 (Bundesgesetzbl. I S. 365) festgesetzte Betrag von zweihundert Millionen Deutsche Mark wird um zweihundert Millionen Deutsche Mark zu Lasten des ERP-Sondervermögens auf vierhundert Millionen Deutsche Mark erhöht.</p>
+                <p>(2) Die gemäß vorstehenden Vorschriften zu übernehmenden Sicherheitsleistungen und Gewährleistungen werden nach den für die Verwaltung der allgemeinen Bundesschuld jeweils geltenden gesetzlichen Vorschriften durch die Bundesschuldenverwaltung verwaltet. Befugnisse, die danach dem Bundesminister der Finanzen zustehen, werden von diesem und demBundesminister für wirtschaftliche Zusammenarbeitgemeinsam ausgeübt.</p>
+                <p>§ 1 Abs. 2 Kursivdruck: Jetzt Bundesminister für Wirtschaft</p>
+            </div>
+            <div xml:id="d31e40">
+                <head>§ 2</head>
+                <p>Dieses Gesetz gilt nach Maßgabe des § 13 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d31e50">
+                <head>§ 3</head>
+                <p>Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

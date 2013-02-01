@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR004540961">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die kapitalverkehrsteuerliche Gleichstellung der Europäischen Gemeinschaft für Kohle und Stahl, der Europäischen Atomgemeinschaft und der Europäischen Investitionsbank mit dem Bund</title>
+                <title type="short">KVStGleichstV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1961-04-17</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d1478e20">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 29 Abs. 1 Nr. 3 des Kapitalverkehrsteuergesetzes in der Fassung der Bekanntmachung vom 24. Juli 1959 (Bundesgesetzbl. I S. 530) verordnet die Bundesregierung mit Zustimmung des Bundesrates:</p>
+            </div>
+            <div xml:id="d1478e30">
+                <head>§ 1</head>
+                <p>Bei der Anwendung des Kapitalverkehrsteuergesetzes in der jeweils geltenden Fassung stehen folgende überstaatliche Einrichtungen dem Bund gleich:</p>
+                <list>
+                    <item n="1.">Die Europäische Gemeinschaft für Kohle und Stahl,</item>
+                    <item n="2.">die Europäische Atomgemeinschaft,</item>
+                    <item n="3.">die auf Grund des Artikels 129 des Vertrages zur Gründung der Europäischen Wirtschaftsgemeinschaft errichtete Europäische Investitionsbank.</item>
+                </list>
+            </div>
+            <div xml:id="d1478e47">
+                <head>§ 2</head>
+                <p>Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 6 des Gesetzes zur Änderung verkehrsteuerrechtlicher Vorschriften vom 25. Mai 1959 (Bundesgesetzbl. I S. 261) auch im Land Berlin.</p>
+            </div>
+            <div xml:id="d1478e57">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

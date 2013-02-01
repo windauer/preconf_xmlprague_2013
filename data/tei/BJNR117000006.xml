@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR117000006">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Übertragung von Aufgaben und Befugnissen eines Sicherungsfonds für die Lebensversicherung an die Protektor Lebensversicherungs-AG</title>
+                <title type="short">SichLVV</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>2006-05-11</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis ab: 23.5.2006 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d962e22">
+                <head>Eingangsformel</head>
+                <p>Auf Grund des § 127 Abs. 1 des Versicherungsaufsichtsgesetzes in der Fassung der Bekanntmachung vom 17. Dezember 1992 (BGBl. 1993 I S. 2), der durch Artikel 1 Nr. 27 des Gesetzes vom 15. Dezember 2004 (BGBl. I S. 3416) eingefügt worden ist, in Verbindung mit § 1 Abs. 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:</p>
+            </div>
+            <div xml:id="d962e32">
+                <head>§ 1</head>
+                <p>Der Protektor Lebensversicherungs-AG werden die Aufgaben und Befugnisse eines Sicherungsfonds für die in § 124 Abs. 1 des Versicherungsaufsichtsgesetzes genannten Lebensversicherungsunternehmen übertragen.</p>
+            </div>
+            <div xml:id="d962e42">
+                <head>§ 2</head>
+                <p>Die Protektor Lebensversicherungs-AG hat dem Bundesministerium der Finanzen Änderungen ihrer Satzung zur Genehmigung vorzulegen. § 13 Abs. 1 des Versicherungsaufsichtsgesetzes bleibt unberührt.</p>
+            </div>
+            <div xml:id="d962e52">
+                <head>§ 3</head>
+                <p>Diese Verordnung tritt am Tage nach der Verkündung in Kraft.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

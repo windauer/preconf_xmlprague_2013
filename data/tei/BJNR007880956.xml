@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BJNR007880956">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anordnung des Bundespräsidenten über die Kennzeichnung der Luftfahrzeuge und Kampffahrzeuge der Bundeswehr</title>
+                <title type="short">BPräsKennzAnO</title>
+            </titleStmt>
+            <publicationStmt>
+                <date>1956-10-01</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>(+++ Textnachweis Geltung ab: 1. 1.1964 +++)</p>
+        </front>
+        <body>
+            <div xml:id="d328e20">
+                <head>(XXXX)</head>
+                <p>(1) Als Erkennungszeichen für die Luftfahrzeuge und Kampffahrzeuge der Bundeswehr bestimme ich ein schwarzes Kreuz mit weißer Umrandung in der aus dem nachstehend abgebildeten Muster ersichtlichen Form.</p>
+                <p>(2) Der BundesministerfürVerteidigung wird ermächtigt, Ausführungsbestimmungen zu dieser Anordnung zu erlassen.</p>
+                <p>Abs. 2 Kursivdruck: Jetzt "Bundesminister der Verteidigung"</p>
+            </div>
+            <div xml:id="d328e38">
+                <head>Muster</head>
+                <p>(Inhalt: nicht darstellbares Muster,Fundstelle: BGBl. I 1956, 788)</p>
+            </div>
+        </body>
+    </text>
+</TEI>
