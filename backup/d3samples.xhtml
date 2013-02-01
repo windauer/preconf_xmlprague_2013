@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xf="http://www.w3.org/2002/xforms">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../resources/css/exist.css"/>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+        <title>General XForms Form</title>
+        <link class="include" rel="stylesheet" type="text/css" href="/exist/apps/gesetze/resources/css/jquery.jqplot.min.css"/>
+        <script src="http://api.simile-widgets.org/timeline/2.3.1/timeline-api.js?bundle=true" type="text/javascript"/>
+        <style type="text/css">
+            tr {
+                padding-top:10px;
+            }
+            td {
+                padding-right:10px;
+            }
+            thead td {
+                font-weight:bold;
+                font-size:12pt;
+            }
+        </style>
+    </head>
+    <body id="body" onload="onLoad();" onresize="onResize();">
+        <div id="grey-top">
+            <div id="grey-bot">
+                <div id="container">
+                    <div id="header">
+                        <a href="" id="logo">eXistDB</a>
+                    </div><!--/header-->
+                    <div id="navigation">
+                        <ul id="nav" class="dropdown dropdown-horizontal">
+                            <li class="dir" id="about">
+                                <span>Home</span>
+                                <ul>
+                                    <li>
+                                        <a href="">Home</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="container">
+                        <div style="display:none;">
+                            <p>Timeline:</p>
+                            <div id="my-timeline" style="height: 350px; border: 1px solid #aaa"/>
+                        </div>
+                        <div style="background:white;width:1400px;height:900px;display:block;">
+                            <p>Graph</p>
+                            <div id="graph" class="aGraph" style="float:left;"/>
+                        </div>
+                        <noscript>
+                            This page uses Javascript to show you a Timeline. Please enable Javascript in your browser to see the full page. Thank you.
+                        </noscript>
+                        <div id="main" style="display:none;">
+                            <div class="row" id="container-body">
+                                <!-- Page content will be injected into the div below -->
+                                <div class="span8" id="content"/>
+                                <!-- Right hand column: 4 wide -->
+                                <div class="span4">
+                                    <h2>Application Info</h2>
+                                    <div class="config:app-info"/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="footer">
+            <ul>
+                <li>
+                    <a href="">Homepage</a>
+                </li>
+            </ul>
+            <div id="copyright">
+                <p>Copyright eXist-db / betterFORM Project 2012</p>
+            </div><!--/copyright-->
+        </div><!--/footer-->
+        <script type="text/javascript" defer="defer">
+            var tl;
+            var resizeTimerID = null;
+            function onLoad() {
+                var eventSource = new Timeline.DefaultEventSource();
+                var date = "2010-01-01";
+                var bandInfos = [
+                    Timeline.createBandInfo({
+                        eventSource:    eventSource,
+                        date:           date,
+                        width:          "80%",                        
+                        intervalUnit:   Timeline.DateTime.MONTH, 
+                        intervalPixels: 100
+                        
+                    }),
+                    Timeline.createBandInfo({
+                        eventSource:    eventSource,                        
+                        date:           date,
+                        overview:       true,
+                        width:          "10%", 
+                        intervalUnit:   Timeline.DateTime.YEAR, 
+                        intervalPixels: 200
+                        
+                    }),
+                    Timeline.createBandInfo({
+                        eventSource:    eventSource,
+                        date:           date,
+                        overview:       true,
+                        width:          "10%", 
+                        intervalUnit:   Timeline.DateTime.DECADE,
+                        intervalPixels: 100
+                        
+                    })
+                ];
+                 
+                bandInfos[1].syncWith = 0; 
+                bandInfos[1].highlight = true;
+                bandInfos[2].syncWith = 1;
+                bandInfos[2].highlight = true; 
+               
+               tl = Timeline.create(document.getElementById("my-timeline"), bandInfos);
+              Timeline.loadXML("example01.xml", function(xml, url) { eventSource.loadXML(xml, url); });
+               onResize();
+               console.debug("tl:",tl)
+             }
+            
+             
+             function onResize() {
+                 if (resizeTimerID == null) {
+                     resizeTimerID = window.setTimeout(function() {
+                         resizeTimerID = null;
+                         tl.layout();
+                     }, 500);
+                 }
+             }
+        </script>
+        <!-- script type="text/javascript">
+              var fill = d3.scale.category20();
+            
+              d3.layout.cloud().size([300, 300])
+                  .words([
+                    "Hello", "world", "normally", "you", "want", "more", "words",
+                    "than", "this"].map(function(d) {
+                    return {text: d, size: 10 + Math.random() * 90};
+                  }))
+                  .rotate(function() { return ~~(Math.random() * 2) * 90; })
+                  .font("Impact")
+                  .fontSize(function(d) { return d.size; })
+                  .on("end", draw)
+                  .start();
+            
+              function draw(words) {
+                d3.select("body").append("svg")
+                    .attr("width", 300)
+                    .attr("height", 300)
+                  .append("g")
+                    .attr("transform", "translate(150,150)")
+                  .selectAll("text")
+                    .data(words)
+                  .enter().append("text")
+                    .style("font-size", function(d) { return d.size + "px"; })
+                    .style("font-family", "Impact")
+                    .style("fill", function(d, i) { return fill(i); })
+                    .attr("text-anchor", "middle")
+                    .attr("transform", function(d) {
+                      return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+                    })
+                    .text(function(d) { return d.text; });
+              }
+            </script-->
+        <script>
+                var margin = {top: 20, right: 20, bottom: 30, left: 50},
+                    width = 960 - margin.left - margin.right,
+                    height = 500 - margin.top - margin.bottom;
+                
+                var parseDate = d3.time.format("%d-%b-%y").parse;
+                
+                var x = d3.time.scale()
+                    .range([0, width]);
+                
+                var y = d3.scale.linear()
+                    .range([height, 0]);
+                
+                var xAxis = d3.svg.axis()
+                    .scale(x)
+                    .orient("bottom");
+                
+                var yAxis = d3.svg.axis()
+                    .scale(y)
+                    .orient("left");
+                
+                var line = d3.svg.line()
+                    .x(function(d) { return x(d.date); })
+                    .y(function(d) { return y(d.close); });
+                
+                var svg = d3.select("body").append("svg")
+                    .attr("width", width + margin.left + margin.right)
+                    .attr("height", height + margin.top + margin.bottom)
+                  .append("g")
+                    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+                
+                d3.tsv("data.tsv", function(error, data) {
+                  data.forEach(function(d) {
+                    d.date = parseDate(d.date);
+                    d.close = +d.close;
+                  });
+                
+                  x.domain(d3.extent(data, function(d) { return d.date; }));
+                  y.domain(d3.extent(data, function(d) { return d.close; }));
+                
+                  svg.append("g")
+                      .attr("class", "x axis")
+                      .attr("transform", "translate(0," + height + ")")
+                      .call(xAxis);
+                
+                  svg.append("g")
+                      .attr("class", "y axis")
+                      .call(yAxis)
+                    .append("text")
+                      .attr("transform", "rotate(-90)")
+                      .attr("y", 6)
+                      .attr("dy", ".71em")
+                      .style("text-anchor", "end")
+                      .text("Price ($)");
+                
+                  svg.append("path")
+                      .datum(data)
+                      .attr("class", "line")
+                      .attr("d", line);
+                });                
+            </script>
+        <!--script>
+    	/* implementation heavily influenced by http://bl.ocks.org/1166403 */
+		
+		// define dimensions of graph
+		var m = [120, 120, 120, 120]; // margins
+		var w = 1000 - m[1] - m[3]; // width
+		var h = 500 - m[0] - m[2]; // height
+		
+		// create a simple data array that we'll plot with a line (this array represents only the Y values, X will just be the index location)
+		var data = [1, 0, 3, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 1, 0, 2, 1, 0, 2, 0, 0, 1, 0, 2, 2, 2, 6, 1, 2, 0, 3, 0, 1, 0, 0, 1, 1, 1, 5, 2, 2, 0, 2, 0, 0, 0, 0, 0, 4, 0, 3, 5, 0, 0, 0, 2, 1, 1, 1, 1, 0, 0, 7, 8, 2, 4, 7, 6, 6, 5, 1, 2, 1, 1, 0, 1, 0, 1, 1, 20, 30, 15, 23, 13, 23, 26, 40, 13, 23, 23, 36, 22, 22, 22, 29, 19, 29, 28, 38, 38, 26, 35, 22, 25, 24, 30, 36, 29, 36, 33, 26, 29, 22, 23, 18, 31, 22, 28, 28, 47, 53, 47, 6, 15, 12, 12, 20, 11, 6, 7, 8, 2, 9, 10, 10, 12, 12, 16, 18, 12, 14, 10];
+		
+		// X scale will fit all values from data[] within pixels 0-w
+		var x = d3.scale.linear().domain([0, data.length]).range([0, w]);
+		// Y scale will fit values from 0-10 within pixels h-0 (Note the inverted domain for the y-scale: bigger is up!)
+		var y = d3.scale.linear().domain([0, 60]).range([h, 0]);
+			// automatically determining max range can work something like this
+			// var y = d3.scale.linear().domain([0, d3.max(data)]).range([h, 0]);
+			
+		// create a line function that can convert data[] into x and y points
+		var line = d3.svg.line()
+			// assign the X function to plot our line as we wish
+			.x(function(d,i) { 
+				// verbose logging to show what's actually being done
+				console.log('Plotting X value for data point: ' + d + ' using index: ' + i + ' to be at: ' + x(i) + ' using our xScale.');
+				// return the X coordinate where we want to plot this datapoint
+				return x(i); 
+			})
+			.y(function(d) { 
+				// verbose logging to show what's actually being done
+				console.log('Plotting Y value for data point: ' + d + ' to be at: ' + y(d) + " using our yScale.");
+				// return the Y coordinate where we want to plot this datapoint
+				return y(d); 
+			})
+			
+			// Add an SVG element with the desired dimensions and margin.
+			var graph = d3.select("#graph").append("svg:svg")
+			      .attr("width", w + m[1] + m[3])
+			      .attr("height", h + m[0] + m[2])
+			    .append("svg:g")
+			      .attr("transform", "translate(" + m[3] + "," + m[0] + ")");
+			      
+			// create yAxis
+			var xAxis = d3.svg.axis().scale(x).tickSize(-h).tickSubdivide(true);
+			// Add the x-axis.
+			graph.append("svg:g")
+			      .attr("class", "x axis")
+			      .attr("transform", "translate(0," + h + ")")
+			      .call(xAxis);
+			      
+			      
+			// create left yAxis
+			var yAxisLeft = d3.svg.axis().scale(y).ticks(4).orient("left");
+			// Add the y-axis to the left
+			graph.append("svg:g")
+			      .attr("class", "y axis")
+			      .attr("transform", "translate(-25,0)")
+			      .call(yAxisLeft);
+			
+  			// Add the line by appending an svg:path element with the data line we created above
+			// do this AFTER the axes above so that the line is above the tick-lines
+  			graph.append("svg:path").attr("d", line(data));
+			
+			
+	</script-->
+    </body>
+</html>

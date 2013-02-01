@@ -66,7 +66,7 @@
                     <div>
                         <xf:select1 ref="startyear" selection="open">
                             <xf:label>Code / Year:</xf:label>
-                            <xf:itemset nodeset="instance('i-years')/norms">
+                            <xf:itemset nodeset="instance('i-years')/codes">
                                 <xf:label>
                                     <xf:output value="concat(@year, ' : ', @count)"/>
                                 </xf:label>
@@ -77,7 +77,7 @@
                     <div>
                         <xf:select1 ref="code" selection="open">
                             <xf:label>Code</xf:label>
-                            <xf:itemset nodeset="instance('i-codes')/norm">
+                            <xf:itemset nodeset="instance('i-codes')/code">
                                 <xf:label ref="."/>
                                 <xf:value ref="@id"/>
                             </xf:itemset>
@@ -90,7 +90,7 @@
                         </xf:trigger>
                     </div>
                     <div>
-                        <xf:repeat nodeset="instance('i-years')/norms[@year=instance()/startyear]/norm" appearance="compact">
+                        <xf:repeat nodeset="instance('i-years')/codes[@year=instance()/startyear]/code" appearance="compact">
                             <!--xf:output ref="@id">
                         <xf:label>Id</xf:label>
                     </xf:output-->
