@@ -80,12 +80,12 @@ declare function xforms:process-ui($nodes as node()*,$model as node()*) {
 
                     )
                     default return 
-                      element {local-name($node)} {                                                    
+                      element {name($node)} {                                                    
                             for $attr in $node/@* return $attr,
                             for $child in $node/node() return xforms:process-ui($child,$model)
                         }
             case element() return
-                element {local-name($node)} {
+                element {name($node)} {
                     for $attr in $node/@* return $attr,
                     for $child in $node/node() return xforms:process-ui($child,$model)
                 }

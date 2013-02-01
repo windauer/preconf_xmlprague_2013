@@ -13,7 +13,7 @@ declare function local:norms-between-dates($start as xs:date, $end as xs:date) {
         order by $norm/tei:teiHeader//tei:publicationStmt/tei:date
         return 
             <norm title="{$norm/tei:teiHeader//tei:title[@type='short']}" date="{$norm/tei:teiHeader//tei:publicationStmt/tei:date}" id="{$norm/@xml:id}">
-                {$norm/tei:teiHeader//tei:title[not(@type='small')]}
+                {$norm/tei:teiHeader//tei:title[not(@type='small')]/text()}
             </norm>
 };
 
@@ -88,12 +88,12 @@ declare function local:get-norms-by-year($seq) {
                     {
                         for $norm in $seq[substring(@date,1,4) = $distinctValue]
                             return 
-                                <norm id="{$norm/@id}" title="{$teiData[@xml:id=$norm/@id]/tei:teiHeader//tei:title[@type='short']/text()}" date="{data($teiData[@xml:id=$norm/@id]/tei:teiHeader//tei:publicationStmt/tei:date)}" />
+                                <norm id="{$norm/@id}" title="{$teiData[@xml:id=$norm/@id]/tei:teiHeader//tei:title[@type='short']/text()}" date="{data($teiData[@xml:id=$norm/@id]/tei:teiHeader//tei:publicationStmt/tei:date)}">{$teiData[@xml:id=$norm/@id]/tei:teiHeader//tei:title[not(@type='short')]/text()}</norm>
                     }
                 </norms>
   
 };
-
+(: 
 let $startDate := xs:date('2000-01-01')
 let $endDate := xs:date('2000-12-31')
 let $normsBetweenDates := local:norms-between-dates($startDate, $endDate)
@@ -105,16 +105,20 @@ let $normsBetweenYears := local:norms-between-years($startYear, $endYear)
 let $normsByYear := local:sort-norms-by-date()
 
 let $normsPerYear := local:get-norms-by-year($normsByYear)
+:)
+let $normsByYear := local:sort-norms-by-date()
 let $earliestLatestNorm := local:get-earliest-and-latest-norm($normsByYear)
 
 
-
-return 
-    <result>
+(: 
         <normsBetweenDates>{$normsBetweenDates}</normsBetweenDates>
         <normsBetweenYears>{$normsBetweenDates}</normsBetweenYears>
-        <latestEarliestNorm>{$earliestLatestNorm}</latestEarliestNorm>
+        
         <normsPerYear>{$normsPerYear}</normsPerYear>
+ :  :)
+return 
+    <result>
+        <latestEarliestNorm>{$earliestLatestNorm}</latestEarliestNorm>
     </result>
 
     

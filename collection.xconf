@@ -7,5 +7,6 @@
             <text qname="tei:head"/>
         </lucene>
         <create qname="@type" type="xs:string"/>
+        <create qname="@date" type="xs:date"/>
     </index>
 </collection>
