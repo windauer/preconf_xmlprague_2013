@@ -93,6 +93,15 @@ declare function local:get-norms-by-year($seq) {
                 </norms>
   
 };
+
+declare function local:get-norms-for-filtering-select() {
+    let $codes := collection(concat($config:data-root,'/tei'))//tei:TEI    
+    for $code in $codes
+        return 
+            <norm id="{$code/@id}" title="{$code/tei:teiHeader//tei:title[@type='short']/text()}" date="{data($code/tei:teiHeader//tei:publicationStmt/tei:date)}">{$code/tei:teiHeader//tei:title[not(@type='short')]/text()}</norm>  
+
+
+};
 (: 
 let $startDate := xs:date('2000-01-01')
 let $endDate := xs:date('2000-12-31')
@@ -105,9 +114,10 @@ let $normsBetweenYears := local:norms-between-years($startYear, $endYear)
 let $normsByYear := local:sort-norms-by-date()
 
 let $normsPerYear := local:get-norms-by-year($normsByYear)
+let $earliestLatestNorm := local:get-earliest-and-latest-norm($normsByYear)
 :)
 let $normsByYear := local:sort-norms-by-date()
-let $earliestLatestNorm := local:get-earliest-and-latest-norm($normsByYear)
+let $normsForFilteringSelect := local:get-norms-for-filtering-select()
 
 
 (: 
@@ -117,8 +127,6 @@ let $earliestLatestNorm := local:get-earliest-and-latest-norm($normsByYear)
         <normsPerYear>{$normsPerYear}</normsPerYear>
  :  :)
 return 
-    <result>
-        <latestEarliestNorm>{$earliestLatestNorm}</latestEarliestNorm>
-    </result>
+    <data>{$normsForFilteringSelect}</data>
 
     
