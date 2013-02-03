@@ -120,7 +120,7 @@ let $normsByYear := local:sort-norms-by-date()
 let $normsForFilteringSelect := local:get-norms-for-filtering-select()
 
 
-(: 
+(:
         <normsBetweenDates>{$normsBetweenDates}</normsBetweenDates>
         <normsBetweenYears>{$normsBetweenDates}</normsBetweenYears>
         

@@ -29,13 +29,18 @@ declare function xforms:process-ui-label($node as node()*,$model as node()*) {
 };
 
 declare function xforms:process-ui-hint($node as node()*,$model as node()*) {
-    let $hint := data($node/@placeholder)
-    return 
-        element xf:hint {
-            for $attr in $node/@* return $attr,
-            $hint
-        }    
-    };
+    if(exists($node/@placeholder))
+    then (                                     
+        let $hint := data($node/@placeholder)
+        return 
+            element xf:hint {
+                for $attr in $node/@* return $attr,
+                $hint
+            }    
+    )
+    else ()                                            
+
+};
 
 (: TRANSFORM HTML5 UI TO XFORMS USER INTERFACE MARKUP  :)
 declare function xforms:process-ui($nodes as node()*,$model as node()*) {
@@ -46,17 +51,13 @@ declare function xforms:process-ui($nodes as node()*,$model as node()*) {
                 element xf:input {
                     for $attr in $node/@*[not(local-name(.)='data-ref' or local-name(.)='placeholder')] return $attr,
                     attribute { 'ref' } { xs:string($node/@data-ref) }, 
-
-                    if(exists($node/@placeholder))
-                        then (                            
-                            xforms:process-ui-hint($node,$model) 
-                        )
-                        else ()                                            
+                    xforms:process-ui-label($node,$model),
+                    xforms:process-ui-hint($node,$model)
                 }
             case element(button) return 
                 <xf:trigger>
                     <xf:label>{$node/text()}</xf:label>                        
-                    <xf:send submission="s-{data($node/@data-submission)}"/>
+                    <xf:send submission="{data($node/@data-submission)}"/>
                 </xf:trigger>
             case element(label) return ()
             case element(form) return                 
@@ -64,23 +65,13 @@ declare function xforms:process-ui($nodes as node()*,$model as node()*) {
                     case 'group' return (
                         element xf:group {
                             attribute { 'appearance' } { 'full' },
-                            for $attr in $node/@* return $attr,
+                            for $attr in $node/@* return $attr,                            
                             if(exists($node/@data-xf-label))
                             then (
-                                element xf:label { data($node/@data-xf-label)},
-                                for $child in $node/node() return xforms:process-ui($child,$model),
-                                <xf:trigger>
-                                    <xf:label>Send</xf:label>
-                                    <xf:send submission="s-submit"/>
-                                </xf:trigger>
-                                )
-                            else (
-                                for $child in $node/node() return xforms:process-ui($child,$model),
-                                <xf:trigger>
-                                    <xf:label>Send</xf:label>
-                                    <xf:send submission="s-submit"/>
-                                </xf:trigger>
-                            )                            
+                                element xf:label { data($node/@data-xf-label)}
+                            )
+                            else (),
+                            for $child in $node/node() return xforms:process-ui($child,$model)
                         }
 
                     )
@@ -125,17 +116,6 @@ declare function xforms:process-model($model as node()*) {
                                             <xf:bind nodeset="{data($node/@data-ref)}" type="{data($node/@type)}"/>       
                         }
                 </xf:bind>,
-
-                <xf:submission id="s-submit" 
-                    method="post" 
-                    replace="embedHTML" 
-                    targetid="searchResultMount" 
-                    resource="modules/search.xql" 
-                    validate="false">                                
-                    <xf:action ev:event="xforms-submit-error">
-                        <xf:message>Submission 'submit' failed</xf:message>
-                    </xf:action>
-                </xf:submission>              
             </xf:model>
         </div>
 

@@ -7,7 +7,7 @@
             <sortAscending>true</sortAscending>
             <startyear/>
             <endyear/>
-            <term/>
+            <term>Vertrag</term>
             <code/>
         </data>
     </xf:instance>
@@ -18,20 +18,14 @@
     </xf:bind>
     <xf:instance id="i-codes" resource="/exist/apps/gesetze/data/transformed/codes-toc.xml"/>
     <xf:instance id="i-years" resource="/exist/apps/gesetze/data/transformed/codes-by-year.xml"/>
-    <xf:submission id="s-submit" method="post" replace="embedHTML" targetid="searchResultMount" resource="modules/search.xql" validate="false">
+    <xf:submission id="s-call-xquery" method="post" replace="embedHTML" targetid="searchResultMount" resource="modules/search.xql" validate="false">
         <xf:action ev:event="xforms-submit-error">
             <xf:message>Submission 'submit' failed</xf:message>
         </xf:action>
     </xf:submission>
-    <xf:submission id="s-execute-query" method="get" replace="embed" targetid="searchResultMount" resource="xquick.html?query={instance()/term}" validate="false">
+    <xf:submission id="s-call-html" method="get" replace="embed" targetid="searchResultMount" resource="searchResult.html?query={instance()/term}" validate="false">
         <xf:action ev:event="xforms-submit-error">
             <xf:message>Submission 'submit' failed</xf:message>
         </xf:action>
     </xf:submission>
-    <!--xf:action ev:event="xforms-ready">
-        <script>
-            console.debug("xforms ready fired");                
-            initialize()
-        </script>
-    </xf:action-->
 </xf:model>
