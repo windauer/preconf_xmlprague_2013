@@ -6,116 +6,86 @@
         <div id="tabMenu" style="display:block;clear:both;float:none;">
             <xf:trigger appearance="minimal">
                 <xf:label>Timeline</xf:label>
-                <xf:toggle case="c-timeline"/>
-                <!--script>
-                console.debug("resize");
-                onResize();
-            </script-->
+                <bfc:show xmlns:bfc="http://betterform.sourceforge.net/xforms/controls" dialog="tlDialog"/>
             </xf:trigger>
             <xf:trigger class="active" appearance="minimal">
                 <xf:label>Meta</xf:label>
-                <xf:toggle case="c-meta"/>
             </xf:trigger>
-            <xf:trigger appearance="minimal">
+            <!--xf:trigger appearance="minimal">
                 <xf:label>Search</xf:label>
                 <xf:toggle case="c-search"/>
-            </xf:trigger>
+            </xf:trigger-->
         </div>
-        <xf:switch>
-            <xf:case id="c-timeline">
-                <div style="clear:both;position:relative;display:block;">
-                    <h2>Timeline showing all German Law Books</h2>
-                    <!-- ul>
-                        <li>Features</li>
-                        <ul>
-                            <li>scroll wheel support works fine</li>
-                        </ul>
-                        <li>TBD</li>
-                        <ul>
-                            <li>link codes of law</li>
-                            <li>styling</li>
-                            <li>use local timeline version (already availaebl in betterform!?!)</li>
-                        </ul>
-                        <li>Bugs</li>
-                        <ul>
-                            <li>setting of initial data / adjustment of time bands does not work properly</li>
-                        </ul>
-                    </ul-->
-                    <label for="timeline">Timeline</label>
-                    <input id="timeline" data-ref="term" appearance="bf:timeline" data-bf="data/transformed/timeline.xml"/>
+        <div style="clear:both;position:relative;display:block;">
+            <h2>Timeline showing all German Law Books</h2>
+            <input id="timeline" data-ref="term" appearance="bf:timeline" data-bf="data/transformed/timeline.xml"/>
+        </div>
+        <div style="clear:both;position:relative;display:block;">
+            <h2>German Law Books / Release year</h2>
+            <input id="linechart" data-ref="term" appearance="bf:linechart" data-bf="data/transformed/timeline.xml" style="margin-top:20px; margin-left:20px; width:520px; height:300px;"/>
+        </div>
+        <div style="clear:both;position:relative;display:block;">
+            <h2>Search Params</h2>
+            <form class="search_parms" data-xf-type="group">
+                <div>
+                    <label for="startdate">Start</label>
+                    <input id="startdate" data-ref="startdate" type="date" value="2005-01-10"/>
                 </div>
-            </xf:case>
-            <xf:case id="c-meta">
-                <h2>German Law Books / Release year</h2>
-                <div class="linechart" id="chart2" data-ref="modules/codes-by-year-to-JSON.xql" type="linechart"/>
-            </xf:case>
-            <xf:case id="c-search">
-                <h2>Search Params</h2>
-                <form class="search_parms" data-xf-type="group">
-                    <div>
-                        <label for="startdate">Start</label>
-                        <input id="startdate" data-ref="startdate" type="date" value="2005-01-10"/>
-                    </div>
-                    <div>
-                        <label for="enddate">End</label>
-                        <input id="enddate" data-ref="enddate" type="date" value="2012-01-01"/>
-                    </div>
-                    <div>
-                        <label for="sortAscending">Ascending</label>
-                        <input id="sortAscending" data-ref="sortAscending" type="checkbox" value="true"/>
-                    </div>
-                    <div>
-                        <xf:select1 ref="startyear" selection="open">
-                            <xf:label>Code / Year:</xf:label>
-                            <xf:itemset nodeset="instance('i-years')/codes">
-                                <xf:label>
-                                    <xf:output value="concat(@year, ' : ', @count)"/>
-                                </xf:label>
-                                <xf:value ref="@year"/>
-                            </xf:itemset>
-                        </xf:select1>
-                    </div>
-                    <div>
-                        <xf:select1 ref="code" selection="open">
-                            <xf:label>Code</xf:label>
-                            <xf:itemset nodeset="instance('i-codes')/code">
-                                <xf:label ref="."/>
-                                <xf:value ref="@id"/>
-                            </xf:itemset>
-                        </xf:select1>
-                    </div>
-                    <div>
-                        <xf:trigger>
-                            <xf:label>load</xf:label>
-                            <xf:load show="embed" targetid="searchResultMount">
-                                <xf:resource value="concat('searchResult.html?query=',instance()/term)"/>
-                            </xf:load>
-                            <!--xf:send submission="s-execute-query"/-->
-                        </xf:trigger>
-                    </div>
-                    <div>
-                        <xf:repeat nodeset="instance('i-years')/codes[@year=instance()/startyear]/code" appearance="compact">
-                            <!--xf:output ref="@id">
-                        <xf:label>Id</xf:label>
-                    </xf:output-->
-                            <xf:output ref="@date">
-                                <xf:label>Date</xf:label>
-                            </xf:output>
-                            <xf:output ref="@title">
-                                <xf:label>Title</xf:label>
-                            </xf:output>
-                            <xf:output ref=".">
-                                <xf:label>Title</xf:label>
-                            </xf:output>
-                        </xf:repeat>
-                    </div>
-                    <div>
-                        <label for="term">Search Term</label>
-                        <input id="term" data-ref="term" placeholder="Enter search term"/>
-                    </div>
-                </form>
-                <div id="searchResultMount"/>
-            </xf:case>
-        </xf:switch>
+                <div>
+                    <label for="enddate">End</label>
+                    <input id="enddate" data-ref="enddate" type="date" value="2012-01-01"/>
+                </div>
+                <div>
+                    <label for="sortAscending">Ascending</label>
+                    <input id="sortAscending" data-ref="sortAscending" type="checkbox" value="true"/>
+                </div>
+                <div>
+                    <xf:select1 ref="startyear" selection="open">
+                        <xf:label>Code / Year:</xf:label>
+                        <xf:itemset nodeset="instance('i-years')/codes">
+                            <xf:label>
+                                <xf:output value="concat(@year, ' : ', @count)"/>
+                            </xf:label>
+                            <xf:value ref="@year"/>
+                        </xf:itemset>
+                    </xf:select1>
+                </div>
+                <div>
+                    <xf:select1 ref="code" selection="open">
+                        <xf:label>Code</xf:label>
+                        <xf:itemset nodeset="instance('i-codes')/code">
+                            <xf:label ref="."/>
+                            <xf:value ref="@id"/>
+                        </xf:itemset>
+                    </xf:select1>
+                </div>
+                <div>
+                    <xf:trigger>
+                        <xf:label>load</xf:label>
+                        <xf:load show="embed" targetid="searchResultMount">
+                            <xf:resource value="concat('searchResult.html?query=',instance()/term)"/>
+                        </xf:load>
+                    </xf:trigger>
+                </div>
+                <div>
+                    <xf:repeat nodeset="instance('i-years')/codes[@year=instance()/startyear]/code" appearance="compact">
+                        <xf:output ref="@date">
+                            <xf:label>Date</xf:label>
+                        </xf:output>
+                        <xf:output ref="@title">
+                            <xf:label>Title</xf:label>
+                        </xf:output>
+                        <xf:output ref=".">
+                            <xf:label>Title</xf:label>
+                        </xf:output>
+                    </xf:repeat>
+                </div>
+                <div>
+                    <label for="term">Search Term</label>
+                    <input id="term" data-ref="term" placeholder="Enter search term"/>
+                </div>
+            </form>
+            <div id="searchResultMount"/>
+        </div>
     </div>
 </div>

@@ -45,11 +45,11 @@ declare function local:create-timeline-xml($filename, $targetCollection) {
                             for $code in $codes
                                 return
                                     <event  id="{$code/@xml:id}" 
-                                            title="{$code/tei:teiHeader//tei:title[exists(@type)]/text()}" 
+                                            title="{$code/tei:teiHeader//tei:title[exists(@type)]/text()}"
+                                            link="../../toc.html?id={$code/@xml:id}"
                                             start="{data($code/tei:teiHeader//tei:publicationStmt/tei:date/text())}">
-                                                {$code/tei:teiHeader//tei:title[not(exists(@type))]/text()}                                                    
-
-                                    </event>                                    
+                                                {$code/tei:teiHeader//tei:title[not(exists(@type))]/text()}          
+                                    </event>
                             }
                         </data>
 

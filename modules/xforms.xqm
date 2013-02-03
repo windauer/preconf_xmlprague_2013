@@ -11,6 +11,7 @@ import module namespace templates="http://exist-db.org/xquery/templates";
 
 declare namespace xf="http://www.w3.org/2002/xforms";
 declare namespace ev="http://www.w3.org/2001/xml-events";
+declare namespace bfc="http://betterform.sourceforge.net/xforms/controls";
 
 declare namespace repo="http://exist-db.org/xquery/repo";
 declare namespace expath="http://expath.org/ns/pkg";

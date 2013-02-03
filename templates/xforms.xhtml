@@ -1,53 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xf="http://www.w3.org/2002/xforms">
-<head>
-    <title class="config:app-title">Demo App</title>
-    <meta class="config:app-meta"/>
-    <!-- link rel="stylesheet" type="text/css" href="/exist/apps/gesetze/resources/css/jquery.jqplot.min.css"/-->
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:bfc="http://betterform.sourceforge.net/xforms/controls" xmlns:xf="http://www.w3.org/2002/xforms">
+    <head>
+        <title class="config:app-title">Demo App</title>
+        <!-- meta class="config:app-meta"/-->
+        <link class="include" rel="stylesheet" type="text/css" href="/exist/apps/gesetze/resources/css/jquery.jqplot.min.css"/>
+        <link rel="stylesheet" type="text/css" href="/exist/bfResources/scripts/timeline_2.3.0/timeline_js/timeline-bundle.css"/>
+        <script src="/exist/bfResources/scripts/timeline_2.3.0/timeline_ajax/simile-ajax-api.js?bundle=true" type="text/javascript"/>
+        <script src="/exist/bfResources/scripts/timeline_2.3.0/timeline_js/timeline-api.js?bundle=true" type="text/javascript"/>
+        
+        
+        
+        <!-- script>SimileAjax.History.enabled = false;</script-->
+        <style type="text/css">
+            .jqplot-point-label {white-space: nowrap;}
+            .jqplot-yaxis-label {font-size: 14pt;}
+            .jqplot-yaxis-tick {font-size: 7pt;}
 
+            div.jqplot-target {
+                height: 500px;
+                width: 800px;
+                margin:0;
+            }
 
-    <link rel="stylesheet" type="text/css" href="/exist/bfResources/scripts/timeline_2.3.0/timeline_js/timeline-bundle.css"/>
-    <script src="/exist/bfResources/scripts/timeline_2.3.0/timeline_ajax/simile-ajax-api.js?bundle=true" type="text/javascript"></script>
-    <script src="/exist/bfResources/scripts/timeline_2.3.0/timeline_js/timeline-api.js?bundle=true" type="text/javascript"></script>
+            tr {
+                padding-top:10px;
+            }
+            td {
+                padding-right:10px;
+            }
+            thead td {
+                font-weight:bold;
+                font-size:12pt;
+            }
+            .xsdDate .xfValue {
+                padding-top:0.1em;
+                padding-left:0.1em;
+            }
+            .xsdDate .dijitArrowButton {
+                height:1.2em;
+            }
+            .bf .xsdBoolean .xfValue, .bf .bfCheckBoxGroup .xfValue {
+                background-color: transparent;
+                    height: 1.2em;
+                    width: 1.2em;
 
-    <!-- script>SimileAjax.History.enabled = false;</script-->
-
-    <style type="text/css">
-        .jqplot-point-label {white-space: nowrap;}
-        .jqplot-yaxis-label {font-size: 14pt;}
-        .jqplot-yaxis-tick {font-size: 7pt;}
-
-        div.jqplot-target {
-            height: 500px;
-            width: 800px;
-            margin:0;
-        }
-
-        tr {
-            padding-top:10px;
-        }
-        td {
-            padding-right:10px;
-        }
-        thead td {
-            font-weight:bold;
-            font-size:12pt;
-        }
-        .xsdDate .xfValue {
-            padding-top:0.1em;
-            padding-left:0.1em;
-        }
-        .xsdDate .dijitArrowButton {
-            height:1.2em;
-        }
-        .bf .xsdBoolean .xfValue, .bf .bfCheckBoxGroup .xfValue {
-            background-color: transparent;
-            height: 1.2em;
-            width: 1.2em;
-
-        }
-
-
+            }
+            
+            
         #tabMenu .xfTrigger *{
             font-size: 14px;
 
@@ -61,8 +60,8 @@
             border-radius: 7px 8px 0 0;
             border-right: 1px solid darkgray;
             border-top: 1px solid darkgray;
-
-
+            
+            
             margin-left: 2px;
             padding: 5px 10px 3px;
             position: relative;
@@ -77,21 +76,26 @@
         #tabMenu .active {
             background-color: orange;
         }
+         
+        </style>
+        <!--script type="text/javascript" src="/exist/apps/shared-resources/resources/scripts/jquery/jquery-1.7.1.min.js"/-->
+    </head>
+    <body>
+        <div class="container">
+            <div class="row" id="container-body">
+                <div class="span8" id="content"/>
+            </div>
+        </div>
+        
+        <!-- Don't touch this! -->
+        <script type="text/javascript">
+            define.amd.jQuery = true;
+            define.amd.jplot = true;
+            define.amd.dateAxisRenderer = true;
+            define.amd.cursor = true;
+            define.amd.highlighter = true;
 
-    </style>
-    <!-- script type="text/javascript" src="/exist/apps/shared-resources/resources/scripts/jquery/jquery-1.7.1.min.js"/-->
-</head>
-<body>
-<div class="container">
-    <div class="row" id="container-body">
-        <div class="span8" id="content"/>
-    </div>
-</div>
-
-<!-- Don't touch this! -->
-<!--script type="text/javascript" src="/exist/apps/gesetze/resources/scripts/jquery.jqplot.min.js"/>
-<script type="text/javascript" src="/exist/apps/gesetze/resources/scripts/jqplot.dateAxisRenderer.min.js"/>
-<script type="text/javascript" src="/exist/apps/gesetze/resources/scripts/jqplot.cursor.min.js"/>
-<script type="text/javascript" src="/exist/apps/gesetze/resources/scripts/jqplot.highlighter.min.js"/-->
-</body>
+        </script>
+        
+    </body>
 </html>

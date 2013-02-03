@@ -1,22 +1,18 @@
 xquery version "3.0";
 
-declare namespace tei="http://www.tei-c.org/ns/1.0";
 import module namespace config="http://exist-db.org/xquery/apps/config" at "config.xqm";
-import module namespace xforms="http://betterform.de/xquery/xforms" at "xforms.xqm";
-import module namespace templates="http://exist-db.org/xquery/templates" ;
+declare namespace tei="http://www.tei-c.org/ns/1.0";
 
-
-(: transforms and return codes of law for simile timeline :)
-let $codes := collection($config:data-root)//tei:TEI/tei:teiHeader
-return 
-    <data>
-        {
-            for $code in $codes
-                order by $code//tei:publicationStmt/tei:date ascending
-                return                            
-                    <event start="{$code//tei:publicationStmt/tei:date}" title="{$code//tei:title[@type eq 'short']/text()}">{$code//tei:title[1]/text()}</event>
-            }            
-        </data>
-  
-
-    
+let $targetCollection :=  xmldb:create-collection($config:data-root, "/transformed")
+let $codesAsEvents := 
+    <data>{
+        for $code in collection(concat($config:data-root,'/tei'))//tei:TEI return
+            <event  id="{$code/@xml:id}" 
+                    title="{$code/tei:teiHeader//tei:title[exists(@type)]/text()}"
+                    link="../../toc.html?id={$code/@xml:id}"
+                    start="{data($code/tei:teiHeader//tei:publicationStmt/tei:date/text())}">
+                {$code/tei:teiHeader//tei:title[not(exists(@type))]/text()}          
+            </event>                                    
+    }</data>
+return
+        xmldb:store($targetCollection, "timeline.xml", $codesAsEvents, "text/xml")
