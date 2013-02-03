@@ -23,15 +23,15 @@
             <xf:message>Submission 'submit' failed</xf:message>
         </xf:action>
     </xf:submission>
-    <xf:submission id="s-execute-query" method="get" replace="embedHTML" targetid="searchResultMount" resource="quicksearch.html" validate="false">
+    <xf:submission id="s-execute-query" method="get" replace="embed" targetid="searchResultMount" resource="xquick.html?query={instance()/term}" validate="false">
         <xf:action ev:event="xforms-submit-error">
             <xf:message>Submission 'submit' failed</xf:message>
         </xf:action>
     </xf:submission>
-    <xf:action ev:event="xforms-ready">
+    <!--xf:action ev:event="xforms-ready">
         <script>
-                console.debug("xforms ready fired");                
-                initialize()
+            console.debug("xforms ready fired");                
+            initialize()
         </script>
-    </xf:action>
+    </xf:action-->
 </xf:model>

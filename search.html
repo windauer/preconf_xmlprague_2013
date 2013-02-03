@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div xmlns:xf="http://www.w3.org/2002/xforms" class="templates:surround?with=templates/xforms.xhtml&amp;at=content">
-    <div id="tabMenu" style="display:block;clear:both;float:none;">
-        <xf:trigger class="active" appearance="minimal">
-            <xf:label>Meta</xf:label>
-            <xf:toggle case="c-meta"/>
-        </xf:trigger>
-        <xf:trigger appearance="minimal">
-            <xf:label>Timeline</xf:label>
-            <xf:toggle case="c-timeline"/>
-            <script>
-                console.debug("resize");
-                onResize();
-            </script>
-        </xf:trigger>
-        <xf:trigger appearance="minimal">
-            <xf:label>Search</xf:label>
-            <xf:toggle case="c-search"/>
-        </xf:trigger>
-    </div>
     <hr class="devider"/>
     <h1 class="config:app-title"/>
     <div class="xforms:expand" modelref="data/xforms/search-model.xml">
+        <div id="tabMenu" style="display:block;clear:both;float:none;">
+            <xf:trigger appearance="minimal">
+                <xf:label>Timeline</xf:label>
+                <xf:toggle case="c-timeline"/>
+                <!--script>
+                console.debug("resize");
+                onResize();
+            </script-->
+            </xf:trigger>
+            <xf:trigger class="active" appearance="minimal">
+                <xf:label>Meta</xf:label>
+                <xf:toggle case="c-meta"/>
+            </xf:trigger>
+            <xf:trigger appearance="minimal">
+                <xf:label>Search</xf:label>
+                <xf:toggle case="c-search"/>
+            </xf:trigger>
+        </div>
         <xf:switch>
-            <xf:case id="c-meta">
-                <h2>German Law Books / Release year</h2>
-                <div class="example-plot" id="chart2"/>
-            </xf:case>
             <xf:case id="c-timeline">
                 <div style="clear:both;position:relative;display:block;">
                     <h2>Timeline showing all German Law Books</h2>
-                    <ul>
+                    <!-- ul>
                         <li>Features</li>
                         <ul>
                             <li>scroll wheel support works fine</li>
@@ -44,9 +40,14 @@
                         <ul>
                             <li>setting of initial data / adjustment of time bands does not work properly</li>
                         </ul>
-                    </ul>
-                    <div id="my-timeline" style="height: 350px; border: 1px solid #aaa"/>
+                    </ul-->
+                    <label for="timeline">Timeline</label>
+                    <input id="timeline" data-ref="term" appearance="bf:timeline" data-bf="data/transformed/timeline.xml"/>
                 </div>
+            </xf:case>
+            <xf:case id="c-meta">
+                <h2>German Law Books / Release year</h2>
+                <div class="linechart" id="chart2" data-ref="modules/codes-by-year-to-JSON.xql" type="linechart"/>
             </xf:case>
             <xf:case id="c-search">
                 <h2>Search Params</h2>
@@ -86,7 +87,10 @@
                     <div>
                         <xf:trigger>
                             <xf:label>load</xf:label>
-                            <xf:send submission="s-execute-query"/>
+                            <xf:load show="embed" targetid="searchResultMount">
+                                <xf:resource value="concat('xquick.html?query=',instance()/term)"/>
+                            </xf:load>
+                            <!--xf:send submission="s-execute-query"/-->
                         </xf:trigger>
                     </div>
                     <div>

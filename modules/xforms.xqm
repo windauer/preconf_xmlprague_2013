@@ -20,17 +20,22 @@ declare namespace expath="http://expath.org/ns/pkg";
 :)
 
 declare function xforms:process-ui-label($node as node()*,$model as node()*) {
-    let $label := $model//label[@for=$node/@id]
+    let $label := $model//label[@for=$node/@id]/text()
     return 
-        <xf:label>{$label/text()}</xf:label>
-    
+        element xf:label {
+            for $attr in $node/@* return $attr,
+            $label
+        }    
 };
 
 declare function xforms:process-ui-hint($node as node()*,$model as node()*) {
     let $hint := data($node/@placeholder)
     return 
-        <xf:hint>{$hint}</xf:hint>
-};
+        element xf:hint {
+            for $attr in $node/@* return $attr,
+            $hint
+        }    
+    };
 
 (: TRANSFORM HTML5 UI TO XFORMS USER INTERFACE MARKUP  :)
 declare function xforms:process-ui($nodes as node()*,$model as node()*) {
@@ -38,16 +43,16 @@ declare function xforms:process-ui($nodes as node()*,$model as node()*) {
     return
         typeswitch($node)
             case element(input) return
-                <xf:input ref="{$node/@data-ref}">
-                    { 
-                        xforms:process-ui-label($node,$model),
-                        if(exists($node/@placeholder))
+                element xf:input {
+                    for $attr in $node/@*[not(local-name(.)='data-ref' or local-name(.)='placeholder')] return $attr,
+                    attribute { 'ref' } { xs:string($node/@data-ref) }, 
+
+                    if(exists($node/@placeholder))
                         then (                            
                             xforms:process-ui-hint($node,$model) 
                         )
-                        else ()
-                    }                        
-                </xf:input>
+                        else ()                                            
+                }
             case element(button) return 
                 <xf:trigger>
                     <xf:label>{$node/text()}</xf:label>                        
