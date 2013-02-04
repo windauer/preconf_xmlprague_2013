@@ -2,28 +2,29 @@
 <xf:model xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xf="http://www.w3.org/2002/xforms">
     <xf:instance id="i-default">
         <data xmlns="">
-            <startdate>2000-01-10</startdate>
-            <enddate>2013-01-01</enddate>
+            <startdate/>
+            <enddate/>
             <sortAscending>true</sortAscending>
-            <startyear/>
-            <endyear/>
+            <startyear>1869</startyear>
+            <endyear>2012</endyear>
             <term>Vertrag</term>
+            <order/>
             <code/>
         </data>
     </xf:instance>
     <xf:bind nodeset="instance('i-default')">
-        <xf:bind nodeset="startdate" type="date"/>
-        <xf:bind nodeset="enddate" type="date"/>
+        <xf:bind nodeset="startdate"/>
+        <xf:bind nodeset="enddate"/>
         <xf:bind nodeset="sortAscending" type="boolean"/>
     </xf:bind>
     <xf:instance id="i-codes" resource="/exist/apps/gesetze/data/transformed/codes-toc.xml"/>
     <xf:instance id="i-years" resource="/exist/apps/gesetze/data/transformed/codes-by-year.xml"/>
-    <xf:submission id="s-call-xquery" method="post" replace="embedHTML" targetid="searchResultMount" resource="modules/search.xql" validate="false">
+    <xf:submission id="s-call-xquery" method="get" ref="instance('i-default')" replace="embedHTML" targetid="searchResultMount" resource="modules/search.xql" validate="false">
         <xf:action ev:event="xforms-submit-error">
-            <xf:message>Submission 'submit' failed</xf:message>
+            <xf:message>Submission 's-call-xquery' failed</xf:message>
         </xf:action>
     </xf:submission>
-    <xf:submission id="s-call-html" method="get" replace="embed" targetid="searchResultMount" resource="searchResult.html?query={instance()/term}" validate="false">
+    <xf:submission id="s-call-html" method="get" replace="embed" targetid="searchResultMount" resource="xquick.html?query={instance()/term}" validate="false">
         <xf:action ev:event="xforms-submit-error">
             <xf:message>Submission 'submit' failed</xf:message>
         </xf:action>

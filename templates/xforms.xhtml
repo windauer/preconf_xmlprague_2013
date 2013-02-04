@@ -1,101 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:bfc="http://betterform.sourceforge.net/xforms/controls" xmlns:xf="http://www.w3.org/2002/xforms">
     <head>
-        <title class="config:app-title">Demo App</title>
-        <!-- meta class="config:app-meta"/-->
-        <link class="include" rel="stylesheet" type="text/css" href="/exist/apps/gesetze/resources/css/jquery.jqplot.min.css"/>
-        <link rel="stylesheet" type="text/css" href="/exist/bfResources/scripts/timeline_2.3.0/timeline_js/timeline-bundle.css"/>
-        <script src="/exist/bfResources/scripts/timeline_2.3.0/timeline_ajax/simile-ajax-api.js?bundle=true" type="text/javascript"/>
-        <script src="/exist/bfResources/scripts/timeline_2.3.0/timeline_js/timeline-api.js?bundle=true" type="text/javascript"/>
-        
-        
-        
-        <!-- script>SimileAjax.History.enabled = false;</script-->
-        <style type="text/css">
-            .jqplot-point-label {white-space: nowrap;}
-            .jqplot-yaxis-label {font-size: 14pt;}
-            .jqplot-yaxis-tick {font-size: 7pt;}
-
-            div.jqplot-target {
-                height: 500px;
-                width: 800px;
-                margin:0;
-            }
-
-            tr {
-                padding-top:10px;
-            }
-            td {
-                padding-right:10px;
-            }
-            thead td {
-                font-weight:bold;
-                font-size:12pt;
-            }
-            .xsdDate .xfValue {
-                padding-top:0.1em;
-                padding-left:0.1em;
-            }
-            .xsdDate .dijitArrowButton {
-                height:1.2em;
-            }
-            .bf .xsdBoolean .xfValue, .bf .bfCheckBoxGroup .xfValue {
-                background-color: transparent;
-                    height: 1.2em;
-                    width: 1.2em;
-
-            }
-            
-            
-        #tabMenu .xfTrigger *{
-            font-size: 14px;
-
-        }
-        .devider {
-            clear: both;margin-top: 3px;padding: 0;position: relative;top: 0;width: 100%;
-        }
-        #tabMenu .xfTrigger  {
-            background-color: lightgray;
-            border-left: 1px solid darkgray;
-            border-radius: 7px 8px 0 0;
-            border-right: 1px solid darkgray;
-            border-top: 1px solid darkgray;
-            
-            
-            margin-left: 2px;
-            padding: 5px 10px 3px;
-            position: relative;
-            text-align: center;
-            top: 3px;
-        }
-
-        #tabMenu .xfTrigger .xfValue {
-            width: 100%;
-        }
-
-        #tabMenu .active {
-            background-color: orange;
-        }
-         
-        </style>
-        <!--script type="text/javascript" src="/exist/apps/shared-resources/resources/scripts/jquery/jquery-1.7.1.min.js"/-->
+        <meta class="config:app-meta"/>
+        <link rel="stylesheet" type="text/css" href="resources/css/gesetz.css"/>
+        <link rel="stylesheet" type="text/css" href="resources/css/bootstrap.min.css"/>
     </head>
     <body>
-        <div class="container">
-            <div class="row" id="container-body">
+        <section class="container">
+            <article class="row" id="container-body">
+                <header>
+                    <h1 class="config:app-title"/>
+                    <hr class="devider"/>
+                </header>
                 <div class="span8" id="content"/>
-            </div>
-        </div>
-        
-        <!-- Don't touch this! -->
-        <script type="text/javascript">
-            define.amd.jQuery = true;
-            define.amd.jplot = true;
-            define.amd.dateAxisRenderer = true;
-            define.amd.cursor = true;
-            define.amd.highlighter = true;
-
-        </script>
-        
+            </article>
+        </section>
+        <aside>
+            <h2>Contact Us</h2>
+            <p>Wolfgang</p>
+            <p>twitter: @wolfgangmm</p>
+            <p>mail: wolfgang@existsolutions.com</p>
+            <br/>
+            <p>Lars</p>
+            <p>twitter: @windauer</p>
+            <p>mail: lars@betterform.de</p>
+        </aside>
+        <footer>
+            <p>Whatever 2013 bfExSol</p>
+        </footer>
     </body>
 </html>

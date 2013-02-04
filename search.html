@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div xmlns:xf="http://www.w3.org/2002/xforms" class="templates:surround?with=templates/xforms.xhtml&amp;at=content">
-    <hr class="devider"/>
-    <h1 class="config:app-title"/>
-    <div class="xforms:expand" modelref="data/xforms/search-model.xml">
-        <h2>Search the law</h2>
-        <form class="search_parms" data-xf-type="group">
+    <h2>Searching the law</h2>
+    <div class="xforms:expand row" modelref="data/xforms/search-model.xml">
+        <form submit="modules/search.xql" data-target="html:searchResultMount" class="span6">
             <div>
-                <label for="startdate">Start</label>
-                <input id="startdate" data-ref="startdate" type="date" value="2005-01-10"/>
+                <input id="term" data-ref="term" placeholder="Enter search term" label="Search Term"/>
+                <button data-submission="s-call-xquery">Go</button>
             </div>
-            <div>
-                <label for="enddate">End</label>
-                <input id="enddate" data-ref="enddate" type="date" value="2012-01-01"/>
-            </div>
-            <div>
-                <label for="sortAscending">Ascending</label>
-                <input id="sortAscending" data-ref="sortAscending" type="checkbox" value="true"/>
-            </div>
-            <div>
-                <xf:repeat nodeset="instance('i-years')/codes[@year=instance()/startyear]/code" appearance="compact">
+            <span class="xfLabel">Select codes </span>
+            <select1 class="year" data-ref="startyear" value="1869" label="from" data-itemset="instance('i-years')/codes" data-label="@year" data-value="@year"/>
+            <select1 class="year" data-ref="endyear" value="2012" label="to" data-itemset="instance('i-years')/codes" data-label="@year" data-value="@year"/>
+            <select1 data-ref="order" value="title" label="Order by">
+                <option id="title">Title</option>
+                <option id="desc">Description</option>
+                <option id="year">Year</option>
+            </select1>
+            <input data-ref="sortAscending" type="checkbox" value="true" label="sort ascending"/>
+            <xf:output ref="term" placeholder="Enter search term" label="Search Term"/>
+            <!-- select1 data-ref="startyear" label="Code / Year"  selection="open"/-->
+            <!-- select1 data-ref="code" label="Code" data-itemset="instance('i-codes')/code" data-value="@id" selection="open" /-->
+        </form>
+        <div class="xfFullGroup span2">
+            <span data-ref="term" label="Chosen Term:"/>
+            <span data-ref="startyear" label="Start:"/>
+            <span data-ref="endyear" label="End:"/>
+            <span data-ref="order" label="Order By:"/>
+            <span data-ref="sortAscending" label="Ascending:"/>
+        </div>
+        <div id="searchResultMount"/>
+    </div>
+
+    <!-- xf:repeat nodeset="instance('i-years')/codes[@year=instance()/startyear]/code" appearance="compact">
                     <xf:output ref="@date">
                         <xf:label>Date</xf:label>
                     </xf:output>
@@ -28,24 +40,5 @@
                     <xf:output ref=".">
                         <xf:label>Title</xf:label>
                     </xf:output>
-                </xf:repeat>
-            </div>
-            <div>
-                <label for="term">Search Term</label>
-                <input id="term" data-ref="term" placeholder="Enter search term"/>
-            </div>
-            <div>
-                <button data-submission="s-call-xquery">Call XQuery Subssmion</button>
-                <button data-submission="s-call-html">Call HTML Submission</button>
-                <xf:trigger>
-                    <xf:label>Embed XQ / HTML f</xf:label>
-                    <xf:load show="embed" targetid="searchResultMount">
-                        <xf:resource value="concat('searchResult.html?query=',instance()/term)"/>
-                    </xf:load>
-                    <!--xf:send submission="s-execute-query"/-->
-                </xf:trigger>
-            </div>
-        </form>
-        <div id="searchResultMount"/>
-    </div>
+                </xf:repeat-->
 </div>
