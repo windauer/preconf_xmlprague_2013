@@ -1,0 +1,54 @@
+.jqplot-point-label {white-space: nowrap;}
+.jqplot-yaxis-label {font-size: 14pt;}
+.jqplot-yaxis-tick {font-size: 7pt;}
+
+div.jqplot-target {
+    height: 500px;
+    width: 800px;
+    margin:0;
+}
+
+tr {
+    padding-top:10px;
+}
+td {
+    padding-right:10px;
+}
+thead td {
+    font-weight:bold;
+    font-size:12pt;
+}
+.xsdDate .xfValue {
+    padding-top:0.1em;
+    padding-left:0.1em;
+}
+.xsdDate .dijitArrowButton {
+    height:1.2em;
+}
+.bf .xsdBoolean .xfValue, .bf .bfCheckBoxGroup .xfValue {
+    background-color: transparent;
+    height: 1.2em;
+    width: 1.2em;
+}                       
+.devider {
+    clear: both;margin-top: 3px;padding: 0;position: relative;top: 0;width: 100%;
+}   
+.year select{
+    width:80px;
+}
+.results td {
+    vertical-align:top;      
+}
+.results .col-0 {
+    background:lightyellow;
+}
+.results .col-1 {
+    background:lightgreen;
+}
+
+
+
+
+
+
+
