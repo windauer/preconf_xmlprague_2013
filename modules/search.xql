@@ -59,14 +59,19 @@ let $norms := collection("/apps/gesetze/data/")/dokumente/norm[xs:date(metadaten
                                         )else ()
       return 
         <div>
-            <div>Found term '{$term}' at {count($formatedResult)} locations in {count($formatedResult//a[@class='paragraph'])} codes</div>
-            <table class="results">
-                <tr>
-                    <td><b>Code</b></td>
-                    <td><b>Description</b></td>
-                    <td><b>Date</b></td>
-                    <td><b>Paragraph(s)</b></td>
-                </tr>
+            {
+                if (count($formatedResult) > 1)
+                then <div class="alert alert-info">Found term '{$term}' at {count($formatedResult)} locations in {count($formatedResult//a[@class='paragraph'])} codes</div>
+                else <div class="alert">No results found for term '{$term}'</div>
+            }
+            
+            <table class="results table table-striped">
+                <thead>
+                    <th>Code</th>
+                    <th>Description</th>
+                    <th>Date</th>
+                    <th>References</th>
+                </thead>
                 <tbody>
                     {$formatedResult}
                 </tbody>

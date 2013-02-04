@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns:xf="http://www.w3.org/2002/xforms" class="templates:surround?with=templates/xforms.xhtml&amp;at=content">
+    <div class="xforms:expand span12" modelref="data/xforms/search-model.xml">
+        <form submit="modules/search.xql" data-target="html:searchResultMount">
+            <div id="search-box">
+                <input id="term" data-ref="term" placeholder="Vertrag" label="" size="90%"/>
+            </div>
+            <div id="search-controls">
+                <button id="clear" type="reset" class="btn">Clear</button>
+                <button data-submission="s-call-xquery" class="btn btn-primary">Search</button>
+            </div>
+            <div id="search-options" class="well row">
+                <label class="sectionTitle span12">Select codes </label>
+                <select1 class="year span2" data-ref="startyear" value="1869" label="from" data-itemset="instance('i-years')/codes" data-label="@year" data-value="@year"/>
+                <select1 class="year span2" data-ref="endyear" value="2012" label="to" data-itemset="instance('i-years')/codes" data-label="@year" data-value="@year"/>
+                <select1 class="span4" data-ref="order" value="title" label="Order by">
+                    <option id="title">Title</option>
+                    <option id="desc">Description</option>
+                    <option id="year">Year</option>
+                </select1>
+                <input class="span2" data-ref="sortAscending" type="checkbox" value="true" label="sort ascending"/>
+            </div>
+        </form>
+    </div>
+    <div id="searchResultMount" class="span12"/>
+</div>

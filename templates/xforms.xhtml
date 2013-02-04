@@ -5,27 +5,35 @@
         <link rel="stylesheet" type="text/css" href="resources/css/gesetz.css"/>
         <link rel="stylesheet" type="text/css" href="resources/css/bootstrap.min.css"/>
     </head>
-    <body>
-        <section class="container">
-            <article class="row" id="container-body">
+    <body class="container">
+        <section>
+            <article class="row">
                 <header>
-                    <h1 class="config:app-title"/>
-                    <hr class="devider"/>
+                    <img id="logo" src="resources/images/LawHoo.png" alt="LawHoo Logo"/>
                 </header>
-                <div class="span8" id="content"/>
+                <div id="content"/>
             </article>
         </section>
-        <aside>
-            <h2>Contact Us</h2>
-            <p>Wolfgang</p>
-            <p>twitter: @wolfgangmm</p>
-            <p>mail: wolfgang@existsolutions.com</p>
-            <br/>
-            <p>Lars</p>
-            <p>twitter: @windauer</p>
-            <p>mail: lars@betterform.de</p>
+        <aside class="row">
+            <hr class="devider"/>
+            <div class="span2 sectionTitle">
+                Contact us
+            </div>
+            <address id="wm" class="span5">
+                <strong>Wolfgang Meier</strong>
+                <br/>
+              twitter: @wolfgangmm<br/>
+                <abbr title="E-Mail">mail: </abbr>wolfgang@existsolutions.com
+            </address>
+            <address id="lw" class="span5">
+                <strong>Lars Windauer</strong>
+                <br/>
+              twitter: @windauer<br/>
+                <abbr title="E-Mail">mail: </abbr>lars@betterform.de
+            </address>
         </aside>
-        <footer>
+        <footer class="row">
+            <hr class="devider"/>
             <p>Whatever 2013 bfExSol</p>
         </footer>
     </body>

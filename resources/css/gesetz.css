@@ -36,19 +36,59 @@ thead td {
 .year select{
     width:80px;
 }
-.results td {
-    vertical-align:top;      
-}
-.results .col-0 {
-    background:lightyellow;
-}
-.results .col-1 {
-    background:lightgreen;
+.results {
+    padding-top: 10px;          
 }
 
+.container {
+    
+}
 
+header {
+    text-align: center;
+}
 
+body {
+    background: #FFFFFF;
+}
 
+aside {
+    padding-top: 30px;
+    vertical-align: top;
+}
 
+.sectionTitle {
+    vertical-align: top;
+    font-size:12pt;
+    font-weight: bold;
+}
 
+footer {
+    font-size: 8pt;
+    vertical-align: bottom;
+    text-align: center;
+}
 
+#logo {
+    text-align: center;
+}
+
+#search-box {
+    text-align:center;
+}
+#term-value {
+    width: 95%;
+    font-size:16pt;
+    font-weight: bold;
+}
+
+#search-controls {
+    white-space: pre;
+    text-align:center;
+    vertical-align: top;
+    padding-bottom: 30px;
+}
+
+#search-options {
+    padding: 5px;
+}
