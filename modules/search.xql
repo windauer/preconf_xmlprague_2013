@@ -75,7 +75,7 @@ let $norms := collection("/apps/gesetze/data/")/dokumente/norm[xs:date(metadaten
             {
                 
                 if ($resultCount > 1)
-                then <div class="alert alert-info">Found term '{$term}' at {$resultCount} locations in {count($formatedResult//a[@class='paragraph'])} codes. Displaying results from {$start} to {$showNext}</div>                               
+                then <div class="alert alert-info">Found term '{$term}' in {$resultCount} Books of Law in {count($formatedResult//a[@class='paragraph'])} paragraphs. Displaying results from {$start} to {$showNext}</div>                               
                 else <div class="alert">No results found for term '{$term}'</div>
             }
 

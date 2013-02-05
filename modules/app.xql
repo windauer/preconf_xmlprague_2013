@@ -74,6 +74,23 @@ declare %templates:wrap function app:load-norm($node as node(), $model as map(*)
     }
 };
 
+declare %templates:wrap function app:random-norm($node as node(), $model as map(*)) {
+    
+    let $teiData := collection($config:data-root)//tei:TEI[@xml:id]
+    let $teiCount := count($teiData)
+    let $random := ceiling(util:random() * $teiCount) cast as xs:integer
+    
+    let $doc := collection($config:data-root)//tei:TEI[@xml:id][$random]
+    
+    let $randomPara := ceiling(util:random() * count($doc//tei:div[@xml:id])) cast as xs:integer
+    let $norm := $doc//tei:div[$randomPara]
+    return
+    map {
+        "norm" := $norm,
+        "document" := $doc
+    }
+};
+
 declare function app:norm-content($node as node(), $model as map(*)) {
     app:process(util:expand($model("norm")/*))
 };
@@ -247,36 +264,17 @@ declare %private function app:order-by($order, $tei as node()*) {
 
 declare 
     %templates:wrap
-function app:xf-search($node as node(), $model as map(*), $query as xs:string?, $cached as item()*) {
+function app:xf-search($node as node(), $model as map(*), $query as xs:string?, $cached as item()*, $order as xs:string, $startyear as xs:integer, $endyear as xs:integer) {    
     if ($query or $cached) then
         let $result := 
             if ($query) then
-                collection($config:data-root)//tei:div[ft:query(., $query)][not(tei:div)]
-            else
-                $cached
-        let $stored := session:set-attribute("cached", $result)
-        return
-            map {
-                "result" := $result,
-                "query" := $query
-            }
-    else
-        ()
-};
-
-
-declare 
-    %templates:wrap
-function app:xf-complex-search($node as node(), $model as map(*), $query as xs:string?, $cached as item()*, $order) {
-    if ($query or $cached) then
-        let $result := 
-            if ($query) then
-                let $hits := collection($config:data-root)//tei:div[ft:query(., $term)][not(tei:div)]
-                for $hit in $hits
-                    group by $docId := $hit/ancestor::tei:TEI/@xml:id
-                    order by app:order-by($order, $hit/ancestor::tei:TEI)  
-                        return
-                            $hit 
+                let $hits := collection($config:data-root)//tei:div[ft:query(., $query)][not(tei:div)]                
+                for $hit in $hits                    
+                    group by $docId := $hit/ancestor::tei:TEI/@xml:id                      
+                    return 
+                        let $year := xs:integer(year-from-date(xs:date($hit/ancestor::tei:TEI/tei:teiHeader//tei:date/text())))
+                        return 
+                            if($year ge $startyear and $year le $endyear) then $hit else ()
             else
                 $cached
         let $stored := session:set-attribute("cached", $result)
@@ -294,38 +292,27 @@ declare
     %templates:wrap
     %templates:default("start", 1)
     %templates:default("max", 20)
-function app:xf-search-result($node as node(), $model as map(*), $start as xs:integer, $max as xs:integer) {
+function app:xf-search-result($node as node(), $model as map(*), $start as xs:integer, $max as xs:integer, $order as xs:string, $startyear as xs:integer, $endyear as xs:integer) {    
     let $toDisplay := subsequence($model("result"), $start, $start + $max - 1)
     for $result in $toDisplay
-    group by $docId := $result/ancestor::tei:TEI/@xml:id
-    return
-        templates:process($node/node(), map:new(($model, map { "group" := $result, "doc-id" := $docId })))
-};
-
-declare
-    %templates:wrap
-    %templates:default("start", 1)
-    %templates:default("max", 20)
-function app:xf-complex-search-result($node as node(), $model as map(*), $start as xs:integer, $max as xs:integer, $order as xs:string) {
-    let $toDisplay := subsequence($model("result"), $start, $start + $max - 1)
-    for $result in $toDisplay
-        group by $docId := $result/ancestor::tei:TEI/@xml:id        
-        order by app:order-by($order, $result/ancestor::tei:TEI)  
-        
+        group by $docId := $result/ancestor::tei:TEI/@xml:id
+        order by app:order-by($order, $result/ancestor::tei:TEI) ascending        
         return
             templates:process($node/node(), map:new(($model, map { "group" := $result, "doc-id" := $docId })))
+
 
 };
 
 declare
     %templates:wrap
  function app:xf-hit-count($node as node(), $model as map(*), $query as xs:string, $start as xs:integer, $max as xs:integer) {    
-    let $resultCount := count($model("result"))    
+    (: let $resultCount := count($model("result")) :)
+    let $resultCount := count(distinct-values($model("result")/ancestor::tei:TEI/tei:teiHeader//tei:titleStmt/tei:title[@type]/text()))
     let $showNext := if($resultCount gt  ($start + $max -1)) then($start + $max -1) else ($start + $resultCount -1) 
     return         
         if ($resultCount > 1)
         then 
-            <div class="alert alert-info">Found term '{$query}' at {$resultCount} locations. Displaying results from {$start} to {$showNext}</div>                               
+            <div class="alert alert-info">Found term '{$query}' in {$resultCount} Books of Law and {count($model("result"))} paragraphs. Displaying results from {$start} to {$showNext}</div>                               
         else <div class="alert">No results found for term '{$query}'</div>
 };
 
@@ -342,19 +329,19 @@ function app:xf-result-title($node as node(), $model as map(*)) {
 declare
     %templates:wrap 
 function app:xf-result-desc($node as node(), $model as map(*)) {
-$hit/ancestor::tei:TEI//
     $model("group")/ancestor::tei:TEI/tei:teiHeader//tei:titleStmt/tei:title[not(@type)]/text()   
 };
+
 declare
     %templates:wrap 
-function app:xf-result-date($node as node(), $model as map(*)) {
+function app:xf-result-year($node as node(), $model as map(*)) {
     year-from-date(xs:date($model("group")/ancestor::tei:TEI/tei:teiHeader//tei:date/text()))       
 };
 declare
     %templates:wrap 
 function app:xf-result-paragraphs($node as node(), $model as map(*)) {
     let $docId :=$model("group")/ancestor::tei:TEI/@xml:id
-    for $paragraph in $model("group")/ancestor::tei:TEI//tei:div[tei:head]
+    for $paragraph in $model("result")[./ancestor::tei:TEI[@xml:id eq $model("group")/ancestor::tei:TEI/@xml:id]] 
         let $type :=    if(starts-with($paragraph/tei:head/text(),'§'))
                         then ('paragraph')
                         else (
@@ -373,59 +360,41 @@ function app:xf-result-paragraphs($node as node(), $model as map(*)) {
     
 };
 
-
-declare function app:xf-result-kwic($node as node(), $model as map(*)) {
-    for $item in $model("group")
-    let $config :=
-        <config width="40" table="yes" link="norm.html?docId={$model('doc-id')}&amp;id={$item/@xml:id}&amp;query={$model('query')}"/>
-    let $expanded := kwic:expand($item)
-    return
-        (: Only display the first match if there are multiple matches within a paragraph :)
-        kwic:get-summary($expanded, head($expanded//exist:match), $config)
-};
-
 declare 
     %templates:default("start", 1)
     %templates:default("max", 20)
-function app:xf-pagination-next($node as node(), $model as map(*), $start as xs:integer, $max as xs:integer) {
-    let $total := count($model("result"))
-    return        
-        if ($start + $max < $total) 
+function app:pagination-next-trigger($node as node(), $model as map(*), $start as xs:integer, $max as xs:integer) {
+    let $resultCount := count(distinct-values($model("result")/ancestor::tei:TEI/tei:teiHeader//tei:titleStmt/tei:title[@type]/text()))
+    return 
+        if ($start + $max < $resultCount) 
         then(
-                let $triggerOpts := map {   
-                                    "label" := data($node/@label),
-                                    "appearance" := 'minimal',
-                                    "actions" := 
-                                        map  {
-                                            '1' := map { 'name' := 'xf:setvalue', 'ref' := 'start', 'value' := ($start + $max)},
-                                            '2' := map { 'name' := 'xf:send', 'submission' := 's-obay'}                            
-                                        }
-                                    }
-                return                     
-                    xforms:create-trigger($triggerOpts)
+            app:create-nav-trigger($node,($start + $max))
         )
-        else
-            ()
+        else()
 };
+
 
 declare 
     %templates:default("start", 1)
     %templates:default("max", 20)
-function app:xf-pagination-previous($node as node(), $model as map(*), $start as xs:integer, $max as xs:integer) {
-    let $total := count($model("result"))
-    return
-        if ($start > 1) then
-            let $triggerOpts := map {   
-                                "label" := data($node/@label),
-                                "appearance" := 'minimal',
-                                "actions" := 
-                                    map  {
-                                        '1' := map { 'name' := 'xf:setvalue', 'ref' := 'start', 'value' := ($start - $max)},
-                                        '2' := map { 'name' := 'xf:send', 'submission' := 's-obay'}                            
-                                    }
-                                }
-            return                     
-                xforms:create-trigger($triggerOpts)
-        else ()
+function app:pagination-previous-trigger($node as node(), $model as map(*), $start as xs:integer, $max as xs:integer) {
+    if ($start > 1) then
+        app:create-nav-trigger($node,($start - $max))
+    else ()
 };
+
+declare %private function app:create-nav-trigger($node as node(), $start) {
+    let $triggerOpts := map {   
+                        "label" := data($node/@label),
+                        "appearance" := 'minimal',
+                        "actions" := 
+                            map  {
+                                '1' := map { 'name' := 'xf:setvalue', 'ref' := 'start', 'value' := $start},
+                                '2' := map { 'name' := 'xf:send', 'submission' := data($node/@data-send)}                            
+                            }
+                        }
+    return                     
+        xforms:create-trigger($triggerOpts)
+};
+
 

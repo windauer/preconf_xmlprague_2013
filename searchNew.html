@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xf="http://www.w3.org/2002/xforms">
+    <div class="app:xf-search results">
+        <div class="app:xf-hit-count"/>
+        <nav class="top">
+            <ul>
+                <li class="next">
+                    <button class="app:pagination-next-trigger" label="Next" data-send="s-search-complex"/>
+                </li>
+                <li class="previous">
+                    <button class="app:pagination-previous-trigger" label="Previous" data-send="s-search-complex"/>
+                </li>
+            </ul>
+        </nav>
+        <table class="results table table-striped">
+            <thead>
+                <tr>
+                    <td>
+                        <b>Code</b>
+                    </td>
+                    <td>
+                        <b>Description</b>
+                    </td>
+                    <td>
+                        <b>Date</b>
+                    </td>
+                    <td>
+                        <b>Paragraph(s)</b>
+                    </td>
+                </tr>
+            </thead>
+            <tbody class="app:xf-search-result">
+                <tr>
+                    <td class="app:xf-result-title"/>
+                    <td class="app:xf-result-desc"/>
+                    <td class="app:xf-result-year"/>
+                    <td class="app:xf-result-paragraphs"/>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
