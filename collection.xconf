@@ -5,6 +5,7 @@
         <lucene>
             <text qname="tei:div"/>
             <text qname="tei:head"/>
+            <text qname="tei:title"/>
         </lucene>
         <create qname="@type" type="xs:string"/>
         <create qname="@date" type="xs:date"/>

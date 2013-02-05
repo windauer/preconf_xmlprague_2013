@@ -64,14 +64,31 @@ declare %private function xforms:input($node as node(),$model as node()*) {
  :  
 :)
 declare %private function xforms:trigger($node as node(),$model as node()*) {
-    element xf:trigger { 
-        element xf:label { 
-            $node/text()            
-        },        
-        element xf:send {
-            attribute {'submission'} { data($node/@data-submission) }
+    let $xfAction := if(exists($node/@data-send))
+                    then(
+                        element xf:send {
+                            attribute {'submission'} { data($node/@data-send) }
+                        }                            
+                    )
+                    else (
+                        if(data($node/@type) eq 'submit')
+                        then(
+                            element xf:send {
+                                attribute {'submission'} { 's-submit' }
+                            }                            
+                        )
+                        else (
+                            $node//action 
+                        )                        
+                    )
+                    
+    return 
+        element xf:trigger { 
+            element xf:label { 
+                $node/text()            
+            },        
+            $xfAction
         }
-    }
 };
 
 (: 
@@ -200,6 +217,18 @@ declare function xforms:process-model($model as node()*) {
                     </data>
                 </xf:instance>
                 
+                {
+                    for $itemset in $model//*[exists(@data-url)]
+                        let $instanceId := substring-after(data($itemset/@data-url),'#')
+                        let $url := substring-before(data($itemset/@data-url),'#')
+                        return 
+                            element xf:instance {                               
+                                attribute { 'id' } { $instanceId },
+                                attribute { 'resource' } {$url}
+                            }
+                }
+
+                
                 <!--xf:instance xmlns="" id="i-years" src="modules/test.xql" /-->
                 <xf:bind nodeset="instance('i-default')">
                         {
@@ -211,7 +240,31 @@ declare function xforms:process-model($model as node()*) {
                                     default return
                                             <xf:bind nodeset="{data($node/@data-ref)}" type="{data($node/@type)}"/>       
                         }
-                </xf:bind>,
+                </xf:bind>
+                
+                {
+                    for $node in $model//form[exists(@submit)]
+                        return 
+                             element xf:submission {
+                                attribute { 'id' } { 's-submit'},
+                                attribute { 'method' } { 'get'},
+                                attribute { 'ref' } { 'instance()'},
+                                attribute { 'replace' } { 'embedXFormsUI'},
+                                attribute { 'targetid' } { data($node/@data-target)},
+                                attribute { 'validate' } { 'false' },                                
+                                attribute { 'resource' } { data($node/@submit) },
+
+                                <xf:action ev:event="xforms-submit-error">
+                                    <xf:message>Submission 's-submit' failed</xf:message>
+                                </xf:action>,
+                                <!-- xf:action ev:event="xforms-submit-done">
+                                    <xf:message>finished searching</xf:message>
+                                </xf:action-->
+
+                            }
+
+                }
+
             </xf:model>
         </div>
 
@@ -249,4 +302,30 @@ declare function xforms:transform($node as node()) {
         ($xfModel,$xfUI)
         
     
+};
+
+
+declare function xforms:create-trigger($properties as map(*)) {
+(:
+map  {
+    'setvalue' := map { 'ref' := 'start', 'value' := $start - $max },
+    'send' := map { 'submission' := 's-obay'}                            
+:)                                             
+
+    element xf:trigger {
+        if($properties("appearance")) then ( attribute appearance { $properties("appearance")} ) else (),
+        element xf:label { $properties("label") },
+        
+        let $actions := $properties("actions")                    
+        for $key in map:keys($actions)
+            order by $key            
+            return 
+                let $attrMap := $actions($key)
+                return 
+                    element {$attrMap("name")} {                        
+                        for $attrKey in map:keys($attrMap) 
+                            return 
+                            if($attrKey ne "name") then (attribute {$attrKey} {$attrMap($attrKey) }) else ()                                                 
+                    }      
+    }
 };

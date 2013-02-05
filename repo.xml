@@ -2,6 +2,7 @@
 <meta xmlns="http://exist-db.org/xquery/repo">
     <description>A small application to read and search German laws and regulations.</description>
     <author>Wolfgang Meier</author>
+    <author>Lars Windauer</author>
     <website/>
     <status>alpha</status>
     <license>GNU-LGPL</license>
@@ -10,5 +11,5 @@
     <target>gesetze</target>
     <prepare>pre-install.xql</prepare>
     <finish/>
-    <deployed>2013-02-01T14:09:04.394+01:00</deployed>
+    <deployed>2013-02-05T12:01:36.894+01:00</deployed>
 </meta>

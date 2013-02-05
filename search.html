@@ -1,35 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div xmlns:xf="http://www.w3.org/2002/xforms" class="templates:surround?with=templates/xforms.xhtml&amp;at=content">
-    <h2>Searching the law</h2>
-    <div class="xforms:expand row" modelref="data/xforms/search-model.xml">
-        <form submit="modules/search.xql" data-target="html:searchResultMount" class="span6">
-            <div>
-                <input id="term" data-ref="term" placeholder="Enter search term" label="Search Term"/>
-                <button data-submission="s-call-xquery">Go</button>
+    <div class="xforms:expand span12" modelref="data/xforms/search-model.xml">
+        <form submit="modules/search.xql" data-target="searchResultMount" method="GET">
+            <div id="search-box">
+                <input id="query" data-ref="query" placeholder="Enter search term" size="90%"/>
             </div>
-            <span class="xfLabel">Select codes </span>
-            <select1 class="year" data-ref="startyear" value="1869" label="from" data-itemset="instance('i-years')/codes" data-label="@year" data-value="@year"/>
-            <select1 class="year" data-ref="endyear" value="2012" label="to" data-itemset="instance('i-years')/codes" data-label="@year" data-value="@year"/>
-            <select1 data-ref="order" value="title" label="Order by">
-                <option id="title">Title</option>
-                <option id="desc">Description</option>
-                <option id="year">Year</option>
-            </select1>
-            <input data-ref="sortAscending" type="checkbox" value="true" label="sort ascending"/>
-            <xf:output ref="term" placeholder="Enter search term" label="Search Term"/>
+            <div id="search-controls">
+                <button type="submit">Search</button>
+                <button data-send="s-obay">Obay</button>
+            </div>
+            <div class="search-options well row">
+                <span class="sectionTitle span12">Select codes </span>
+                <span class="span12">
+                    <select1 class="small" data-ref="startyear" value="1869" label="from" data-itemset="instance('i-years')/codes" data-label="@year" data-value="@year" data-url="/exist/apps/gesetze/data/transformed/codes-by-year.xml#i-years"/>
+                    <select1 class="small" data-ref="endyear" value="2012" label="to" data-itemset="instance('i-years')/codes" data-label="@year" data-value="@year" data-url="/exist/apps/gesetze/data/transformed/codes-by-year.xml#i-years"/>
+                    <select1 class="medium" data-ref="order" value="title" label="order by">
+                        <option id="title">Title</option>
+                        <option id="desc">Description</option>
+                        <option id="year">Year</option>
+                    </select1>
+                    <select1 class="small" data-ref="max" value="10" label="Show Results / Page:">
+                        <option id="10">10</option>
+                        <option id="20">20</option>
+                        <option id="50">50</option>
+                        <option id="100">100</option>
+                        <option id="1000">1000</option>
+                        <option id="9999">9999</option>
+                    </select1>
+                    <input class="small" data-ref="start" value="1" label="current start index for results"/>
+                </span>
+            </div>
+            <!--div style="display:hidden">
+                
+            </div-->
             <!-- select1 data-ref="startyear" label="Code / Year"  selection="open"/-->
             <!-- select1 data-ref="code" label="Code" data-itemset="instance('i-codes')/code" data-value="@id" selection="open" /-->
         </form>
-        <div class="xfFullGroup span2">
-            <span data-ref="term" label="Chosen Term:"/>
-            <span data-ref="startyear" label="Start:"/>
-            <span data-ref="endyear" label="End:"/>
-            <span data-ref="order" label="Order By:"/>
-            <span data-ref="sortAscending" label="Ascending:"/>
-        </div>
-        <div id="searchResultMount"/>
     </div>
-
+    <div id="searchResultMount" class="span12"/>
     <!-- xf:repeat nodeset="instance('i-years')/codes[@year=instance()/startyear]/code" appearance="compact">
                     <xf:output ref="@date">
                         <xf:label>Date</xf:label>
