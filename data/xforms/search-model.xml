@@ -12,12 +12,14 @@
             <startdate/>
             <enddate/>
             <sortAscending>true</sortAscending>
+            <relevance state="">false</relevance>
         </data>
     </xf:instance>
     <xf:bind nodeset="instance('i-default')">
-        <xf:bind nodeset="startdate"/>
-        <xf:bind nodeset="enddate"/>
+        <xf:bind nodeset="startdate" type="date"/>
+        <xf:bind nodeset="enddate" type="date"/>
         <xf:bind nodeset="sortAscending" type="boolean"/>
+        <xf:bind nodeset="relevance/@state" relevant="boolean-from-string(../text())"/>
     </xf:bind>
     <xf:instance id="i-codes" resource="/exist/apps/gesetze/data/transformed/codes-toc.xml"/>
     <xf:instance id="i-years" resource="/exist/apps/gesetze/data/transformed/codes-by-year.xml"/>
@@ -29,11 +31,15 @@
         <xf:message ev:event="xforms-submit-error">Submission 's-search' failed</xf:message>
         <!-- xf:message ev:event="xforms-submit-done" level="ephemeral">finished searching</xf:message-->
     </xf:submission>
+    <xf:submission id="s-execute-search" method="get" ref="instance()" replace="none" resource="echo:cleansearch" validate="false">
+        <xf:setvalue ev:event="xforms-submit" ref="start" value="1"/>
+        <xf:send ev:event="xforms-submit-done" submission="s-search-complex"/>
+    </xf:submission>
     <xf:submission id="s-search-complex" method="get" ref="instance()" replace="embedXFormsUI" targetid="searchResultMount" resource="searchNew.html" validate="false">
         <xf:message ev:event="xforms-submit-error">Submission 's-search-complex' failed again</xf:message>
         <!-- xf:message ev:event="xforms-submit-done" level="ephemeral">finished searching</xf:message-->
     </xf:submission>
-    <xf:submission id="s-obay" method="get" resource="echo:randomParagraph" validate="false">
+    <xf:submission id="s-obay" method="get" replace="none" resource="echo:randomParagraph" validate="false">
         <xf:load ev:event="xforms-submit-done" resource="random.html" show="new"/>
     </xf:submission>
 </xf:model>

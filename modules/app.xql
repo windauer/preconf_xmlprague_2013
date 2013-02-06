@@ -191,7 +191,7 @@ declare
     %templates:default("start", 1)
     %templates:default("max", 20)
 function app:search-result($node as node(), $model as map(*), $start as xs:integer, $max as xs:integer) {
-    let $toDisplay := subsequence($model("result"), $start, $start + $max - 1)
+    let $toDisplay := subsequence($model("result"), $start, $max)
     for $result in $toDisplay
     group by $docId := $result/ancestor::tei:TEI/@xml:id
     return
@@ -264,8 +264,11 @@ declare %private function app:order-by($order, $tei as node()*) {
 
 declare 
     %templates:wrap
-function app:xf-search($node as node(), $model as map(*), $query as xs:string?, $cached as item()*, $order as xs:string, $startyear as xs:integer, $endyear as xs:integer) {    
-    if ($query or $cached) then
+    %templates:default("query", 'EMPTY')
+    %templates:default("startyear", 1869)
+    %templates:default("endyear", 2012)    
+function app:xf-search($node as node(), $model as map(*), $query as xs:string?, $cached as item()*, $startyear as xs:integer, $endyear as xs:integer) {    
+    if (($query or $cached) and $query ne 'EMPTY') then
         let $result := 
             if ($query) then
                 let $hits := collection($config:data-root)//tei:div[ft:query(., $query)][not(tei:div)]                
@@ -292,15 +295,20 @@ declare
     %templates:wrap
     %templates:default("start", 1)
     %templates:default("max", 20)
-function app:xf-search-result($node as node(), $model as map(*), $start as xs:integer, $max as xs:integer, $order as xs:string, $startyear as xs:integer, $endyear as xs:integer) {    
-    let $toDisplay := subsequence($model("result"), $start, $start + $max - 1)
-    for $result in $toDisplay
-        group by $docId := $result/ancestor::tei:TEI/@xml:id
-        order by app:order-by($order, $result/ancestor::tei:TEI) ascending        
-        return
-            templates:process($node/node(), map:new(($model, map { "group" := $result, "doc-id" := $docId })))
-
-
+    %templates:default("startyear", 1869)
+    %templates:default("endyear", 2012)
+    %templates:default("order", "year")
+function app:xf-search-result($node as node(), $model as map(*), $start as xs:integer, $max as xs:integer, $order as xs:string, $startyear as xs:integer, $endyear as xs:integer) {
+    let $sortedResults := for $doc in $model("result")/ancestor::tei:TEI
+                            group by $docId := $doc/@xml:id
+                            order by app:order-by($order, $doc) ascending        
+                            return 
+                                $doc
+                            
+    let $filteredResults := subsequence($sortedResults, $start, $max)                            
+    for $result at $index in $filteredResults
+        return 
+            templates:process($node/node(), map:new(($model, map {"group" := $result, "index" := ($start + $index -1)})))                      
 };
 
 declare
@@ -319,9 +327,16 @@ declare
 
 declare
     %templates:wrap 
+function app:xf-result-number($node as node(), $model as map(*)) {   
+    $model("index")
+};
+
+
+declare
+    %templates:wrap 
 function app:xf-result-title($node as node(), $model as map(*)) {
-    let $title := $model("group")/ancestor::tei:TEI/tei:teiHeader//tei:titleStmt/tei:title[@type]/text()
-    let $id := $model("group")/ancestor::tei:TEI/@xml:id
+    let $title := $model("group")/tei:teiHeader//tei:titleStmt/tei:title[@type]/text()
+    let $id := $model("group")/@xml:id
     return 
         <a href="toc.html?id={$id}" target="_blank">{$title}</a>
 };
@@ -329,19 +344,23 @@ function app:xf-result-title($node as node(), $model as map(*)) {
 declare
     %templates:wrap 
 function app:xf-result-desc($node as node(), $model as map(*)) {
-    $model("group")/ancestor::tei:TEI/tei:teiHeader//tei:titleStmt/tei:title[not(@type)]/text()   
+    let $desc := $model("group")/tei:teiHeader//tei:titleStmt/tei:title[not(@type)]/text()
+    let $id := $model("group")/@xml:id
+    return 
+        <a href="toc.html?id={$id}" target="_blank">{$desc}</a>    
 };
 
 declare
     %templates:wrap 
 function app:xf-result-year($node as node(), $model as map(*)) {
-    year-from-date(xs:date($model("group")/ancestor::tei:TEI/tei:teiHeader//tei:date/text()))       
+    year-from-date(xs:date($model("group")/tei:teiHeader//tei:date/text()))       
 };
+
 declare
     %templates:wrap 
 function app:xf-result-paragraphs($node as node(), $model as map(*)) {
-    let $docId :=$model("group")/ancestor::tei:TEI/@xml:id
-    for $paragraph in $model("result")[./ancestor::tei:TEI[@xml:id eq $model("group")/ancestor::tei:TEI/@xml:id]] 
+    let $docId :=$model("group")/@xml:id
+    for $paragraph in $model("result")[./ancestor::tei:TEI[@xml:id eq $docId]] 
         let $type :=    if(starts-with($paragraph/tei:head/text(),'§'))
                         then ('paragraph')
                         else (
@@ -355,9 +374,6 @@ function app:xf-result-paragraphs($node as node(), $model as map(*)) {
                         )
         return
             <a class="{$type}" href="norm.html?docId={data($docId)}&amp;id={data($paragraph/@xml:id)}" target="_blank">{$paragraph/tei:head/text()}</a>
-
-
-    
 };
 
 declare 
@@ -383,13 +399,13 @@ function app:pagination-previous-trigger($node as node(), $model as map(*), $sta
     else ()
 };
 
-declare %private function app:create-nav-trigger($node as node(), $start) {
+declare %private function app:create-nav-trigger($node as node(), $startindex) {
     let $triggerOpts := map {   
                         "label" := data($node/@label),
                         "appearance" := 'minimal',
                         "actions" := 
                             map  {
-                                '1' := map { 'name' := 'xf:setvalue', 'ref' := 'start', 'value' := $start},
+                                '1' := map { 'name' := 'xf:setvalue', 'ref' := 'start', 'value' := $startindex},
                                 '2' := map { 'name' := 'xf:send', 'submission' := data($node/@data-send)}                            
                             }
                         }

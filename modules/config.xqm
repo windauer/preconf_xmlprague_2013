@@ -68,7 +68,7 @@ declare %templates:wrap function config:app-title($node as node(), $model as map
 
 declare function config:app-meta($node as node(), $model as map(*)) as element()* {
     <meta xmlns="http://www.w3.org/1999/xhtml" name="description" content="{$config:repo-descriptor/repo:description/text()}"/>,    
-    <meta xmlns="http://www.w3.org/1999/xhtml" name="viewport"    content="width=device-width"> </meta>,
+    <meta xmlns="http://www.w3.org/1999/xhtml" name="viewport"    content="width=device-width, initial-scale=1.0"> </meta>,    
     for $author in $config:repo-descriptor/repo:author
     return
         <meta xmlns="http://www.w3.org/1999/xhtml" name="creator" content="{$author/text()}"/>

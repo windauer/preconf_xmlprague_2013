@@ -11,8 +11,8 @@
                 </xf:trigger>
             </div>
             <xf:group ref="relevance/@state" class="search-options well row">
-                <div class="sectionTitle span10">Advanced Options</div>
-                <div class="span10 options">
+                <div class="sectionTitle span12">Select codes </div>
+                <div class="span12">
                     <select1 class="small" data-ref="instance()/startyear" value="1869" label="from" data-itemset="instance('i-years')/codes" data-label="@year" data-value="@year" data-url="/exist/apps/gesetze/data/transformed/codes-by-year.xml#i-years"/>
                     <select1 class="small" data-ref="instance()/endyear" value="2012" label="to" data-itemset="instance('i-years')/codes" data-label="@year" data-value="@year" data-url="/exist/apps/gesetze/data/transformed/codes-by-year.xml#i-years"/>
                     <select1 class="medium" data-ref="instance()/order" value="title" label="order by">
@@ -30,12 +30,25 @@
                     </select1>
                     <input class="small" data-ref="start" value="1" label="current start index for results" style="display:none;"/>
                 </div>
-                <div class="span10">
+                <div class="span12">
                     <button data-send="s-search">searchResult.html</button>
                     <button data-send="s-obay">Obay</button>
                 </div>
             </xf:group>
+            <!-- select1 data-ref="startyear" label="Code / Year"  selection="open"/-->
+            <!-- select1 data-ref="code" label="Code" data-itemset="instance('i-codes')/code" data-value="@id" selection="open" /-->
         </form>
     </div>
     <div id="searchResultMount" class="row"/>
+    <!-- xf:repeat nodeset="instance('i-years')/codes[@year=instance()/startyear]/code" appearance="compact">
+                    <xf:output ref="@date">
+                        <xf:label>Date</xf:label>
+                    </xf:output>
+                    <xf:output ref="@title">
+                        <xf:label>Title</xf:label>
+                    </xf:output>
+                    <xf:output ref=".">
+                        <xf:label>Title</xf:label>
+                    </xf:output>
+                </xf:repeat-->
 </div>
