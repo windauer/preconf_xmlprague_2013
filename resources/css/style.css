@@ -2,6 +2,7 @@
 #main {
     font: 16px/24px Georgia, "Times New Roman", Times, serif;
     min-height: 768px;
+    margin-left:4em;
 }
 
 nav.top {
@@ -50,3 +51,283 @@ nav ul ul {
     padding: 2em 0 1em 0;
     font-weight: bold;
 }
+
+
+.jqplot-point-label {white-space: nowrap;}
+.jqplot-yaxis-label {font-size: 14pt;}
+.jqplot-yaxis-tick {font-size: 7pt;}
+
+div.jqplot-target {
+    height: 500px;
+    width: 800px;
+    margin:0;
+}
+
+tr {
+    padding-top:10px;
+}
+td {
+    padding-right:10px;
+}
+thead td {
+    font-weight:bold;
+    font-size:12pt;
+}
+.xsdDate .xfValue {
+    padding-top:0.1em;
+    padding-left:0.1em;
+}
+.xsdDate .dijitArrowButton {
+    height:1.2em;
+}
+.bf .xsdBoolean .xfValue, .bf .bfCheckBoxGroup .xfValue {
+    background-color: transparent;
+    height: 1.2em;
+    width: 1.2em;
+}                       
+.devider {
+    clear: both;margin-top: 3px;padding: 0;position: relative;top: 0;width: 100%;
+}   
+.year select{
+    width:80px;
+}
+.results {
+    padding-top: 10px;          
+}
+
+.container {
+    
+}
+
+header {
+    text-align: center;
+    padding-bottom:4em;
+}
+
+body {
+    background: #FFFFFF;
+}
+
+aside {
+    padding-top: 30px;
+    vertical-align: top;
+}
+
+.sectionTitle {
+    vertical-align: top;
+    font-size:12pt;
+    font-weight: bold;
+    padding-bottom:8px;
+}
+
+footer {
+    font-size: 8pt;
+    vertical-align: bottom;
+    text-align: center;
+}
+
+#logo {
+    text-align: center;
+}
+
+#search-box {
+    text-align:center;
+}
+#query-value {
+/*
+    border-radius: 15px 15px 15px 15px;
+    margin-bottom: 0;
+    padding-left: 14px;
+    padding-right: 14px;
+    width: 30em;
+    font-size:16pt;
+    font-weight: bold;
+    */
+}
+
+#search-controls {
+    white-space: pre;
+    text-align:center;
+    vertical-align: top;
+    padding-bottom: 10px;
+}
+
+#search-options {
+    padding: 5px;
+}
+.bf .xfControl .xfHint {
+    display:none !important;
+}
+
+.xfTrigger:focus,
+.xfSelect1 .xfValue:focus,
+.bf select:focus, 
+.bf input[type="file"]:focus, 
+.bf input[type="radio"]:focus, 
+.bf input[type="checkbox"]:focus  {    
+    border-color: rgba(82, 168, 236, 0.8);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(82, 168, 236, 0.6);
+    outline: 0 none;
+}
+
+
+.bf .well select, textarea, 
+.bf .well input[type="text"], 
+.bf .well input[type="number"], 
+.bf .well input[type="search"], 
+.bf .well input[type="color"], 
+.bf .well .uneditable-input {
+    border-radius: 4px 4px 4px 4px;
+    color: #555555;
+    display: inline-block;
+    font-size: 14px;
+    height: 20px;
+    line-height: 20px;
+    margin-bottom: 10px;
+    padding:0;
+    vertical-align: middle;
+}
+.small input {
+    width:3em;
+} 
+.small select {
+    width:4em;    
+}
+.medium .xfValue {
+    width:7em;    
+}
+.search-options  .xfLabel {
+    padding-left: 6px;
+    padding-right: 6px;
+}
+.bf nav.top {    
+    margin: 0 0 0.2em;
+    padding: 0 0 1.5em;
+}
+
+.bf a:link, 
+.bf a:visited, 
+.bf a:active {
+    color: #0088CC;
+    text-decoration:underline;
+}
+.bf a {
+    color: #0088CC;
+    text-decoration:underline;
+    padding-right:4px;    
+}
+
+.row {
+    margin-left:0;
+}
+      
+.xfTrigger .xfValue{
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #F5F5F5;
+    background-image: linear-gradient(to bottom, #FFFFFF, #E6E6E6);
+    background-repeat: repeat-x;
+    border-color: rgba(0, 0, 0, 0.15) rgba(0, 0, 0, 0.15) rgba(0, 0, 0, 0.25);
+    border-image: none;
+    border-radius: 4px 4px 4px 4px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 4px 12px;
+}      
+      
+.input-append, .input-prepend {
+    font-size: 0;
+    margin-bottom: 5px;
+    white-space: nowrap;
+}
+#search-box .xfControl{
+    margin:0!important;
+    padding:0!important;
+} 
+
+#search-box  button:hover,
+#search-box  button:active,
+#search-box button:focus {
+  color: #333333;
+  background-color: #e6e6e6;
+  *background-color: #d9d9d9;
+  background-color: #cccccc \9;
+  text-decoration: none;
+  background-position: 0 -15px;
+  -webkit-transition: background-position 0.1s linear;
+     -moz-transition: background-position 0.1s linear;
+       -o-transition: background-position 0.1s linear;
+          transition: background-position 0.1s linear;
+  background-image: none;
+  outline: 0;
+  -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+          
+}
+
+#query-value {
+    display: inline-block;
+    width: 40em;
+    border-radius: 4px 0 0 4px;
+    margin-bottom: 0;
+    position: relative;
+    vertical-align: top;
+    font-size: 14px;
+    float: none;
+    margin-left: 0;
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
+    color: #555555;
+    height: 20px;
+    line-height: 20px;
+    padding: 4px 6px;
+    min-height: 1px;
+}
+#search-box  button {
+    margin-left: -1px;    
+    border-radius: 0 0 0 0;
+    vertical-align: top;
+    border-color: rgba(0, 0, 0, 0.15) rgba(0, 0, 0, 0.15) rgba(0, 0, 0, 0.25);
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #F5F5F5;
+    background-image: linear-gradient(to bottom, #FFFFFF, #E6E6E6);
+    background-repeat: repeat-x;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset, 0 1px 2px rgba(0, 0, 0, 0.05);
+    color: #333333;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 0;
+    padding: 4px 12px;
+    text-align: center;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+    font-weight: normal;
+}
+.options .xfControl {
+    margin-top:0;
+    margin-bottom:0;
+    
+}
+.options .xfControl .xfLabel {
+    margin-top:0;
+    margin-bottom:0;
+    
+}
+.options .xfControl .xfValue { 
+    margin-top:0;
+    margin-bottom:0;
+}
+            
+        
