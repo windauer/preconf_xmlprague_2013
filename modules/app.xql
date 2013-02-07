@@ -172,12 +172,13 @@ function app:search($node as node(), $model as map(*), $query as xs:string?, $ca
                 collection($config:data-root)//tei:div[ft:query(., $query)][not(tei:div)]
             else
                 $cached
-        let $stored := session:set-attribute("cached", $result)
-        return
+        return (
             map {
                 "result" := $result,
                 "query" := $query
-            }
+            },
+            session:set-attribute("cached", $result)
+        )
     else
         ()
 };
@@ -393,7 +394,7 @@ declare
 function app:xf-result-paragraphs($node as node(), $model as map(*)) {
     let $docId :=$model("group")/@xml:id
     for $paragraph in $model("result")[./ancestor::tei:TEI[@xml:id eq $docId]] 
-        let $type :=    if(starts-with($paragraph/tei:head/text(),'ยง'))
+        let $type :=    if(starts-with($paragraph/tei:head/text(),'ค'))
                         then ('paragraph')
                         else (
                             if(starts-with($paragraph/tei:head/text(),'Anlage'))

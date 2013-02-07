@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div xmlns="http://www.w3.org/1999/xhtml" class="templates:surround?with=templates/page.html&amp;at=main">
-    <h1 class="config:app-title">Generated page</h1>
+<div xmlns="http://www.w3.org/1999/xhtml" data-template="templates:surround" data-template-with="templates/page.html" data-template-at="main">
+    <h1 data-template="config:app-title">Generated page</h1>
     <form action="quicksearch.html" method="GET">
         <div class="input-append">
-            <input class="span4 templates:form-control" type="text" name="query"/>
+            <input data-template="templates:form-control" class="span4" type="text" name="query"/>
             <button class="btn" type="submit">Go!</button>
         </div>
     </form>
-    <div class="app:search results">
-        <p>Found <span class="app:hit-count"/> matches.</p>
+    <div data-template="app:search" class="results">
+        <p>Found <span data-template="app:hit-count"/> matches.</p>
         <nav class="top">
             <ul>
                 <li class="next">
-                    <a href="#" class="app:pagination-next">Next</a>
+                    <a href="#" data-template="app:pagination-next">Next</a>
                 </li>
                 <li class="previous">
-                    <a href="#" class="app:pagination-previous">Previous</a>
+                    <a href="#" data-template="app:pagination-previous">Previous</a>
                 </li>
             </ul>
         </nav>
-        <table class="app:search-result">
+        <table data-template="app:search-result">
             <tr>
-                <td colspan="3" class="app:result-title title"/>
+                <td data-template="app:result-title" colspan="3" class="title"/>
             </tr>
-            <tr class="app:result-kwic"/>
+            <tr data-template="app:result-kwic"/>
         </table>
     </div>
 </div>
