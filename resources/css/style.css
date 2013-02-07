@@ -1,7 +1,7 @@
 /* Application styles could go here */
 #main {
     font: 16px/24px Georgia, "Times New Roman", Times, serif;
-    min-height: 768px;
+    min-height: 33em;    
     margin-left:4em;
 }
 
@@ -221,7 +221,7 @@ footer {
     margin-left:0;
 }
       
-.xfTrigger .xfValue{
+#main .xfTrigger .xfValue{
     -moz-border-bottom-colors: none;
     -moz-border-left-colors: none;
     -moz-border-right-colors: none;
@@ -329,5 +329,19 @@ footer {
     margin-top:0;
     margin-bottom:0;
 }
-            
-        
+       
+       
+.nav-pills > .active > a, 
+.nav-pills > .active > a:hover {
+    background-color: #0088CC;
+    color: #FFFFFF;
+  text-decoration: none;
+}       
+   
+.xfAlert {
+    width:200px;   
+    font-size:9pt;
+}
+.xfAlert .bfAlertMsg, .xfHint .bfAlertMsg {
+    border: none; 
+}

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xf:model xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xf="http://www.w3.org/2002/xforms">
+<xf:model xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:bf="http://betterform.sourceforge.net/xforms" xmlns:xf="http://www.w3.org/2002/xforms">
     <xf:instance id="i-default">
         <data xmlns="">
             <query/>
@@ -13,13 +13,26 @@
             <enddate/>
             <sortAscending>true</sortAscending>
             <relevance state="">false</relevance>
+            <options>+</options>
         </data>
     </xf:instance>
     <xf:bind nodeset="instance('i-default')">
+        <xf:bind id="query" nodeset="query">
+            <bf:constraint value="not(contains(.,'$'))">
+                <xf:alert>character '$' is forbiddne in query</xf:alert>
+            </bf:constraint>
+            <bf:constraint value="not(contains(.,'?'))">
+                <xf:alert>character '?' is forbiddne in query</xf:alert>
+            </bf:constraint>
+            <bf:constraint value="not(contains(.,'*'))">
+                <xf:alert>asterix wildcard is not supported yet</xf:alert>
+            </bf:constraint>
+        </xf:bind>
         <xf:bind nodeset="startdate" type="date"/>
         <xf:bind nodeset="enddate" type="date"/>
         <xf:bind nodeset="sortAscending" type="boolean"/>
         <xf:bind nodeset="relevance/@state" relevant="boolean-from-string(../text())"/>
+        <xf:bind nodeset="options" calculate="if(boolean-from-string(../relevance/text())) then('-') else ('+')"/>
     </xf:bind>
     <xf:instance id="i-codes" resource="/exist/apps/gesetze/data/transformed/codes-toc.xml"/>
     <xf:instance id="i-years" resource="/exist/apps/gesetze/data/transformed/codes-by-year.xml"/>

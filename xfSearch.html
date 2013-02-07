@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns:xf="http://www.w3.org/2002/xforms" class="templates:surround?with=templates/xforms.xhtml&amp;at=main">
+    <div class="xforms:expand">
+        <form submit="searchResult.html" data-target="searchResultMount" method="GET" appearance="full">
+            <div>
+                <input data-ref="query" label="Query"/>
+                <button type="submit">Search</button>
+            </div>
+            <div>
+                <select1 data-ref="startyear" value="1869" label="from" data-itemset="instance('i-years')/codes" data-label="@year" data-value="@year" data-url="/exist/apps/gesetze/data/transformed/codes-by-year.xml#i-years"/>
+                <select1 data-ref="endyear" value="2012" label="to" data-itemset="instance('i-years')/codes" data-label="@year" data-value="@year" data-url="/exist/apps/gesetze/data/transformed/codes-by-year.xml#i-years"/>
+                <input data-ref="start" value="1" label="current start index for results" style="display:none;"/>
+                <input data-ref="order" value="title" label="order by" style="display:none;"/>
+                <input data-ref="max" value="10" label="Show Results / Page:" style="display:none;"/>
+            </div>
+        </form>
+    </div>
+    <div id="searchResultMount"/>
+</div>

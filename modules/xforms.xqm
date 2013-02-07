@@ -12,6 +12,7 @@ import module namespace templates="http://exist-db.org/xquery/templates";
 declare namespace xf="http://www.w3.org/2002/xforms";
 declare namespace ev="http://www.w3.org/2001/xml-events";
 declare namespace bfc="http://betterform.sourceforge.net/xforms/controls";
+declare namespace bf="http://betterform.sourceforge.net/xforms";
 
 declare namespace repo="http://exist-db.org/xquery/repo";
 declare namespace expath="http://expath.org/ns/pkg";
@@ -47,6 +48,17 @@ declare %private function xforms:hint($node as node()*,$model as node()*) {
 
 };
 
+declare %private function xforms:alert($node as node()*,$model as node()*) {
+    if(exists($node/@validate))
+    then (                                     
+            element xf:alert {                
+                attribute srcBind {$node/@id}
+            }    
+    )
+    else ()                                            
+
+};
+
 (: 
  : XForms Input
  :  
@@ -54,9 +66,11 @@ declare %private function xforms:hint($node as node()*,$model as node()*) {
 declare %private function xforms:input($node as node(),$model as node()*) {
     element xf:input {
         for $attr in $node/@*[not(local-name(.)='data-ref' or local-name(.)='placeholder')] return $attr,
-        attribute { 'ref' } { xs:string($node/@data-ref) }, 
+        attribute ref { xs:string($node/@data-ref) },
+        attribute incremental { 'true'},
         xforms:label($node,$model),
-        xforms:hint($node,$model)
+        xforms:hint($node,$model),
+        xforms:alert($node,$model)
     }
 };
 (: 

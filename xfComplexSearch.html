@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns:xf="http://www.w3.org/2002/xforms" class="templates:surround?with=templates/xforms.xhtml&amp;at=main">
+    <div class="xforms:expand" modelref="data/xforms/search-model.xml">
+        <form submit="modules/search.xql" data-target="searchResultMount" method="GET">
+            <div id="search-box" class="input-append row">
+                <input id="query" data-ref="query" validate="true" placeholder="Enter search term"/>
+                <button data-send="s-execute-search">Search</button>
+                <xf:trigger>
+                    <xf:label ref="instance()/options"/>
+                    <xf:setvalue ref="instance()/relevance" value="not(boolean-from-string(.))"/>
+                </xf:trigger>
+                <button data-send="s-obay">Obay</button>
+            </div>
+            <xf:group ref="relevance/@state" class="search-options well row">
+                <div class="sectionTitle span10">Advanced Options</div>
+                <div class="span10 options">
+                    <select1 class="small" data-ref="instance()/startyear" value="1869" label="from" data-itemset="instance('i-years')/codes" data-label="@year" data-value="@year" data-url="/exist/apps/gesetze/data/transformed/codes-by-year.xml#i-years"/>
+                    <select1 class="small" data-ref="instance()/endyear" value="2012" label="to" data-itemset="instance('i-years')/codes" data-label="@year" data-value="@year" data-url="/exist/apps/gesetze/data/transformed/codes-by-year.xml#i-years"/>
+                    <select1 class="medium" data-ref="instance()/order" value="title" label="order by">
+                        <option id="title">Title</option>
+                        <option id="desc">Description</option>
+                        <option id="year">Year</option>
+                    </select1>
+                    <select1 class="small" data-ref="instance()/max" value="10" label="Show Results / Page:">
+                        <option id="10">10</option>
+                        <option id="20">20</option>
+                        <option id="50">50</option>
+                        <option id="100">100</option>
+                        <option id="1000">1000</option>
+                        <option id="9999">9999</option>
+                    </select1>
+                    <input class="small" data-ref="start" value="1" label="current start index for results" style="display:none;"/>
+                </div>
+            </xf:group>
+        </form>
+    </div>
+    <div id="searchResultMount"/>
+</div>

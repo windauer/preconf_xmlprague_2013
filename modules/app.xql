@@ -182,6 +182,7 @@ function app:search($node as node(), $model as map(*), $query as xs:string?, $ca
         ()
 };
 
+
 declare function app:hit-count($node as node(), $model as map(*)) {
     count($model("result"))
 };
@@ -289,6 +290,37 @@ function app:xf-search($node as node(), $model as map(*), $query as xs:string?, 
     else
         ()
 };
+
+
+declare 
+    %templates:wrap
+function app:xf-simple-search($node as node(), $model as map(*), $query as xs:string?, $cached as item()*, $startyear as xs:integer, $endyear as xs:integer) {
+    if ($query or $cached) then
+        let $result := 
+            if ($query) then
+                
+                let $hits := collection($config:data-root)//tei:div[ft:query(., $query)][not(tei:div)]                
+                for $hit in $hits                    
+                    group by $docId := $hit/ancestor::tei:TEI/@xml:id                      
+                    return 
+                        let $year := xs:integer(year-from-date(xs:date($hit/ancestor::tei:TEI/tei:teiHeader//tei:date/text())))
+                        return 
+                            if($year ge $startyear and $year le $endyear) then $hit else ()
+                
+            else
+                $cached
+        let $stored := session:set-attribute("cached", $result)
+        return
+            map {
+                "result" := $result,
+                "query" := $query
+            }
+    else
+        ()
+};
+
+
+
 
 
 declare
