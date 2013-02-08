@@ -115,9 +115,11 @@ aside {
 
 .sectionTitle {
     vertical-align: top;
-    font-size:12pt;
-    font-weight: bold;
-    padding-bottom:8px;
+    font-size:2.4em;    
+    color:#696969;
+}
+aside .entry {
+    padding-top:20px;
 }
 
 footer {
@@ -204,6 +206,13 @@ footer {
     margin: 0 0 0.2em;
     padding: 0 0 1.5em;
 }
+header ul.nav-pills {
+    float:left;
+    position:absolute;
+    margin-top:12px;
+    width:300px
+}
+
 
 .bf a:link, 
 .bf a:visited, 
